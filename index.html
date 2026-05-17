@@ -1,0 +1,519 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover, maximum-scale=1.0, user-scalable=no">
+<meta name="theme-color" content="#000000">
+<meta name="color-scheme" content="dark">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<title>이은재서점</title>
+<style>
+  :root {
+    --bg: #000000;
+    --card: #1C1C1E;
+    --card-elevated: #2C2C2E;
+    --card-press: #3A3A3C;
+    --fg: #FFFFFF;
+    --fg2: rgba(235, 235, 245, 0.88);
+    --muted: rgba(235, 235, 245, 0.6);
+    --muted2: rgba(235, 235, 245, 0.3);
+    --separator: rgba(84, 84, 88, 0.55);
+    --accent: #0A84FF;
+    --fresh: #30D158;
+    --fav: #FF9F0A;
+    --chip-bg: rgba(118, 118, 128, 0.24);
+    --search-bg: rgba(118, 118, 128, 0.22);
+    --search-bg-focus: rgba(118, 118, 128, 0.36);
+
+    --safe-top: env(safe-area-inset-top, 0px);
+    --safe-bot: env(safe-area-inset-bottom, 0px);
+    --safe-l: env(safe-area-inset-left, 0px);
+    --safe-r: env(safe-area-inset-right, 0px);
+  }
+  * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+  html { -webkit-text-size-adjust: 100%; }
+  body { margin: 0; padding: 0; background: var(--bg); color: var(--fg);
+    font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Pretendard Variable", "Pretendard",
+      "Apple SD Gothic Neo", system-ui, sans-serif;
+    -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;
+    font-feature-settings: "ss01", "tnum";
+    overscroll-behavior-y: none;
+    padding-top: var(--safe-top);
+    padding-left: var(--safe-l);
+    padding-right: var(--safe-r);
+  }
+  a { color: inherit; text-decoration: none; }
+
+  .pad { padding-left: 20px; padding-right: 20px; }
+
+  /* 라지 타이틀 (iOS 32px) */
+  .hero { padding: 24px 20px 4px; }
+  .hero h1 { font-size: 32px; font-weight: 700; letter-spacing: -0.7px;
+    margin: 0; line-height: 1.12; }
+  .hero p { font-size: 14px; color: var(--muted); margin: 6px 0 0;
+    letter-spacing: -0.2px; line-height: 1.4; }
+
+  /* 세그먼티드 컨트롤 — 모바일 풀폭 */
+  .seg-wrap { padding: 16px 20px 0; }
+  .segmented { display: flex; background: var(--chip-bg); border-radius: 11px;
+    padding: 2px; gap: 0; width: 100%; }
+  .segmented .seg { flex: 1; padding: 10px 0; font-size: 14.5px; font-weight: 600;
+    color: var(--fg); border-radius: 9px; cursor: pointer; user-select: none;
+    text-align: center; letter-spacing: -0.3px;
+    transition: background 0.18s, transform 0.1s; }
+  .segmented .seg:active { transform: scale(0.97); }
+  .segmented .seg.active { background: rgba(118, 118, 128, 0.6);
+    box-shadow: 0 1px 2px rgba(0,0,0,0.5); }
+
+  /* 통계 카드 — 모바일 풀폭 */
+  .stat { background: var(--card); border-radius: 18px;
+    padding: 20px 20px 18px; margin: 16px 20px 0; }
+  .stat .label { font-size: 13.5px; color: var(--muted); font-weight: 500;
+    letter-spacing: -0.1px; }
+  .stat .num-row { display: flex; align-items: baseline; gap: 5px; margin-top: 4px;
+    flex-wrap: wrap; }
+  .stat .num { font-size: 48px; font-weight: 700; letter-spacing: -1.8px;
+    color: var(--fresh); line-height: 1; font-variant-numeric: tabular-nums; }
+  .stat .num.zero { color: var(--fg); }
+  .stat .unit { font-size: 22px; font-weight: 600; color: var(--fresh);
+    letter-spacing: -0.5px; }
+  .stat .num.zero + .unit { color: var(--fg); }
+  .stat .sub { display: flex; gap: 12px; margin-top: 14px; padding-top: 14px;
+    border-top: 0.5px solid var(--separator);
+    font-size: 13px; color: var(--muted); flex-wrap: wrap; align-items: center; }
+  .stat .sub strong { color: var(--fg); font-weight: 600; }
+  .stat .sub .ts { margin-left: auto; font-size: 12px; }
+
+  /* 검색바 */
+  .search-wrap { position: relative; margin: 14px 20px 0; }
+  .search-wrap input { width: 100%; padding: 11px 14px 11px 38px; font-size: 16px;
+    border: none; background: var(--search-bg); border-radius: 10px;
+    color: var(--fg); outline: none; letter-spacing: -0.2px;
+    font-family: inherit; height: 44px; }
+  .search-wrap input::placeholder { color: var(--muted); }
+  .search-wrap input:focus { background: var(--search-bg-focus); }
+  .search-wrap .icon { position: absolute; left: 12px; top: 50%;
+    transform: translateY(-50%); color: var(--muted); font-size: 15px;
+    pointer-events: none; }
+
+  /* 필터 칩 가로스크롤 — 모바일 핵심 */
+  .chip-row { display: flex; gap: 8px; padding: 14px 20px 2px;
+    overflow-x: auto; scrollbar-width: none; -webkit-overflow-scrolling: touch;
+    scroll-padding-left: 20px; }
+  .chip-row::-webkit-scrollbar { display: none; }
+  .chip-row::after { content: ''; flex: 0 0 4px; }
+  .chip { display: inline-flex; align-items: center; gap: 4px;
+    padding: 9px 16px; font-size: 14px; font-weight: 500;
+    color: var(--fg2); background: var(--card); border-radius: 999px;
+    cursor: pointer; white-space: nowrap; user-select: none;
+    letter-spacing: -0.2px; border: 0.5px solid var(--separator);
+    transition: all 0.12s; min-height: 36px; }
+  .chip:active { transform: scale(0.95); background: var(--card-press); }
+  .chip.active { background: var(--fg); color: #000; border-color: var(--fg); font-weight: 600; }
+  .chip.fav-chip.active { background: var(--fav); border-color: var(--fav); color: #000; }
+
+  /* 섹션 헤더 */
+  .sec-title { display: flex; align-items: baseline; justify-content: space-between;
+    margin: 22px 20px 10px; }
+  .sec-title h2 { font-size: 22px; font-weight: 700; letter-spacing: -0.5px;
+    margin: 0; }
+  .sec-title .cnt { font-size: 13px; color: var(--muted);
+    font-variant-numeric: tabular-nums; }
+
+  /* insetGrouped 서점 리스트 */
+  .stores-wrap { margin: 0 20px; }
+  .list-card { background: var(--card); border-radius: 14px; overflow: hidden;
+    margin-bottom: 12px; }
+  .list-section + .list-section { margin-top: 2px; }
+  .section-label { font-size: 12px; font-weight: 600; color: var(--muted);
+    letter-spacing: -0.1px; padding: 12px 16px 6px;
+    display: flex; align-items: center; justify-content: space-between; }
+  .section-label .freq { font-size: 11px; font-weight: 500; color: var(--muted);
+    background: var(--chip-bg); padding: 3px 8px; border-radius: 999px; }
+  .row { display: flex; align-items: center; justify-content: space-between;
+    gap: 12px; padding: 13px 16px; min-height: 48px;
+    border-top: 0.5px solid var(--separator); }
+  .row:first-child { border-top: none; }
+  .row:active { background: var(--card-press); }
+  .row .left { display: flex; flex-direction: column; gap: 2px; min-width: 0; flex: 1; }
+  .row .name { font-weight: 500; font-size: 15px; letter-spacing: -0.2px;
+    overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .row .sub { font-size: 12.5px; color: var(--muted); letter-spacing: -0.1px; }
+  .row .right { font-size: 14.5px; color: var(--muted); font-weight: 500;
+    font-variant-numeric: tabular-nums; white-space: nowrap; }
+  .row .right.has { color: var(--accent); font-weight: 600; }
+  .row .right.zero { color: var(--muted2); }
+
+  .toggle-row { display: flex; align-items: center; justify-content: space-between;
+    padding: 0 20px 6px; }
+  .small-link { font-size: 14.5px; color: var(--accent); cursor: pointer;
+    font-weight: 500; letter-spacing: -0.2px; user-select: none;
+    padding: 8px 4px; margin-right: -4px; }
+  .small-link:active { opacity: 0.5; }
+
+  /* 그리드 — 모바일은 2열 */
+  .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 14px;
+    padding: 12px 20px calc(80px + var(--safe-bot)); }
+  @media (min-width: 480px) {
+    .grid { grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 16px; }
+  }
+  .card { background: var(--card); border-radius: 14px; overflow: hidden;
+    display: flex; flex-direction: column; position: relative;
+    transition: transform 0.16s ease, background 0.16s; cursor: pointer; }
+  .card:active { transform: scale(0.97); }
+  .card.fav { box-shadow: 0 0 0 2px var(--fav) inset; }
+  .cover { aspect-ratio: 2/3; background: var(--card-elevated);
+    position: relative; overflow: hidden; }
+  .cover img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .cover .placeholder { position: absolute; inset: 0; display: flex;
+    align-items: center; justify-content: center; padding: 14px;
+    text-align: center; font-size: 14px; font-weight: 600;
+    color: rgba(235,235,245,0.55); line-height: 1.35; word-break: keep-all;
+    background: linear-gradient(135deg, #2C2C2E 0%, #1C1C1E 100%); }
+  /* 신선 배지 */
+  .freshness { position: absolute; top: 8px; right: 8px;
+    background: var(--fresh); color: #000;
+    font-size: 11px; padding: 3px 8px; border-radius: 999px; font-weight: 700;
+    letter-spacing: 0.1px; box-shadow: 0 1px 3px rgba(0,0,0,0.3); }
+  .freshness.recent { background: rgba(48, 209, 88, 0.72); }
+  .freshness.older { background: rgba(142, 142, 147, 0.5); color: #fff; }
+  .fav-badge { position: absolute; top: 8px; left: 8px; background: var(--fav);
+    color: #000; font-size: 11px; padding: 2px 8px; border-radius: 999px;
+    font-weight: 700; box-shadow: 0 1px 3px rgba(0,0,0,0.3); }
+  .meta { padding: 10px 11px 13px; flex: 1; display: flex; flex-direction: column; gap: 3px; }
+  .meta .title { font-size: 14px; font-weight: 600; line-height: 1.3;
+    letter-spacing: -0.2px;
+    display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+  .meta .who { font-size: 12.5px; color: var(--muted); letter-spacing: -0.1px;
+    overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .meta .src { margin-top: auto; padding-top: 8px; font-size: 11.5px;
+    color: var(--muted); display: flex; flex-wrap: wrap; gap: 4px; letter-spacing: -0.1px; }
+  .meta .src a { color: var(--accent); font-weight: 600; padding: 2px 0; }
+  .meta .src a:active { opacity: 0.5; }
+  .src .sep { color: var(--muted2); }
+
+  .empty { padding: 80px 24px; text-align: center; color: var(--muted);
+    font-size: 15px; line-height: 1.6; }
+  .empty .icon { font-size: 44px; margin-bottom: 12px; opacity: 0.4; }
+
+  .footer-note { text-align: center; color: var(--muted2); font-size: 12px;
+    padding: 24px 24px calc(40px + var(--safe-bot)); line-height: 1.7; }
+</style>
+</head>
+<body>
+
+<div class="hero">
+  <h1>이은재서점</h1>
+  <p>트렌드한 책을 빠르게, 한 페이지에서</p>
+</div>
+
+<div class="seg-wrap">
+  <div class="segmented" role="tablist">
+    <div class="seg active" data-tab="manga">🎬 만화</div>
+    <div class="seg" data-tab="indie">📚 독립서점</div>
+  </div>
+</div>
+
+<div class="stat">
+  <div class="label" id="stat-label">오늘 새로 발견</div>
+  <div class="num-row">
+    <span class="num" id="stat-num">—</span>
+    <span class="unit">권</span>
+  </div>
+  <div class="sub">
+    <span><strong id="stat-week">—</strong> 최근 1주</span>
+    <span><strong id="stat-total">—</strong> 누계</span>
+    <span class="ts" id="stat-ts">—</span>
+  </div>
+</div>
+
+<div class="search-wrap">
+  <span class="icon">🔍</span>
+  <input type="search" id="q" placeholder="제목, 저자, 출판사, 서점 검색"
+    autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false">
+</div>
+
+<div class="chip-row">
+  <span class="chip fav-chip" data-filter="fav">⭐ 좋아하는 것</span>
+  <span class="chip" data-window="today">오늘</span>
+  <span class="chip" data-window="3">3일</span>
+  <span class="chip active" data-window="7">1주</span>
+  <span class="chip" data-window="14">2주</span>
+  <span class="chip" data-window="all">전체</span>
+</div>
+
+<!-- 독립서점 — 수집 중인 서점 -->
+<div id="stores-panel" style="display:none;">
+  <div class="sec-title" style="margin-bottom: 6px;">
+    <h2>수집 중인 서점</h2>
+    <span class="small-link" id="stores-toggle">접기</span>
+  </div>
+  <div class="stores-wrap" id="stores-body">
+    <div class="list-section">
+      <div class="section-label">
+        <span>자동 수집</span>
+        <span class="freq">매일 08:00</span>
+      </div>
+      <div class="list-card" id="stores-http"></div>
+    </div>
+    <div class="list-section">
+      <div class="section-label">
+        <span>Instagram 시각 수집</span>
+        <span class="freq">매주 일요일</span>
+      </div>
+      <div class="list-card" id="stores-insta"></div>
+    </div>
+  </div>
+</div>
+
+<div class="sec-title">
+  <h2 id="grid-title">신간</h2>
+  <span class="cnt" id="grid-count"></span>
+</div>
+<div class="grid" id="grid"></div>
+
+<div class="footer-note">
+  매일 08:00 자동 갱신<br>
+  매주 일요일 인스타 시각 수집
+</div>
+
+<script src="data/manga.js"></script>
+<script src="data/indie.js"></script>
+<script>
+  const datasets = {
+    manga: (window.__MANGA_DATA__ || { books: [] }),
+    indie: (window.__INDIE_DATA__ || { books: [] }),
+  };
+  const state = { tab: 'manga', window: 7, favOnly: false, q: '', storesCollapsed: false };
+
+  const $ = (id) => document.getElementById(id);
+  const grid = $('grid'), gridCount = $('grid-count'), gridTitle = $('grid-title');
+  const statLabel = $('stat-label'), statNum = $('stat-num'),
+        statWeek = $('stat-week'), statTotal = $('stat-total'), statTs = $('stat-ts');
+  const storesPanel = $('stores-panel'), storesHttp = $('stores-http'),
+        storesInsta = $('stores-insta'), storesToggle = $('stores-toggle'),
+        storesBody = $('stores-body');
+
+  function todayKST() {
+    const now = new Date();
+    const k = new Date(now.getTime() + (now.getTimezoneOffset() * 60000) + (9 * 3600000));
+    return `${k.getFullYear()}-${String(k.getMonth()+1).padStart(2,'0')}-${String(k.getDate()).padStart(2,'0')}`;
+  }
+  function daysBetween(a, b) {
+    if (!a || !b) return Infinity;
+    return Math.floor((new Date(b + 'T00:00:00') - new Date(a + 'T00:00:00')) / 86400000);
+  }
+  function freshnessBadge(fs) {
+    const d = daysBetween(fs, todayKST());
+    if (d < 0 || d === Infinity) return null;
+    if (d === 0) return { text: '오늘', cls: '' };
+    if (d === 1) return { text: '어제', cls: '' };
+    if (d <= 6) return { text: `${d}일 전`, cls: 'recent' };
+    if (d <= 13) return { text: '1주 전', cls: 'recent' };
+    if (d <= 30) return { text: `${Math.floor(d/7)}주 전`, cls: 'older' };
+    return null;
+  }
+  function countWithin(books, days) {
+    const t = todayKST();
+    return books.filter(b => daysBetween(b.first_seen, t) <= days).length;
+  }
+
+  function renderStat() {
+    const ds = datasets[state.tab];
+    const books = ds.books || [];
+    const today = countWithin(books, 0);
+    const week = countWithin(books, 7);
+    const total = books.length;
+    const label = state.tab === 'manga' ? '만화' : '독립서점';
+    if (today > 0) {
+      statLabel.textContent = `오늘 발견된 ${label} 신간`;
+      statNum.textContent = today; statNum.classList.remove('zero');
+    } else if (week > 0) {
+      statLabel.textContent = `최근 1주 ${label} 신간`;
+      statNum.textContent = week; statNum.classList.remove('zero');
+    } else {
+      statLabel.textContent = `${label} 누계`;
+      statNum.textContent = total; statNum.classList.add('zero');
+    }
+    statWeek.textContent = `${week}권`;
+    statTotal.textContent = `${total}권`;
+    const iso = ds.updated_at;
+    if (iso) {
+      const d = new Date(iso);
+      if (!isNaN(d.getTime())) {
+        const fmt = (n) => String(n).padStart(2,'0');
+        statTs.textContent = `${fmt(d.getMonth()+1)}/${fmt(d.getDate())} ${fmt(d.getHours())}:${fmt(d.getMinutes())} 갱신`;
+      } else statTs.textContent = '';
+    } else statTs.textContent = '';
+  }
+
+  function renderStores() {
+    if (state.tab !== 'indie') { storesPanel.style.display = 'none'; return; }
+    storesPanel.style.display = '';
+    const ds = datasets.indie;
+    const http = ds.monitored_stores_http || [];
+    const insta = ds.monitored_stores_instagram || [];
+
+    storesHttp.innerHTML = '';
+    if (http.length === 0) {
+      storesHttp.innerHTML = '<div class="row"><span class="left"><span class="name">설정된 서점 없음</span></span></div>';
+    } else http.forEach(s => {
+      const row = document.createElement('div'); row.className = 'row';
+      const left = document.createElement('div'); left.className = 'left';
+      const nm = document.createElement('div'); nm.className = 'name'; nm.textContent = s.name; left.appendChild(nm);
+      if (s.section) {
+        const sub = document.createElement('div'); sub.className = 'sub'; sub.textContent = s.section; left.appendChild(sub);
+      }
+      const right = document.createElement('div');
+      right.className = 'right ' + (s.count > 0 ? 'has' : 'zero');
+      right.textContent = s.count > 0 ? `${s.count}권` : '—';
+      if (s.last_seen) right.title = '마지막 수집: ' + s.last_seen;
+      row.appendChild(left); row.appendChild(right);
+      storesHttp.appendChild(row);
+    });
+
+    storesInsta.innerHTML = '';
+    if (insta.length === 0) {
+      storesInsta.innerHTML = '<div class="row"><span class="left"><span class="name">설정된 서점 없음</span></span></div>';
+    } else insta.forEach(s => {
+      const row = document.createElement('div'); row.className = 'row';
+      const left = document.createElement('div'); left.className = 'left';
+      const nm = document.createElement('div'); nm.className = 'name'; nm.textContent = s.name; left.appendChild(nm);
+      if (s.handle) {
+        const sub = document.createElement('div'); sub.className = 'sub'; sub.textContent = '@' + s.handle; left.appendChild(sub);
+      }
+      const right = document.createElement('div');
+      right.className = 'right ' + (s.count > 0 ? 'has' : 'zero');
+      right.textContent = s.count > 0 ? `${s.count}권` : '대기';
+      if (s.last_seen) right.title = '마지막 수집: ' + s.last_seen;
+      row.appendChild(left); row.appendChild(right);
+      storesInsta.appendChild(row);
+    });
+    storesToggle.textContent = state.storesCollapsed ? '펼치기' : '접기';
+    storesBody.style.display = state.storesCollapsed ? 'none' : '';
+  }
+
+  function filterBooks(all) {
+    const q = state.q.trim().toLowerCase();
+    const t = todayKST();
+    return all.filter(b => {
+      if (state.favOnly && !b.is_favorite) return false;
+      if (state.window !== 'all') {
+        const d = daysBetween(b.first_seen, t);
+        if (state.window === 'today') { if (d !== 0) return false; }
+        else if (d > state.window) return false;
+      }
+      if (q) {
+        const hay = [b.title, b.author, b.publisher, b.source, b.source_label]
+          .filter(Boolean).join(' ').toLowerCase();
+        if (!hay.includes(q)) return false;
+      }
+      return true;
+    });
+  }
+
+  function renderGrid() {
+    const ds = datasets[state.tab];
+    const all = ds.books || [];
+    const filtered = filterBooks(all);
+    grid.innerHTML = '';
+    if (filtered.length === 0) {
+      const e = document.createElement('div'); e.className = 'empty';
+      e.innerHTML = '<div class="icon">📭</div>조건에 맞는 책이 없어요<br>신선도 필터를 늘려보세요';
+      grid.appendChild(e);
+    } else filtered.forEach(b => {
+      const card = document.createElement('div');
+      card.className = 'card' + (b.is_favorite ? ' fav' : '');
+      const primaryUrl = b.aladin_link || b.yes24_link || b.shop_link;
+      if (primaryUrl) card.onclick = () => window.open(primaryUrl, '_blank', 'noopener');
+
+      const cover = document.createElement('div'); cover.className = 'cover';
+      if (b.cover) {
+        const img = document.createElement('img');
+        img.loading = 'lazy';
+        img.decoding = 'async';
+        img.referrerPolicy = 'no-referrer';
+        img.src = b.cover;
+        img.alt = b.title || '';
+        img.onerror = function() {
+          this.remove();
+          const ph = document.createElement('div'); ph.className = 'placeholder'; ph.textContent = b.title || '';
+          cover.appendChild(ph);
+        };
+        cover.appendChild(img);
+      } else {
+        const ph = document.createElement('div'); ph.className = 'placeholder'; ph.textContent = b.title || '';
+        cover.appendChild(ph);
+      }
+      const fb = freshnessBadge(b.first_seen);
+      if (fb) {
+        const badge = document.createElement('div'); badge.className = 'freshness ' + fb.cls; badge.textContent = fb.text;
+        cover.appendChild(badge);
+      }
+      if (b.is_favorite) {
+        const fav = document.createElement('div'); fav.className = 'fav-badge'; fav.textContent = '⭐';
+        cover.appendChild(fav);
+      }
+      card.appendChild(cover);
+
+      const meta = document.createElement('div'); meta.className = 'meta';
+      const tt = document.createElement('div'); tt.className = 'title'; tt.textContent = b.title || ''; meta.appendChild(tt);
+      const who = document.createElement('div'); who.className = 'who';
+      who.textContent = [b.author, b.publisher].filter(Boolean).join(' · '); meta.appendChild(who);
+      const src = document.createElement('div'); src.className = 'src';
+      const label = document.createElement('span'); label.textContent = b.source_label || b.source || ''; src.appendChild(label);
+      const links = [];
+      if (b.aladin_link) links.push(['알라딘', b.aladin_link]);
+      if (b.yes24_link) links.push(['예스24', b.yes24_link]);
+      if (b.shop_link && !b.aladin_link && !b.yes24_link) links.push(['서점', b.shop_link]);
+      links.forEach(pair => {
+        const sep = document.createElement('span'); sep.className = 'sep'; sep.textContent = ' · '; src.appendChild(sep);
+        const a = document.createElement('a'); a.href = pair[1]; a.target = '_blank'; a.rel = 'noopener';
+        a.textContent = pair[0]; a.onclick = (e) => e.stopPropagation(); src.appendChild(a);
+      });
+      meta.appendChild(src);
+      card.appendChild(meta);
+      grid.appendChild(card);
+    });
+    gridCount.textContent = `${filtered.length}/${all.length}권`;
+    gridTitle.textContent = state.tab === 'manga' ? '만화 신간' : '독립서점 신간';
+  }
+
+  function render() { renderStat(); renderStores(); renderGrid(); }
+
+  document.querySelectorAll('.seg').forEach(el => {
+    el.addEventListener('click', () => {
+      document.querySelectorAll('.seg').forEach(e => e.classList.remove('active'));
+      el.classList.add('active');
+      state.tab = el.dataset.tab;
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+      render();
+    });
+  });
+  document.querySelectorAll('.chip[data-filter="fav"]').forEach(el => {
+    el.addEventListener('click', () => {
+      state.favOnly = !state.favOnly;
+      el.classList.toggle('active', state.favOnly);
+      renderGrid();
+    });
+  });
+  document.querySelectorAll('.chip[data-window]').forEach(el => {
+    el.addEventListener('click', () => {
+      document.querySelectorAll('.chip[data-window]').forEach(e => e.classList.remove('active'));
+      el.classList.add('active');
+      const v = el.dataset.window;
+      state.window = (v === 'today' || v === 'all') ? v : parseInt(v, 10);
+      renderGrid();
+    });
+  });
+  $('q').addEventListener('input', e => { state.q = e.target.value; renderGrid(); });
+  storesToggle.addEventListener('click', () => {
+    state.storesCollapsed = !state.storesCollapsed;
+    renderStores();
+  });
+
+  render();
+</script>
+</body>
+</html>
