@@ -22,6 +22,7 @@
     --accent: #0A84FF;
     --fresh: #30D158;
     --fav: #FF9F0A;
+    --shelf: #BF5AF2;
     --chip-bg: rgba(118, 118, 128, 0.24);
     --search-bg: rgba(118, 118, 128, 0.22);
     --search-bg-focus: rgba(118, 118, 128, 0.36);
@@ -181,6 +182,14 @@
   .fav-badge { position: absolute; top: 8px; left: 8px; background: var(--fav);
     color: #000; font-size: 11px; padding: 2px 8px; border-radius: 999px;
     font-weight: 700; box-shadow: 0 1px 3px rgba(0,0,0,0.3); }
+  /* 📚 내 책장 매칭 카드: 좌상단 보라 배지 + 카드 외곽 보라 ring */
+  .shelf-badge { position: absolute; top: 8px; left: 8px; background: var(--shelf);
+    color: #fff; font-size: 10.5px; padding: 3px 8px; border-radius: 999px;
+    font-weight: 700; box-shadow: 0 1px 3px rgba(0,0,0,0.3); max-width: calc(100% - 80px);
+    overflow: hidden; text-overflow: ellipsis; white-space: nowrap; letter-spacing: -0.1px; }
+  .card.shelf { box-shadow: 0 0 0 2px var(--shelf) inset; }
+  .card.shelf.fav { box-shadow: 0 0 0 2px var(--shelf) inset, 0 0 0 4px var(--fav) inset; }
+  .chip.shelf-chip.active { background: var(--shelf); border-color: var(--shelf); color: #fff; }
   .meta { padding: 10px 11px 13px; flex: 1; display: flex; flex-direction: column; gap: 3px; }
   .meta .title { font-size: 14px; font-weight: 600; line-height: 1.3;
     letter-spacing: -0.2px;
@@ -235,6 +244,7 @@
 </div>
 
 <div class="chip-row">
+  <span class="chip shelf-chip" data-filter="shelf">📚 내 책장</span>
   <span class="chip fav-chip" data-filter="fav">⭐ 좋아하는 것</span>
   <span class="chip" data-window="today">오늘</span>
   <span class="chip" data-window="3">3일</span>
@@ -285,7 +295,7 @@
     manga: (window.__MANGA_DATA__ || { books: [] }),
     indie: (window.__INDIE_DATA__ || { books: [] }),
   };
-  const state = { tab: 'manga', window: 7, favOnly: false, q: '', storesCollapsed: false };
+  const state = { tab: 'manga', window: 7, favOnly: false, shelfOnly: false, q: '', storesCollapsed: false };
 
   const $ = (id) => document.getElementById(id);
   const grid = $('grid'), gridCount = $('grid-count'), gridTitle = $('grid-title');
@@ -398,6 +408,7 @@
     const q = state.q.trim().toLowerCase();
     const t = todayKST();
     return all.filter(b => {
+      if (state.shelfOnly && !b.has_shelf_match) return false;
       if (state.favOnly && !b.is_favorite) return false;
       if (state.window !== 'all') {
         const d = daysBetween(b.first_seen, t);
@@ -424,7 +435,10 @@
       grid.appendChild(e);
     } else filtered.forEach(b => {
       const card = document.createElement('div');
-      card.className = 'card' + (b.is_favorite ? ' fav' : '');
+      let cls = 'card';
+      if (b.has_shelf_match) cls += ' shelf';
+      if (b.is_favorite) cls += ' fav';
+      card.className = cls;
       const primaryUrl = b.aladin_link || b.yes24_link || b.shop_link;
       if (primaryUrl) card.onclick = () => window.open(primaryUrl, '_blank', 'noopener');
 
@@ -454,6 +468,17 @@
       if (b.is_favorite) {
         const fav = document.createElement('div'); fav.className = 'fav-badge'; fav.textContent = '⭐';
         cover.appendChild(fav);
+      }
+      if (b.has_shelf_match && (b.shelf_match || []).length) {
+        const tag = b.shelf_match[0]; // 첫 매칭만 카드 위 노출 (전체는 hover 툴팁)
+        const sb = document.createElement('div'); sb.className = 'shelf-badge';
+        const compact = tag.startsWith('시리즈:') ? '🆕 ' + tag.slice(4)
+                       : tag.startsWith('잡지:') ? '🆕 ' + tag.slice(3)
+                       : tag.startsWith('작가:') ? '💜 ' + tag.slice(3)
+                       : '📚 ' + tag;
+        sb.textContent = compact;
+        sb.title = b.shelf_match.join(' · ');
+        cover.appendChild(sb);
       }
       card.appendChild(cover);
 
@@ -495,6 +520,13 @@
     el.addEventListener('click', () => {
       state.favOnly = !state.favOnly;
       el.classList.toggle('active', state.favOnly);
+      renderGrid();
+    });
+  });
+  document.querySelectorAll('.chip[data-filter="shelf"]').forEach(el => {
+    el.addEventListener('click', () => {
+      state.shelfOnly = !state.shelfOnly;
+      el.classList.toggle('active', state.shelfOnly);
       renderGrid();
     });
   });

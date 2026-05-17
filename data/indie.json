@@ -1,26 +1,8 @@
 {
-  "updated_at": "2026-05-17T12:20:34.799595+09:00",
+  "updated_at": "2026-05-17T14:53:13.626696+09:00",
   "today": "2026-05-17",
   "total": 124,
   "books": [
-    {
-      "title": "싱크로나이즈드 바다 아네모네",
-      "author": "김혜순",
-      "publisher": "난다",
-      "pub_date": "",
-      "cover": "https://image.aladin.co.kr/product/37137/43/cover200/K092031372_1.jpg",
-      "source": "땡스북스",
-      "source_label": "땡스북스 · 금주의 책",
-      "shop_link": "http://thanksbooks.com/site/thanksbooks/index.php/weekly/synchronizedseaanemone/",
-      "aladin_link": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=371374318",
-      "yes24_link": "",
-      "is_resolved": true,
-      "resolved_from": "aladin",
-      "first_seen": "2026-05-17",
-      "last_seen": "2026-05-17",
-      "favorite_match": [],
-      "is_favorite": false
-    },
     {
       "title": "왜 나의 다정함이 당신을 상처 입힐까",
       "author": "지카우치 유타",
@@ -37,61 +19,11 @@
       "first_seen": "2026-05-17",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
-    },
-    {
-      "title": "이런 건 왜 또 기막히게 생각나서",
-      "author": "배순탁",
-      "publisher": "어라운드",
-      "pub_date": "",
-      "cover": "https://image.aladin.co.kr/product/38901/23/cover200/K982137607_1.jpg",
-      "source": "땡스북스",
-      "source_label": "땡스북스 · 금주의 책",
-      "shop_link": "http://thanksbooks.com/site/thanksbooks/index.php/weekly/baesoontak/",
-      "aladin_link": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=389012363",
-      "yes24_link": "",
-      "is_resolved": true,
-      "resolved_from": "aladin",
-      "first_seen": "2026-05-17",
-      "last_seen": "2026-05-17",
-      "favorite_match": [],
-      "is_favorite": false
-    },
-    {
-      "title": "고상하고 천박하게",
-      "author": "김사월",
-      "publisher": "열린책들",
-      "pub_date": "",
-      "cover": "https://image.aladin.co.kr/product/35767/41/cover200/8932924953_1.jpg",
-      "source": "땡스북스",
-      "source_label": "땡스북스 · 금주의 책",
-      "shop_link": "http://thanksbooks.com/site/thanksbooks/index.php/weekly/inanelegantandvulgarmanner/",
-      "aladin_link": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=357674168",
-      "yes24_link": "",
-      "is_resolved": true,
-      "resolved_from": "aladin",
-      "first_seen": "2026-05-17",
-      "last_seen": "2026-05-17",
-      "favorite_match": [],
-      "is_favorite": false
-    },
-    {
-      "title": "초록 수첩",
-      "author": "필리프 자코테",
-      "publisher": "난다",
-      "pub_date": "",
-      "cover": "https://image.aladin.co.kr/product/36599/18/cover200/K432030767_1.jpg",
-      "source": "땡스북스",
-      "source_label": "땡스북스 · 금주의 책",
-      "shop_link": "http://thanksbooks.com/site/thanksbooks/index.php/weekly/cahierdeverdure/",
-      "aladin_link": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=365991861",
-      "yes24_link": "",
-      "is_resolved": true,
-      "resolved_from": "aladin",
-      "first_seen": "2026-05-17",
-      "last_seen": "2026-05-17",
-      "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [
+        "작가:지카우치 유타"
+      ],
+      "has_shelf_match": true
     },
     {
       "title": "모든 요일의 여행",
@@ -109,43 +41,11 @@
       "first_seen": "2026-05-17",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
-    },
-    {
-      "title": "멋진 실리콘 세계",
-      "author": "단요",
-      "publisher": "문학동네",
-      "pub_date": "",
-      "cover": "https://image.aladin.co.kr/product/37553/76/cover200/K852032324_1.jpg",
-      "source": "땡스북스",
-      "source_label": "땡스북스 · 금주의 책",
-      "shop_link": "http://thanksbooks.com/site/thanksbooks/index.php/weekly/wonderfulsiliconworld/",
-      "aladin_link": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=375537666",
-      "yes24_link": "",
-      "is_resolved": true,
-      "resolved_from": "aladin",
-      "first_seen": "2026-05-17",
-      "last_seen": "2026-05-17",
-      "favorite_match": [],
-      "is_favorite": false
-    },
-    {
-      "title": "보이저",
-      "author": "노나 페르난데스",
-      "publisher": "가망서사",
-      "pub_date": "",
-      "cover": "https://image.aladin.co.kr/product/36894/68/cover200/K242030914_1.jpg",
-      "source": "땡스북스",
-      "source_label": "땡스북스 · 금주의 책",
-      "shop_link": "http://thanksbooks.com/site/thanksbooks/index.php/weekly/voyager/",
-      "aladin_link": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=368946885",
-      "yes24_link": "",
-      "is_resolved": true,
-      "resolved_from": "aladin",
-      "first_seen": "2026-05-17",
-      "last_seen": "2026-05-17",
-      "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [
+        "작가:김민철"
+      ],
+      "has_shelf_match": true
     },
     {
       "title": "국수의 맛",
@@ -163,25 +63,11 @@
       "first_seen": "2026-05-17",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
-    },
-    {
-      "title": "고통을 말하지 않는 법",
-      "author": "마리아 투마킨",
-      "publisher": "을유문화사",
-      "pub_date": "",
-      "cover": "https://image.aladin.co.kr/product/32988/87/cover200/8932461406_1.jpg",
-      "source": "땡스북스",
-      "source_label": "땡스북스 · 금주의 책",
-      "shop_link": "http://thanksbooks.com/site/thanksbooks/index.php/weekly/hownottotalkaboutpain/",
-      "aladin_link": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=329888727",
-      "yes24_link": "",
-      "is_resolved": true,
-      "resolved_from": "aladin",
-      "first_seen": "2026-05-17",
-      "last_seen": "2026-05-17",
-      "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [
+        "작가:조영권"
+      ],
+      "has_shelf_match": true
     },
     {
       "title": "책을 덮고 삶을 열다",
@@ -199,79 +85,11 @@
       "first_seen": "2026-05-17",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
-    },
-    {
-      "title": "집에 다 와서야 떠오르는 대답",
-      "author": "임소라",
-      "publisher": "하우위아(HOW WE ARE)",
-      "pub_date": "",
-      "cover": "https://image.aladin.co.kr/product/37876/55/cover200/K322033806_1.jpg",
-      "source": "땡스북스",
-      "source_label": "땡스북스 · 금주의 책",
-      "shop_link": "http://thanksbooks.com/site/thanksbooks/index.php/weekly/imsora/",
-      "aladin_link": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=378765566",
-      "yes24_link": "",
-      "is_resolved": true,
-      "resolved_from": "aladin",
-      "first_seen": "2026-05-17",
-      "last_seen": "2026-05-17",
-      "favorite_match": [],
-      "is_favorite": false
-    },
-    {
-      "title": "흰 고래의 흼에 대하여",
-      "author": "홍한별",
-      "publisher": "위고",
-      "pub_date": "",
-      "cover": "https://image.aladin.co.kr/product/35833/49/cover200/K802037766_1.jpg",
-      "source": "땡스북스",
-      "source_label": "땡스북스 · 금주의 책",
-      "shop_link": "http://thanksbooks.com/site/thanksbooks/index.php/weekly/whitenessofthewhitewhale/",
-      "aladin_link": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=358334909",
-      "yes24_link": "",
-      "is_resolved": true,
-      "resolved_from": "aladin",
-      "first_seen": "2026-05-17",
-      "last_seen": "2026-05-17",
-      "favorite_match": [],
-      "is_favorite": false
-    },
-    {
-      "title": "전사들의 노래",
-      "author": "홍은전",
-      "publisher": "오월의봄",
-      "pub_date": "",
-      "cover": "https://image.aladin.co.kr/product/31489/54/cover200/K822832230_1.jpg",
-      "source": "땡스북스",
-      "source_label": "땡스북스 · 금주의 책",
-      "shop_link": "http://thanksbooks.com/site/thanksbooks/index.php/weekly/songofthewarriors/",
-      "aladin_link": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=314895481",
-      "yes24_link": "",
-      "is_resolved": true,
-      "resolved_from": "aladin",
-      "first_seen": "2026-05-17",
-      "last_seen": "2026-05-17",
-      "favorite_match": [],
-      "is_favorite": false
-    },
-    {
-      "title": "뜻밖의 우정",
-      "author": "김달님",
-      "publisher": "수오서재",
-      "pub_date": "",
-      "cover": "https://image.aladin.co.kr/product/37173/15/cover200/K972031671_1.jpg",
-      "source": "땡스북스",
-      "source_label": "땡스북스 · 금주의 책",
-      "shop_link": "http://thanksbooks.com/site/thanksbooks/index.php/weekly/unexpectedfriendship/",
-      "aladin_link": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=371731527",
-      "yes24_link": "",
-      "is_resolved": true,
-      "resolved_from": "aladin",
-      "first_seen": "2026-05-17",
-      "last_seen": "2026-05-17",
-      "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [
+        "작가:정혜윤"
+      ],
+      "has_shelf_match": true
     },
     {
       "title": "책의 계절",
@@ -289,61 +107,11 @@
       "first_seen": "2026-05-17",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
-    },
-    {
-      "title": "작은 목소리, 빛나는 책장",
-      "author": "쓰지야마 요시오",
-      "publisher": "돌베개",
-      "pub_date": "",
-      "cover": "https://image.aladin.co.kr/product/30828/64/cover200/K242831176_1.jpg",
-      "source": "땡스북스",
-      "source_label": "땡스북스 · 금주의 책",
-      "shop_link": "http://thanksbooks.com/site/thanksbooks/index.php/weekly/titlebookstore/",
-      "aladin_link": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=308286463",
-      "yes24_link": "",
-      "is_resolved": true,
-      "resolved_from": "aladin",
-      "first_seen": "2026-05-17",
-      "last_seen": "2026-05-17",
-      "favorite_match": [],
-      "is_favorite": false
-    },
-    {
-      "title": "종이 묵주",
-      "author": "박문영",
-      "publisher": "위고",
-      "pub_date": "",
-      "cover": "https://image.aladin.co.kr/product/36573/68/cover200/K852039344_1.jpg",
-      "source": "땡스북스",
-      "source_label": "땡스북스 · 금주의 책",
-      "shop_link": "http://thanksbooks.com/site/thanksbooks/index.php/weekly/paperrosary/",
-      "aladin_link": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=365736824",
-      "yes24_link": "",
-      "is_resolved": true,
-      "resolved_from": "aladin",
-      "first_seen": "2026-05-17",
-      "last_seen": "2026-05-17",
-      "favorite_match": [],
-      "is_favorite": false
-    },
-    {
-      "title": "버릴 수 없는 티셔츠",
-      "author": "쓰즈키 교이치",
-      "publisher": "안그라픽스",
-      "pub_date": "",
-      "cover": "https://image.aladin.co.kr/product/36660/81/cover200/K042030180_1.jpg",
-      "source": "땡스북스",
-      "source_label": "땡스북스 · 금주의 책",
-      "shop_link": "http://thanksbooks.com/site/thanksbooks/index.php/weekly/tshirt/",
-      "aladin_link": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=366608100",
-      "yes24_link": "",
-      "is_resolved": true,
-      "resolved_from": "aladin",
-      "first_seen": "2026-05-17",
-      "last_seen": "2026-05-17",
-      "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [
+        "작가:정지현"
+      ],
+      "has_shelf_match": true
     },
     {
       "title": "뉴욕 스리프터",
@@ -361,43 +129,11 @@
       "first_seen": "2026-05-17",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
-    },
-    {
-      "title": "아주 오래되었으나 새로운 세계로",
-      "author": "최예슬",
-      "publisher": "어라운드",
-      "pub_date": "",
-      "cover": "https://image.aladin.co.kr/product/36237/4/cover200/K812038710_1.jpg",
-      "source": "땡스북스",
-      "source_label": "땡스북스 · 금주의 책",
-      "shop_link": "http://thanksbooks.com/site/thanksbooks/index.php/weekly/oldbutnewworld/",
-      "aladin_link": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=362370445",
-      "yes24_link": "",
-      "is_resolved": true,
-      "resolved_from": "aladin",
-      "first_seen": "2026-05-17",
-      "last_seen": "2026-05-17",
-      "favorite_match": [],
-      "is_favorite": false
-    },
-    {
-      "title": "여행하는 말들",
-      "author": "다와다 요코",
-      "publisher": "돌베개",
-      "pub_date": "",
-      "cover": "https://image.aladin.co.kr/product/16731/65/cover200/8971999047_1.jpg",
-      "source": "땡스북스",
-      "source_label": "땡스북스 · 금주의 책",
-      "shop_link": "http://thanksbooks.com/site/thanksbooks/index.php/weekly/exophony/",
-      "aladin_link": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=167316548",
-      "yes24_link": "",
-      "is_resolved": true,
-      "resolved_from": "aladin",
-      "first_seen": "2026-05-17",
-      "last_seen": "2026-05-17",
-      "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [
+        "작가:딕 캐럴"
+      ],
+      "has_shelf_match": true
     },
     {
       "title": "카피라이터의 일",
@@ -415,7 +151,331 @@
       "first_seen": "2026-05-17",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [
+        "작가:오하림"
+      ],
+      "has_shelf_match": true
+    },
+    {
+      "title": "싱크로나이즈드 바다 아네모네",
+      "author": "김혜순",
+      "publisher": "난다",
+      "pub_date": "",
+      "cover": "https://image.aladin.co.kr/product/37137/43/cover200/K092031372_1.jpg",
+      "source": "땡스북스",
+      "source_label": "땡스북스 · 금주의 책",
+      "shop_link": "http://thanksbooks.com/site/thanksbooks/index.php/weekly/synchronizedseaanemone/",
+      "aladin_link": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=371374318",
+      "yes24_link": "",
+      "is_resolved": true,
+      "resolved_from": "aladin",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "favorite_match": [],
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
+    },
+    {
+      "title": "이런 건 왜 또 기막히게 생각나서",
+      "author": "배순탁",
+      "publisher": "어라운드",
+      "pub_date": "",
+      "cover": "https://image.aladin.co.kr/product/38901/23/cover200/K982137607_1.jpg",
+      "source": "땡스북스",
+      "source_label": "땡스북스 · 금주의 책",
+      "shop_link": "http://thanksbooks.com/site/thanksbooks/index.php/weekly/baesoontak/",
+      "aladin_link": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=389012363",
+      "yes24_link": "",
+      "is_resolved": true,
+      "resolved_from": "aladin",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "favorite_match": [],
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
+    },
+    {
+      "title": "고상하고 천박하게",
+      "author": "김사월",
+      "publisher": "열린책들",
+      "pub_date": "",
+      "cover": "https://image.aladin.co.kr/product/35767/41/cover200/8932924953_1.jpg",
+      "source": "땡스북스",
+      "source_label": "땡스북스 · 금주의 책",
+      "shop_link": "http://thanksbooks.com/site/thanksbooks/index.php/weekly/inanelegantandvulgarmanner/",
+      "aladin_link": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=357674168",
+      "yes24_link": "",
+      "is_resolved": true,
+      "resolved_from": "aladin",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "favorite_match": [],
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
+    },
+    {
+      "title": "초록 수첩",
+      "author": "필리프 자코테",
+      "publisher": "난다",
+      "pub_date": "",
+      "cover": "https://image.aladin.co.kr/product/36599/18/cover200/K432030767_1.jpg",
+      "source": "땡스북스",
+      "source_label": "땡스북스 · 금주의 책",
+      "shop_link": "http://thanksbooks.com/site/thanksbooks/index.php/weekly/cahierdeverdure/",
+      "aladin_link": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=365991861",
+      "yes24_link": "",
+      "is_resolved": true,
+      "resolved_from": "aladin",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "favorite_match": [],
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
+    },
+    {
+      "title": "멋진 실리콘 세계",
+      "author": "단요",
+      "publisher": "문학동네",
+      "pub_date": "",
+      "cover": "https://image.aladin.co.kr/product/37553/76/cover200/K852032324_1.jpg",
+      "source": "땡스북스",
+      "source_label": "땡스북스 · 금주의 책",
+      "shop_link": "http://thanksbooks.com/site/thanksbooks/index.php/weekly/wonderfulsiliconworld/",
+      "aladin_link": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=375537666",
+      "yes24_link": "",
+      "is_resolved": true,
+      "resolved_from": "aladin",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "favorite_match": [],
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
+    },
+    {
+      "title": "보이저",
+      "author": "노나 페르난데스",
+      "publisher": "가망서사",
+      "pub_date": "",
+      "cover": "https://image.aladin.co.kr/product/36894/68/cover200/K242030914_1.jpg",
+      "source": "땡스북스",
+      "source_label": "땡스북스 · 금주의 책",
+      "shop_link": "http://thanksbooks.com/site/thanksbooks/index.php/weekly/voyager/",
+      "aladin_link": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=368946885",
+      "yes24_link": "",
+      "is_resolved": true,
+      "resolved_from": "aladin",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "favorite_match": [],
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
+    },
+    {
+      "title": "고통을 말하지 않는 법",
+      "author": "마리아 투마킨",
+      "publisher": "을유문화사",
+      "pub_date": "",
+      "cover": "https://image.aladin.co.kr/product/32988/87/cover200/8932461406_1.jpg",
+      "source": "땡스북스",
+      "source_label": "땡스북스 · 금주의 책",
+      "shop_link": "http://thanksbooks.com/site/thanksbooks/index.php/weekly/hownottotalkaboutpain/",
+      "aladin_link": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=329888727",
+      "yes24_link": "",
+      "is_resolved": true,
+      "resolved_from": "aladin",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "favorite_match": [],
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
+    },
+    {
+      "title": "집에 다 와서야 떠오르는 대답",
+      "author": "임소라",
+      "publisher": "하우위아(HOW WE ARE)",
+      "pub_date": "",
+      "cover": "https://image.aladin.co.kr/product/37876/55/cover200/K322033806_1.jpg",
+      "source": "땡스북스",
+      "source_label": "땡스북스 · 금주의 책",
+      "shop_link": "http://thanksbooks.com/site/thanksbooks/index.php/weekly/imsora/",
+      "aladin_link": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=378765566",
+      "yes24_link": "",
+      "is_resolved": true,
+      "resolved_from": "aladin",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "favorite_match": [],
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
+    },
+    {
+      "title": "흰 고래의 흼에 대하여",
+      "author": "홍한별",
+      "publisher": "위고",
+      "pub_date": "",
+      "cover": "https://image.aladin.co.kr/product/35833/49/cover200/K802037766_1.jpg",
+      "source": "땡스북스",
+      "source_label": "땡스북스 · 금주의 책",
+      "shop_link": "http://thanksbooks.com/site/thanksbooks/index.php/weekly/whitenessofthewhitewhale/",
+      "aladin_link": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=358334909",
+      "yes24_link": "",
+      "is_resolved": true,
+      "resolved_from": "aladin",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "favorite_match": [],
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
+    },
+    {
+      "title": "전사들의 노래",
+      "author": "홍은전",
+      "publisher": "오월의봄",
+      "pub_date": "",
+      "cover": "https://image.aladin.co.kr/product/31489/54/cover200/K822832230_1.jpg",
+      "source": "땡스북스",
+      "source_label": "땡스북스 · 금주의 책",
+      "shop_link": "http://thanksbooks.com/site/thanksbooks/index.php/weekly/songofthewarriors/",
+      "aladin_link": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=314895481",
+      "yes24_link": "",
+      "is_resolved": true,
+      "resolved_from": "aladin",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "favorite_match": [],
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
+    },
+    {
+      "title": "뜻밖의 우정",
+      "author": "김달님",
+      "publisher": "수오서재",
+      "pub_date": "",
+      "cover": "https://image.aladin.co.kr/product/37173/15/cover200/K972031671_1.jpg",
+      "source": "땡스북스",
+      "source_label": "땡스북스 · 금주의 책",
+      "shop_link": "http://thanksbooks.com/site/thanksbooks/index.php/weekly/unexpectedfriendship/",
+      "aladin_link": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=371731527",
+      "yes24_link": "",
+      "is_resolved": true,
+      "resolved_from": "aladin",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "favorite_match": [],
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
+    },
+    {
+      "title": "작은 목소리, 빛나는 책장",
+      "author": "쓰지야마 요시오",
+      "publisher": "돌베개",
+      "pub_date": "",
+      "cover": "https://image.aladin.co.kr/product/30828/64/cover200/K242831176_1.jpg",
+      "source": "땡스북스",
+      "source_label": "땡스북스 · 금주의 책",
+      "shop_link": "http://thanksbooks.com/site/thanksbooks/index.php/weekly/titlebookstore/",
+      "aladin_link": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=308286463",
+      "yes24_link": "",
+      "is_resolved": true,
+      "resolved_from": "aladin",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "favorite_match": [],
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
+    },
+    {
+      "title": "종이 묵주",
+      "author": "박문영",
+      "publisher": "위고",
+      "pub_date": "",
+      "cover": "https://image.aladin.co.kr/product/36573/68/cover200/K852039344_1.jpg",
+      "source": "땡스북스",
+      "source_label": "땡스북스 · 금주의 책",
+      "shop_link": "http://thanksbooks.com/site/thanksbooks/index.php/weekly/paperrosary/",
+      "aladin_link": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=365736824",
+      "yes24_link": "",
+      "is_resolved": true,
+      "resolved_from": "aladin",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "favorite_match": [],
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
+    },
+    {
+      "title": "버릴 수 없는 티셔츠",
+      "author": "쓰즈키 교이치",
+      "publisher": "안그라픽스",
+      "pub_date": "",
+      "cover": "https://image.aladin.co.kr/product/36660/81/cover200/K042030180_1.jpg",
+      "source": "땡스북스",
+      "source_label": "땡스북스 · 금주의 책",
+      "shop_link": "http://thanksbooks.com/site/thanksbooks/index.php/weekly/tshirt/",
+      "aladin_link": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=366608100",
+      "yes24_link": "",
+      "is_resolved": true,
+      "resolved_from": "aladin",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "favorite_match": [],
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
+    },
+    {
+      "title": "아주 오래되었으나 새로운 세계로",
+      "author": "최예슬",
+      "publisher": "어라운드",
+      "pub_date": "",
+      "cover": "https://image.aladin.co.kr/product/36237/4/cover200/K812038710_1.jpg",
+      "source": "땡스북스",
+      "source_label": "땡스북스 · 금주의 책",
+      "shop_link": "http://thanksbooks.com/site/thanksbooks/index.php/weekly/oldbutnewworld/",
+      "aladin_link": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=362370445",
+      "yes24_link": "",
+      "is_resolved": true,
+      "resolved_from": "aladin",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "favorite_match": [],
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
+    },
+    {
+      "title": "여행하는 말들",
+      "author": "다와다 요코",
+      "publisher": "돌베개",
+      "pub_date": "",
+      "cover": "https://image.aladin.co.kr/product/16731/65/cover200/8971999047_1.jpg",
+      "source": "땡스북스",
+      "source_label": "땡스북스 · 금주의 책",
+      "shop_link": "http://thanksbooks.com/site/thanksbooks/index.php/weekly/exophony/",
+      "aladin_link": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=167316548",
+      "yes24_link": "",
+      "is_resolved": true,
+      "resolved_from": "aladin",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "favorite_match": [],
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "말 더더더듬는 사람",
@@ -433,7 +493,9 @@
       "first_seen": "2026-05-17",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "작은 미덕들",
@@ -451,7 +513,9 @@
       "first_seen": "2026-05-17",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "브로드컬리 6호 - 서울을 떠난 3년 이하 이주민의 가게들",
@@ -469,7 +533,9 @@
       "first_seen": "2026-05-17",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "봄밤의 모든 것",
@@ -487,7 +553,9 @@
       "first_seen": "2026-05-17",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "이슬의 소리를 들어라",
@@ -505,7 +573,9 @@
       "first_seen": "2026-05-17",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "뭐든 쓴다",
@@ -523,7 +593,9 @@
       "first_seen": "2026-05-17",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "영원에 빚을 져서",
@@ -541,7 +613,9 @@
       "first_seen": "2026-05-17",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "리타의 산책 · 안리타",
@@ -558,7 +632,9 @@
       "first_seen": "2026-05-17",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "리타의 정원 · 안리타",
@@ -575,7 +651,9 @@
       "first_seen": "2026-05-17",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "창을 여는 마음 · 안리타",
@@ -592,7 +670,9 @@
       "first_seen": "2026-05-17",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "하늘로 간 아들에게0",
@@ -609,7 +689,9 @@
       "first_seen": "2026-05-17",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "마음으로 드리는 제사0",
@@ -626,7 +708,9 @@
       "first_seen": "2026-05-17",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "헤어진 연인과의 마지막 대화0",
@@ -643,7 +727,9 @@
       "first_seen": "2026-05-17",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "소심함을 숨긴 웃음 어리숙함을 감춘 눈빛 수줍음을 삼킨 몸짓0",
@@ -660,7 +746,9 @@
       "first_seen": "2026-05-17",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "수평선행 바다열차0",
@@ -677,7 +765,9 @@
       "first_seen": "2026-05-17",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "우린 모두 외계인이야0",
@@ -694,7 +784,9 @@
       "first_seen": "2026-05-17",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "다정한 고유어 사전0",
@@ -711,7 +803,9 @@
       "first_seen": "2026-05-17",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "일기장은 비웃질 않아0",
@@ -728,7 +822,9 @@
       "first_seen": "2026-05-17",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "망설임 없이 사랑을0",
@@ -745,7 +841,9 @@
       "first_seen": "2026-05-17",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "책방지기의 거짓말0",
@@ -762,7 +860,9 @@
       "first_seen": "2026-05-17",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "오늘, 지금 여기에서0",
@@ -779,7 +879,9 @@
       "first_seen": "2026-05-17",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "연금술사의 테라리움0",
@@ -796,7 +898,9 @@
       "first_seen": "2026-05-17",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "혼자서도 잘 사러 다닙니다0",
@@ -813,7 +917,9 @@
       "first_seen": "2026-05-17",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "어느 행성에서 온 편지0",
@@ -830,7 +936,9 @@
       "first_seen": "2026-05-17",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "새를 쫓는 모험 : 북해도 횡단여행0",
@@ -847,7 +955,9 @@
       "first_seen": "2026-05-17",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "아빠안내서0",
@@ -864,7 +974,9 @@
       "first_seen": "2026-05-17",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "엄마안내서0",
@@ -881,7 +993,9 @@
       "first_seen": "2026-05-17",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "갑자기 어른0",
@@ -898,7 +1012,9 @@
       "first_seen": "2026-05-17",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "나를 아끼는 마음0",
@@ -915,7 +1031,9 @@
       "first_seen": "2026-05-17",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "다정한 건 오래 머무르고(리커버)0",
@@ -932,7 +1050,9 @@
       "first_seen": "2026-05-17",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "25만 원짜리 서울살이0",
@@ -949,7 +1069,9 @@
       "first_seen": "2026-05-17",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "어느 페이지를 펼쳐도 바람이 부는0",
@@ -966,7 +1088,9 @@
       "first_seen": "2026-05-17",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "니 마음만 있냐? 내 마음도 있다0",
@@ -983,7 +1107,9 @@
       "first_seen": "2026-05-17",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "적당히 솔직해진다는 것0",
@@ -1000,7 +1126,9 @@
       "first_seen": "2026-05-17",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "다시,하루0",
@@ -1017,7 +1145,9 @@
       "first_seen": "2026-05-17",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "너의 잘못이 아니야0",
@@ -1034,7 +1164,9 @@
       "first_seen": "2026-05-17",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "018 안부0",
@@ -1051,7 +1183,9 @@
       "first_seen": "2026-05-17",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "‘말’로 만나는 ‘삶’ : 수다보다 깊고 에세이보다 잘 읽히는 인터뷰집 Pick 1",
@@ -1068,7 +1202,9 @@
       "first_seen": "2026-05-17",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "‘말’로 만나는 ‘삶’ : 수다보다 깊고 에세이보다 잘 읽히는 인터뷰집 Pick 2",
@@ -1085,7 +1221,9 @@
       "first_seen": "2026-05-17",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "‘말’로 만나는 ‘삶’ : 수다보다 깊고 에세이보다 잘 읽히는 인터뷰집 Pick 3",
@@ -1102,7 +1240,9 @@
       "first_seen": "2026-05-17",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "‘말’로 만나는 ‘삶’ : 수다보다 깊고 에세이보다 잘 읽히는 인터뷰집 Pick 4",
@@ -1119,7 +1259,9 @@
       "first_seen": "2026-05-17",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "‘말’로 만나는 ‘삶’ : 수다보다 깊고 에세이보다 잘 읽히는 인터뷰집 Pick 5",
@@ -1136,7 +1278,9 @@
       "first_seen": "2026-05-17",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "‘말’로 만나는 ‘삶’ : 수다보다 깊고 에세이보다 잘 읽히는 인터뷰집 Pick 6",
@@ -1153,7 +1297,9 @@
       "first_seen": "2026-05-17",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "‘말’로 만나는 ‘삶’ : 수다보다 깊고 에세이보다 잘 읽히는 인터뷰집 Pick 7",
@@ -1170,7 +1316,9 @@
       "first_seen": "2026-05-17",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "여러분 됐어요! 소설이 영화 됐어요! : 영화가 탐낸 원작 소설 Pick 1",
@@ -1187,7 +1335,9 @@
       "first_seen": "2026-05-17",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "나쁜 책",
@@ -1204,7 +1354,9 @@
       "first_seen": "2026-05-17",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "미래 산책 연습",
@@ -1221,7 +1373,9 @@
       "first_seen": "2026-05-17",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "[친필사인본] 어린이의 곁이면 되었다 (시의적절 5월)",
@@ -1238,7 +1392,9 @@
       "first_seen": "2026-05-17",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "[Only 동네서점][친필사인본] 이별이 올 때 봄도 오는 겁니다",
@@ -1255,7 +1411,9 @@
       "first_seen": "2026-05-17",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "[Only 동네서점][특별포스터2종] 구멍청",
@@ -1272,7 +1430,9 @@
       "first_seen": "2026-05-17",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "[초판 한정 친필 인쇄 사인본] 백지 앞에서",
@@ -1289,7 +1449,9 @@
       "first_seen": "2026-05-17",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "[초판 한정 면지 인쇄 사인본] 숨은 어린이 찾기",
@@ -1306,7 +1468,9 @@
       "first_seen": "2026-05-17",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "믿어도 좋은",
@@ -1323,7 +1487,9 @@
       "first_seen": "2026-05-17",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "[면지 인쇄 사인본, 양장] 혼모노 (리커버)",
@@ -1340,7 +1506,9 @@
       "first_seen": "2026-05-17",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "이상한 나라의 앨리스 (먼슬리 클래식)",
@@ -1357,7 +1525,9 @@
       "first_seen": "2026-05-17",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "[친필사인본][초판 한정 스티커] 러브 온 더 락",
@@ -1374,7 +1544,9 @@
       "first_seen": "2026-05-17",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "[초판 한정 친필 스크래치 카드] 너의 나쁜 무리",
@@ -1391,7 +1563,9 @@
       "first_seen": "2026-05-17",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "리타의 산책 · 안리타",
@@ -1408,7 +1582,9 @@
       "first_seen": "2026-05-16",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "리타의 정원 · 안리타",
@@ -1425,7 +1601,9 @@
       "first_seen": "2026-05-16",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "창을 여는 마음 · 안리타",
@@ -1442,7 +1620,9 @@
       "first_seen": "2026-05-16",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "실린더 북 · 김헤니",
@@ -1459,7 +1639,9 @@
       "first_seen": "2026-05-16",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "SOS BOOK-당신은 어떻게 일하고, 어떻게 극복하나요? · 노말에이",
@@ -1476,7 +1658,9 @@
       "first_seen": "2026-05-16",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "Side Project-콰야 세라믹 작품집 · 콰야",
@@ -1493,7 +1677,9 @@
       "first_seen": "2026-05-16",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "CAT CODE · 노말에이",
@@ -1510,7 +1696,9 @@
       "first_seen": "2026-05-16",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "작업실 고양이 · 노석미",
@@ -1527,7 +1715,9 @@
       "first_seen": "2026-05-16",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "신선하고 뾰족한 가지 · 노석미",
@@ -1544,7 +1734,9 @@
       "first_seen": "2026-05-16",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "바다의 앞모습 · 노석미",
@@ -1561,7 +1753,9 @@
       "first_seen": "2026-05-16",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "[재입고] Play Pocket · 이지영",
@@ -1578,7 +1772,9 @@
       "first_seen": "2026-05-16",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "양말이 많은 사람의 고백 · 박상은",
@@ -1595,7 +1791,9 @@
       "first_seen": "2026-05-16",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "모르는 할머니 · 김보람, 김연재, 김유미, 김윤영, 이재임, 정인혜, 하라",
@@ -1612,7 +1810,9 @@
       "first_seen": "2026-05-16",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "완벽하지 않아: 에이드리언 토미네 각본집 · 에이드리언 토미네",
@@ -1629,7 +1829,9 @@
       "first_seen": "2026-05-16",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "[재입고] 시드니의 책방 · 후루룩",
@@ -1646,7 +1848,9 @@
       "first_seen": "2026-05-16",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "[예약판매/배송비 무료] 숨겨둔 책 세트 (No.025, 026, 027)",
@@ -1663,7 +1867,9 @@
       "first_seen": "2026-05-16",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "[예약판매] 숨겨둔 책 No. 027",
@@ -1680,7 +1886,9 @@
       "first_seen": "2026-05-16",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "[예약판매] 숨겨둔 책 No. 026",
@@ -1697,7 +1905,9 @@
       "first_seen": "2026-05-16",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "[예약판매] 숨겨둔 책 No. 025",
@@ -1714,7 +1924,9 @@
       "first_seen": "2026-05-16",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "시시소소수수",
@@ -1731,7 +1943,9 @@
       "first_seen": "2026-05-16",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "길만 따라가십시오",
@@ -1748,7 +1962,9 @@
       "first_seen": "2026-05-16",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "숨겨둔 책 No. 023",
@@ -1765,7 +1981,9 @@
       "first_seen": "2026-05-16",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "숨겨둔 책 no.017",
@@ -1782,7 +2000,9 @@
       "first_seen": "2026-05-16",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "숨겨둔 책 No. 022",
@@ -1799,7 +2019,9 @@
       "first_seen": "2026-05-16",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "누구나 길을 잃을 때가 있다",
@@ -1816,7 +2038,9 @@
       "first_seen": "2026-05-16",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "숨겨둔 책 no.016",
@@ -1833,7 +2057,9 @@
       "first_seen": "2026-05-16",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "[커피 큐레이션] 아메리카노",
@@ -1850,7 +2076,9 @@
       "first_seen": "2026-05-16",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "[종달리 에디션] 건지 감자껍질 파이 북클럽",
@@ -1867,7 +2095,9 @@
       "first_seen": "2026-05-16",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "[종달리에디션] 3종 세트",
@@ -1884,7 +2114,9 @@
       "first_seen": "2026-05-16",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "[종달리에디션] 바람의 그림자 (절판)",
@@ -1901,7 +2133,9 @@
       "first_seen": "2026-05-16",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "숨겨둔 책 No. 021",
@@ -1918,7 +2152,9 @@
       "first_seen": "2026-05-16",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "숨겨둔 책 No. 020",
@@ -1935,7 +2171,9 @@
       "first_seen": "2026-05-16",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "숨겨둔 책 No. 019",
@@ -1952,7 +2190,9 @@
       "first_seen": "2026-05-16",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "숨겨둔 책 no.018",
@@ -1969,7 +2209,9 @@
       "first_seen": "2026-05-16",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "2022 제13회 젊은작가상 수상작품집",
@@ -1986,7 +2228,9 @@
       "first_seen": "2026-05-16",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "[사인본] 그 좋았던 시간에",
@@ -2003,7 +2247,9 @@
       "first_seen": "2026-05-16",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "[사인본/동네서점 only] 이별이 오늘 만나자고 한다 (겨울에디션)",
@@ -2020,7 +2266,9 @@
       "first_seen": "2026-05-16",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "[사인본] 상관없는 거 아닌가? (장기하 저자 친필사인)",
@@ -2037,7 +2285,9 @@
       "first_seen": "2026-05-16",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "[예약판매/동네서점 only] 말하기를 말하기",
@@ -2054,7 +2304,9 @@
       "first_seen": "2026-05-16",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "[예약판매/사인본/동네서점 only] 일곱 해의 마지막 (김연수 소설가)",
@@ -2071,7 +2323,9 @@
       "first_seen": "2026-05-16",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "기록의 쓸모(동네서점 only 모나미볼펜세트 증정)",
@@ -2088,7 +2342,9 @@
       "first_seen": "2026-05-16",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "[동네서점 only] 동네서점 베스트 컬렉션 X 은희경",
@@ -2105,7 +2361,9 @@
       "first_seen": "2026-05-16",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "[동네서점 only] 동네서점 베스트 컬렉션 X 김영하",
@@ -2122,7 +2380,9 @@
       "first_seen": "2026-05-16",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     },
     {
       "title": "[사인본] 오래 준비해온 대답",
@@ -2139,7 +2399,9 @@
       "first_seen": "2026-05-16",
       "last_seen": "2026-05-17",
       "favorite_match": [],
-      "is_favorite": false
+      "is_favorite": false,
+      "shelf_match": [],
+      "has_shelf_match": false
     }
   ],
   "fav_publishers": [],
