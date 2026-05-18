@@ -488,14 +488,6 @@
       who.textContent = [b.author, b.publisher].filter(Boolean).join(' · '); meta.appendChild(who);
       const src = document.createElement('div'); src.className = 'src';
       const label = document.createElement('span'); label.textContent = b.source_label || b.source || ''; src.appendChild(label);
-      const links = [];
-      if (b.yes24_link) links.push(['예스24', b.yes24_link]);
-      if (b.shop_link && !b.aladin_link && !b.yes24_link) links.push(['서점', b.shop_link]);
-      links.forEach(pair => {
-        const sep = document.createElement('span'); sep.className = 'sep'; sep.textContent = ' · '; src.appendChild(sep);
-        const a = document.createElement('a'); a.href = pair[1]; a.target = '_blank'; a.rel = 'noopener';
-        a.textContent = pair[0]; a.onclick = (e) => e.stopPropagation(); src.appendChild(a);
-      });
       meta.appendChild(src);
       card.appendChild(meta);
       grid.appendChild(card);
