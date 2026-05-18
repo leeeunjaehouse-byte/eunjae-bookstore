@@ -489,7 +489,6 @@
       const src = document.createElement('div'); src.className = 'src';
       const label = document.createElement('span'); label.textContent = b.source_label || b.source || ''; src.appendChild(label);
       const links = [];
-      if (b.aladin_link) links.push(['알라딘', b.aladin_link]);
       if (b.yes24_link) links.push(['예스24', b.yes24_link]);
       if (b.shop_link && !b.aladin_link && !b.yes24_link) links.push(['서점', b.shop_link]);
       links.forEach(pair => {
