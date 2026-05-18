@@ -153,9 +153,27 @@
     padding: 8px 4px; margin-right: -4px; }
   .small-link:active { opacity: 0.5; }
 
+  /* 날짜 그룹 */
+  .day-group { padding: 0 20px; margin-top: 6px; }
+  .day-header { display: flex; align-items: center; justify-content: space-between;
+    padding: 14px 4px 10px; cursor: pointer; user-select: none;
+    border-top: 0.5px solid var(--separator); margin-top: 6px; }
+  .day-header:first-child, .day-group:first-child .day-header { border-top: none; margin-top: 0; }
+  .day-header .day-title { font-size: 17px; font-weight: 700; letter-spacing: -0.4px; color: var(--fg); }
+  .day-header .day-meta { display: flex; align-items: center; gap: 8px;
+    font-size: 13px; color: var(--muted); font-variant-numeric: tabular-nums; }
+  .day-header .chevron { font-size: 14px; color: var(--muted); transition: transform 0.2s ease;
+    display: inline-block; }
+  .day-group.collapsed .chevron { transform: rotate(-90deg); }
+  .day-group.collapsed .day-body { display: none; }
+  .day-group .day-body { padding-bottom: 6px; }
+  .day-header.is-today .day-title { color: var(--fresh); }
+
   /* 그리드 — 모바일은 2열 */
   .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 14px;
-    padding: 12px 20px calc(80px + var(--safe-bot)); }
+    padding: 12px 0 calc(80px + var(--safe-bot)); }
+  /* 그룹 안 그리드는 좌우 패딩 줄임 (day-group 가 패딩 갖고 있음) */
+  .day-group .grid { padding: 0 0 6px; }
   @media (min-width: 480px) {
     .grid { grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 16px; }
   }
@@ -295,7 +313,8 @@
     manga: (window.__MANGA_DATA__ || { books: [] }),
     indie: (window.__INDIE_DATA__ || { books: [] }),
   };
-  const state = { tab: 'manga', window: 7, favOnly: false, shelfOnly: false, q: '', storesCollapsed: false };
+  const state = { tab: 'manga', window: 7, favOnly: false, shelfOnly: false, q: '',
+                  storesCollapsed: false, openGroups: {} };
 
   const $ = (id) => document.getElementById(id);
   const grid = $('grid'), gridCount = $('grid-count'), gridTitle = $('grid-title');
@@ -424,21 +443,33 @@
     });
   }
 
-  function renderGrid() {
-    const ds = datasets[state.tab];
-    const all = ds.books || [];
-    const filtered = filterBooks(all);
-    grid.innerHTML = '';
-    if (filtered.length === 0) {
-      const e = document.createElement('div'); e.className = 'empty';
-      e.innerHTML = '<div class="icon">📭</div>조건에 맞는 책이 없어요<br>신선도 필터를 늘려보세요';
-      grid.appendChild(e);
-    } else filtered.forEach(b => {
-      const card = document.createElement('div');
-      let cls = 'card';
-      if (b.has_shelf_match) cls += ' shelf';
-      if (b.is_favorite) cls += ' fav';
-      card.className = cls;
+  function bucketOf(firstSeen) {
+    const d = daysBetween(firstSeen, todayKST());
+    if (d < 0 || d === Infinity) return { id: 'unknown', label: '날짜 미상', order: 99, defaultOpen: false };
+    if (d === 0) return { id: 'today', label: '오늘', order: 0, defaultOpen: true };
+    if (d === 1) return { id: 'yesterday', label: '어제', order: 1, defaultOpen: true };
+    if (d <= 6) return { id: `d${d}`, label: `${d}일 전`, order: d, defaultOpen: false };
+    if (d <= 13) return { id: 'week', label: '1주 전', order: 50, defaultOpen: false };
+    if (d <= 30) return { id: 'month', label: '한 달 안', order: 60, defaultOpen: false };
+    return { id: 'older', label: '그 이전', order: 99, defaultOpen: false };
+  }
+
+  function groupByDate(books) {
+    const map = new Map();
+    for (const b of books) {
+      const bk = bucketOf(b.first_seen);
+      if (!map.has(bk.id)) map.set(bk.id, { ...bk, books: [] });
+      map.get(bk.id).books.push(b);
+    }
+    return Array.from(map.values()).sort((a, b) => a.order - b.order);
+  }
+
+  function buildCard(b) {
+    const card = document.createElement('div');
+    let cls = 'card';
+    if (b.has_shelf_match) cls += ' shelf';
+    if (b.is_favorite) cls += ' fav';
+    card.className = cls;
       const primaryUrl = b.aladin_link || b.yes24_link || b.shop_link;
       if (primaryUrl) card.onclick = () => window.open(primaryUrl, '_blank', 'noopener');
 
@@ -490,8 +521,48 @@
       const label = document.createElement('span'); label.textContent = b.source_label || b.source || ''; src.appendChild(label);
       meta.appendChild(src);
       card.appendChild(meta);
-      grid.appendChild(card);
-    });
+    return card;
+  }
+
+  function renderGrid() {
+    const ds = datasets[state.tab];
+    const all = ds.books || [];
+    const filtered = filterBooks(all);
+    grid.innerHTML = '';
+    grid.className = '';
+
+    if (filtered.length === 0) {
+      const e = document.createElement('div'); e.className = 'empty';
+      e.innerHTML = '<div class="icon">📭</div>조건에 맞는 책이 없어요<br>신선도 필터를 늘려보세요';
+      grid.appendChild(e);
+    } else {
+      const groups = groupByDate(filtered);
+      for (const g of groups) {
+        const wrap = document.createElement('div');
+        const collapsed = (state.openGroups[g.id] === undefined) ? !g.defaultOpen : !state.openGroups[g.id];
+        wrap.className = 'day-group' + (collapsed ? ' collapsed' : '');
+
+        const header = document.createElement('div');
+        header.className = 'day-header' + (g.id === 'today' ? ' is-today' : '');
+        const titleEl = document.createElement('span'); titleEl.className = 'day-title'; titleEl.textContent = g.label;
+        const metaEl = document.createElement('span'); metaEl.className = 'day-meta';
+        metaEl.innerHTML = `<span>${g.books.length}권</span><span class="chevron">▼</span>`;
+        header.appendChild(titleEl); header.appendChild(metaEl);
+        header.addEventListener('click', () => {
+          state.openGroups[g.id] = collapsed; // 토글
+          renderGrid();
+        });
+        wrap.appendChild(header);
+
+        const body = document.createElement('div'); body.className = 'day-body';
+        const inner = document.createElement('div'); inner.className = 'grid';
+        for (const b of g.books) inner.appendChild(buildCard(b));
+        body.appendChild(inner);
+        wrap.appendChild(body);
+
+        grid.appendChild(wrap);
+      }
+    }
     gridCount.textContent = `${filtered.length}/${all.length}권`;
     gridTitle.textContent = state.tab === 'manga' ? '만화 신간' : '독립서점 신간';
   }
