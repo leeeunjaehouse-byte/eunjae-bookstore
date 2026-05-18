@@ -329,12 +329,20 @@
     const k = new Date(now.getTime() + (now.getTimezoneOffset() * 60000) + (9 * 3600000));
     return `${k.getFullYear()}-${String(k.getMonth()+1).padStart(2,'0')}-${String(k.getDate()).padStart(2,'0')}`;
   }
+  function referenceDate() {
+    /* "오늘" 기준 — 시계가 아니라 데이터에서 가장 최근 발견일.
+       자동 크롤이 며칠 안 돌아도 페이지에서 가장 신선한 책들이 '오늘' 그룹에 보이게. */
+    const all = [...(datasets.manga.books || []), ...(datasets.indie.books || [])];
+    let maxFS = '';
+    for (const b of all) { const fs = b.first_seen || ''; if (fs > maxFS) maxFS = fs; }
+    return maxFS || todayKST();
+  }
   function daysBetween(a, b) {
     if (!a || !b) return Infinity;
     return Math.floor((new Date(b + 'T00:00:00') - new Date(a + 'T00:00:00')) / 86400000);
   }
   function freshnessBadge(fs) {
-    const d = daysBetween(fs, todayKST());
+    const d = daysBetween(fs, referenceDate());
     if (d < 0 || d === Infinity) return null;
     if (d === 0) return { text: '오늘', cls: '' };
     if (d === 1) return { text: '어제', cls: '' };
@@ -344,7 +352,7 @@
     return null;
   }
   function countWithin(books, days) {
-    const t = todayKST();
+    const t = referenceDate();
     return books.filter(b => daysBetween(b.first_seen, t) <= days).length;
   }
 
@@ -425,7 +433,7 @@
 
   function filterBooks(all) {
     const q = state.q.trim().toLowerCase();
-    const t = todayKST();
+    const t = referenceDate();
     return all.filter(b => {
       if (state.shelfOnly && !b.has_shelf_match) return false;
       if (state.favOnly && !b.is_favorite) return false;
@@ -444,7 +452,7 @@
   }
 
   function bucketOf(firstSeen) {
-    const d = daysBetween(firstSeen, todayKST());
+    const d = daysBetween(firstSeen, referenceDate());
     if (d < 0 || d === Infinity) return { id: 'unknown', label: '날짜 미상', order: 99, defaultOpen: false };
     if (d === 0) return { id: 'today', label: '오늘', order: 0, defaultOpen: true };
     if (d === 1) return { id: 'yesterday', label: '어제', order: 1, defaultOpen: true };
