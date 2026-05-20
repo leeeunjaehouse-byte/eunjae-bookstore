@@ -253,21 +253,6 @@
   </div>
 </div>
 
-<div class="search-wrap">
-  <span class="icon">🔍</span>
-  <input type="search" id="q" placeholder="제목, 저자, 출판사, 서점 검색"
-    autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false">
-</div>
-
-<div class="chip-row">
-  <span class="chip shelf-chip" data-filter="shelf">📚 내 책장</span>
-  <span class="chip fav-chip" data-filter="fav">⭐ 좋아하는 것</span>
-  <span class="chip" data-window="today">오늘</span>
-  <span class="chip" data-window="3">3일</span>
-  <span class="chip active" data-window="7">1주</span>
-  <span class="chip" data-window="14">2주</span>
-  <span class="chip" data-window="all">전체</span>
-</div>
 
 <!-- 독립서점 — 수집 중인 서점 -->
 <div id="stores-panel" style="display:none;">
@@ -311,8 +296,8 @@
     manga: (window.__MANGA_DATA__ || { books: [] }),
     indie: (window.__INDIE_DATA__ || { books: [] }),
   };
-  const state = { tab: 'manga', window: 7, favOnly: false, shelfOnly: false, q: '',
-                  storesCollapsed: false, openGroups: {} };
+  const state = { tab: 'manga', window: 'all', favOnly: false, shelfOnly: false, q: '',
+                  storesCollapsed: true, openGroups: {} };
 
   const $ = (id) => document.getElementById(id);
   const grid = $('grid'), gridCount = $('grid-count'), gridTitle = $('grid-title');
@@ -559,30 +544,6 @@
       render();
     });
   });
-  document.querySelectorAll('.chip[data-filter="fav"]').forEach(el => {
-    el.addEventListener('click', () => {
-      state.favOnly = !state.favOnly;
-      el.classList.toggle('active', state.favOnly);
-      renderGrid();
-    });
-  });
-  document.querySelectorAll('.chip[data-filter="shelf"]').forEach(el => {
-    el.addEventListener('click', () => {
-      state.shelfOnly = !state.shelfOnly;
-      el.classList.toggle('active', state.shelfOnly);
-      renderGrid();
-    });
-  });
-  document.querySelectorAll('.chip[data-window]').forEach(el => {
-    el.addEventListener('click', () => {
-      document.querySelectorAll('.chip[data-window]').forEach(e => e.classList.remove('active'));
-      el.classList.add('active');
-      const v = el.dataset.window;
-      state.window = (v === 'today' || v === 'all') ? v : parseInt(v, 10);
-      renderGrid();
-    });
-  });
-  $('q').addEventListener('input', e => { state.q = e.target.value; renderGrid(); });
   storesToggle.addEventListener('click', () => {
     state.storesCollapsed = !state.storesCollapsed;
     renderStores();
