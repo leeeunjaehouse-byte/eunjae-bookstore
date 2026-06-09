@@ -246,6 +246,39 @@
   .legend .dot {
     width: 8px; height: 8px; border-radius: 50%; display: inline-block;
   }
+
+  /* 국내/해외 토글 */
+  .scope-toggle {
+    display: flex; gap: 8px; margin: 0 0 24px;
+  }
+  .scope-btn {
+    flex: 1; max-width: 200px;
+    padding: 11px 18px; border-radius: 12px;
+    border: 1px solid var(--border); background: var(--card); color: var(--text);
+    font-size: 15px; font-weight: 600; font-family: inherit; cursor: pointer;
+    transition: background .15s, color .15s, border-color .15s;
+  }
+  .scope-btn.active { background: var(--accent); color: #fff; border-color: var(--accent); }
+
+  /* === 모바일 최적화 === */
+  @media (max-width: 640px) {
+    .container { padding: 18px 14px 56px; }
+    header.top { margin-bottom: 18px; }
+    header.top h1 { font-size: 24px; }
+    header.top .meta { font-size: 12px; }
+    .scope-toggle { gap: 6px; margin-bottom: 18px; position: sticky; top: 0; z-index: 20; background: var(--bg); padding: 8px 0; }
+    .scope-btn { max-width: none; padding: 10px 12px; font-size: 14px; }
+    section { margin-bottom: 30px; }
+    .controls { gap: 5px; padding: 8px 0 10px; }
+    .controls .tab { padding: 5px 11px; font-size: 12px; }
+    .search { min-width: 0; flex-basis: 100%; max-width: none; order: 3; margin-top: 4px; }
+    .book-grid { grid-template-columns: repeat(auto-fill, minmax(104px, 1fr)); gap: 16px 10px; }
+    .book .title { font-size: 12px; }
+    .book .author, .book .publisher { font-size: 10px; }
+    .store-header h3 { font-size: 16px; }
+    .sources-grid { grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); }
+    h1, h2, h3 { word-break: keep-all; }
+  }
 </style>
 </head>
 <body>
@@ -255,6 +288,15 @@
     <h1>이은재서점</h1>
     <div class="meta" id="header-meta">로딩 중…</div>
   </header>
+
+  <!-- 국내/해외 토글 (최상단) -->
+  <div class="scope-toggle">
+    <button class="scope-btn active" data-view="domestic">🇰🇷 국내</button>
+    <button class="scope-btn" data-view="overseas">🌍 해외</button>
+  </div>
+
+  <!-- ===== 국내 뷰 ===== -->
+  <div id="view-domestic">
 
   <!-- 1. 독립서점 큐레이션 -->
   <section id="indie-section">
@@ -276,13 +318,28 @@
     </div>
   </section>
 
+  </div><!-- /view-domestic -->
+
+  <!-- ===== 해외 뷰 ===== -->
+  <div id="view-overseas" style="display:none">
+    <section id="overseas-section">
+      <h2>🌍 해외 서점 큐레이션 <span class="count" id="overseas-count">…</span></h2>
+      <div class="controls">
+        <button class="tab overseas-tab active" data-store="all">전체</button>
+        <span id="overseas-store-tabs"></span>
+        <input class="search" id="overseas-search" placeholder="제목·서점 검색" />
+      </div>
+      <div id="overseas-groups"></div>
+    </section>
+  </div><!-- /view-overseas -->
+
 </div>
 
 <!-- 데이터 (캐시버스팅: 매 로드마다 최신 JSON을 강제로 불러옴) -->
 <script>
   (function () {
     var t = Date.now();
-    var files = ["indie_books"];
+    var files = ["indie_books", "overseas_books"];
     files.forEach(function (n) {
       document.write('<scr' + 'ipt src="./data/' + n + '.js?t=' + t + '"><\/scr' + 'ipt>');
     });
@@ -293,18 +350,23 @@
 const BOOKS = window.__BOOKS_DATA__ || null;
 const SHELF = window.__MYSHELF_DATA__ || null;
 const INDIE = window.__INDIE_BOOKS_DATA__ || null;
+const OVERSEAS = window.__OVERSEAS_BOOKS_DATA__ || null;
 
-// 독립서점 표시 순서 (이 목록에 없는 서점은 뒤에 붙음)
+// 서점 표시 순서 (목록에 없는 서점은 뒤에 붙음)
 const INDIE_STORE_ORDER = ["땡스북스", "더북소사이어티", "고요서사", "사적인서점", "소심한책방", "유어마인드", "북앤스페이스"];
-function orderStores(arr) {
+const OVERSEAS_STORE_ORDER = ["Do you read me?!", "Donlon Books", "Magma Books", "Mast Books", "Daunt Books", "Phaidon", "Gestalten"];
+function orderStores(arr, order) {
+  order = order || INDIE_STORE_ORDER;
   return arr.slice().sort((a, b) => {
-    const ia = INDIE_STORE_ORDER.indexOf(a), ib = INDIE_STORE_ORDER.indexOf(b);
+    const ia = order.indexOf(a), ib = order.indexOf(b);
     return (ia < 0 ? 99 : ia) - (ib < 0 ? 99 : ib);
   });
 }
 
 let indieFilter = "all";
 let indieQuery = "";
+let overseasFilter = "all";
+let overseasQuery = "";
 let majorFilter = "all";
 let majorQuery = "";
 
@@ -316,14 +378,11 @@ function esc(s) {
 
 // === 1. 헤더 + 수집 출처 ===
 function renderHeader() {
-  const updates = [];
-  if (BOOKS && BOOKS.updated_at) updates.push("대형서점: " + new Date(BOOKS.updated_at).toLocaleString("ko-KR"));
-  if (INDIE && INDIE.updated_at) updates.push("독립서점: " + new Date(INDIE.updated_at).toLocaleString("ko-KR"));
-  const totalAll =
-    (BOOKS ? (BOOKS.books || []).length : 0) +
-    (INDIE ? (INDIE.books || []).length : 0);
+  const dom = INDIE ? (INDIE.books || []).length : 0;
+  const ovs = OVERSEAS ? (OVERSEAS.books || []).length : 0;
+  const when = (INDIE && INDIE.updated_at) ? new Date(INDIE.updated_at).toLocaleDateString("ko-KR") : "";
   document.getElementById("header-meta").innerHTML =
-    `총 <b>${totalAll}권</b> · ${updates.join(" · ") || "데이터 없음"}`;
+    `국내 <b>${dom}권</b> · 해외 <b>${ovs}권</b>${when ? " · " + when + " 갱신" : ""}`;
 }
 
 function renderSources() {
@@ -491,6 +550,67 @@ function bindIndieControls() {
   });
 }
 
+// === 해외 서점 큐레이션 ===
+function renderOverseas() {
+  if (!OVERSEAS || !OVERSEAS.books || !OVERSEAS.books.length) {
+    document.getElementById("overseas-section").innerHTML =
+      '<div class="empty-state">해외 서점 데이터가 아직 없습니다.</div>';
+    return;
+  }
+  const byStore = {};
+  OVERSEAS.books.forEach(b => { (byStore[b.store] = byStore[b.store] || []).push(b); });
+  const stores = orderStores(Object.keys(byStore), OVERSEAS_STORE_ORDER);
+  document.getElementById("overseas-count").textContent = `${OVERSEAS.books.length}권 / ${stores.length}개 서점`;
+  document.getElementById("overseas-store-tabs").innerHTML = stores.map(s =>
+    `<button class="tab overseas-tab" data-store="${esc(s)}">${esc(s)} · ${byStore[s].length}</button>`
+  ).join("");
+  drawOverseasGroups();
+  document.querySelectorAll(".overseas-tab").forEach(btn => {
+    btn.addEventListener("click", () => {
+      document.querySelectorAll(".overseas-tab").forEach(b => b.classList.remove("active"));
+      btn.classList.add("active");
+      overseasFilter = btn.dataset.store;
+      drawOverseasGroups();
+    });
+  });
+  document.getElementById("overseas-search").addEventListener("input", e => {
+    overseasQuery = e.target.value.trim().toLowerCase();
+    drawOverseasGroups();
+  });
+}
+
+function drawOverseasGroups() {
+  const books = OVERSEAS.books.filter(b => {
+    if (overseasFilter !== "all" && b.store !== overseasFilter) return false;
+    if (overseasQuery) {
+      const hay = [b.title, b.author, b.store, b.section].join(" ").toLowerCase();
+      if (!hay.includes(overseasQuery)) return false;
+    }
+    return true;
+  });
+  const byStore = {};
+  books.forEach(b => { (byStore[b.store] = byStore[b.store] || []).push(b); });
+  const stores = orderStores(Object.keys(byStore), OVERSEAS_STORE_ORDER);
+  const LIMIT = 20;
+  document.getElementById("overseas-groups").innerHTML = stores.length ? stores.map((store, gi) => {
+    const sb = byStore[store];
+    const city = (sb[0] && sb[0].city) ? sb[0].city : "";
+    const visible = sb.slice(0, LIMIT), hidden = sb.slice(LIMIT);
+    const overflow = hidden.length;
+    return `
+      <div class="store-group">
+        <div class="store-header">
+          <h3>🌍 ${esc(store)}</h3>
+          <span class="meta">${city ? esc(city) + " · " : ""}${sb.length}권</span>
+        </div>
+        <div class="book-grid">${visible.map(b => bookCard(b, store)).join("")}</div>
+        ${hidden.length ? `<div class="book-grid more-hidden" data-scope="overseas" data-group="${gi}">${hidden.map(b => bookCard(b, store)).join("")}</div>` : ""}
+        ${overflow > 0 ? `<div class="expand-wrap"><button class="expand-btn" data-scope="overseas" data-group="${gi}" data-label="펴보기 (+${overflow})">펴보기 (+${overflow})</button></div>` : ""}
+      </div>
+    `;
+  }).join("") : '<div class="empty-state">조건에 맞는 책이 없습니다.</div>';
+}
+
 // === 3. 내 책장 ===
 function renderShelf() {
   if (!SHELF) {
@@ -613,9 +733,22 @@ document.addEventListener("click", e => {
 });
 
 // === 시작 ===
+// 국내/해외 토글
+document.querySelectorAll(".scope-btn").forEach(btn => {
+  btn.addEventListener("click", () => {
+    document.querySelectorAll(".scope-btn").forEach(b => b.classList.remove("active"));
+    btn.classList.add("active");
+    const v = btn.dataset.view;
+    document.getElementById("view-domestic").style.display = (v === "domestic") ? "" : "none";
+    document.getElementById("view-overseas").style.display = (v === "overseas") ? "" : "none";
+    window.scrollTo(0, 0);
+  });
+});
+
 renderHeader();
 renderSources();
 renderIndieCuration();
+renderOverseas();
 </script>
 </body>
 </html>
