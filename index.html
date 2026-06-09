@@ -291,8 +291,8 @@
 
   <!-- 국내/해외 토글 (최상단) -->
   <div class="scope-toggle">
-    <button class="scope-btn active" data-view="domestic">🇰🇷 국내</button>
-    <button class="scope-btn" data-view="overseas">🌍 해외</button>
+    <button class="scope-btn active" data-view="domestic">국내</button>
+    <button class="scope-btn" data-view="overseas">해외</button>
   </div>
 
   <!-- ===== 국내 뷰 ===== -->
@@ -355,6 +355,13 @@ const OVERSEAS = window.__OVERSEAS_BOOKS_DATA__ || null;
 // 서점 표시 순서 (목록에 없는 서점은 뒤에 붙음)
 const INDIE_STORE_ORDER = ["땡스북스", "더북소사이어티", "고요서사", "사적인서점", "소심한책방", "유어마인드", "북앤스페이스"];
 const OVERSEAS_STORE_ORDER = ["Do you read me?!", "Donlon Books", "Magma Books", "Mast Books", "Daunt Books", "Phaidon", "Gestalten"];
+// 서점 도시/나라 (헤더에 표기)
+const STORE_CITY = {
+  "땡스북스": "서울 홍대", "더북소사이어티": "서울 통의동", "고요서사": "서울 해방촌",
+  "사적인서점": "경기 파주", "소심한책방": "제주", "유어마인드": "서울 연희동", "북앤스페이스": "부산",
+  "Do you read me?!": "베를린, 독일", "Donlon Books": "런던, 영국", "Magma Books": "런던, 영국",
+  "Mast Books": "뉴욕, 미국", "Daunt Books": "런던, 영국", "Phaidon": "런던, 영국", "Gestalten": "베를린, 독일"
+};
 function orderStores(arr, order) {
   order = order || INDIE_STORE_ORDER;
   return arr.slice().sort((a, b) => {
@@ -509,7 +516,7 @@ function drawIndieGroups() {
       <div class="store-group">
         <div class="store-header">
           <h3>🏪 ${esc(store)}</h3>
-          <span class="meta">${sb.length}권 · ${Object.keys(bySection).length}개 카테고리</span>
+          <span class="meta">${STORE_CITY[store] ? esc(STORE_CITY[store]) + " · " : ""}${sb.length}권 · ${Object.keys(bySection).length}개 카테고리</span>
         </div>
         ${sectionsHtml}
         ${btn}
@@ -594,7 +601,7 @@ function drawOverseasGroups() {
   const LIMIT = 20;
   document.getElementById("overseas-groups").innerHTML = stores.length ? stores.map((store, gi) => {
     const sb = byStore[store];
-    const city = (sb[0] && sb[0].city) ? sb[0].city : "";
+    const city = STORE_CITY[store] || (sb[0] && sb[0].city) || "";
     const visible = sb.slice(0, LIMIT), hidden = sb.slice(LIMIT);
     const overflow = hidden.length;
     return `
