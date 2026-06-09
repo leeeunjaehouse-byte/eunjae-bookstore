@@ -1,5 +1,5 @@
 window.__INDIE_BOOKS_DATA__ = {
-  "updated_at": "2026-06-09T12:19:10.950746+09:00",
+  "updated_at": "2026-06-09T15:53:06.721942+09:00",
   "today": "2026-06-09",
   "books": [
     {
@@ -876,6 +876,24 @@ window.__INDIE_BOOKS_DATA__ = {
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EB%8F%99%EB%84%A4%EC%84%9C%EC%A0%90%20only%5D%20%EB%8B%A4%EC%A0%95%ED%95%9C%20%EA%B5%AC%EC%9B%90"
     },
     {
+      "title": "왜 안 달려 부산",
+      "store": "북앤스페이스",
+      "section": "신간·추천",
+      "store_link": "https://www.bookandspace.com/product/왜-안-달려-부산/737/category/24/display/1/",
+      "store_cover": "https://www.bookandspace.com/web/product/medium/202606/0d3a1af3ad0ba0c62a0fdcafc53c96af.jpg",
+      "cover": "https://www.bookandspace.com/web/product/medium/202606/0d3a1af3ad0ba0c62a0fdcafc53c96af.jpg",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%99%9C%20%EC%95%88%20%EB%8B%AC%EB%A0%A4%20%EB%B6%80%EC%82%B0"
+    },
+    {
+      "title": "살이 너무 만화",
+      "store": "북앤스페이스",
+      "section": "신간·추천",
+      "store_link": "https://www.bookandspace.com/product/살이-너무-만화/736/category/24/display/1/",
+      "store_cover": "https://www.bookandspace.com/web/product/medium/202606/17ab76aa282c28499fade1565b7325cb.png",
+      "cover": "https://www.bookandspace.com/web/product/medium/202606/17ab76aa282c28499fade1565b7325cb.png",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%82%B4%EC%9D%B4%20%EB%84%88%EB%AC%B4%20%EB%A7%8C%ED%99%94"
+    },
+    {
       "title": "타인의 메모 : 기분 좋은 삶의 힌트들",
       "store": "북앤스페이스",
       "section": "신간·추천",
@@ -975,15 +993,6 @@ window.__INDIE_BOOKS_DATA__ = {
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%95%84%EB%AC%B4%20%EB%82%A0%EC%9D%98%20%EB%B9%84%ED%96%89%EC%9D%BC%EC%A7%80%28%EA%B0%9C%EC%A0%95%ED%8C%90%29"
     },
     {
-      "title": "[부케북] Thinking of You (한글판)",
-      "store": "북앤스페이스",
-      "section": "신간·추천",
-      "store_link": "https://www.bookandspace.com/product/부케북-thinking-of-you-한글판/714/category/24/display/1/",
-      "store_cover": "https://www.bookandspace.com/web/product/medium/202507/2e155fe3509cfa70f9fc5ff7c82e8f51.jpg",
-      "cover": "https://www.bookandspace.com/web/product/medium/202507/2e155fe3509cfa70f9fc5ff7c82e8f51.jpg",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EB%B6%80%EC%BC%80%EB%B6%81%5D%20Thinking%20of%20You%20%28%ED%95%9C%EA%B8%80%ED%8C%90%29"
-    },
-    {
       "title": "전시된 마음",
       "store": "북앤스페이스",
       "section": "신간·추천",
@@ -1047,13 +1056,490 @@ window.__INDIE_BOOKS_DATA__ = {
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EA%B7%B9%EC%95%BC%EC%9D%BC%EA%B8%B0"
     },
     {
-      "title": "고로 존재한다 : 읽고 쓰는 생각 노트",
-      "store": "북앤스페이스",
-      "section": "신간·추천",
-      "store_link": "https://www.bookandspace.com/product/고로-존재한다-읽고-쓰는-생각-노트/706/category/24/display/1/",
-      "store_cover": "https://www.bookandspace.com/web/product/medium/202506/dba46bbf6a5f88ec157615ce6830db84.jpeg",
-      "cover": "https://www.bookandspace.com/web/product/medium/202506/dba46bbf6a5f88ec157615ce6830db84.jpeg",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EA%B3%A0%EB%A1%9C%20%EC%A1%B4%EC%9E%AC%ED%95%9C%EB%8B%A4%20%3A%20%EC%9D%BD%EA%B3%A0%20%EC%93%B0%EB%8A%94%20%EC%83%9D%EA%B0%81%20%EB%85%B8%ED%8A%B8"
+      "title": "초록을 지닌 채 우리는",
+      "store": "고요서사",
+      "section": "소설",
+      "store_link": "https://www.goyoseosa.co.kr/product/초록을-지닌-채-우리는/120/category/24/display/1/",
+      "store_cover": "https://www.goyoseosa.co.kr/web/product/medium/202508/6c347bab9f1a986888f1bbb3f33d740b.jpg",
+      "cover": "https://www.goyoseosa.co.kr/web/product/medium/202508/6c347bab9f1a986888f1bbb3f33d740b.jpg",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%B4%88%EB%A1%9D%EC%9D%84%20%EC%A7%80%EB%8B%8C%20%EC%B1%84%20%EC%9A%B0%EB%A6%AC%EB%8A%94"
+    },
+    {
+      "title": "🫛 날마다 만우절",
+      "store": "고요서사",
+      "section": "소설",
+      "store_link": "https://www.goyoseosa.co.kr/product/🫛-날마다-만우절/115/category/24/display/1/",
+      "store_cover": "https://www.goyoseosa.co.kr/web/product/medium/202507/e3c5aac0c560a1006a0c50705dfa5ecb.jpg",
+      "cover": "https://www.goyoseosa.co.kr/web/product/medium/202507/e3c5aac0c560a1006a0c50705dfa5ecb.jpg",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%F0%9F%AB%9B%20%EB%82%A0%EB%A7%88%EB%8B%A4%20%EB%A7%8C%EC%9A%B0%EC%A0%88"
+    },
+    {
+      "title": "🫛 이별 없는 세대",
+      "store": "고요서사",
+      "section": "소설",
+      "store_link": "https://www.goyoseosa.co.kr/product/🫛-이별-없는-세대/114/category/24/display/1/",
+      "store_cover": "https://www.goyoseosa.co.kr/web/product/medium/202507/ecb1b05d61054bcf8b60219bc9fed12d.jpg",
+      "cover": "https://www.goyoseosa.co.kr/web/product/medium/202507/ecb1b05d61054bcf8b60219bc9fed12d.jpg",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%F0%9F%AB%9B%20%EC%9D%B4%EB%B3%84%20%EC%97%86%EB%8A%94%20%EC%84%B8%EB%8C%80"
+    },
+    {
+      "title": "🫛 공포, 집, 여성",
+      "store": "고요서사",
+      "section": "소설",
+      "store_link": "https://www.goyoseosa.co.kr/product/🫛-공포-집-여성/109/category/24/display/1/",
+      "store_cover": "https://www.goyoseosa.co.kr/web/product/medium/202506/87cb84c6b134b75b70fca55bd52ef858.jpg",
+      "cover": "https://www.goyoseosa.co.kr/web/product/medium/202506/87cb84c6b134b75b70fca55bd52ef858.jpg",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%F0%9F%AB%9B%20%EA%B3%B5%ED%8F%AC%2C%20%EC%A7%91%2C%20%EC%97%AC%EC%84%B1"
+    },
+    {
+      "title": "🫛 카르밀라",
+      "store": "고요서사",
+      "section": "소설",
+      "store_link": "https://www.goyoseosa.co.kr/product/🫛-카르밀라/108/category/24/display/1/",
+      "store_cover": "https://www.goyoseosa.co.kr/web/product/medium/202506/26038841179e3a82e90979d4d25b06ae.jpg",
+      "cover": "https://www.goyoseosa.co.kr/web/product/medium/202506/26038841179e3a82e90979d4d25b06ae.jpg",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%F0%9F%AB%9B%20%EC%B9%B4%EB%A5%B4%EB%B0%80%EB%9D%BC"
+    },
+    {
+      "title": "🫛 렛미인",
+      "store": "고요서사",
+      "section": "소설",
+      "store_link": "https://www.goyoseosa.co.kr/product/🫛-렛미인/107/category/24/display/1/",
+      "store_cover": "https://www.goyoseosa.co.kr/web/product/medium/202506/63d59d8f37b49926244acf26d580d940.jpg",
+      "cover": "https://www.goyoseosa.co.kr/web/product/medium/202506/63d59d8f37b49926244acf26d580d940.jpg",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%F0%9F%AB%9B%20%EB%A0%9B%EB%AF%B8%EC%9D%B8"
+    },
+    {
+      "title": "산 루이스 레이의 다리",
+      "store": "고요서사",
+      "section": "소설",
+      "store_link": "https://www.goyoseosa.co.kr/product/산-루이스-레이의-다리/101/category/24/display/1/",
+      "store_cover": "https://www.goyoseosa.co.kr/web/product/medium/202505/c391d7425b379137ac2229bacdd47ccf.jpg",
+      "cover": "https://www.goyoseosa.co.kr/web/product/medium/202505/c391d7425b379137ac2229bacdd47ccf.jpg",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%82%B0%20%EB%A3%A8%EC%9D%B4%EC%8A%A4%20%EB%A0%88%EC%9D%B4%EC%9D%98%20%EB%8B%A4%EB%A6%AC"
+    },
+    {
+      "title": "초록은 어디에나",
+      "store": "고요서사",
+      "section": "소설",
+      "store_link": "https://www.goyoseosa.co.kr/product/초록은-어디에나/98/category/24/display/1/",
+      "store_cover": "https://www.goyoseosa.co.kr/web/product/medium/202505/d22b4ca1e45bb071faaf36d35ea92b31.jpg",
+      "cover": "https://www.goyoseosa.co.kr/web/product/medium/202505/d22b4ca1e45bb071faaf36d35ea92b31.jpg",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%B4%88%EB%A1%9D%EC%9D%80%20%EC%96%B4%EB%94%94%EC%97%90%EB%82%98"
+    },
+    {
+      "title": "0000",
+      "store": "고요서사",
+      "section": "소설",
+      "store_link": "https://www.goyoseosa.co.kr/product/0000/97/category/24/display/1/",
+      "store_cover": "https://www.goyoseosa.co.kr/web/product/medium/202505/0ec8193ee0364950a1a67ea75e77f282.jpg",
+      "cover": "https://www.goyoseosa.co.kr/web/product/medium/202505/0ec8193ee0364950a1a67ea75e77f282.jpg",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=0000"
+    },
+    {
+      "title": "🫛 모래의 여자",
+      "store": "고요서사",
+      "section": "소설",
+      "store_link": "https://www.goyoseosa.co.kr/product/🫛-모래의-여자/95/category/24/display/1/",
+      "store_cover": "https://www.goyoseosa.co.kr/web/product/medium/202505/d6838b371f7d875aa98b1dc1d5d41afb.jpg",
+      "cover": "https://www.goyoseosa.co.kr/web/product/medium/202505/d6838b371f7d875aa98b1dc1d5d41afb.jpg",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%F0%9F%AB%9B%20%EB%AA%A8%EB%9E%98%EC%9D%98%20%EC%97%AC%EC%9E%90"
+    },
+    {
+      "title": "느리게 가는 마음",
+      "store": "고요서사",
+      "section": "소설",
+      "store_link": "https://www.goyoseosa.co.kr/product/느리게-가는-마음/86/category/24/display/1/",
+      "store_cover": "https://www.goyoseosa.co.kr/web/product/medium/202504/0dbe472609cb8b8b743f592865d4da4a.jpg",
+      "cover": "https://www.goyoseosa.co.kr/web/product/medium/202504/0dbe472609cb8b8b743f592865d4da4a.jpg",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EB%8A%90%EB%A6%AC%EA%B2%8C%20%EA%B0%80%EB%8A%94%20%EB%A7%88%EC%9D%8C"
+    },
+    {
+      "title": "선릉 산책",
+      "store": "고요서사",
+      "section": "소설",
+      "store_link": "https://www.goyoseosa.co.kr/product/선릉-산책/84/category/24/display/1/",
+      "store_cover": "https://www.goyoseosa.co.kr/web/product/medium/202503/7a0cdb8372558d155df7401d471f1936.jpg",
+      "cover": "https://www.goyoseosa.co.kr/web/product/medium/202503/7a0cdb8372558d155df7401d471f1936.jpg",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%84%A0%EB%A6%89%20%EC%82%B0%EC%B1%85"
+    },
+    {
+      "title": "음악으로 가득한",
+      "store": "고요서사",
+      "section": "에세이",
+      "store_link": "https://www.goyoseosa.co.kr/product/음악으로-가득한/119/category/26/display/1/",
+      "store_cover": "https://www.goyoseosa.co.kr/web/product/medium/202507/daacb511ed0078d84be81c0a5f0bd334.jpg",
+      "cover": "https://www.goyoseosa.co.kr/web/product/medium/202507/daacb511ed0078d84be81c0a5f0bd334.jpg",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%9D%8C%EC%95%85%EC%9C%BC%EB%A1%9C%20%EA%B0%80%EB%93%9D%ED%95%9C"
+    },
+    {
+      "title": "🫛 슬픔에 이름 붙이기",
+      "store": "고요서사",
+      "section": "에세이",
+      "store_link": "https://www.goyoseosa.co.kr/product/🫛-슬픔에-이름-붙이기/117/category/26/display/1/",
+      "store_cover": "https://www.goyoseosa.co.kr/web/product/medium/202507/cd6f77431f9c31806e73a4be7ceec016.jpg",
+      "cover": "https://www.goyoseosa.co.kr/web/product/medium/202507/cd6f77431f9c31806e73a4be7ceec016.jpg",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%F0%9F%AB%9B%20%EC%8A%AC%ED%94%94%EC%97%90%20%EC%9D%B4%EB%A6%84%20%EB%B6%99%EC%9D%B4%EA%B8%B0"
+    },
+    {
+      "title": "🫛 너 없이 걸었다",
+      "store": "고요서사",
+      "section": "에세이",
+      "store_link": "https://www.goyoseosa.co.kr/product/🫛-너-없이-걸었다/92/category/26/display/1/",
+      "store_cover": "https://www.goyoseosa.co.kr/web/product/medium/202504/1d9a8598963c526cd96214cc51a68bf2.jpg",
+      "cover": "https://www.goyoseosa.co.kr/web/product/medium/202504/1d9a8598963c526cd96214cc51a68bf2.jpg",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%F0%9F%AB%9B%20%EB%84%88%20%EC%97%86%EC%9D%B4%20%EA%B1%B8%EC%97%88%EB%8B%A4"
+    },
+    {
+      "title": "🫛 일인칭 가난",
+      "store": "고요서사",
+      "section": "에세이",
+      "store_link": "https://www.goyoseosa.co.kr/product/🫛-일인칭-가난/91/category/26/display/1/",
+      "store_cover": "https://www.goyoseosa.co.kr/web/product/medium/202504/7f5036d2d7cfb8e135a549d7cd5d6f77.jpg",
+      "cover": "https://www.goyoseosa.co.kr/web/product/medium/202504/7f5036d2d7cfb8e135a549d7cd5d6f77.jpg",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%F0%9F%AB%9B%20%EC%9D%BC%EC%9D%B8%EC%B9%AD%20%EA%B0%80%EB%82%9C"
+    },
+    {
+      "title": "🫛 아르고호의 선원들",
+      "store": "고요서사",
+      "section": "에세이",
+      "store_link": "https://www.goyoseosa.co.kr/product/🫛-아르고호의-선원들/90/category/26/display/1/",
+      "store_cover": "https://www.goyoseosa.co.kr/web/product/medium/202504/ffbafd6b970de83e0411f0a21764a9b2.jpg",
+      "cover": "https://www.goyoseosa.co.kr/web/product/medium/202504/ffbafd6b970de83e0411f0a21764a9b2.jpg",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%F0%9F%AB%9B%20%EC%95%84%EB%A5%B4%EA%B3%A0%ED%98%B8%EC%9D%98%20%EC%84%A0%EC%9B%90%EB%93%A4"
+    },
+    {
+      "title": "밑줄과 생각",
+      "store": "고요서사",
+      "section": "에세이",
+      "store_link": "https://www.goyoseosa.co.kr/product/밑줄과-생각/83/category/26/display/1/",
+      "store_cover": "https://www.goyoseosa.co.kr/web/product/medium/202503/a489f2c9b916612e4378b2a78e4711b8.jpg",
+      "cover": "https://www.goyoseosa.co.kr/web/product/medium/202503/a489f2c9b916612e4378b2a78e4711b8.jpg",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EB%B0%91%EC%A4%84%EA%B3%BC%20%EC%83%9D%EA%B0%81"
+    },
+    {
+      "title": "한 줄 시 읽는 법",
+      "store": "고요서사",
+      "section": "에세이",
+      "store_link": "https://www.goyoseosa.co.kr/product/한-줄-시-읽는-법/75/category/26/display/1/",
+      "store_cover": "https://www.goyoseosa.co.kr/web/product/medium/202502/470097dadd998de1d1949aec4bc91f8a.jpg",
+      "cover": "https://www.goyoseosa.co.kr/web/product/medium/202502/470097dadd998de1d1949aec4bc91f8a.jpg",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%ED%95%9C%20%EC%A4%84%20%EC%8B%9C%20%EC%9D%BD%EB%8A%94%20%EB%B2%95"
+    },
+    {
+      "title": "반짝이는 밤의 낱말들",
+      "store": "고요서사",
+      "section": "에세이",
+      "store_link": "https://www.goyoseosa.co.kr/product/반짝이는-밤의-낱말들/44/category/26/display/1/",
+      "store_cover": "https://www.goyoseosa.co.kr/web/product/medium/202405/59db028b51a04ad8a6dbaf5c26debf31.jpg",
+      "cover": "https://www.goyoseosa.co.kr/web/product/medium/202405/59db028b51a04ad8a6dbaf5c26debf31.jpg",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EB%B0%98%EC%A7%9D%EC%9D%B4%EB%8A%94%20%EB%B0%A4%EC%9D%98%20%EB%82%B1%EB%A7%90%EB%93%A4"
+    },
+    {
+      "title": "당신을 위한 것이나 당신의 것은 아닌",
+      "store": "고요서사",
+      "section": "에세이",
+      "store_link": "https://www.goyoseosa.co.kr/product/당신을-위한-것이나-당신의-것은-아닌/39/category/26/display/1/",
+      "store_cover": "https://www.goyoseosa.co.kr/web/product/medium/202404/1d152bfeb74b1de91c0308dd2464a7eb.jpg",
+      "cover": "https://www.goyoseosa.co.kr/web/product/medium/202404/1d152bfeb74b1de91c0308dd2464a7eb.jpg",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EB%8B%B9%EC%8B%A0%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EA%B2%83%EC%9D%B4%EB%82%98%20%EB%8B%B9%EC%8B%A0%EC%9D%98%20%EA%B2%83%EC%9D%80%20%EC%95%84%EB%8B%8C"
+    },
+    {
+      "title": "시는 언제나, 르네 샤르",
+      "store": "고요서사",
+      "section": "에세이",
+      "store_link": "https://www.goyoseosa.co.kr/product/시는-언제나-르네-샤르/35/category/26/display/1/",
+      "store_cover": "https://www.goyoseosa.co.kr/web/product/medium/202404/3cc8b0db9db494c43b6f980571a4d8ce.jpg",
+      "cover": "https://www.goyoseosa.co.kr/web/product/medium/202404/3cc8b0db9db494c43b6f980571a4d8ce.jpg",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%8B%9C%EB%8A%94%20%EC%96%B8%EC%A0%9C%EB%82%98%2C%20%EB%A5%B4%EB%84%A4%20%EC%83%A4%EB%A5%B4"
+    },
+    {
+      "title": "아무튼, 메모",
+      "store": "고요서사",
+      "section": "에세이",
+      "store_link": "https://www.goyoseosa.co.kr/product/아무튼-메모/25/category/26/display/1/",
+      "store_cover": "https://www.goyoseosa.co.kr/web/product/medium/202403/48dd0f30c0f8c53443d76fee47e1070d.jpg",
+      "cover": "https://www.goyoseosa.co.kr/web/product/medium/202403/48dd0f30c0f8c53443d76fee47e1070d.jpg",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%95%84%EB%AC%B4%ED%8A%BC%2C%20%EB%A9%94%EB%AA%A8"
+    },
+    {
+      "title": "나리 나리 김나리",
+      "store": "고요서사",
+      "section": "에세이",
+      "store_link": "https://www.goyoseosa.co.kr/product/나리-나리-김나리/24/category/26/display/1/",
+      "store_cover": "https://www.goyoseosa.co.kr/web/product/medium/202403/eb75b69e9fd6ba82a4b56c67dfc1415c.jpg",
+      "cover": "https://www.goyoseosa.co.kr/web/product/medium/202403/eb75b69e9fd6ba82a4b56c67dfc1415c.jpg",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EB%82%98%EB%A6%AC%20%EB%82%98%EB%A6%AC%20%EA%B9%80%EB%82%98%EB%A6%AC"
+    },
+    {
+      "title": "그림 없는 그림책",
+      "store": "고요서사",
+      "section": "시",
+      "store_link": "https://www.goyoseosa.co.kr/product/그림-없는-그림책/33/category/25/display/1/",
+      "store_cover": "https://www.goyoseosa.co.kr/web/product/medium/202404/987ca348fefbc15abf7cf3d802361db9.jpg",
+      "cover": "https://www.goyoseosa.co.kr/web/product/medium/202404/987ca348fefbc15abf7cf3d802361db9.jpg",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EA%B7%B8%EB%A6%BC%20%EC%97%86%EB%8A%94%20%EA%B7%B8%EB%A6%BC%EC%B1%85"
+    },
+    {
+      "title": "음악집",
+      "store": "고요서사",
+      "section": "시",
+      "store_link": "https://www.goyoseosa.co.kr/product/음악집/27/category/25/display/1/",
+      "store_cover": "https://www.goyoseosa.co.kr/web/product/medium/202403/9a0b2de14fd8f65e81f447246fc652f0.jpg",
+      "cover": "https://www.goyoseosa.co.kr/web/product/medium/202403/9a0b2de14fd8f65e81f447246fc652f0.jpg",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%9D%8C%EC%95%85%EC%A7%91"
+    },
+    {
+      "title": "2026년 5월 사적인 베스트",
+      "store": "사적인서점",
+      "section": "사적인 베스트·추천",
+      "store_link": "https://www.sajeokin-bookshop.com/product/2026년-5월-사적인-베스트/3010/category/42/display/1/",
+      "store_cover": "https://www.sajeokin-bookshop.com/web/product/medium/202606/a4395f3417f41d78f77014791cd1c38e.jpg",
+      "cover": "https://www.sajeokin-bookshop.com/web/product/medium/202606/a4395f3417f41d78f77014791cd1c38e.jpg",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=2026%EB%85%84%205%EC%9B%94%20%EC%82%AC%EC%A0%81%EC%9D%B8%20%EB%B2%A0%EC%8A%A4%ED%8A%B8"
+    },
+    {
+      "title": "김초엽,『해파리 만개』마음산책 짧은 소설",
+      "store": "사적인서점",
+      "section": "사적인 베스트·추천",
+      "store_link": "https://www.sajeokin-bookshop.com/product/김초엽해파리-만개마음산책-짧은-소설/3009/category/42/display/1/",
+      "store_cover": "https://www.sajeokin-bookshop.com/web/product/medium/202606/c61336d7f50ff1033d6d0021840030ff.jpg",
+      "cover": "https://www.sajeokin-bookshop.com/web/product/medium/202606/c61336d7f50ff1033d6d0021840030ff.jpg",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EA%B9%80%EC%B4%88%EC%97%BD%2C%E3%80%8E%ED%95%B4%ED%8C%8C%EB%A6%AC%20%EB%A7%8C%EA%B0%9C%E3%80%8F%EB%A7%88%EC%9D%8C%EC%82%B0%EC%B1%85%20%EC%A7%A7%EC%9D%80%20%EC%86%8C%EC%84%A4"
+    },
+    {
+      "title": "류시화,『내가 생각한 인생이 아니야』",
+      "store": "사적인서점",
+      "section": "사적인 베스트·추천",
+      "store_link": "https://www.sajeokin-bookshop.com/product/류시화내가-생각한-인생이-아니야/3008/category/42/display/1/",
+      "store_cover": "https://www.sajeokin-bookshop.com/web/product/medium/202606/fa005c23ae25ba778ec6e6350f8533f2.jpg",
+      "cover": "https://www.sajeokin-bookshop.com/web/product/medium/202606/fa005c23ae25ba778ec6e6350f8533f2.jpg",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EB%A5%98%EC%8B%9C%ED%99%94%2C%E3%80%8E%EB%82%B4%EA%B0%80%20%EC%83%9D%EA%B0%81%ED%95%9C%20%EC%9D%B8%EC%83%9D%EC%9D%B4%20%EC%95%84%EB%8B%88%EC%95%BC%E3%80%8F"
+    },
+    {
+      "title": "2026년 4월 사적인 베스트",
+      "store": "사적인서점",
+      "section": "사적인 베스트·추천",
+      "store_link": "https://www.sajeokin-bookshop.com/product/2026년-4월-사적인-베스트/3007/category/42/display/1/",
+      "store_cover": "https://www.sajeokin-bookshop.com/web/product/medium/202605/6998fab3327c231ed81e944fdbfe01e2.jpg",
+      "cover": "https://www.sajeokin-bookshop.com/web/product/medium/202605/6998fab3327c231ed81e944fdbfe01e2.jpg",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=2026%EB%85%84%204%EC%9B%94%20%EC%82%AC%EC%A0%81%EC%9D%B8%20%EB%B2%A0%EC%8A%A4%ED%8A%B8"
+    },
+    {
+      "title": "김채원,길란,남의현,서장원,위수정,이미상,함윤이『2026 제17회 젊은작가상 수상작품집』(일반본)",
+      "store": "사적인서점",
+      "section": "사적인 베스트·추천",
+      "store_link": "https://www.sajeokin-bookshop.com/product/김채원길란남의현서장원위수정이미상함윤이-2026-제17회-젊은작가상-수상작품집일반본/3006/category/42/display/1/",
+      "store_cover": "https://www.sajeokin-bookshop.com/web/product/medium/202605/791bf966dc33c2e22a96f25fbfc327ef.jpg",
+      "cover": "https://www.sajeokin-bookshop.com/web/product/medium/202605/791bf966dc33c2e22a96f25fbfc327ef.jpg",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EA%B9%80%EC%B1%84%EC%9B%90%2C%EA%B8%B8%EB%9E%80%2C%EB%82%A8%EC%9D%98%ED%98%84%2C%EC%84%9C%EC%9E%A5%EC%9B%90%2C%EC%9C%84%EC%88%98%EC%A0%95%2C%EC%9D%B4%EB%AF%B8%EC%83%81%2C%ED%95%A8%EC%9C%A4%EC%9D%B4%E3%80%8E2026%20%EC%A0%9C17%ED%9A%8C%20%EC%A0%8A%EC%9D%80%EC%9E%91%EA%B0%80%EC%83%81%20%EC%88%98%EC%83%81%EC%9E%91%ED%92%88%EC%A7%91%E3%80%8F%28%EC%9D%BC%EB%B0%98%EB%B3%B8%29"
+    },
+    {
+      "title": "변영근, 『낮게 흐르는』(친필 사인본)Dear 그림책",
+      "store": "사적인서점",
+      "section": "사적인 베스트·추천",
+      "store_link": "https://www.sajeokin-bookshop.com/product/변영근-낮게-흐르는친필-사인본dear-그림책/3003/category/42/display/1/",
+      "store_cover": "https://www.sajeokin-bookshop.com/web/product/medium/202605/25e0f7cd8dacdf391198c113b2350cd4.jpg",
+      "cover": "https://www.sajeokin-bookshop.com/web/product/medium/202605/25e0f7cd8dacdf391198c113b2350cd4.jpg",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EB%B3%80%EC%98%81%EA%B7%BC%2C%20%E3%80%8E%EB%82%AE%EA%B2%8C%20%ED%9D%90%EB%A5%B4%EB%8A%94%E3%80%8F%28%EC%B9%9C%ED%95%84%20%EC%82%AC%EC%9D%B8%EB%B3%B8%29Dear%20%EA%B7%B8%EB%A6%BC%EC%B1%85"
+    },
+    {
+      "title": "정대건, 『GV 빌런 고태경』(친필 사인본)",
+      "store": "사적인서점",
+      "section": "사적인 베스트·추천",
+      "store_link": "https://www.sajeokin-bookshop.com/product/정대건-gv-빌런-고태경친필-사인본/3001/category/42/display/1/",
+      "store_cover": "https://www.sajeokin-bookshop.com/web/product/medium/202605/1caffcb620e7e4b0fd81e5a3041140aa.jpg",
+      "cover": "https://www.sajeokin-bookshop.com/web/product/medium/202605/1caffcb620e7e4b0fd81e5a3041140aa.jpg",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%A0%95%EB%8C%80%EA%B1%B4%2C%20%E3%80%8EGV%20%EB%B9%8C%EB%9F%B0%20%EA%B3%A0%ED%83%9C%EA%B2%BD%E3%80%8F%28%EC%B9%9C%ED%95%84%20%EC%82%AC%EC%9D%B8%EB%B3%B8%29"
+    },
+    {
+      "title": "아침달 편집부, 『여름어 사전』(리커버)(동네서점 에디션)",
+      "store": "사적인서점",
+      "section": "사적인 베스트·추천",
+      "store_link": "https://www.sajeokin-bookshop.com/product/아침달-편집부-여름어-사전리커버동네서점-에디션/3000/category/42/display/1/",
+      "store_cover": "https://www.sajeokin-bookshop.com/web/product/medium/202605/36a6fd53f3cdb833ee55aa4adc9ce403.jpg",
+      "cover": "https://www.sajeokin-bookshop.com/web/product/medium/202605/36a6fd53f3cdb833ee55aa4adc9ce403.jpg",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%95%84%EC%B9%A8%EB%8B%AC%20%ED%8E%B8%EC%A7%91%EB%B6%80%2C%20%E3%80%8E%EC%97%AC%EB%A6%84%EC%96%B4%20%EC%82%AC%EC%A0%84%E3%80%8F%28%EB%A6%AC%EC%BB%A4%EB%B2%84%29%28%EB%8F%99%EB%84%A4%EC%84%9C%EC%A0%90%20%EC%97%90%EB%94%94%EC%85%98%29"
+    },
+    {
+      "title": "최은영,『백지 앞에서』",
+      "store": "사적인서점",
+      "section": "사적인 베스트·추천",
+      "store_link": "https://www.sajeokin-bookshop.com/product/최은영백지-앞에서/2999/category/42/display/1/",
+      "store_cover": "https://www.sajeokin-bookshop.com/web/product/medium/202604/81733de002e9057230a349e0878d9aa9.jpg",
+      "cover": "https://www.sajeokin-bookshop.com/web/product/medium/202604/81733de002e9057230a349e0878d9aa9.jpg",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%B5%9C%EC%9D%80%EC%98%81%2C%E3%80%8E%EB%B0%B1%EC%A7%80%20%EC%95%9E%EC%97%90%EC%84%9C%E3%80%8F"
+    },
+    {
+      "title": "박선영,『그저 하루치의 낙담』",
+      "store": "사적인서점",
+      "section": "사적인 베스트·추천",
+      "store_link": "https://www.sajeokin-bookshop.com/product/박선영그저-하루치의-낙담/2998/category/42/display/1/",
+      "store_cover": "https://www.sajeokin-bookshop.com/web/product/medium/202604/bdaedee606969a7923e755055520bf6a.jpg",
+      "cover": "https://www.sajeokin-bookshop.com/web/product/medium/202604/bdaedee606969a7923e755055520bf6a.jpg",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EB%B0%95%EC%84%A0%EC%98%81%2C%E3%80%8E%EA%B7%B8%EC%A0%80%20%ED%95%98%EB%A3%A8%EC%B9%98%EC%9D%98%20%EB%82%99%EB%8B%B4%E3%80%8F"
+    },
+    {
+      "title": "[미스테리어스플랜트] 식물이름 안에 동물이름 시리즈식물모빌(3종)",
+      "store": "사적인서점",
+      "section": "사적인 베스트·추천",
+      "store_link": "https://www.sajeokin-bookshop.com/product/미스테리어스플랜트-식물이름-안에-동물이름-시리즈식물모빌3종/2997/category/42/display/1/",
+      "store_cover": "https://www.sajeokin-bookshop.com/web/product/medium/202604/1539d422eb4c119aabf3b04b837bd40d.jpg",
+      "cover": "https://www.sajeokin-bookshop.com/web/product/medium/202604/1539d422eb4c119aabf3b04b837bd40d.jpg",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EB%AF%B8%EC%8A%A4%ED%85%8C%EB%A6%AC%EC%96%B4%EC%8A%A4%ED%94%8C%EB%9E%9C%ED%8A%B8%5D%20%EC%8B%9D%EB%AC%BC%EC%9D%B4%EB%A6%84%20%EC%95%88%EC%97%90%20%EB%8F%99%EB%AC%BC%EC%9D%B4%EB%A6%84%20%EC%8B%9C%EB%A6%AC%EC%A6%88%EC%8B%9D%EB%AC%BC%EB%AA%A8%EB%B9%8C%283%EC%A2%85%29"
+    },
+    {
+      "title": "황국영,『퉤퉤퉤』(리커버)(욤이네 수박씨 버전)(사은품 증정)",
+      "store": "사적인서점",
+      "section": "사적인 베스트·추천",
+      "store_link": "https://www.sajeokin-bookshop.com/product/황국영퉤퉤퉤리커버-욤이네-수박씨-버전사은품-증정/2996/category/42/display/1/",
+      "store_cover": "https://www.sajeokin-bookshop.com/web/product/medium/202604/1852b7247b52c0425a9451e85c46308e.jpg",
+      "cover": "https://www.sajeokin-bookshop.com/web/product/medium/202604/1852b7247b52c0425a9451e85c46308e.jpg",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%ED%99%A9%EA%B5%AD%EC%98%81%2C%E3%80%8E%ED%89%A4%ED%89%A4%ED%89%A4%E3%80%8F%28%EB%A6%AC%EC%BB%A4%EB%B2%84%29%28%EC%9A%A4%EC%9D%B4%EB%84%A4%20%EC%88%98%EB%B0%95%EC%94%A8%20%EB%B2%84%EC%A0%84%29%28%EC%82%AC%EC%9D%80%ED%92%88%20%EC%A6%9D%EC%A0%95%29"
+    },
+    {
+      "title": "김채원,길란,남의현,서장원,위수정,이미상,함윤이『2026 제17회 젊은작가상 수상작품집』(동네서점 에디션)",
+      "store": "사적인서점",
+      "section": "사적인 베스트·추천",
+      "store_link": "https://www.sajeokin-bookshop.com/product/김채원길란남의현서장원위수정이미상함윤이-2026-제17회-젊은작가상-수상작품집동네서점-에디션/2995/category/42/display/1/",
+      "store_cover": "https://www.sajeokin-bookshop.com/web/product/medium/202604/1de51bc08c3da124890f933bd64c9645.jpg",
+      "cover": "https://www.sajeokin-bookshop.com/web/product/medium/202604/1de51bc08c3da124890f933bd64c9645.jpg",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EA%B9%80%EC%B1%84%EC%9B%90%2C%EA%B8%B8%EB%9E%80%2C%EB%82%A8%EC%9D%98%ED%98%84%2C%EC%84%9C%EC%9E%A5%EC%9B%90%2C%EC%9C%84%EC%88%98%EC%A0%95%2C%EC%9D%B4%EB%AF%B8%EC%83%81%2C%ED%95%A8%EC%9C%A4%EC%9D%B4%E3%80%8E2026%20%EC%A0%9C17%ED%9A%8C%20%EC%A0%8A%EC%9D%80%EC%9E%91%EA%B0%80%EC%83%81%20%EC%88%98%EC%83%81%EC%9E%91%ED%92%88%EC%A7%91%E3%80%8F%28%EB%8F%99%EB%84%A4%EC%84%9C%EC%A0%90%20%EC%97%90%EB%94%94%EC%85%98%29"
+    },
+    {
+      "title": "홍서진님 개인결제창입니다",
+      "store": "사적인서점",
+      "section": "사적인 베스트·추천",
+      "store_link": "https://www.sajeokin-bookshop.com/product/홍서진님-개인결제창입니다/2994/category/42/display/1/",
+      "store_cover": "https://www.sajeokin-bookshop.com/web/product/medium/202603/46b3e2aef89cd79e4402bdcfdd60fcf8.jpg",
+      "cover": "https://www.sajeokin-bookshop.com/web/product/medium/202603/46b3e2aef89cd79e4402bdcfdd60fcf8.jpg",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%ED%99%8D%EC%84%9C%EC%A7%84%EB%8B%98%20%EA%B0%9C%EC%9D%B8%EA%B2%B0%EC%A0%9C%EC%B0%BD%EC%9E%85%EB%8B%88%EB%8B%A4"
+    },
+    {
+      "title": "[김승연] 『대리독서견』 엽서(3종)",
+      "store": "사적인서점",
+      "section": "사적인 베스트·추천",
+      "store_link": "https://www.sajeokin-bookshop.com/product/김승연-대리독서견-엽서3종/2993/category/42/display/1/",
+      "store_cover": "https://www.sajeokin-bookshop.com/web/product/medium/202603/fa9d5c7f0f87837f4de841b9dd90f27c.jpg",
+      "cover": "https://www.sajeokin-bookshop.com/web/product/medium/202603/fa9d5c7f0f87837f4de841b9dd90f27c.jpg",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EA%B9%80%EC%8A%B9%EC%97%B0%5D%20%E3%80%8E%EB%8C%80%EB%A6%AC%EB%8F%85%EC%84%9C%EA%B2%AC%E3%80%8F%20%EC%97%BD%EC%84%9C%283%EC%A2%85%29"
+    },
+    {
+      "title": "[김승연] 마이 비 데이 MY B DAY 엽서",
+      "store": "사적인서점",
+      "section": "사적인 베스트·추천",
+      "store_link": "https://www.sajeokin-bookshop.com/product/김승연-마이-비-데이-my-b-day-엽서/2992/category/42/display/1/",
+      "store_cover": "https://www.sajeokin-bookshop.com/web/product/medium/202603/5079bed294c97787d8d73d88426d11e6.webp",
+      "cover": "https://www.sajeokin-bookshop.com/web/product/medium/202603/5079bed294c97787d8d73d88426d11e6.webp",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EA%B9%80%EC%8A%B9%EC%97%B0%5D%20%EB%A7%88%EC%9D%B4%20%EB%B9%84%20%EB%8D%B0%EC%9D%B4%20MY%20B%20DAY%20%EC%97%BD%EC%84%9C"
+    },
+    {
+      "title": "김성우, 『인공지능은 나의 읽기-쓰기를 어떻게 바꿀까』",
+      "store": "사적인서점",
+      "section": "사적인 베스트·추천",
+      "store_link": "https://www.sajeokin-bookshop.com/product/김성우-인공지능은-나의-읽기-쓰기를-어떻게-바꿀까/2991/category/42/display/1/",
+      "store_cover": "https://www.sajeokin-bookshop.com/web/product/medium/202603/afc8e68dc1ac158a7068757c58c48294.jpg",
+      "cover": "https://www.sajeokin-bookshop.com/web/product/medium/202603/afc8e68dc1ac158a7068757c58c48294.jpg",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EA%B9%80%EC%84%B1%EC%9A%B0%2C%20%E3%80%8E%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%80%20%EB%82%98%EC%9D%98%20%EC%9D%BD%EA%B8%B0-%EC%93%B0%EA%B8%B0%EB%A5%BC%20%EC%96%B4%EB%96%BB%EA%B2%8C%20%EB%B0%94%EA%BF%80%EA%B9%8C%E3%80%8F"
+    },
+    {
+      "title": "대니얼 R. 브룩스, 살바토레 J. 에이고스타(지은이), 장혜인(옮긴이)『완벽하지 않은 것이 살아남는다』",
+      "store": "사적인서점",
+      "section": "사적인 베스트·추천",
+      "store_link": "https://www.sajeokin-bookshop.com/product/대니얼-r-브룩스-살바토레-j-에이고스타지은이-장혜인옮긴이완벽하지-않은-것이-살아남는다/2990/category/42/display/1/",
+      "store_cover": "https://www.sajeokin-bookshop.com/web/product/medium/202602/54156d2abfc51486b05c94acf1094f9c.jpg",
+      "cover": "https://www.sajeokin-bookshop.com/web/product/medium/202602/54156d2abfc51486b05c94acf1094f9c.jpg",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EB%8C%80%EB%8B%88%EC%96%BC%20R.%20%EB%B8%8C%EB%A3%A9%EC%8A%A4%2C%20%EC%82%B4%EB%B0%94%ED%86%A0%EB%A0%88%20J.%20%EC%97%90%EC%9D%B4%EA%B3%A0%EC%8A%A4%ED%83%80%28%EC%A7%80%EC%9D%80%EC%9D%B4%29%2C%20%EC%9E%A5%ED%98%9C%EC%9D%B8%28%EC%98%AE%EA%B8%B4%EC%9D%B4%29%E3%80%8E%EC%99%84%EB%B2%BD%ED%95%98%EC%A7%80%20%EC%95%8A%EC%9D%80%20%EA%B2%83%EC%9D%B4%20%EC%82%B4%EC%95%84%EB%82%A8%EB%8A%94%EB%8B%A4%E3%80%8F"
+    },
+    {
+      "title": "슈테판 클라인(지은이), 유영미(옮긴이)『뇌는 어떻게 변화를 거부하는가』",
+      "store": "사적인서점",
+      "section": "사적인 베스트·추천",
+      "store_link": "https://www.sajeokin-bookshop.com/product/슈테판-클라인지은이-유영미옮긴이뇌는-어떻게-변화를-거부하는가/2989/category/42/display/1/",
+      "store_cover": "https://www.sajeokin-bookshop.com/web/product/medium/202602/d21e4a3513a6fd852a536b1865b8ad4e.jpg",
+      "cover": "https://www.sajeokin-bookshop.com/web/product/medium/202602/d21e4a3513a6fd852a536b1865b8ad4e.jpg",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%8A%88%ED%85%8C%ED%8C%90%20%ED%81%B4%EB%9D%BC%EC%9D%B8%28%EC%A7%80%EC%9D%80%EC%9D%B4%29%2C%20%EC%9C%A0%EC%98%81%EB%AF%B8%28%EC%98%AE%EA%B8%B4%EC%9D%B4%29%E3%80%8E%EB%87%8C%EB%8A%94%20%EC%96%B4%EB%96%BB%EA%B2%8C%20%EB%B3%80%ED%99%94%EB%A5%BC%20%EA%B1%B0%EB%B6%80%ED%95%98%EB%8A%94%EA%B0%80%E3%80%8F"
+    },
+    {
+      "title": "박민규, 『죽은 왕녀를 위한 파반느』(양장 특별판)",
+      "store": "사적인서점",
+      "section": "사적인 베스트·추천",
+      "store_link": "https://www.sajeokin-bookshop.com/product/박민규-죽은-왕녀를-위한-파반느양장-특별판/2988/category/42/display/1/",
+      "store_cover": "https://www.sajeokin-bookshop.com/web/product/medium/202602/6e4cf76768815197a59511ee847646d3.jpg",
+      "cover": "https://www.sajeokin-bookshop.com/web/product/medium/202602/6e4cf76768815197a59511ee847646d3.jpg",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EB%B0%95%EB%AF%BC%EA%B7%9C%2C%20%E3%80%8E%EC%A3%BD%EC%9D%80%20%EC%99%95%EB%85%80%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%ED%8C%8C%EB%B0%98%EB%8A%90%E3%80%8F%28%EC%96%91%EC%9E%A5%20%ED%8A%B9%EB%B3%84%ED%8C%90%29"
+    },
+    {
+      "title": "김규림, 『소비예찬』",
+      "store": "사적인서점",
+      "section": "사적인 베스트·추천",
+      "store_link": "https://www.sajeokin-bookshop.com/product/김규림-소비예찬/2987/category/42/display/1/",
+      "store_cover": "https://www.sajeokin-bookshop.com/web/product/medium/202602/1577af3b95b5a3f31fd6eeda4082a534.jpg",
+      "cover": "https://www.sajeokin-bookshop.com/web/product/medium/202602/1577af3b95b5a3f31fd6eeda4082a534.jpg",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EA%B9%80%EA%B7%9C%EB%A6%BC%2C%20%E3%80%8E%EC%86%8C%EB%B9%84%EC%98%88%EC%B0%AC%E3%80%8F"
+    },
+    {
+      "title": "김화진, 황유원, 정용준, 임선우, 권누리, 김선형, 김복희, 유선혜, 정수윤, 김서해『나만 아는 단어』",
+      "store": "사적인서점",
+      "section": "사적인 베스트·추천",
+      "store_link": "https://www.sajeokin-bookshop.com/product/김화진-황유원-정용준-임선우-권누리-김선형-김복희-유선혜-정수윤-김서해나만-아는-단어/2986/category/42/display/1/",
+      "store_cover": "https://www.sajeokin-bookshop.com/web/product/medium/202602/93ce89c6fc0eef78413fa553a27f73e7.jpg",
+      "cover": "https://www.sajeokin-bookshop.com/web/product/medium/202602/93ce89c6fc0eef78413fa553a27f73e7.jpg",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EA%B9%80%ED%99%94%EC%A7%84%2C%20%ED%99%A9%EC%9C%A0%EC%9B%90%2C%20%EC%A0%95%EC%9A%A9%EC%A4%80%2C%20%EC%9E%84%EC%84%A0%EC%9A%B0%2C%20%EA%B6%8C%EB%88%84%EB%A6%AC%2C%20%EA%B9%80%EC%84%A0%ED%98%95%2C%20%EA%B9%80%EB%B3%B5%ED%9D%AC%2C%20%EC%9C%A0%EC%84%A0%ED%98%9C%2C%20%EC%A0%95%EC%88%98%EC%9C%A4%2C%20%EA%B9%80%EC%84%9C%ED%95%B4%E3%80%8E%EB%82%98%EB%A7%8C%20%EC%95%84%EB%8A%94%20%EB%8B%A8%EC%96%B4%E3%80%8F"
+    },
+    {
+      "title": "이은경, 『아무튼, 명상』아무튼 시리즈 81",
+      "store": "사적인서점",
+      "section": "사적인 베스트·추천",
+      "store_link": "https://www.sajeokin-bookshop.com/product/이은경-아무튼-명상아무튼-시리즈-81/2985/category/42/display/1/",
+      "store_cover": "https://www.sajeokin-bookshop.com/web/product/medium/202602/35ed6769ad4f4226c63c2d473fa95865.jpg",
+      "cover": "https://www.sajeokin-bookshop.com/web/product/medium/202602/35ed6769ad4f4226c63c2d473fa95865.jpg",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%9D%B4%EC%9D%80%EA%B2%BD%2C%20%E3%80%8E%EC%95%84%EB%AC%B4%ED%8A%BC%2C%20%EB%AA%85%EC%83%81%E3%80%8F%EC%95%84%EB%AC%B4%ED%8A%BC%20%EC%8B%9C%EB%A6%AC%EC%A6%88%2081"
+    },
+    {
+      "title": "제시카 J. 리(지은이), 서제인(옮긴이)『흩어짐』",
+      "store": "사적인서점",
+      "section": "사적인 베스트·추천",
+      "store_link": "https://www.sajeokin-bookshop.com/product/제시카-j-리지은이-서제인옮긴이흩어짐/2984/category/42/display/1/",
+      "store_cover": "https://www.sajeokin-bookshop.com/web/product/medium/202602/7420220efd139a5560c215758ded662b.jpg",
+      "cover": "https://www.sajeokin-bookshop.com/web/product/medium/202602/7420220efd139a5560c215758ded662b.jpg",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%A0%9C%EC%8B%9C%EC%B9%B4%20J.%20%EB%A6%AC%28%EC%A7%80%EC%9D%80%EC%9D%B4%29%2C%20%EC%84%9C%EC%A0%9C%EC%9D%B8%28%EC%98%AE%EA%B8%B4%EC%9D%B4%29%E3%80%8E%ED%9D%A9%EC%96%B4%EC%A7%90%E3%80%8F"
+    },
+    {
+      "title": "위수정, 김혜진, 성혜령, 이민진, 정이현, 함윤이, 『눈과 돌멩이』제 49회 이상문학상 작품집",
+      "store": "사적인서점",
+      "section": "사적인 베스트·추천",
+      "store_link": "https://www.sajeokin-bookshop.com/product/위수정-김혜진-성혜령-이민진-정이현-함윤이-눈과-돌멩이제-49회-이상문학상-작품집/2983/category/42/display/1/",
+      "store_cover": "https://www.sajeokin-bookshop.com/web/product/medium/202602/9b593b762d165dcbf04f0370577fb5a8.jpg",
+      "cover": "https://www.sajeokin-bookshop.com/web/product/medium/202602/9b593b762d165dcbf04f0370577fb5a8.jpg",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%9C%84%EC%88%98%EC%A0%95%2C%20%EA%B9%80%ED%98%9C%EC%A7%84%2C%20%EC%84%B1%ED%98%9C%EB%A0%B9%2C%20%EC%9D%B4%EB%AF%BC%EC%A7%84%2C%20%EC%A0%95%EC%9D%B4%ED%98%84%2C%20%ED%95%A8%EC%9C%A4%EC%9D%B4%2C%20%E3%80%8E%EB%88%88%EA%B3%BC%20%EB%8F%8C%EB%A9%A9%EC%9D%B4%E3%80%8F%EC%A0%9C%2049%ED%9A%8C%20%EC%9D%B4%EC%83%81%EB%AC%B8%ED%95%99%EC%83%81%20%EC%9E%91%ED%92%88%EC%A7%91"
+    },
+    {
+      "title": "김수영, 『필연적 혼자의 시대』",
+      "store": "사적인서점",
+      "section": "사적인 베스트·추천",
+      "store_link": "https://www.sajeokin-bookshop.com/product/김수영-필연적-혼자의-시대/2982/category/42/display/1/",
+      "store_cover": "https://www.sajeokin-bookshop.com/web/product/medium/202602/8163204b141df0932ca046af97000d9a.jpg",
+      "cover": "https://www.sajeokin-bookshop.com/web/product/medium/202602/8163204b141df0932ca046af97000d9a.jpg",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EA%B9%80%EC%88%98%EC%98%81%2C%20%E3%80%8E%ED%95%84%EC%97%B0%EC%A0%81%20%ED%98%BC%EC%9E%90%EC%9D%98%20%EC%8B%9C%EB%8C%80%E3%80%8F"
+    },
+    {
+      "title": "줄리언 반스(지은이), 정영목(옮긴이)『떠난 것은 돌아오지 않는다』",
+      "store": "사적인서점",
+      "section": "사적인 베스트·추천",
+      "store_link": "https://www.sajeokin-bookshop.com/product/줄리언-반스지은이-정영목옮긴이떠난-것은-돌아오지-않는다/2981/category/42/display/1/",
+      "store_cover": "https://www.sajeokin-bookshop.com/web/product/medium/202602/6fde36e3a75dc33e60a33f7153ec1d6d.jpg",
+      "cover": "https://www.sajeokin-bookshop.com/web/product/medium/202602/6fde36e3a75dc33e60a33f7153ec1d6d.jpg",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%A4%84%EB%A6%AC%EC%96%B8%20%EB%B0%98%EC%8A%A4%28%EC%A7%80%EC%9D%80%EC%9D%B4%29%2C%20%EC%A0%95%EC%98%81%EB%AA%A9%28%EC%98%AE%EA%B8%B4%EC%9D%B4%29%E3%80%8E%EB%96%A0%EB%82%9C%20%EA%B2%83%EC%9D%80%20%EB%8F%8C%EC%95%84%EC%98%A4%EC%A7%80%20%EC%95%8A%EB%8A%94%EB%8B%A4%E3%80%8F"
+    },
+    {
+      "title": "김화진, 정지혜, 정기현, 황은주, 『겨울 연습』",
+      "store": "사적인서점",
+      "section": "사적인 베스트·추천",
+      "store_link": "https://www.sajeokin-bookshop.com/product/김화진-정지혜-정기현-황은주-겨울-연습/2980/category/42/display/1/",
+      "store_cover": "https://www.sajeokin-bookshop.com/web/product/medium/202602/2ab6806236069cffbebc1c30602c088b.jpg",
+      "cover": "https://www.sajeokin-bookshop.com/web/product/medium/202602/2ab6806236069cffbebc1c30602c088b.jpg",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EA%B9%80%ED%99%94%EC%A7%84%2C%20%EC%A0%95%EC%A7%80%ED%98%9C%2C%20%EC%A0%95%EA%B8%B0%ED%98%84%2C%20%ED%99%A9%EC%9D%80%EC%A3%BC%2C%20%E3%80%8E%EA%B2%A8%EC%9A%B8%20%EC%97%B0%EC%8A%B5%E3%80%8F"
     },
     {
       "title": "[예약판매] 시트 마리-로즈",
@@ -1782,10 +2268,12 @@ window.__INDIE_BOOKS_DATA__ = {
     }
   ],
   "errors": [],
-  "total": 182,
+  "total": 236,
   "stores_attempted": [
+    "북앤스페이스",
     "소심한책방",
+    "사적인서점",
     "유어마인드",
-    "북앤스페이스"
+    "고요서사"
   ]
 };

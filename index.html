@@ -295,7 +295,7 @@ const SHELF = window.__MYSHELF_DATA__ || null;
 const INDIE = window.__INDIE_BOOKS_DATA__ || null;
 
 // 독립서점 표시 순서 (이 목록에 없는 서점은 뒤에 붙음)
-const INDIE_STORE_ORDER = ["땡스북스", "더북소사이어티", "소심한책방", "유어마인드", "북앤스페이스"];
+const INDIE_STORE_ORDER = ["땡스북스", "더북소사이어티", "고요서사", "사적인서점", "소심한책방", "유어마인드", "북앤스페이스"];
 function orderStores(arr) {
   return arr.slice().sort((a, b) => {
     const ia = INDIE_STORE_ORDER.indexOf(a), ib = INDIE_STORE_ORDER.indexOf(b);
@@ -333,7 +333,7 @@ function renderSources() {
   // 독립서점 — 자동 HTTP (Cafe24 기반)
   // 독립서점 — 시각 수집 (Chrome MCP / Instagram)
   // 대형서점 — 매일 자동
-  const INDIE_AUTO = new Set(["유어마인드", "소심한책방", "땡스북스", "북앤스페이스", "더북소사이어티"]);
+  const INDIE_AUTO = new Set(["유어마인드", "소심한책방", "땡스북스", "북앤스페이스", "더북소사이어티", "고요서사", "사적인서점"]);
   const INDIE_VISUAL = new Set(["에그북스"]);
 
   if (INDIE && INDIE.books) {
