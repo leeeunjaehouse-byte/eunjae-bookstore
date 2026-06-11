@@ -1,6 +1,6 @@
 window.__OVERSEAS_BOOKS_DATA__ = {
-  "updated_at": "2026-06-11T08:03:49.495698+09:00",
-  "today": "2026-06-11",
+  "updated_at": "2026-06-12T08:03:09.759393+09:00",
+  "today": "2026-06-12",
   "books": [
     {
       "title": "Flash Art #355 2026",
@@ -883,6 +883,28 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "cover": "https://cdn.shopify.com/s/files/1/0290/3562/6574/files/MB_WEINER_WE_ARE_SHIPS_01.jpg?v=1744483758"
     },
     {
+      "title": "The Cultured Collector",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "The Monacelli Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/M-the-cultured-collector-ae-3762-3d-standing-front-3000.jpg?v=1780430366",
+      "store_link": "https://www.phaidon.com/products/the-cultured-collector",
+      "published_at": "2026-06-11T17:14:07+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/M-the-cultured-collector-ae-3762-3d-standing-front-3000.jpg?v=1780430366"
+    },
+    {
+      "title": "February 11",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "Artspace",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/Sho_20Shibuya-1-72dpi-WebUse.jpg?v=1780399068",
+      "store_link": "https://www.phaidon.com/products/sho-shibuya-february-11-5056880812375",
+      "published_at": "2026-06-11T14:13:25+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/Sho_20Shibuya-1-72dpi-WebUse.jpg?v=1780399068"
+    },
+    {
       "title": "The Mon Lapin Cookbook: De Toute Beauté: From Montreal, With Love",
       "store": "Phaidon",
       "city": "출판사",
@@ -1079,28 +1101,6 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "store_link": "https://www.phaidon.com/products/william-wegman-batty-back-up-5056880806428",
       "published_at": "2026-05-11T16:33:15+01:00",
       "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/william_wegman_1932_ORIG.jpg?v=1771431078"
-    },
-    {
-      "title": "Live From the Artists Den",
-      "store": "Phaidon",
-      "city": "출판사",
-      "section": "아트·디자인",
-      "author": "Artspace",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/adam-macchia-and-erika-goldring-artists-den-photographs-ORIG_mi1kod_497a0a02-1aa5-4b7b-bf28-fa5d4c0a07c8.jpg?v=1771611398",
-      "store_link": "https://www.phaidon.com/products/adam-macchia-live-from-the-artists-den-5056880802024-p",
-      "published_at": "2026-05-11T16:33:14+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/adam-macchia-and-erika-goldring-artists-den-photographs-ORIG_mi1kod_497a0a02-1aa5-4b7b-bf28-fa5d4c0a07c8.jpg?v=1771611398"
-    },
-    {
-      "title": "Hammer, Stick, Same Thang",
-      "store": "Phaidon",
-      "city": "출판사",
-      "section": "아트·디자인",
-      "author": "Artspace",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/awol-erizku-hammer-stick-same-thang-ORIG.jpg?v=1768573160",
-      "store_link": "https://www.phaidon.com/products/awol-erizku-hammer-stick-same-thang-5056880805766-p",
-      "published_at": "2026-05-11T16:33:12+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/awol-erizku-hammer-stick-same-thang-ORIG.jpg?v=1768573160"
     },
     {
       "title": "The Porsche Book",

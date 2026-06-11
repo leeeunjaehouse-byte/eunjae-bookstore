@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-11T08:03:30.721811+09:00",
-  "today": "2026-06-11",
+  "updated_at": "2026-06-12T08:02:52.617102+09:00",
+  "today": "2026-06-12",
   "books": [
     {
       "title": "꽃점 (Floral Fortune) · 희다가든",
@@ -28,15 +28,6 @@
       "store_cover": "https://www.your-mind.com/web/product/big/202605/8eadded314ab2bf31c9fde7c55545513.png",
       "cover": "https://www.your-mind.com/web/product/big/202605/8eadded314ab2bf31c9fde7c55545513.png",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20%EC%83%89%EA%B3%BC%20%ED%98%95%ED%83%9C%EA%B0%80%20%EB%90%98%EA%B8%B0%20%ED%9B%A8%EC%94%AC%20%EC%A0%84%EC%97%90%20%C2%B7%20%EB%82%98%EA%B0%80%EC%8B%9C%EB%A7%88%20%EB%A6%AC%EC%B9%B4%EC%BD%94"
-    },
-    {
-      "title": "[재입고] 리타의 산책 · 안리타",
-      "store": "유어마인드",
-      "section": "BOOKS",
-      "store_link": "https://www.your-mind.com/product/재입고-리타의-산책-·-안리타/6005/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202605/bfd07ea6c91302c151d92effd07e1718.png",
-      "cover": "https://www.your-mind.com/web/product/big/202605/bfd07ea6c91302c151d92effd07e1718.png",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20%EB%A6%AC%ED%83%80%EC%9D%98%20%EC%82%B0%EC%B1%85%20%C2%B7%20%EC%95%88%EB%A6%AC%ED%83%80"
     },
     {
       "title": "[재입고] 리타의 정원 · 안리타",
@@ -271,6 +262,15 @@
       "store_cover": "https://www.your-mind.com/web/product/big/202601/6fe583f27d5436320a33a17ff3f4cb50.jpg",
       "cover": "https://www.your-mind.com/web/product/big/202601/6fe583f27d5436320a33a17ff3f4cb50.jpg",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20%EC%95%99%ED%8A%B8%EB%A0%88%ED%94%84%EB%A0%88%EC%B9%B4%EB%A6%AC%EC%95%84%ED%8A%B8%20-%C2%A0%EC%9D%B4%EC%A0%9C%EB%8A%94%20%EC%9A%B0%EB%A6%AC%20%EB%AA%A8%EB%91%90%20%EB%AA%A8%EB%91%90%20%EA%B8%B0%EC%97%85%EA%B0%80%2C%EA%B7%B8%EB%9F%AC%EB%82%98%20%EB%88%84%EA%B5%AC%EB%8F%84%20%EB%88%84%EA%B5%AC%EB%8F%84%20%EC%95%88%EC%A0%84%ED%95%98%EC%A7%80%20%EC%95%8A%EC%A7%80.%20%C2%B7%20%EC%8B%A4%EB%B9%84%EC%98%A4%20%EB%A1%9C%EB%A3%A8%EC%86%8C"
+    },
+    {
+      "title": "[4차 입고] 풀잎들 · 김목요",
+      "store": "유어마인드",
+      "section": "BOOKS",
+      "store_link": "https://www.your-mind.com/product/4차-입고-풀잎들-·-김목요/5929/category/27/display/1/",
+      "store_cover": "https://www.your-mind.com/web/product/big/202601/b9f0cda7c6b962621145ca7c9187667b.png",
+      "cover": "https://www.your-mind.com/web/product/big/202601/b9f0cda7c6b962621145ca7c9187667b.png",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B4%EC%B0%A8%20%EC%9E%85%EA%B3%A0%5D%20%ED%92%80%EC%9E%8E%EB%93%A4%20%C2%B7%20%EA%B9%80%EB%AA%A9%EC%9A%94"
     },
     {
       "title": "[예약판매/배송비 무료] 숨겨둔 책 세트 (No.025, 026, 027)",
@@ -876,6 +876,24 @@
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EB%8F%99%EB%84%A4%EC%84%9C%EC%A0%90%20only%5D%20%EB%8B%A4%EC%A0%95%ED%95%9C%20%EA%B5%AC%EC%9B%90"
     },
     {
+      "title": "[재입고!] 우리, 밤말할까요",
+      "store": "북앤스페이스",
+      "section": "신간·추천",
+      "store_link": "https://www.bookandspace.com/product/재입고-우리-밤말할까요/740/category/24/display/1/",
+      "store_cover": "https://www.bookandspace.com/web/product/medium/202606/ea15fa27e70f0e19b35201977d68d795.jpg",
+      "cover": "https://www.bookandspace.com/web/product/medium/202606/ea15fa27e70f0e19b35201977d68d795.jpg",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%21%5D%20%EC%9A%B0%EB%A6%AC%2C%20%EB%B0%A4%EB%A7%90%ED%95%A0%EA%B9%8C%EC%9A%94"
+    },
+    {
+      "title": "안녕의 메모리",
+      "store": "북앤스페이스",
+      "section": "신간·추천",
+      "store_link": "https://www.bookandspace.com/product/안녕의-메모리/739/category/24/display/1/",
+      "store_cover": "https://www.bookandspace.com/web/product/medium/202606/482d48386a00c4379fd0a716be863f91.jpg",
+      "cover": "https://www.bookandspace.com/web/product/medium/202606/482d48386a00c4379fd0a716be863f91.jpg",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%95%88%EB%85%95%EC%9D%98%20%EB%A9%94%EB%AA%A8%EB%A6%AC"
+    },
+    {
       "title": "식물과 집",
       "store": "북앤스페이스",
       "section": "신간·추천",
@@ -1036,24 +1054,6 @@
       "store_cover": "https://www.bookandspace.com/web/product/medium/202506/f653f23ceeb6b8f48b4e6cf8c35a7c28.jpg",
       "cover": "https://www.bookandspace.com/web/product/medium/202506/f653f23ceeb6b8f48b4e6cf8c35a7c28.jpg",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%E3%85%88%20%EC%9D%B8%EC%83%9D"
-    },
-    {
-      "title": "불편한 관심",
-      "store": "북앤스페이스",
-      "section": "신간·추천",
-      "store_link": "https://www.bookandspace.com/product/불편한-관심/709/category/24/display/1/",
-      "store_cover": "https://www.bookandspace.com/web/product/medium/202506/d0a43cfca2146b36f78bbaecb3b9167c.jpg",
-      "cover": "https://www.bookandspace.com/web/product/medium/202506/d0a43cfca2146b36f78bbaecb3b9167c.jpg",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EB%B6%88%ED%8E%B8%ED%95%9C%20%EA%B4%80%EC%8B%AC"
-    },
-    {
-      "title": "외롭지만 불행하진 않아",
-      "store": "북앤스페이스",
-      "section": "신간·추천",
-      "store_link": "https://www.bookandspace.com/product/외롭지만-불행하진-않아/708/category/24/display/1/",
-      "store_cover": "https://www.bookandspace.com/web/product/medium/202506/1ab516b2b16a62c5471e44bb8bc4640e.jpg",
-      "cover": "https://www.bookandspace.com/web/product/medium/202506/1ab516b2b16a62c5471e44bb8bc4640e.jpg",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%99%B8%EB%A1%AD%EC%A7%80%EB%A7%8C%20%EB%B6%88%ED%96%89%ED%95%98%EC%A7%84%20%EC%95%8A%EC%95%84"
     },
     {
       "title": "초록을 지닌 채 우리는",
@@ -1569,15 +1569,6 @@
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%ED%97%8C%EC%8B%A0%EC%9D%98%20%EC%98%81%ED%99%94"
     },
     {
-      "title": "[재입고] WHEN COOKING WAS A CRIME: MASAK IN THE SINGAPORE PRISONS, 1970S–1980S",
-      "store": "더북소사이어티",
-      "section": "큐레이션",
-      "store_link": "https://thebooksociety.org/shop_view/?idx=376",
-      "store_cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/e87f842f120e3.png?w=800",
-      "cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/e87f842f120e3.png?w=800",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20WHEN%20COOKING%20WAS%20A%20CRIME%3A%20MASAK%20IN%20THE%20SINGAPORE%20PRISONS%2C%201970S%E2%80%931980S"
-    },
-    {
       "title": "The [Other] / [Same Different] Vegetable",
       "store": "더북소사이어티",
       "section": "큐레이션",
@@ -1810,6 +1801,15 @@
       "store_cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/36ace04237c86.avif?w=800",
       "cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/36ace04237c86.avif?w=800",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=A%20SEXUAL%20HISTORY%20OF%20THE%20INTERNET"
+    },
+    {
+      "title": "책을 읽는 존재들",
+      "store": "더북소사이어티",
+      "section": "큐레이션",
+      "store_link": "https://thebooksociety.org/shop_view/?idx=1310",
+      "store_cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/a7a6ad69ade9e.jpg?w=800",
+      "cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/a7a6ad69ade9e.jpg?w=800",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%B1%85%EC%9D%84%20%EC%9D%BD%EB%8A%94%20%EC%A1%B4%EC%9E%AC%EB%93%A4"
     },
     {
       "title": "여행의 감각",
@@ -2093,8 +2093,8 @@
       "paper_no": "645",
       "tb_page": "http://thanksbooks.com/site/thanksbooks/index.php/selection/tp-2026/",
       "store_cover": "",
-      "cover": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791169094115.jpg",
-      "buy_link": "https://product.kyobobook.co.kr/detail/S000217098252",
+      "cover": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788932118567.jpg",
+      "buy_link": "https://product.kyobobook.co.kr/detail/S000201495858",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%ED%9D%AC%ED%9D%AC%ED%9D%AC"
     },
     {
@@ -2270,10 +2270,10 @@
   "errors": [],
   "total": 236,
   "stores_attempted": [
-    "북앤스페이스",
-    "고요서사",
-    "소심한책방",
     "사적인서점",
+    "북앤스페이스",
+    "소심한책방",
+    "고요서사",
     "유어마인드"
   ]
 }
