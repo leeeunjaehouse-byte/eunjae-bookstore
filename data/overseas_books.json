@@ -1,7 +1,73 @@
 {
-  "updated_at": "2026-06-12T08:03:09.759393+09:00",
-  "today": "2026-06-12",
+  "updated_at": "2026-06-13T08:03:09.649117+09:00",
+  "today": "2026-06-13",
   "books": [
+    {
+      "title": "Arch+ #264 2026 - Ruhr",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Arch+",
+      "store_cover": "",
+      "store_link": "https://www.doyoureadme.de/products/arch-264-2026-vom-gebiet-zum-raum",
+      "published_at": "2026-06-12T12:28:50+02:00",
+      "cover": ""
+    },
+    {
+      "title": "Narr #47 - Sci-Fi",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Das Narr",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43489-Narr-47_Sci-Fi-1.jpg?v=1781248880",
+      "store_link": "https://www.doyoureadme.de/products/narr-46-sci-fi",
+      "published_at": "2026-06-12T09:24:18+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43489-Narr-47_Sci-Fi-1.jpg?v=1781248880"
+    },
+    {
+      "title": "Hundert (mini)",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Kein & Aber",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43497-Hundert_mini-1.jpg?v=1781248882",
+      "store_link": "https://www.doyoureadme.de/products/hundert-mini",
+      "published_at": "2026-06-12T09:24:17+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43497-Hundert_mini-1.jpg?v=1781248882"
+    },
+    {
+      "title": "Another Man Vol.2 Issue #5 2026",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Another Magazine",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43496-Another-Man-Vol-2-Issue-5-2026-1.jpg?v=1781248881",
+      "store_link": "https://www.doyoureadme.de/products/another-man-vol-2-issue-5-2026",
+      "published_at": "2026-06-12T09:24:17+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43496-Another-Man-Vol-2-Issue-5-2026-1.jpg?v=1781248881"
+    },
+    {
+      "title": "Dazed #292 Summer 2026",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Dazed",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43495-Dazed-292-Summer-2026-1.jpg?v=1781248881",
+      "store_link": "https://www.doyoureadme.de/products/dazed-292-summer-2026",
+      "published_at": "2026-06-12T09:24:17+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43495-Dazed-292-Summer-2026-1.jpg?v=1781248881"
+    },
+    {
+      "title": "Homme Girls #15 Spring 2026",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Homme Girls",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43492-Homme-Girls-15-Spring-2026-1.jpg?v=1781248881",
+      "store_link": "https://www.doyoureadme.de/products/homme-girls-15-spring-2026",
+      "published_at": "2026-06-12T09:24:17+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43492-Homme-Girls-15-Spring-2026-1.jpg?v=1781248881"
+    },
     {
       "title": "Flash Art #355 2026",
       "store": "Do you read me?!",
@@ -41,10 +107,10 @@
       "city": "베를린",
       "section": "잡지·아트북",
       "author": "Scheidegger & Spiess",
-      "store_cover": "",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43491-Our-Minds-Under-Siege_Bruno-Giussani-1.jpg?v=1781248881",
       "store_link": "https://www.doyoureadme.de/products/our-minds-under-siege-bruno-giussani",
       "published_at": "2026-06-10T14:45:33+02:00",
-      "cover": ""
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43491-Our-Minds-Under-Siege_Bruno-Giussani-1.jpg?v=1781248881"
     },
     {
       "title": "Ideat FR #177 May/June 2026",
@@ -155,72 +221,6 @@
       "store_link": "https://www.doyoureadme.de/products/keith-haring-in-3d",
       "published_at": "2026-06-10T10:59:17+02:00",
       "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43484-Keith-Haring-in-3D-1.jpg?v=1781081491"
-    },
-    {
-      "title": "Whispering Things - Hella Jongerius",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Vitra Design Museum",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43483-Whispering-Things_Hella-Jongerius-1.jpg?v=1781081491",
-      "store_link": "https://www.doyoureadme.de/products/whispering-things-hella-jongerius",
-      "published_at": "2026-06-10T10:59:17+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43483-Whispering-Things_Hella-Jongerius-1.jpg?v=1781081491"
-    },
-    {
-      "title": "Delfi #6 2026 - Hype",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Delfi",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43481-Delfi-6-2026_Hype-1.jpg?v=1781081491",
-      "store_link": "https://www.doyoureadme.de/products/delfi-6-2026-hype",
-      "published_at": "2026-06-10T10:59:17+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43481-Delfi-6-2026_Hype-1.jpg?v=1781081491"
-    },
-    {
-      "title": "Spaces - Donald Judd (2. Edition)",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Judd Foundation",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/12004-35451-Spaces-Donald-Judd-1.jpg?v=1736904801",
-      "store_link": "https://www.doyoureadme.de/products/spaces-donald-judd-2-edition",
-      "published_at": "2026-06-09T14:56:28+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/12004-35451-Spaces-Donald-Judd-1.jpg?v=1736904801"
-    },
-    {
-      "title": "Madeira: Recipes & Wanderings on the Atlantic Island of Eternal Spring",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Apartamento",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43448-Madeira-Recipes-and-Wanderings-on-the-Atlantic-Island-of-Eternal-Spring-1.jpg?v=1780479195",
-      "store_link": "https://www.doyoureadme.de/products/madeira-recipes-wanderings-on-the-atlantic-island-of-eternal-spring",
-      "published_at": "2026-06-09T08:00:01+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43448-Madeira-Recipes-and-Wanderings-on-the-Atlantic-Island-of-Eternal-Spring-1.jpg?v=1780479195"
-    },
-    {
-      "title": "Vogue UK Jun. 2026",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Condé Nast",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Vogue_Standard_e289ef4c-220b-41ff-a692-c56f195833c5.jpg?v=1730212917",
-      "store_link": "https://www.doyoureadme.de/products/vogue-uk-jun-2026",
-      "published_at": "2026-06-06T11:01:37+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Vogue_Standard_e289ef4c-220b-41ff-a692-c56f195833c5.jpg?v=1730212917"
-    },
-    {
-      "title": "Sight & Sound June 2026",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Sight and Sound",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43460-Sight-andSound-June-2026-1.jpg?v=1780656503",
-      "store_link": "https://www.doyoureadme.de/products/sight-sound-june-2026",
-      "published_at": "2026-06-05T12:56:43+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43460-Sight-andSound-June-2026-1.jpg?v=1780656503"
     },
     {
       "title": "Cruising Archaeology II: Eurotrash",
@@ -443,6 +443,61 @@
       "cover": "https://cdn.shopify.com/s/files/1/0221/7340/files/Screenshot2026-04-03at14.03.53.png?v=1775221439"
     },
     {
+      "title": "British Journal of Photography #7926",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-12153007.png?v=1781275476",
+      "store_link": "https://magmabooks.com/products/british-journal-of-photography-7923-copy",
+      "published_at": "2026-06-12T15:45:17+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-12153007.png?v=1781275476"
+    },
+    {
+      "title": "Mr Norton's New Hat",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-12141520.png?v=1781270475",
+      "store_link": "https://magmabooks.com/products/see-you-later-copy-1",
+      "published_at": "2026-06-12T14:22:01+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-12141520.png?v=1781270475"
+    },
+    {
+      "title": "See You Later...",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/81MfSvixuaL._SL1500.jpg?v=1777641362",
+      "store_link": "https://magmabooks.com/products/see-you-later",
+      "published_at": "2026-06-12T14:19:12+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/81MfSvixuaL._SL1500.jpg?v=1777641362"
+    },
+    {
+      "title": "Moomins in the Theatre",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-12140428.png?v=1781269957",
+      "store_link": "https://magmabooks.com/products/emotions-copy",
+      "published_at": "2026-06-12T14:14:07+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-12140428.png?v=1781269957"
+    },
+    {
+      "title": "Smoking Hot Horses",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot_2026-06-12_135651.png?v=1781269038",
+      "store_link": "https://magmabooks.com/products/this-is-not-my-cat-copy",
+      "published_at": "2026-06-12T13:54:02+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot_2026-06-12_135651.png?v=1781269038"
+    },
+    {
       "title": "The Secret Life of Farts",
       "store": "Magma Books",
       "city": "런던",
@@ -606,61 +661,6 @@
       "store_link": "https://magmabooks.com/products/afrosport",
       "published_at": "2026-06-09T12:51:13+01:00",
       "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-05at13-39-14Afrosurf.png?v=1780663172"
-    },
-    {
-      "title": "Italian Brutalism",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot_2026-06-09_112914.png?v=1781001220",
-      "store_link": "https://magmabooks.com/products/spanish-brutalism-copy-1",
-      "published_at": "2026-06-09T11:33:03+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot_2026-06-09_112914.png?v=1781001220"
-    },
-    {
-      "title": "Saigon Brutalism",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot_2026-06-09_112150.png?v=1781000730",
-      "store_link": "https://magmabooks.com/products/spanish-brutalism-copy",
-      "published_at": "2026-06-09T11:26:17+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot_2026-06-09_112150.png?v=1781000730"
-    },
-    {
-      "title": "Spanish Brutalism",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot_2026-06-09_111746.png?v=1781000366",
-      "store_link": "https://magmabooks.com/products/concrete-aesthetic-2-barbican-estate-copy-1",
-      "published_at": "2026-06-09T11:16:42+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot_2026-06-09_111746.png?v=1781000366"
-    },
-    {
-      "title": "Monumental Architecture",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/products/Screenshot2023-02-21at14-46-21EttoreSottsassMonumentalArchitecture.png?v=1676991150",
-      "store_link": "https://magmabooks.com/products/monumental-architecture",
-      "published_at": "2026-06-07T19:31:41+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/products/Screenshot2023-02-21at14-46-21EttoreSottsassMonumentalArchitecture.png?v=1676991150"
-    },
-    {
-      "title": "Now Voyager #2",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Now_Voyager_350x465_d3df1ae8-5879-4da7-b698-ae1ca3c08335.webp?v=1780846813",
-      "store_link": "https://magmabooks.com/products/now-voyager-2",
-      "published_at": "2026-06-07T16:43:12+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Now_Voyager_350x465_d3df1ae8-5879-4da7-b698-ae1ca3c08335.webp?v=1780846813"
     },
     {
       "title": "Mast Books Tote Bag",

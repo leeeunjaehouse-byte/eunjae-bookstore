@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-12T08:02:52.617102+09:00",
-  "today": "2026-06-12",
+  "updated_at": "2026-06-13T08:02:53.423814+09:00",
+  "today": "2026-06-13",
   "books": [
     {
       "title": "꽃점 (Floral Fortune) · 희다가든",
@@ -165,13 +165,13 @@
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B4%EC%B0%A8%20%EC%9E%85%EA%B3%A0%5D%20%EC%9C%A0%EB%A0%B9%EA%B3%A0%EC%96%91%EC%9D%B4%EC%9D%98%20%EB%91%90%EB%A0%A4%EC%9B%80%EA%B3%BC%20%ED%95%B4%EA%B3%A8%EC%83%88%EC%9D%98%20%EC%A6%90%EA%B1%B0%EC%9B%80%20%C2%B7%20%ED%94%BC%EC%B9%B8%ED%8A%B8"
     },
     {
-      "title": "[재입고] 나무 그림자 채집 · 송민선, 최중원",
+      "title": "[3차 입고] 나무 그림자 채집 · 송민선, 최중원",
       "store": "유어마인드",
       "section": "BOOKS",
-      "store_link": "https://www.your-mind.com/product/재입고-나무-그림자-채집-·-송민선-최중원/5965/category/27/display/1/",
+      "store_link": "https://www.your-mind.com/product/3차-입고-나무-그림자-채집-·-송민선-최중원/5965/category/27/display/1/",
       "store_cover": "https://www.your-mind.com/web/product/big/202604/b09e2ec098e3bf50b4f8ac7b589d8ed5.png",
       "cover": "https://www.your-mind.com/web/product/big/202604/b09e2ec098e3bf50b4f8ac7b589d8ed5.png",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20%EB%82%98%EB%AC%B4%20%EA%B7%B8%EB%A6%BC%EC%9E%90%20%EC%B1%84%EC%A7%91%20%C2%B7%20%EC%86%A1%EB%AF%BC%EC%84%A0%2C%20%EC%B5%9C%EC%A4%91%EC%9B%90"
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B3%EC%B0%A8%20%EC%9E%85%EA%B3%A0%5D%20%EB%82%98%EB%AC%B4%20%EA%B7%B8%EB%A6%BC%EC%9E%90%20%EC%B1%84%EC%A7%91%20%C2%B7%20%EC%86%A1%EB%AF%BC%EC%84%A0%2C%20%EC%B5%9C%EC%A4%91%EC%9B%90"
     },
     {
       "title": "[3차 입고] 철도와 나 · 김은정",
@@ -2271,9 +2271,9 @@
   "total": 236,
   "stores_attempted": [
     "사적인서점",
-    "북앤스페이스",
     "소심한책방",
     "고요서사",
-    "유어마인드"
+    "유어마인드",
+    "북앤스페이스"
   ]
 }
