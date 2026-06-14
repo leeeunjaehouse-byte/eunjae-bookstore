@@ -1,6 +1,6 @@
 window.__OVERSEAS_BOOKS_DATA__ = {
-  "updated_at": "2026-06-13T08:03:09.649117+09:00",
-  "today": "2026-06-13",
+  "updated_at": "2026-06-15T08:02:47.672160+09:00",
+  "today": "2026-06-15",
   "books": [
     {
       "title": "Arch+ #264 2026 - Ruhr",
@@ -223,6 +223,17 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43484-Keith-Haring-in-3D-1.jpg?v=1781081491"
     },
     {
+      "title": "Bator zine (full set)",
+      "store": "Donlon Books",
+      "city": "런던",
+      "section": "아트·사진",
+      "author": "Donlon Books",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0221/7340/files/IMG_4367.heic?v=1781453915",
+      "store_link": "https://donlonbooks.com/products/bator-zine-full-set",
+      "published_at": "2026-06-14T15:08:05+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0221/7340/files/IMG_4367.heic?v=1781453915"
+    },
+    {
       "title": "Cruising Archaeology II: Eurotrash",
       "store": "Donlon Books",
       "city": "런던",
@@ -432,15 +443,48 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "cover": "https://cdn.shopify.com/s/files/1/0221/7340/products/studioparadiso.jpg?v=1656418612"
     },
     {
-      "title": "BUTT Magazine No.38",
-      "store": "Donlon Books",
+      "title": "PIN–UP #40",
+      "store": "Magma Books",
       "city": "런던",
-      "section": "아트·사진",
-      "author": "Donlon Books",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0221/7340/files/Screenshot2026-04-03at14.03.53.png?v=1775221439",
-      "store_link": "https://donlonbooks.com/products/butt-magazine-no-38",
-      "published_at": "2026-04-03T14:04:05+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0221/7340/files/Screenshot2026-04-03at14.03.53.png?v=1775221439"
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-13at14-06-02e23114d0f69b8f86333bc6478d9db46230c3e6ae-1671x1920.gif_GIFImage2000x2298pixels_Scaled_38.png?v=1781355980",
+      "store_link": "https://magmabooks.com/products/pin-up-41",
+      "published_at": "2026-06-13T14:06:36+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-13at14-06-02e23114d0f69b8f86333bc6478d9db46230c3e6ae-1671x1920.gif_GIFImage2000x2298pixels_Scaled_38.png?v=1781355980"
+    },
+    {
+      "title": "Novembre #18",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-13at13-59-12Novembre-N_18_YvonLambertParis.png?v=1781355564",
+      "store_link": "https://magmabooks.com/products/novembre-18",
+      "published_at": "2026-06-13T13:59:50+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-13at13-59-12Novembre-N_18_YvonLambertParis.png?v=1781355564"
+    },
+    {
+      "title": "Visual Stimulation #2",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-05-08173529.png?v=1778258297",
+      "store_link": "https://magmabooks.com/products/fluffer-everyday-7-copy",
+      "published_at": "2026-06-13T11:34:32+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-05-08173529.png?v=1778258297"
+    },
+    {
+      "title": "Shoot Like Wes",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2025-05-24at12-56-30ShootLikeWesAPracticalGuidetoCreatingYourOwnWesAndersonPhotographyAmazon.co.ukWoodwardAdamSeabrookLiz9780711296800Books.png?v=1748087983",
+      "store_link": "https://magmabooks.com/products/shoot-like-wes",
+      "published_at": "2026-06-13T11:05:59+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2025-05-24at12-56-30ShootLikeWesAPracticalGuidetoCreatingYourOwnWesAndersonPhotographyAmazon.co.ukWoodwardAdamSeabrookLiz9780711296800Books.png?v=1748087983"
     },
     {
       "title": "British Journal of Photography #7926",
@@ -492,10 +536,10 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "city": "런던",
       "section": "디자인·아트",
       "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot_2026-06-12_135651.png?v=1781269038",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-13at11-17-16SmokingHotHorsesZine_HatoPress.png?v=1781345850",
       "store_link": "https://magmabooks.com/products/this-is-not-my-cat-copy",
       "published_at": "2026-06-12T13:54:02+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot_2026-06-12_135651.png?v=1781269038"
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-13at11-17-16SmokingHotHorsesZine_HatoPress.png?v=1781345850"
     },
     {
       "title": "The Secret Life of Farts",
@@ -617,50 +661,6 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "store_link": "https://magmabooks.com/products/nails-sticker-kawaii-copy",
       "published_at": "2026-06-09T14:04:54+01:00",
       "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/R04408845_KAWAII_M.webp?v=1781010224"
-    },
-    {
-      "title": "Nails Sticker - Kawaii",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/nail.png?v=1781009350",
-      "store_link": "https://magmabooks.com/products/sticker-by-number-notebook-street-copy",
-      "published_at": "2026-06-09T13:56:08+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/nail.png?v=1781009350"
-    },
-    {
-      "title": "Sticker By Number Notebook - Street",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-09130904.png?v=1781007044",
-      "store_link": "https://magmabooks.com/products/sticker-by-number-notebook-bubble-tea-copy",
-      "published_at": "2026-06-09T13:11:18+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-09130904.png?v=1781007044"
-    },
-    {
-      "title": "Sticker By Number Notebook - Bubble Tea",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-09125337.png?v=1781006447",
-      "store_link": "https://magmabooks.com/products/the-ransom-note-sticker-book-copy",
-      "published_at": "2026-06-09T13:02:16+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-09125337.png?v=1781006447"
-    },
-    {
-      "title": "AFRO SPORT",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-05at13-39-14Afrosurf.png?v=1780663172",
-      "store_link": "https://magmabooks.com/products/afrosport",
-      "published_at": "2026-06-09T12:51:13+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-05at13-39-14Afrosurf.png?v=1780663172"
     },
     {
       "title": "Mast Books Tote Bag",
