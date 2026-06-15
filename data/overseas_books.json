@@ -1,17 +1,50 @@
 {
-  "updated_at": "2026-06-15T08:02:47.672160+09:00",
-  "today": "2026-06-15",
+  "updated_at": "2026-06-16T08:02:58.080364+09:00",
+  "today": "2026-06-16",
   "books": [
+    {
+      "title": "Design Anthology UK Edition #22 2026",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Design Anthology",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43498-Design-Anthology-UK-Edition-22-2026-1.jpg?v=1781515555",
+      "store_link": "https://www.doyoureadme.de/products/design-anthology-uk-edition-22-2026",
+      "published_at": "2026-06-15T13:40:56+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43498-Design-Anthology-UK-Edition-22-2026-1.jpg?v=1781515555"
+    },
+    {
+      "title": "Fräulein #41 2026",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Off One's Rocker Publishing LTD.",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43501-Fraeulein-41-2026-1.jpg?v=1781515555",
+      "store_link": "https://www.doyoureadme.de/products/fraulein-41-2026",
+      "published_at": "2026-06-15T13:40:37+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43501-Fraeulein-41-2026-1.jpg?v=1781515555"
+    },
+    {
+      "title": "Sepp #15 2026",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "do you read me?!",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43502-Sepp-15-2026-1.jpg?v=1781515555",
+      "store_link": "https://www.doyoureadme.de/products/sepp-15-2026",
+      "published_at": "2026-06-15T13:40:05+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43502-Sepp-15-2026-1.jpg?v=1781515555"
+    },
     {
       "title": "Arch+ #264 2026 - Ruhr",
       "store": "Do you read me?!",
       "city": "베를린",
       "section": "잡지·아트북",
       "author": "Arch+",
-      "store_cover": "",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43503-Arch-plus-264-2026_Ruhr-1.jpg?v=1781515555",
       "store_link": "https://www.doyoureadme.de/products/arch-264-2026-vom-gebiet-zum-raum",
       "published_at": "2026-06-12T12:28:50+02:00",
-      "cover": ""
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43503-Arch-plus-264-2026_Ruhr-1.jpg?v=1781515555"
     },
     {
       "title": "Narr #47 - Sci-Fi",
@@ -188,39 +221,6 @@
       "store_link": "https://www.doyoureadme.de/products/visualizing-assemblages",
       "published_at": "2026-06-10T10:59:18+02:00",
       "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43478-Visualizing-Assemblages-1.jpg?v=1781081491"
-    },
-    {
-      "title": "Study Trip - Dirk Vis",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Set Margins",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43477-Study-Trip_Dirk-Vis-1.jpg?v=1781081490",
-      "store_link": "https://www.doyoureadme.de/products/study-trip-dirk-vis",
-      "published_at": "2026-06-10T10:59:18+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43477-Study-Trip_Dirk-Vis-1.jpg?v=1781081490"
-    },
-    {
-      "title": "Hotshoe #215 2026 - At the Movies",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Hotshoe",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43485-Hotshoe-215-2026_At-the-Movies-1.jpg?v=1781081491",
-      "store_link": "https://www.doyoureadme.de/products/hotshoe-215-2026-at-the-movies",
-      "published_at": "2026-06-10T10:59:17+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43485-Hotshoe-215-2026_At-the-Movies-1.jpg?v=1781081491"
-    },
-    {
-      "title": "Keith Haring in 3D",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Monacelli Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43484-Keith-Haring-in-3D-1.jpg?v=1781081491",
-      "store_link": "https://www.doyoureadme.de/products/keith-haring-in-3d",
-      "published_at": "2026-06-10T10:59:17+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43484-Keith-Haring-in-3D-1.jpg?v=1781081491"
     },
     {
       "title": "Bator zine (full set)",
@@ -443,6 +443,72 @@
       "cover": "https://cdn.shopify.com/s/files/1/0221/7340/products/studioparadiso.jpg?v=1656418612"
     },
     {
+      "title": "Shit Sticker",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/TP-Single-Shit_750x_31c0ef3c-8fa7-4d7e-a532-4ed92fc2b8ad.webp?v=1730735469",
+      "store_link": "https://magmabooks.com/products/later-is-too-late-sticker-copy",
+      "published_at": "2026-06-15T15:40:56+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/TP-Single-Shit_750x_31c0ef3c-8fa7-4d7e-a532-4ed92fc2b8ad.webp?v=1730735469"
+    },
+    {
+      "title": "Heartbreaker Snoopy Sticker",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2025-06-17at14-26-26Single_Peanuts_Heartbreaker.png_PNGImage900x900pixels_Scaled_99.png?v=1750167078",
+      "store_link": "https://magmabooks.com/products/heartbreaker-snoopy-sticker",
+      "published_at": "2026-06-15T15:38:02+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2025-06-17at14-26-26Single_Peanuts_Heartbreaker.png_PNGImage900x900pixels_Scaled_99.png?v=1750167078"
+    },
+    {
+      "title": "DJ Dog Sticker by Kieth Haring",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Single_KH_DJDog_750x_a4938e6b-7aa0-4fdf-b2ec-b5a1201b7312.webp?v=1704976360",
+      "store_link": "https://magmabooks.com/products/dk-dog-sticker-by-kieth-haring",
+      "published_at": "2026-06-15T15:25:22+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Single_KH_DJDog_750x_a4938e6b-7aa0-4fdf-b2ec-b5a1201b7312.webp?v=1704976360"
+    },
+    {
+      "title": "Biking Buds Sticker",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2025-09-09at13-36-03BikingBuds_ApplyStickers.png?v=1757421860",
+      "store_link": "https://magmabooks.com/products/biking-buds-sticker",
+      "published_at": "2026-06-15T15:18:00+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2025-09-09at13-36-03BikingBuds_ApplyStickers.png?v=1757421860"
+    },
+    {
+      "title": "DJ Snoopy Sticker",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2025-09-09at13-47-02DJSnoopy_ApplyStickers.png?v=1757422297",
+      "store_link": "https://magmabooks.com/products/dj-snoopy-sticker",
+      "published_at": "2026-06-15T15:12:16+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2025-09-09at13-47-02DJSnoopy_ApplyStickers.png?v=1757422297"
+    },
+    {
+      "title": "An Opinionated Guide to Lisbon",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-15at13-13-47OG_Lisbon_Cover_Mockup_1024x1024.jpg_JPEGImage1024x925pixels_Scaled_96.png?v=1781525681",
+      "store_link": "https://magmabooks.com/products/an-opinionated-guide-to-lisbon",
+      "published_at": "2026-06-15T13:15:32+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-15at13-13-47OG_Lisbon_Cover_Mockup_1024x1024.jpg_JPEGImage1024x925pixels_Scaled_96.png?v=1781525681"
+    },
+    {
       "title": "PIN–UP #40",
       "store": "Magma Books",
       "city": "런던",
@@ -595,72 +661,6 @@
       "store_link": "https://magmabooks.com/products/the-get-things-done-book",
       "published_at": "2026-06-10T14:51:43+01:00",
       "cover": "https://cdn.shopify.com/s/files/1/0285/4760/products/9781800814646.jpg?v=1678369587"
-    },
-    {
-      "title": "Water Coloring Placemats - Dinos",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/MAGICSET_DINO_-21.png?v=1781019330",
-      "store_link": "https://magmabooks.com/products/water-coloring-placemats-lily-copy",
-      "published_at": "2026-06-09T16:36:08+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/MAGICSET_DINO_-21.png?v=1781019330"
-    },
-    {
-      "title": "Water Colouring Place mats - Lily",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/MAGICSET_LILY-21.png?v=1781018941",
-      "store_link": "https://magmabooks.com/products/earrings-lily-copy",
-      "published_at": "2026-06-09T16:30:22+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/MAGICSET_LILY-21.png?v=1781018941"
-    },
-    {
-      "title": "Earrings - Lily",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-09144310.png?v=1781012798",
-      "store_link": "https://magmabooks.com/products/earrings-kawaii-copy",
-      "published_at": "2026-06-09T14:47:45+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-09144310.png?v=1781012798"
-    },
-    {
-      "title": "Earrings - Kawaii",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/R04408842_KAWAII_M.webp?v=1781012039",
-      "store_link": "https://magmabooks.com/products/hair-chalk-wicked-copy",
-      "published_at": "2026-06-09T14:34:50+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/R04408842_KAWAII_M.webp?v=1781012039"
-    },
-    {
-      "title": "Hair Chalk - Wicked",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/HAIR_COLOR_WICKED_FACE_FC1.png?v=1781010703",
-      "store_link": "https://magmabooks.com/products/tattoo-kawaii-copy",
-      "published_at": "2026-06-09T14:18:30+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/HAIR_COLOR_WICKED_FACE_FC1.png?v=1781010703"
-    },
-    {
-      "title": "Tattoo - Kawaii",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/R04408845_KAWAII_M.webp?v=1781010224",
-      "store_link": "https://magmabooks.com/products/nails-sticker-kawaii-copy",
-      "published_at": "2026-06-09T14:04:54+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/R04408845_KAWAII_M.webp?v=1781010224"
     },
     {
       "title": "Mast Books Tote Bag",
