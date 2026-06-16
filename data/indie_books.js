@@ -1,7 +1,16 @@
 window.__INDIE_BOOKS_DATA__ = {
-  "updated_at": "2026-06-16T08:02:43.463890+09:00",
-  "today": "2026-06-16",
+  "updated_at": "2026-06-17T08:02:48.865003+09:00",
+  "today": "2026-06-17",
   "books": [
+    {
+      "title": "실수 수집가 · 김수정",
+      "store": "유어마인드",
+      "section": "BOOKS",
+      "store_link": "https://www.your-mind.com/product/실수-수집가-·-김수정/6148/category/27/display/1/",
+      "store_cover": "https://www.your-mind.com/web/product/big/202606/d43337001e940c60b173c50f4d931024.jpg",
+      "cover": "https://www.your-mind.com/web/product/big/202606/d43337001e940c60b173c50f4d931024.jpg",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%8B%A4%EC%88%98%20%EC%88%98%EC%A7%91%EA%B0%80%20%C2%B7%20%EA%B9%80%EC%88%98%EC%A0%95"
+    },
     {
       "title": "꽃점 (Floral Fortune) · 희다가든",
       "store": "유어마인드",
@@ -262,15 +271,6 @@ window.__INDIE_BOOKS_DATA__ = {
       "store_cover": "https://www.your-mind.com/web/product/big/202601/97eb42e42a2ca80296caf0734a73dcf8.png",
       "cover": "https://www.your-mind.com/web/product/big/202601/97eb42e42a2ca80296caf0734a73dcf8.png",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=Talking%20Letters%20in%20the%20_____%20Scenes%20%C2%B7%20%EA%B3%BD%EC%9D%80%EC%A7%84"
-    },
-    {
-      "title": "[재입고] 앙트레프레카리아트 - 이제는 우리 모두 모두 기업가,그러나 누구도 누구도 안전하지 않지. · 실비오 로루소",
-      "store": "유어마인드",
-      "section": "BOOKS",
-      "store_link": "https://www.your-mind.com/product/재입고-앙트레프레카리아트- 이제는-우리-모두-모두-기업가그러나-누구도-누구도-안전하지-않지-·-실비오-로루소/5935/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202601/6fe583f27d5436320a33a17ff3f4cb50.jpg",
-      "cover": "https://www.your-mind.com/web/product/big/202601/6fe583f27d5436320a33a17ff3f4cb50.jpg",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20%EC%95%99%ED%8A%B8%EB%A0%88%ED%94%84%EB%A0%88%EC%B9%B4%EB%A6%AC%EC%95%84%ED%8A%B8%20-%C2%A0%EC%9D%B4%EC%A0%9C%EB%8A%94%20%EC%9A%B0%EB%A6%AC%20%EB%AA%A8%EB%91%90%20%EB%AA%A8%EB%91%90%20%EA%B8%B0%EC%97%85%EA%B0%80%2C%EA%B7%B8%EB%9F%AC%EB%82%98%20%EB%88%84%EA%B5%AC%EB%8F%84%20%EB%88%84%EA%B5%AC%EB%8F%84%20%EC%95%88%EC%A0%84%ED%95%98%EC%A7%80%20%EC%95%8A%EC%A7%80.%20%C2%B7%20%EC%8B%A4%EB%B9%84%EC%98%A4%20%EB%A1%9C%EB%A3%A8%EC%86%8C"
     },
     {
       "title": "[예약판매/배송비 무료] 숨겨둔 책 세트 (No.025, 026, 027)",
@@ -1542,22 +1542,22 @@ window.__INDIE_BOOKS_DATA__ = {
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EA%B9%80%ED%99%94%EC%A7%84%2C%20%EC%A0%95%EC%A7%80%ED%98%9C%2C%20%EC%A0%95%EA%B8%B0%ED%98%84%2C%20%ED%99%A9%EC%9D%80%EC%A3%BC%2C%20%E3%80%8E%EA%B2%A8%EC%9A%B8%20%EC%97%B0%EC%8A%B5%E3%80%8F"
     },
     {
-      "title": "[예약판매] 시트 마리-로즈",
+      "title": "시트 마리-로즈",
       "store": "더북소사이어티",
       "section": "큐레이션",
       "store_link": "https://thebooksociety.org/shop_view/?idx=1335",
       "store_cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/26aea2dd10bf9.png?w=800",
       "cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/26aea2dd10bf9.png?w=800",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%98%88%EC%95%BD%ED%8C%90%EB%A7%A4%5D%20%EC%8B%9C%ED%8A%B8%20%EB%A7%88%EB%A6%AC-%EB%A1%9C%EC%A6%88"
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%8B%9C%ED%8A%B8%20%EB%A7%88%EB%A6%AC-%EB%A1%9C%EC%A6%88"
     },
     {
-      "title": "[예약 판매] 다른 나라의 심장 속에서, 그 심장 속에서",
+      "title": "다른 나라의 심장 속에서, 그 심장 속에서",
       "store": "더북소사이어티",
       "section": "큐레이션",
       "store_link": "https://thebooksociety.org/shop_view/?idx=1336",
       "store_cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/234918f14948b.png?w=800",
       "cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/234918f14948b.png?w=800",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%98%88%EC%95%BD%20%ED%8C%90%EB%A7%A4%5D%20%EB%8B%A4%EB%A5%B8%20%EB%82%98%EB%9D%BC%EC%9D%98%20%EC%8B%AC%EC%9E%A5%20%EC%86%8D%EC%97%90%EC%84%9C%2C%20%EA%B7%B8%20%EC%8B%AC%EC%9E%A5%20%EC%86%8D%EC%97%90%EC%84%9C"
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EB%8B%A4%EB%A5%B8%20%EB%82%98%EB%9D%BC%EC%9D%98%20%EC%8B%AC%EC%9E%A5%20%EC%86%8D%EC%97%90%EC%84%9C%2C%20%EA%B7%B8%20%EC%8B%AC%EC%9E%A5%20%EC%86%8D%EC%97%90%EC%84%9C"
     },
     {
       "title": "헌신의 영화",
@@ -1578,15 +1578,6 @@ window.__INDIE_BOOKS_DATA__ = {
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=The%20%5BOther%5D%20/%20%5BSame%20Different%5D%20Vegetable"
     },
     {
-      "title": "[4차 입고] This is Not a Food Magazine (2nd Ed.)",
-      "store": "더북소사이어티",
-      "section": "큐레이션",
-      "store_link": "https://thebooksociety.org/shop_view/?idx=937",
-      "store_cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/a9be62aeff227.png?w=800",
-      "cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/a9be62aeff227.png?w=800",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B4%EC%B0%A8%20%EC%9E%85%EA%B3%A0%5D%20This%20is%20Not%20a%20Food%20Magazine%20%282nd%20Ed.%29"
-    },
-    {
       "title": "[5차 입고] Striking! Advertising Matches from Singapore",
       "store": "더북소사이어티",
       "section": "큐레이션",
@@ -1605,22 +1596,13 @@ window.__INDIE_BOOKS_DATA__ = {
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%9C%84%ED%82%A4%EC%9C%84%ED%82%A4%EC%9C%84%ED%82%A4"
     },
     {
-      "title": "Notes on RISO: A Printing Method and a Tool for Publishing",
-      "store": "더북소사이어티",
-      "section": "큐레이션",
-      "store_link": "https://thebooksociety.org/shop_view/?idx=1334",
-      "store_cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/8ede180b5dc64.jpg?w=800",
-      "cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/8ede180b5dc64.jpg?w=800",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=Notes%20on%20RISO%3A%20A%20Printing%20Method%20and%20a%20Tool%20for%20Publishing"
-    },
-    {
-      "title": "𝗳𝗮𝗿 𝗯𝗲𝘆𝗼𝗻𝗱 𝘁𝗵𝗲 𝗽𝘂𝗿𝗲 𝘀𝘂𝗻",
+      "title": "far beyond the pure sun",
       "store": "더북소사이어티",
       "section": "큐레이션",
       "store_link": "https://thebooksociety.org/shop_view/?idx=1333",
       "store_cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/ff21297634635.jpg?w=800",
       "cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/ff21297634635.jpg?w=800",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%F0%9D%97%B3%F0%9D%97%AE%F0%9D%97%BF%20%F0%9D%97%AF%F0%9D%97%B2%F0%9D%98%86%F0%9D%97%BC%F0%9D%97%BB%F0%9D%97%B1%20%F0%9D%98%81%F0%9D%97%B5%F0%9D%97%B2%20%F0%9D%97%BD%F0%9D%98%82%F0%9D%97%BF%F0%9D%97%B2%20%F0%9D%98%80%F0%9D%98%82%F0%9D%97%BB"
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=far%20beyond%20the%20pure%20sun"
     },
     {
       "title": "July Type Riso Specimen Vol. 1",
@@ -1794,15 +1776,6 @@ window.__INDIE_BOOKS_DATA__ = {
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EB%B0%A9%EB%B2%95%EB%93%A4%2C%20Ways%2C%20%E3%81%BB%E3%81%86%E3%81%BB%E3%81%86%2C%20Wege"
     },
     {
-      "title": "A SEXUAL HISTORY OF THE INTERNET",
-      "store": "더북소사이어티",
-      "section": "큐레이션",
-      "store_link": "https://thebooksociety.org/shop_view/?idx=1311",
-      "store_cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/36ace04237c86.avif?w=800",
-      "cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/36ace04237c86.avif?w=800",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=A%20SEXUAL%20HISTORY%20OF%20THE%20INTERNET"
-    },
-    {
       "title": "책을 읽는 존재들",
       "store": "더북소사이어티",
       "section": "큐레이션",
@@ -1810,6 +1783,33 @@ window.__INDIE_BOOKS_DATA__ = {
       "store_cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/a7a6ad69ade9e.jpg?w=800",
       "cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/a7a6ad69ade9e.jpg?w=800",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%B1%85%EC%9D%84%20%EC%9D%BD%EB%8A%94%20%EC%A1%B4%EC%9E%AC%EB%93%A4"
+    },
+    {
+      "title": "옷장",
+      "store": "더북소사이어티",
+      "section": "큐레이션",
+      "store_link": "https://thebooksociety.org/shop_view/?idx=1309",
+      "store_cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/723c3b2d8fff6.jpg?w=800",
+      "cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/723c3b2d8fff6.jpg?w=800",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%98%B7%EC%9E%A5"
+    },
+    {
+      "title": "세번째 서술자 The Third Narrator",
+      "store": "더북소사이어티",
+      "section": "큐레이션",
+      "store_link": "https://thebooksociety.org/shop_view/?idx=1307",
+      "store_cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/5bb29eeb73633.png?w=800",
+      "cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/5bb29eeb73633.png?w=800",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%84%B8%EB%B2%88%EC%A7%B8%20%EC%84%9C%EC%88%A0%EC%9E%90%20The%20Third%20Narrator"
+    },
+    {
+      "title": "다폰트 내 사랑",
+      "store": "더북소사이어티",
+      "section": "큐레이션",
+      "store_link": "https://thebooksociety.org/shop_view/?idx=1306",
+      "store_cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/0485031b300f0.png?w=800",
+      "cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/0485031b300f0.png?w=800",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EB%8B%A4%ED%8F%B0%ED%8A%B8%20%EB%82%B4%20%EC%82%AC%EB%9E%91"
     },
     {
       "title": "여름어 사전(동네서점 에디션)",
@@ -2270,10 +2270,10 @@ window.__INDIE_BOOKS_DATA__ = {
   "errors": [],
   "total": 236,
   "stores_attempted": [
-    "유어마인드",
-    "사적인서점",
+    "북앤스페이스",
     "고요서사",
     "소심한책방",
-    "북앤스페이스"
+    "사적인서점",
+    "유어마인드"
   ]
 };

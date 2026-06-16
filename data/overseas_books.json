@@ -1,7 +1,73 @@
 {
-  "updated_at": "2026-06-16T08:02:58.080364+09:00",
-  "today": "2026-06-16",
+  "updated_at": "2026-06-17T08:03:03.401154+09:00",
+  "today": "2026-06-17",
   "books": [
+    {
+      "title": "Paris Review #256 2026",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "The Paris Review",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43506-Paris-Review-256-2026-1.jpg?v=1781602176",
+      "store_link": "https://www.doyoureadme.de/products/paris-review-256-2026",
+      "published_at": "2026-06-16T11:33:20+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43506-Paris-Review-256-2026-1.jpg?v=1781602176"
+    },
+    {
+      "title": "Elska #59 - Krung Thep Maha Nakhon",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Elska",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Elska-Thailand-1.jpg?v=1781515555",
+      "store_link": "https://www.doyoureadme.de/products/elska-59-krung-thep-maha-nakhon",
+      "published_at": "2026-06-16T11:32:31+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Elska-Thailand-1.jpg?v=1781515555"
+    },
+    {
+      "title": "MU-MUDEC United #4 - Snow Crash",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "MUDEC",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43504-MUDEC-United-4_Snow-Crash-1.jpg?v=1781602176",
+      "store_link": "https://www.doyoureadme.de/products/mudec-united-4-snow-crash",
+      "published_at": "2026-06-16T11:32:31+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43504-MUDEC-United-4_Snow-Crash-1.jpg?v=1781602176"
+    },
+    {
+      "title": "It's Freezing in LA! May 2026",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "IFLA",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/IFLA-12-1.jpg?v=1781515555",
+      "store_link": "https://www.doyoureadme.de/products/its-freezing-in-la-may-2026",
+      "published_at": "2026-06-16T11:32:30+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/IFLA-12-1.jpg?v=1781515555"
+    },
+    {
+      "title": "Eaten #26 2026 - Picnics",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Eaten Magazine",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43508-Eaten-26-2026_Picnics-1.jpg?v=1781602177",
+      "store_link": "https://www.doyoureadme.de/products/eaten-26-2026-picnics",
+      "published_at": "2026-06-16T11:32:30+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43508-Eaten-26-2026_Picnics-1.jpg?v=1781602177"
+    },
+    {
+      "title": "Serviette #8 2026 - Food is Vice",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Serviette Magazine",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Serviette_Food-is-Vice-1.jpg?v=1781515555",
+      "store_link": "https://www.doyoureadme.de/products/serviette-8-2026-food-is-vice",
+      "published_at": "2026-06-16T11:32:30+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Serviette_Food-is-Vice-1.jpg?v=1781515555"
+    },
     {
       "title": "Design Anthology UK Edition #22 2026",
       "store": "Do you read me?!",
@@ -155,72 +221,6 @@
       "store_link": "https://www.doyoureadme.de/products/ideat-fr-177-may-june-2026",
       "published_at": "2026-06-10T10:59:20+02:00",
       "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Ideat-France_Standard.jpg?v=1730212331"
-    },
-    {
-      "title": "Creative Formats Across Media and Disciplines",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Set Margins",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43474-Creative-Formats-Across-Media-and-Disciplines-1.jpg?v=1781081491",
-      "store_link": "https://www.doyoureadme.de/products/creative-formats-across-media-and-disciplines",
-      "published_at": "2026-06-10T10:59:19+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43474-Creative-Formats-Across-Media-and-Disciplines-1.jpg?v=1781081491"
-    },
-    {
-      "title": "Ninety-Nine Graphic Design Workshops",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Set Margins",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43473-Ninety-Nine-Graphic-Design-Workshops-1.jpg?v=1781081491",
-      "store_link": "https://www.doyoureadme.de/products/ninety-nine-graphic-design-workshops",
-      "published_at": "2026-06-10T10:59:19+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43473-Ninety-Nine-Graphic-Design-Workshops-1.jpg?v=1781081491"
-    },
-    {
-      "title": "Logo in Real Life - Michele Galluzzo",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Set Margins",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43472-Logo-in-Real-Life_Michele-Galluzzo-1.jpg?v=1781081490",
-      "store_link": "https://www.doyoureadme.de/products/logo-in-real-life-michele-galluzzo",
-      "published_at": "2026-06-10T10:59:19+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43472-Logo-in-Real-Life_Michele-Galluzzo-1.jpg?v=1781081490"
-    },
-    {
-      "title": "Delfi #5 2025 - Auto",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Delfi",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43480-Delfi-5-2025_Auto-1.jpg?v=1781081491",
-      "store_link": "https://www.doyoureadme.de/products/delfi-5-2025-auto",
-      "published_at": "2026-06-10T10:59:18+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43480-Delfi-5-2025_Auto-1.jpg?v=1781081491"
-    },
-    {
-      "title": "The Pyromaniac Images - Pierre Cassou-Noguès & Gwenola Wagon",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Set Margins",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43479-The-Pyromaniac-Images_Cassou-Nogues_Wagon-1.jpg?v=1781081490",
-      "store_link": "https://www.doyoureadme.de/products/the-pyromaniac-images-pierre-cassou-nogues-gwenola-wagon",
-      "published_at": "2026-06-10T10:59:18+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43479-The-Pyromaniac-Images_Cassou-Nogues_Wagon-1.jpg?v=1781081490"
-    },
-    {
-      "title": "Visualizing Assemblages",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Set Margins",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43478-Visualizing-Assemblages-1.jpg?v=1781081491",
-      "store_link": "https://www.doyoureadme.de/products/visualizing-assemblages",
-      "published_at": "2026-06-10T10:59:18+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43478-Visualizing-Assemblages-1.jpg?v=1781081491"
     },
     {
       "title": "Bator zine (full set)",
@@ -443,6 +443,83 @@
       "cover": "https://cdn.shopify.com/s/files/1/0221/7340/products/studioparadiso.jpg?v=1656418612"
     },
     {
+      "title": "Soccer Snoopy Sticker",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-16160021.png?v=1781623176",
+      "store_link": "https://magmabooks.com/products/kitty-family-sticker-copy",
+      "published_at": "2026-06-16T16:21:20+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-16160021.png?v=1781623176"
+    },
+    {
+      "title": "Great Wave Snoopy Sticker",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-16161422.png?v=1781622956",
+      "store_link": "https://magmabooks.com/products/kitty-family-copy",
+      "published_at": "2026-06-16T16:18:05+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-16161422.png?v=1781622956"
+    },
+    {
+      "title": "Kitty Family Sticker",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-16155852.png?v=1781622725",
+      "store_link": "https://magmabooks.com/products/skater-sticker-copy",
+      "published_at": "2026-06-16T16:12:50+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-16155852.png?v=1781622725"
+    },
+    {
+      "title": "Skater Sticker",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-16155714.png?v=1781622556",
+      "store_link": "https://magmabooks.com/products/barking-pop-shop-dog-sticker-copy",
+      "published_at": "2026-06-16T16:10:04+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-16155714.png?v=1781622556"
+    },
+    {
+      "title": "Barking Pop Shop Dog Sticker",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-16155541.png?v=1781622456",
+      "store_link": "https://magmabooks.com/products/floating-snoopy-sticker-copy",
+      "published_at": "2026-06-16T16:08:41+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-16155541.png?v=1781622456"
+    },
+    {
+      "title": "Floating Snoopy Sticker",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-16155325.png?v=1781622364",
+      "store_link": "https://magmabooks.com/products/heartbreaker-snoopy-sticker-copy",
+      "published_at": "2026-06-16T16:06:58+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-16155325.png?v=1781622364"
+    },
+    {
+      "title": "Bar Brutal: A Cookbook of Revelations",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot_2026-06-16_at_14-12-39_Bar_Brutal_A_Cookbook_of_Revelations.png?v=1781615576",
+      "store_link": "https://magmabooks.com/products/bon-appetit-paris-copy",
+      "published_at": "2026-06-16T14:11:52+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot_2026-06-16_at_14-12-39_Bar_Brutal_A_Cookbook_of_Revelations.png?v=1781615576"
+    },
+    {
       "title": "Shit Sticker",
       "store": "Magma Books",
       "city": "런던",
@@ -584,83 +661,6 @@
       "store_link": "https://magmabooks.com/products/see-you-later",
       "published_at": "2026-06-12T14:19:12+01:00",
       "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/81MfSvixuaL._SL1500.jpg?v=1777641362"
-    },
-    {
-      "title": "Moomins in the Theatre",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-12140428.png?v=1781269957",
-      "store_link": "https://magmabooks.com/products/emotions-copy",
-      "published_at": "2026-06-12T14:14:07+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-12140428.png?v=1781269957"
-    },
-    {
-      "title": "Smoking Hot Horses",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-13at11-17-16SmokingHotHorsesZine_HatoPress.png?v=1781345850",
-      "store_link": "https://magmabooks.com/products/this-is-not-my-cat-copy",
-      "published_at": "2026-06-12T13:54:02+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-13at11-17-16SmokingHotHorsesZine_HatoPress.png?v=1781345850"
-    },
-    {
-      "title": "The Secret Life of Farts",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-10at15-47-44TheSecretLifeofFarts_Hardcover_-Walmart.com_86a5f0cf-8416-476f-aa1a-7e37d91e0fa6.png?v=1781103551",
-      "store_link": "https://magmabooks.com/products/what-a-night-copy",
-      "published_at": "2026-06-10T15:59:41+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-10at15-47-44TheSecretLifeofFarts_Hardcover_-Walmart.com_86a5f0cf-8416-476f-aa1a-7e37d91e0fa6.png?v=1781103551"
-    },
-    {
-      "title": "What a Night!",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-10at15-38-32WhataNight_Afunnysplit-pagebedtimestoryAmazon.co.ukKarstenGuilherme9781805133100Books.png?v=1781102358",
-      "store_link": "https://magmabooks.com/products/flush-it-down-copy",
-      "published_at": "2026-06-10T15:39:24+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-10at15-38-32WhataNight_Afunnysplit-pagebedtimestoryAmazon.co.ukKarstenGuilherme9781805133100Books.png?v=1781102358"
-    },
-    {
-      "title": "Flush It Down",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-10at15-01-02FlushItDown_CicadaBooks.png?v=1781100080",
-      "store_link": "https://magmabooks.com/products/the-me-book-copy",
-      "published_at": "2026-06-10T15:02:24+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-10at15-01-02FlushItDown_CicadaBooks.png?v=1781100080"
-    },
-    {
-      "title": "Colours of Wes Anderson",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/816SR1tyFXL._SL1500.jpg?v=1759499181",
-      "store_link": "https://magmabooks.com/products/colours-of-wes-anderson",
-      "published_at": "2026-06-10T14:54:40+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/816SR1tyFXL._SL1500.jpg?v=1759499181"
-    },
-    {
-      "title": "The Get Things Done Book",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/products/9781800814646.jpg?v=1678369587",
-      "store_link": "https://magmabooks.com/products/the-get-things-done-book",
-      "published_at": "2026-06-10T14:51:43+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/products/9781800814646.jpg?v=1678369587"
     },
     {
       "title": "Mast Books Tote Bag",
@@ -883,6 +883,127 @@
       "cover": "https://cdn.shopify.com/s/files/1/0290/3562/6574/files/MB_WEINER_WE_ARE_SHIPS_01.jpg?v=1744483758"
     },
     {
+      "title": "Animals of the Chinese Zodiac: Meet Your Match! An Illustrated Guide to the 12 Signs",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "Phaidon Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/animals-of-the-chinese-zodiac-meet-your-match-en-9289-3d-standing-front-3000.jpg?v=1780331058",
+      "store_link": "https://www.phaidon.com/products/animals-of-the-chinese-zodiac-meet-your-match-an-illustrated-guide-to-the-12-signs",
+      "published_at": "2026-06-16T20:50:24+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/animals-of-the-chinese-zodiac-meet-your-match-en-9289-3d-standing-front-3000.jpg?v=1780331058"
+    },
+    {
+      "title": "Animals of the Chinese Zodiac: Meet Your Match! : An Illustrated Guide to the 12 Signs",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "Phaidon Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/animals-of-the-chinese-zodiac-meet-your-match-ae-9213-3d-standing-front-3000.jpg?v=1780401716",
+      "store_link": "https://www.phaidon.com/products/animals-of-the-chinese-zodiac-meet-your-match-ae-an-illustrated-guide-to-the-12-signs",
+      "published_at": "2026-06-16T20:32:28+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/animals-of-the-chinese-zodiac-meet-your-match-ae-9213-3d-standing-front-3000.jpg?v=1780401716"
+    },
+    {
+      "title": "Another View: The Vibrant World of Contemporary Black Artists",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "Phaidon Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/another-view-en-9022-3d-standing-front-3000.jpg?v=1780331308",
+      "store_link": "https://www.phaidon.com/products/another-view-the-vibrant-world-of-contemporary-black-artists",
+      "published_at": "2026-06-16T19:04:32+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/another-view-en-9022-3d-standing-front-3000.jpg?v=1780331308"
+    },
+    {
+      "title": "Arthur Jafa: I Am Tony",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "Phaidon Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/arthur-jafa-en-9056-3d-standing-front-3000.jpg?v=1777352838",
+      "store_link": "https://www.phaidon.com/products/arthur-jafa-i-am-tony",
+      "published_at": "2026-06-16T18:59:05+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/arthur-jafa-en-9056-3d-standing-front-3000.jpg?v=1777352838"
+    },
+    {
+      "title": "My Favorite Material Is Light: & Other Quotes by Architects",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "Phaidon Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/my-favourite-material-is-light-en-9253-3d-standing-front-3000.jpg?v=1779978167",
+      "store_link": "https://www.phaidon.com/products/my-favorite-material-is-light-other-quotes-by-architects",
+      "published_at": "2026-06-16T18:58:13+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/my-favourite-material-is-light-en-9253-3d-standing-front-3000.jpg?v=1779978167"
+    },
+    {
+      "title": "Tuscany",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "Phaidon Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/tuscany-2026-en-9245-3d-standing-front-3000.jpg?v=1779978518",
+      "store_link": "https://www.phaidon.com/products/tuscany",
+      "published_at": "2026-06-16T18:57:34+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/tuscany-2026-en-9245-3d-standing-front-3000.jpg?v=1779978518"
+    },
+    {
+      "title": "Sicily (2026)",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "Phaidon Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/sicily-2026-en-9246-3d-standing-front-3000.jpg?v=1779978806",
+      "store_link": "https://www.phaidon.com/products/sicily-2026",
+      "published_at": "2026-06-16T18:50:01+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/sicily-2026-en-9246-3d-standing-front-3000.jpg?v=1779978806"
+    },
+    {
+      "title": "Christmas!: An Interactive Holiday Book",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "Phaidon Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/christmas-in-a-book-en-9212-3d-standing-front-3000.jpg?v=1779978434",
+      "store_link": "https://www.phaidon.com/products/christmas-an-interactive-holiday-book",
+      "published_at": "2026-06-16T18:40:56+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/christmas-in-a-book-en-9212-3d-standing-front-3000.jpg?v=1779978434"
+    },
+    {
+      "title": "Robert Indiana: An American Icon",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "Phaidon Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/robert-indiana-en-9055-3d-standing-front-3000.jpg?v=1780330304",
+      "store_link": "https://www.phaidon.com/products/robert-indiana-an-american-icon",
+      "published_at": "2026-06-16T18:36:58+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/robert-indiana-en-9055-3d-standing-front-3000.jpg?v=1780330304"
+    },
+    {
+      "title": "Spiced: Recipes Celebrating Spices from Around the World",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "Phaidon Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/spiced-en-9265-3d-standing-front-3000.jpg?v=1780330979",
+      "store_link": "https://www.phaidon.com/products/spiced-recipes-celebrating-spices-from-around-the-world",
+      "published_at": "2026-06-16T16:49:29+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/spiced-en-9265-3d-standing-front-3000.jpg?v=1780330979"
+    },
+    {
+      "title": "ATP No. 1 Club: Icons of Men's Tennis",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "Phaidon Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/atp-number-1-club-en-9267-3d-standing-front-3000.jpg?v=1778514297",
+      "store_link": "https://www.phaidon.com/products/atp-no-1-club-icons-of-mens-tennis",
+      "published_at": "2026-06-16T12:30:42+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/atp-number-1-club-en-9267-3d-standing-front-3000.jpg?v=1778514297"
+    },
+    {
       "title": "The Cultured Collector",
       "store": "Phaidon",
       "city": "출판사",
@@ -982,127 +1103,6 @@
       "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/sebastiaan-bremer-schoener-goetterfunken-flowers-it-calls-from-their-ORIG.jpg?v=1773226783"
     },
     {
-      "title": "Bite Your Tongue",
-      "store": "Phaidon",
-      "city": "출판사",
-      "section": "아트·디자인",
-      "author": "Artspace",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/frances-goodman-bite-your-tongue-ORIG.jpg?v=1773230872",
-      "store_link": "https://www.phaidon.com/products/frances-goodman-bite-your-tongue-5056880804318",
-      "published_at": "2026-05-11T16:33:29+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/frances-goodman-bite-your-tongue-ORIG.jpg?v=1773230872"
-    },
-    {
-      "title": "Seafoam",
-      "store": "Phaidon",
-      "city": "출판사",
-      "section": "아트·디자인",
-      "author": "Artspace",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/james-welling-seafoam-ORIG.jpg?v=1773226720",
-      "store_link": "https://www.phaidon.com/products/james-welling-seafoam-5056880805346",
-      "published_at": "2026-05-11T16:33:26+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/james-welling-seafoam-ORIG.jpg?v=1773226720"
-    },
-    {
-      "title": "Constellation",
-      "store": "Phaidon",
-      "city": "출판사",
-      "section": "아트·디자인",
-      "author": "Artspace",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/kara_maria_4253_ORIG_01efafd1-eb83-4565-a7b2-a5a5bafe4708.jpg?v=1773226687",
-      "store_link": "https://www.phaidon.com/products/kara-maria-constellation-5056880802758-p",
-      "published_at": "2026-05-11T16:33:23+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/kara_maria_4253_ORIG_01efafd1-eb83-4565-a7b2-a5a5bafe4708.jpg?v=1773226687"
-    },
-    {
-      "title": "Untitled (2017)",
-      "store": "Phaidon",
-      "city": "출판사",
-      "section": "아트·디자인",
-      "author": "Artspace",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/alicia-mccarthy-untitled-5-ORIG.jpg?v=1773230918",
-      "store_link": "https://www.phaidon.com/products/alicia-mccarthy-untitled-2017-5056880804325",
-      "published_at": "2026-05-11T16:33:22+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/alicia-mccarthy-untitled-5-ORIG.jpg?v=1773230918"
-    },
-    {
-      "title": "Where did you come from? Memoirs from the past, present, and future",
-      "store": "Phaidon",
-      "city": "출판사",
-      "section": "아트·디자인",
-      "author": "Artspace",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/andy-ducett-where-did-you-come-from-memoirs-from-the-past-pres-ORIG_q2vxiw.jpg?v=1773231604",
-      "store_link": "https://www.phaidon.com/products/andy-ducett-where-did-you-come-from-memoirs-from-the-past-present-and-future-5056880806824",
-      "published_at": "2026-05-11T16:33:21+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/andy-ducett-where-did-you-come-from-memoirs-from-the-past-pres-ORIG_q2vxiw.jpg?v=1773231604"
-    },
-    {
-      "title": "Tropical Reverie",
-      "store": "Phaidon",
-      "city": "출판사",
-      "section": "아트·디자인",
-      "author": "Artspace",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/Lisk_20Feng-1-72dpi-WebUse.jpg?v=1773223887",
-      "store_link": "https://www.phaidon.com/products/lisk-feng-tropical-reverie-5056880812368",
-      "published_at": "2026-05-11T16:33:20+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/Lisk_20Feng-1-72dpi-WebUse.jpg?v=1773223887"
-    },
-    {
-      "title": "Bulwark of Logic 2004",
-      "store": "Phaidon",
-      "city": "출판사",
-      "section": "아트·디자인",
-      "author": "Artspace",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/david-byrne-bulwark-of-logic-ORIG.jpg?v=1772022240",
-      "store_link": "https://www.phaidon.com/products/david-byrne-bulwark-of-logic-2004-5056880804349",
-      "published_at": "2026-05-11T16:33:19+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/david-byrne-bulwark-of-logic-ORIG.jpg?v=1772022240"
-    },
-    {
-      "title": "Case Histories",
-      "store": "Phaidon",
-      "city": "출판사",
-      "section": "아트·디자인",
-      "author": "Artspace",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/martin-wilner-case-histories-december-2012-tod-williamsbillie-ts-ORIG_88nk9j.jpg?v=1771611494",
-      "store_link": "https://www.phaidon.com/products/martin-wilner-case-histories-5056880805780",
-      "published_at": "2026-05-11T16:33:18+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/martin-wilner-case-histories-december-2012-tod-williamsbillie-ts-ORIG_88nk9j.jpg?v=1771611494"
-    },
-    {
-      "title": "Butterfly Experiments",
-      "store": "Phaidon",
-      "city": "출판사",
-      "section": "아트·디자인",
-      "author": "Artspace",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/agnes-denes-butterfly-experiments-ORIG.jpg?v=1771611327",
-      "store_link": "https://www.phaidon.com/products/agnes-denes-butterfly-experiments-5056880806206-p",
-      "published_at": "2026-05-11T16:33:17+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/agnes-denes-butterfly-experiments-ORIG.jpg?v=1771611327"
-    },
-    {
-      "title": "Pictogram Series",
-      "store": "Phaidon",
-      "city": "출판사",
-      "section": "아트·디자인",
-      "author": "Artspace",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/ferran-adria-pictogram-series-ORIG_6ukwvi.jpg?v=1771611261",
-      "store_link": "https://www.phaidon.com/products/ferran-adria-pictogram-series-5056880805940",
-      "published_at": "2026-05-11T16:33:16+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/ferran-adria-pictogram-series-ORIG_6ukwvi.jpg?v=1771611261"
-    },
-    {
-      "title": "Batty Back Up",
-      "store": "Phaidon",
-      "city": "출판사",
-      "section": "아트·디자인",
-      "author": "Artspace",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/william_wegman_1932_ORIG.jpg?v=1771431078",
-      "store_link": "https://www.phaidon.com/products/william-wegman-batty-back-up-5056880806428",
-      "published_at": "2026-05-11T16:33:15+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/william_wegman_1932_ORIG.jpg?v=1771431078"
-    },
-    {
       "title": "The Porsche Book",
       "store": "Gestalten",
       "city": "출판사",
@@ -1147,7 +1147,7 @@
       "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/9783961715022_Watchbook-Compendium_Cover-front_fff329a3-2f01-462c-8339-09d8e0d822c6.png?v=1778682201"
     },
     {
-      "title": "American Football: The Ultimate Book",
+      "title": "American Football - The Ultimate Book",
       "store": "Gestalten",
       "city": "출판사",
       "section": "디자인",
