@@ -1,17 +1,193 @@
 window.__OVERSEAS_BOOKS_DATA__ = {
-  "updated_at": "2026-06-18T08:02:50.029740+09:00",
-  "today": "2026-06-18",
+  "updated_at": "2026-06-19T08:02:28.610913+09:00",
+  "today": "2026-06-19",
   "books": [
+    {
+      "title": "King Kong #21 S/S 2026",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "King Kong",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/King-Kong-SS26-1.jpg?v=1781772483",
+      "store_link": "https://www.doyoureadme.de/products/king-kong-21-s-s-2026",
+      "published_at": "2026-06-18T11:31:02+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/King-Kong-SS26-1.jpg?v=1781772483"
+    },
+    {
+      "title": "100 Beste Plakate 25",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Slanted",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/100-Beste-Plakate-1.jpg?v=1781515555",
+      "store_link": "https://www.doyoureadme.de/products/100-beste-plakate-25",
+      "published_at": "2026-06-18T11:25:35+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/100-Beste-Plakate-1.jpg?v=1781515555"
+    },
+    {
+      "title": "UN/SEEN: Women in Graphic Design up to the Bauhaus",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Slanted",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Un-Seen-1.jpg?v=1781515555",
+      "store_link": "https://www.doyoureadme.de/products/un-seen-women-in-graphic-design-up-to-the-bauhaus",
+      "published_at": "2026-06-18T11:22:12+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Un-Seen-1.jpg?v=1781515555"
+    },
+    {
+      "title": "Cara #3 2025",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "KD Presse",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43510-Cara-3-2025-1.jpg?v=1781772483",
+      "store_link": "https://www.doyoureadme.de/products/cara-3-2025",
+      "published_at": "2026-06-18T11:01:17+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43510-Cara-3-2025-1.jpg?v=1781772483"
+    },
+    {
+      "title": "Cantik Manis - A Sweet Treat by Rahel Stephanie",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "self published",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43519-Cantik-Manis_A-Sweet-Treat-by-Rahel-Stephanie-1.jpg?v=1781772483",
+      "store_link": "https://www.doyoureadme.de/products/cantik-manis-a-sweet-treat-by-rahel-stephanie",
+      "published_at": "2026-06-18T11:01:16+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43519-Cantik-Manis_A-Sweet-Treat-by-Rahel-Stephanie-1.jpg?v=1781772483"
+    },
+    {
+      "title": "Bellissimo #5 - Ireland/Mistico",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Bellissimo",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43518-Bellissimo-5_Ireland-Mistico-1.jpg?v=1781772483",
+      "store_link": "https://www.doyoureadme.de/products/bellissimo-5-ireland-mistico",
+      "published_at": "2026-06-18T11:01:16+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43518-Bellissimo-5_Ireland-Mistico-1.jpg?v=1781772483"
+    },
+    {
+      "title": "Bellissimo #4 - Holiday Club",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Bellissimo",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43517-Bellissimo-4_Holiday-Club-1.jpg?v=1781772483",
+      "store_link": "https://www.doyoureadme.de/products/bellissimo-4-holiday-club",
+      "published_at": "2026-06-18T11:01:16+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43517-Bellissimo-4_Holiday-Club-1.jpg?v=1781772483"
+    },
+    {
+      "title": "How To See Like A Machine - Trevor Paglen",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Verso",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43515-How-To-See-Like-A-Machine_Trevor-Paglen-1.jpg?v=1781772484",
+      "store_link": "https://www.doyoureadme.de/products/how-to-see-like-a-machine-trevor-paglen",
+      "published_at": "2026-06-18T11:01:16+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43515-How-To-See-Like-A-Machine_Trevor-Paglen-1.jpg?v=1781772484"
+    },
+    {
+      "title": "Revue #21 S/S 2026",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Revue",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43514-Revue-21-SS-2026-1.jpg?v=1781772484",
+      "store_link": "https://www.doyoureadme.de/products/revue-21-s-s-2026",
+      "published_at": "2026-06-18T11:01:16+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43514-Revue-21-SS-2026-1.jpg?v=1781772484"
+    },
+    {
+      "title": "Luncheon #21 2026",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Luncheon Editions",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43513-Luncheon-21-2026-1.jpg?v=1781772483",
+      "store_link": "https://www.doyoureadme.de/products/luncheon-21-2026",
+      "published_at": "2026-06-18T11:01:16+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43513-Luncheon-21-2026-1.jpg?v=1781772483"
+    },
+    {
+      "title": "A Manual for Living Curated for Nike - A Magazine Curated By...",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "A Magazine",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43512-A-Manual-for-Living-Curated-for-Nike_A-Magazine-Curated-By.-1.jpg?v=1781772483",
+      "store_link": "https://www.doyoureadme.de/products/a-manual-for-living-curated-for-nike-a-magazine-curated-by",
+      "published_at": "2026-06-18T11:01:16+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43512-A-Manual-for-Living-Curated-for-Nike_A-Magazine-Curated-By.-1.jpg?v=1781772483"
+    },
+    {
+      "title": "Printing Fashion #6 2026",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Printing Fashion Festival",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43511-Printing-Fashion-6-2026-1.jpg?v=1781772484",
+      "store_link": "https://www.doyoureadme.de/products/printing-fashion-6-2026",
+      "published_at": "2026-06-18T11:01:16+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43511-Printing-Fashion-6-2026-1.jpg?v=1781772484"
+    },
+    {
+      "title": "Frutik",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Can Can Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43524-Frutik-1.jpg?v=1781772483",
+      "store_link": "https://www.doyoureadme.de/products/frutik",
+      "published_at": "2026-06-18T11:01:15+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43524-Frutik-1.jpg?v=1781772483"
+    },
+    {
+      "title": "Food Vol. 1 - Sessions Arts Club",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Cabin Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43523-Food-Vol-1_Sessions-Arts-Club-1.jpg?v=1781772483",
+      "store_link": "https://www.doyoureadme.de/products/food-vol-1-sessions-arts-club",
+      "published_at": "2026-06-18T11:01:15+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43523-Food-Vol-1_Sessions-Arts-Club-1.jpg?v=1781772483"
+    },
+    {
+      "title": "RESET #1 2026",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "RESET",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43521-RESET-1-2026-1.jpg?v=1781772483",
+      "store_link": "https://www.doyoureadme.de/products/reset-1-2026",
+      "published_at": "2026-06-18T11:01:15+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43521-RESET-1-2026-1.jpg?v=1781772483"
+    },
+    {
+      "title": "Eurotrash Zine",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Stow Aways",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43520-Eurotrash-Zine-1.jpg?v=1781772483",
+      "store_link": "https://www.doyoureadme.de/products/eurotrash-zine",
+      "published_at": "2026-06-18T11:01:15+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43520-Eurotrash-Zine-1.jpg?v=1781772483"
+    },
     {
       "title": "Red Tory: My Corbyn Chemsex Hell",
       "store": "Do you read me?!",
       "city": "베를린",
       "section": "잡지·아트북",
       "author": "Montez Press",
-      "store_cover": "",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43522-Red-Tory-My-Corbyn-Chemsex-Hell-1.jpg?v=1781772483",
       "store_link": "https://www.doyoureadme.de/products/red-tory-my-corbyn-chemsex-hell",
       "published_at": "2026-06-17T17:18:48+02:00",
-      "cover": ""
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43522-Red-Tory-My-Corbyn-Chemsex-Hell-1.jpg?v=1781772483"
     },
     {
       "title": "One Ingredient Recipes - Martijn in't Veld 5. Edition",
@@ -45,182 +221,6 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "store_link": "https://www.doyoureadme.de/products/elska-59-krung-thep-maha-nakhon",
       "published_at": "2026-06-16T11:32:31+02:00",
       "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Elska-Thailand-1.jpg?v=1781515555"
-    },
-    {
-      "title": "MUDEC United #4 - Snow Crash",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "MUDEC",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43504-MUDEC-United-4_Snow-Crash-1.jpg?v=1781602176",
-      "store_link": "https://www.doyoureadme.de/products/mudec-united-4-snow-crash",
-      "published_at": "2026-06-16T11:32:31+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43504-MUDEC-United-4_Snow-Crash-1.jpg?v=1781602176"
-    },
-    {
-      "title": "It's Freezing in LA! May 2026",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "IFLA",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/IFLA-12-1.jpg?v=1781515555",
-      "store_link": "https://www.doyoureadme.de/products/its-freezing-in-la-may-2026",
-      "published_at": "2026-06-16T11:32:30+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/IFLA-12-1.jpg?v=1781515555"
-    },
-    {
-      "title": "Eaten #26 2026 - Picnics",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Eaten Magazine",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43508-Eaten-26-2026_Picnics-1.jpg?v=1781602177",
-      "store_link": "https://www.doyoureadme.de/products/eaten-26-2026-picnics",
-      "published_at": "2026-06-16T11:32:30+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43508-Eaten-26-2026_Picnics-1.jpg?v=1781602177"
-    },
-    {
-      "title": "Serviette #8 2026 - Food is Vice",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Serviette Magazine",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Serviette_Food-is-Vice-1.jpg?v=1781515555",
-      "store_link": "https://www.doyoureadme.de/products/serviette-8-2026-food-is-vice",
-      "published_at": "2026-06-16T11:32:30+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Serviette_Food-is-Vice-1.jpg?v=1781515555"
-    },
-    {
-      "title": "Design Anthology UK Edition #22 2026",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Design Anthology",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43498-Design-Anthology-UK-Edition-22-2026-1.jpg?v=1781515555",
-      "store_link": "https://www.doyoureadme.de/products/design-anthology-uk-edition-22-2026",
-      "published_at": "2026-06-15T13:40:56+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43498-Design-Anthology-UK-Edition-22-2026-1.jpg?v=1781515555"
-    },
-    {
-      "title": "Fräulein #41 2026",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Off One's Rocker Publishing LTD.",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43501-Fraeulein-41-2026-1.jpg?v=1781515555",
-      "store_link": "https://www.doyoureadme.de/products/fraulein-41-2026",
-      "published_at": "2026-06-15T13:40:37+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43501-Fraeulein-41-2026-1.jpg?v=1781515555"
-    },
-    {
-      "title": "Sepp #15 2026",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "do you read me?!",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43502-Sepp-15-2026-1.jpg?v=1781515555",
-      "store_link": "https://www.doyoureadme.de/products/sepp-15-2026",
-      "published_at": "2026-06-15T13:40:05+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43502-Sepp-15-2026-1.jpg?v=1781515555"
-    },
-    {
-      "title": "Arch+ #264 2026 - Ruhr",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Arch+",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43503-Arch-plus-264-2026_Ruhr-1.jpg?v=1781515555",
-      "store_link": "https://www.doyoureadme.de/products/arch-264-2026-vom-gebiet-zum-raum",
-      "published_at": "2026-06-12T12:28:50+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43503-Arch-plus-264-2026_Ruhr-1.jpg?v=1781515555"
-    },
-    {
-      "title": "Narr #47 - Sci-Fi",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Das Narr",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43489-Narr-47_Sci-Fi-1.jpg?v=1781248880",
-      "store_link": "https://www.doyoureadme.de/products/narr-46-sci-fi",
-      "published_at": "2026-06-12T09:24:18+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43489-Narr-47_Sci-Fi-1.jpg?v=1781248880"
-    },
-    {
-      "title": "Hundert (mini)",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Kein & Aber",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43497-Hundert_mini-1.jpg?v=1781248882",
-      "store_link": "https://www.doyoureadme.de/products/hundert-mini",
-      "published_at": "2026-06-12T09:24:17+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43497-Hundert_mini-1.jpg?v=1781248882"
-    },
-    {
-      "title": "Another Man Vol.2 Issue #5 2026",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Another Magazine",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43496-Another-Man-Vol-2-Issue-5-2026-1.jpg?v=1781248881",
-      "store_link": "https://www.doyoureadme.de/products/another-man-vol-2-issue-5-2026",
-      "published_at": "2026-06-12T09:24:17+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43496-Another-Man-Vol-2-Issue-5-2026-1.jpg?v=1781248881"
-    },
-    {
-      "title": "Dazed #292 Summer 2026",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Dazed",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43495-Dazed-292-Summer-2026-1.jpg?v=1781248881",
-      "store_link": "https://www.doyoureadme.de/products/dazed-292-summer-2026",
-      "published_at": "2026-06-12T09:24:17+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43495-Dazed-292-Summer-2026-1.jpg?v=1781248881"
-    },
-    {
-      "title": "Homme Girls #15 Spring 2026",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Homme Girls",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43492-Homme-Girls-15-Spring-2026-1.jpg?v=1781248881",
-      "store_link": "https://www.doyoureadme.de/products/homme-girls-15-spring-2026",
-      "published_at": "2026-06-12T09:24:17+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43492-Homme-Girls-15-Spring-2026-1.jpg?v=1781248881"
-    },
-    {
-      "title": "Flash Art #355 2026",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Flash Art",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Flash-Art-355-1.jpg?v=1781081491",
-      "store_link": "https://www.doyoureadme.de/products/flash-art-355-2026",
-      "published_at": "2026-06-10T15:50:35+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Flash-Art-355-1.jpg?v=1781081491"
-    },
-    {
-      "title": "Against Coffee Table Books",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Bruno",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Against-Coffee-Table-Books-1.jpg?v=1781081492",
-      "store_link": "https://www.doyoureadme.de/products/against-coffee-table-books",
-      "published_at": "2026-06-10T15:50:12+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Against-Coffee-Table-Books-1.jpg?v=1781081492"
-    },
-    {
-      "title": "Fishworm - Pia P. Guilmoth & Jesse B. Saffire",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Void",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Fishworm-1.jpg?v=1781081492",
-      "store_link": "https://www.doyoureadme.de/products/fishworm-pia-p-guilmoth-jesse-b-saffire",
-      "published_at": "2026-06-10T15:50:12+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Fishworm-1.jpg?v=1781081492"
     },
     {
       "title": "USSR 1991 by Keizo Kitajima (signed)",
@@ -443,6 +443,17 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "cover": "https://cdn.shopify.com/s/files/1/0221/7340/files/Screenshot2026-04-21at13.18.42.png?v=1776775645"
     },
     {
+      "title": "BUTT #38",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-18175839.png?v=1781802075",
+      "store_link": "https://magmabooks.com/products/butt-37-copy-1",
+      "published_at": "2026-06-18T17:56:02+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-18175839.png?v=1781802075"
+    },
+    {
       "title": "Chamomile Flower Butterfly Hair Claw",
       "store": "Magma Books",
       "city": "런던",
@@ -650,17 +661,6 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "store_link": "https://magmabooks.com/products/novembre-18",
       "published_at": "2026-06-13T13:59:50+01:00",
       "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-13at13-59-12Novembre-N_18_YvonLambertParis.png?v=1781355564"
-    },
-    {
-      "title": "Visual Stimulation #2",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-05-08173529.png?v=1778258297",
-      "store_link": "https://magmabooks.com/products/fluffer-everyday-7-copy",
-      "published_at": "2026-06-13T11:34:32+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-05-08173529.png?v=1778258297"
     },
     {
       "title": "Mast Books Tote Bag",
@@ -883,6 +883,83 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "cover": "https://cdn.shopify.com/s/files/1/0290/3562/6574/files/MB_WEINER_WE_ARE_SHIPS_01.jpg?v=1744483758"
     },
     {
+      "title": "Brilliant: Unexpected Art from Everywhere",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "The Monacelli Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/M-brilliant-ae-3757-3d-standing-front-3000.jpg?v=1780330497",
+      "store_link": "https://www.phaidon.com/products/brilliant-unexpected-art-from-everywhere",
+      "published_at": "2026-06-18T20:29:32+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/M-brilliant-ae-3757-3d-standing-front-3000.jpg?v=1780330497"
+    },
+    {
+      "title": "Vegan Vegan!",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "Phaidon Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/vegan-vegan-en-9262-3d-standing-front-3000.jpg?v=1779978317",
+      "store_link": "https://www.phaidon.com/products/vegan-vegan",
+      "published_at": "2026-06-18T20:26:36+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/vegan-vegan-en-9262-3d-standing-front-3000.jpg?v=1779978317"
+    },
+    {
+      "title": "Us Is More: INC Architecture & Design",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "The Monacelli Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/M-us-is-more-ae-3749-3d-standing-front-3000.jpg?v=1779978462",
+      "store_link": "https://www.phaidon.com/products/us-is-more-inc-architecture-design",
+      "published_at": "2026-06-18T20:25:13+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/M-us-is-more-ae-3749-3d-standing-front-3000.jpg?v=1779978462"
+    },
+    {
+      "title": "Time & Place: The Homes of Richard Beard Architects",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "The Monacelli Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/M-richard-beard-architects-ae-3767-3d-standing-front-3000.jpg?v=1780330546",
+      "store_link": "https://www.phaidon.com/products/time-place-the-homes-of-richard-beard-architects",
+      "published_at": "2026-06-18T20:23:26+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/M-richard-beard-architects-ae-3767-3d-standing-front-3000.jpg?v=1780330546"
+    },
+    {
+      "title": "Mory Sacko: A Cook's Journey",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "Phaidon Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/mory-sacko-en-9044-3d-standing-front-3000.jpg?v=1780330407",
+      "store_link": "https://www.phaidon.com/products/mory-sacko-a-cooks-journey",
+      "published_at": "2026-06-18T20:07:32+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/mory-sacko-en-9044-3d-standing-front-3000.jpg?v=1780330407"
+    },
+    {
+      "title": "At Home in Nature: American Country Interiors",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "The Monacelli Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/M-at-home-in-nature-ae-3748-3d-standing-front-3000.jpg?v=1780430741",
+      "store_link": "https://www.phaidon.com/products/at-home-in-nature-american-country-interiors",
+      "published_at": "2026-06-18T20:05:24+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/M-at-home-in-nature-ae-3748-3d-standing-front-3000.jpg?v=1780430741"
+    },
+    {
+      "title": "Eddie Martinez: 20 Years of Painting",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "The Monacelli Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/M-eddie-martinez-ae-3751-3d-standing-front-3000.jpg?v=1780330673",
+      "store_link": "https://www.phaidon.com/products/eddie-martinez-20-years-of-painting",
+      "published_at": "2026-06-18T18:29:00+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/M-eddie-martinez-ae-3751-3d-standing-front-3000.jpg?v=1780330673"
+    },
+    {
       "title": "Animals of the Chinese Zodiac: Meet Your Match! An Illustrated Guide to the 12 Signs",
       "store": "Phaidon",
       "city": "출판사",
@@ -927,39 +1004,6 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/arthur-jafa-en-9056-3d-standing-front-3000.jpg?v=1777352838"
     },
     {
-      "title": "My Favorite Material Is Light: & Other Quotes by Architects",
-      "store": "Phaidon",
-      "city": "출판사",
-      "section": "아트·디자인",
-      "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/my-favourite-material-is-light-en-9253-3d-standing-front-3000.jpg?v=1779978167",
-      "store_link": "https://www.phaidon.com/products/my-favorite-material-is-light-other-quotes-by-architects",
-      "published_at": "2026-06-16T18:58:13+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/my-favourite-material-is-light-en-9253-3d-standing-front-3000.jpg?v=1779978167"
-    },
-    {
-      "title": "Tuscany",
-      "store": "Phaidon",
-      "city": "출판사",
-      "section": "아트·디자인",
-      "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/tuscany-2026-en-9245-3d-standing-front-3000.jpg?v=1779978518",
-      "store_link": "https://www.phaidon.com/products/tuscany",
-      "published_at": "2026-06-16T18:57:34+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/tuscany-2026-en-9245-3d-standing-front-3000.jpg?v=1779978518"
-    },
-    {
-      "title": "Sicily (2026)",
-      "store": "Phaidon",
-      "city": "출판사",
-      "section": "아트·디자인",
-      "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/sicily-2026-en-9246-3d-standing-front-3000.jpg?v=1779978806",
-      "store_link": "https://www.phaidon.com/products/sicily-2026",
-      "published_at": "2026-06-16T18:50:01+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/sicily-2026-en-9246-3d-standing-front-3000.jpg?v=1779978806"
-    },
-    {
       "title": "Christmas!: An Interactive Holiday Book",
       "store": "Phaidon",
       "city": "출판사",
@@ -980,17 +1024,6 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "store_link": "https://www.phaidon.com/products/robert-indiana-an-american-icon",
       "published_at": "2026-06-16T18:36:58+01:00",
       "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/robert-indiana-en-9055-3d-standing-front-3000.jpg?v=1780330304"
-    },
-    {
-      "title": "Spiced: Recipes Celebrating Spices from Around the World",
-      "store": "Phaidon",
-      "city": "출판사",
-      "section": "아트·디자인",
-      "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/spiced-en-9265-3d-standing-front-3000.jpg?v=1780330979",
-      "store_link": "https://www.phaidon.com/products/spiced-recipes-celebrating-spices-from-around-the-world",
-      "published_at": "2026-06-16T16:49:29+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/spiced-en-9265-3d-standing-front-3000.jpg?v=1780330979"
     },
     {
       "title": "ATP No. 1 Club: Icons of Men's Tennis",
@@ -1068,39 +1101,6 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "store_link": "https://www.phaidon.com/products/garrett-bradley-in-the-palm-of-my-hand-5056880812474",
       "published_at": "2026-05-22T10:41:33+01:00",
       "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/DSCF5479sq.jpg?v=1779198621"
-    },
-    {
-      "title": "Higher Love",
-      "store": "Phaidon",
-      "city": "출판사",
-      "section": "아트·디자인",
-      "author": "Artspace",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/Michael_20Kagan-Framed-72dpi-WebUse_20_281_29.jpg?v=1778519383",
-      "store_link": "https://www.phaidon.com/products/michael-kagan-higher-love-5056880812436",
-      "published_at": "2026-05-20T13:50:32+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/Michael_20Kagan-Framed-72dpi-WebUse_20_281_29.jpg?v=1778519383"
-    },
-    {
-      "title": "Odette: Terroir to Table, Heart to Plate [A Cookbook]",
-      "store": "Phaidon",
-      "city": "출판사",
-      "section": "아트·디자인",
-      "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/odette-en-9109-standing-front-3000.jpg?v=1777439314",
-      "store_link": "https://www.phaidon.com/products/odette-terroir-to-table-heart-to-plate-a-cookbook",
-      "published_at": "2026-05-20T13:48:08+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/odette-en-9109-standing-front-3000.jpg?v=1777439314"
-    },
-    {
-      "title": "Schoener Goetterfunken, Flowers It Calls From Their Buds",
-      "store": "Phaidon",
-      "city": "출판사",
-      "section": "아트·디자인",
-      "author": "Artspace",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/sebastiaan-bremer-schoener-goetterfunken-flowers-it-calls-from-their-ORIG.jpg?v=1773226783",
-      "store_link": "https://www.phaidon.com/products/sebastiaan-bremer-schoener-goetterfunken-flowers-it-calls-from-their-buds-5056880807135",
-      "published_at": "2026-05-11T16:33:34+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/sebastiaan-bremer-schoener-goetterfunken-flowers-it-calls-from-their-ORIG.jpg?v=1773226783"
     },
     {
       "title": "The Jaguar Book: Collector's Edition",
