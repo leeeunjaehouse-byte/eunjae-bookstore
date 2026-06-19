@@ -1,7 +1,40 @@
 window.__OVERSEAS_BOOKS_DATA__ = {
-  "updated_at": "2026-06-19T08:02:28.610913+09:00",
-  "today": "2026-06-19",
+  "updated_at": "2026-06-20T08:02:25.411230+09:00",
+  "today": "2026-06-20",
   "books": [
+    {
+      "title": "Scenery #4 2026",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Scenery Magazine",
+      "store_cover": "",
+      "store_link": "https://www.doyoureadme.de/products/scenery-4-2026",
+      "published_at": "2026-06-19T11:36:33+02:00",
+      "cover": ""
+    },
+    {
+      "title": "Wallpaper Jul. 2026",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Wallpaper",
+      "store_cover": "",
+      "store_link": "https://www.doyoureadme.de/products/wallpaper-jul-2026",
+      "published_at": "2026-06-19T11:27:50+02:00",
+      "cover": ""
+    },
+    {
+      "title": "World of Interiors Jul. 2026",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "World of Interiors",
+      "store_cover": "",
+      "store_link": "https://www.doyoureadme.de/products/world-of-interiors-jul-2026",
+      "published_at": "2026-06-19T11:03:11+02:00",
+      "cover": ""
+    },
     {
       "title": "King Kong #21 S/S 2026",
       "store": "Do you read me?!",
@@ -188,39 +221,6 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "store_link": "https://www.doyoureadme.de/products/red-tory-my-corbyn-chemsex-hell",
       "published_at": "2026-06-17T17:18:48+02:00",
       "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43522-Red-Tory-My-Corbyn-Chemsex-Hell-1.jpg?v=1781772483"
-    },
-    {
-      "title": "One Ingredient Recipes - Martijn in't Veld 5. Edition",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Happy Potato Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43362-One-Ingredient-Recipes_Martijn-int-Veld-5-Edition-1.jpg?v=1779877171",
-      "store_link": "https://www.doyoureadme.de/products/one-ingredient-recipes-martijn-int-veld-5-edition",
-      "published_at": "2026-06-17T16:13:33+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43362-One-Ingredient-Recipes_Martijn-int-Veld-5-Edition-1.jpg?v=1779877171"
-    },
-    {
-      "title": "Paris Review #256 2026",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "The Paris Review",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43506-Paris-Review-256-2026-1.jpg?v=1781602176",
-      "store_link": "https://www.doyoureadme.de/products/paris-review-256-2026",
-      "published_at": "2026-06-16T11:33:20+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43506-Paris-Review-256-2026-1.jpg?v=1781602176"
-    },
-    {
-      "title": "Elska #59 - Krung Thep Maha Nakhon",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Elska",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Elska-Thailand-1.jpg?v=1781515555",
-      "store_link": "https://www.doyoureadme.de/products/elska-59-krung-thep-maha-nakhon",
-      "published_at": "2026-06-16T11:32:31+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Elska-Thailand-1.jpg?v=1781515555"
     },
     {
       "title": "USSR 1991 by Keizo Kitajima (signed)",
@@ -443,6 +443,138 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "cover": "https://cdn.shopify.com/s/files/1/0221/7340/files/Screenshot2026-04-21at13.18.42.png?v=1776775645"
     },
     {
+      "title": "Apartamento #37",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-19173103.png?v=1781886963",
+      "store_link": "https://magmabooks.com/products/apartamento-35-copy-2",
+      "published_at": "2026-06-19T17:37:16+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-19173103.png?v=1781886963"
+    },
+    {
+      "title": "A Magazine: Curated by Hores Serie (for Nike) #7",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-19172213.png?v=1781886526",
+      "store_link": "https://magmabooks.com/products/a-magazine-curated-by-cecile-bahnsen-copy",
+      "published_at": "2026-06-19T17:30:12+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-19172213.png?v=1781886526"
+    },
+    {
+      "title": "THE ECHO: How to Design Brands That Move Culture",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-19171247.png?v=1781885813",
+      "store_link": "https://magmabooks.com/products/what-design-can-t-do-copy",
+      "published_at": "2026-06-19T17:18:28+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-19171247.png?v=1781885813"
+    },
+    {
+      "title": "Design360° no.112 – What Are the Most Beautiful Books?",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-19123938.png?v=1781870995",
+      "store_link": "https://magmabooks.com/products/reset-1-copy",
+      "published_at": "2026-06-19T13:10:52+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-19123938.png?v=1781870995"
+    },
+    {
+      "title": "Reset #1",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-01at17-49-33reset-magazine-1_1600x1600.jpg_JPEGImage1600x1333pixels_Scaled_66.png?v=1780332638",
+      "store_link": "https://magmabooks.com/products/reset-1",
+      "published_at": "2026-06-19T13:08:52+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-01at17-49-33reset-magazine-1_1600x1600.jpg_JPEGImage1600x1333pixels_Scaled_66.png?v=1780332638"
+    },
+    {
+      "title": "Core Corea – Issue 2",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-19123728.png?v=1781870598",
+      "store_link": "https://magmabooks.com/products/breakout-2-100-posters-copy",
+      "published_at": "2026-06-19T13:03:51+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-19123728.png?v=1781870598"
+    },
+    {
+      "title": "Breakout #2 – 100 Posters",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-19123449.png?v=1781870379",
+      "store_link": "https://magmabooks.com/products/slanted-magazine-47-digital-tools-copy",
+      "published_at": "2026-06-19T13:01:43+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-19123449.png?v=1781870379"
+    },
+    {
+      "title": "Slanted Magazine #47 – Digital Tools",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-19123206.png?v=1781870155",
+      "store_link": "https://magmabooks.com/products/slanted-46-cairo-copy",
+      "published_at": "2026-06-19T12:58:06+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-19123206.png?v=1781870155"
+    },
+    {
+      "title": "Lionel Wendt",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-19122813.png?v=1781869898",
+      "store_link": "https://magmabooks.com/products/inframundi-copy",
+      "published_at": "2026-06-19T12:53:58+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-19122813.png?v=1781869898"
+    },
+    {
+      "title": "Flea",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-19122517.png?v=1781869494",
+      "store_link": "https://magmabooks.com/products/bad-people-copy",
+      "published_at": "2026-06-19T12:47:27+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-19122517.png?v=1781869494"
+    },
+    {
+      "title": "Bad People",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot_2025-10-28_at_12-59-40_badpeople.jpg_JPEG_Image_1100_x_1100_pixels_Scaled_76.png?v=1761656671",
+      "store_link": "https://magmabooks.com/products/bad-people",
+      "published_at": "2026-06-19T12:43:37+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot_2025-10-28_at_12-59-40_badpeople.jpg_JPEG_Image_1100_x_1100_pixels_Scaled_76.png?v=1761656671"
+    },
+    {
+      "title": "FUKT #21",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Cover_front_1.jpg?v=1691161538",
+      "store_link": "https://magmabooks.com/products/fukt-21",
+      "published_at": "2026-06-19T12:12:36+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Cover_front_1.jpg?v=1691161538"
+    },
+    {
       "title": "BUTT #38",
       "store": "Magma Books",
       "city": "런던",
@@ -529,138 +661,6 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "store_link": "https://magmabooks.com/products/skater-sticker-copy",
       "published_at": "2026-06-16T16:12:50+01:00",
       "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-16155852.png?v=1781622725"
-    },
-    {
-      "title": "Skater Sticker",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-16155714.png?v=1781622556",
-      "store_link": "https://magmabooks.com/products/barking-pop-shop-dog-sticker-copy",
-      "published_at": "2026-06-16T16:10:04+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-16155714.png?v=1781622556"
-    },
-    {
-      "title": "Barking Pop Shop Dog Sticker",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-16155541.png?v=1781622456",
-      "store_link": "https://magmabooks.com/products/floating-snoopy-sticker-copy",
-      "published_at": "2026-06-16T16:08:41+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-16155541.png?v=1781622456"
-    },
-    {
-      "title": "Floating Snoopy Sticker",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-16155325.png?v=1781622364",
-      "store_link": "https://magmabooks.com/products/heartbreaker-snoopy-sticker-copy",
-      "published_at": "2026-06-16T16:06:58+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-16155325.png?v=1781622364"
-    },
-    {
-      "title": "Bar Brutal: A Cookbook of Revelations",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot_2026-06-16_at_14-12-39_Bar_Brutal_A_Cookbook_of_Revelations.png?v=1781615576",
-      "store_link": "https://magmabooks.com/products/bon-appetit-paris-copy",
-      "published_at": "2026-06-16T14:11:52+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot_2026-06-16_at_14-12-39_Bar_Brutal_A_Cookbook_of_Revelations.png?v=1781615576"
-    },
-    {
-      "title": "Shit Sticker",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/TP-Single-Shit_750x_31c0ef3c-8fa7-4d7e-a532-4ed92fc2b8ad.webp?v=1730735469",
-      "store_link": "https://magmabooks.com/products/later-is-too-late-sticker-copy",
-      "published_at": "2026-06-15T15:40:56+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/TP-Single-Shit_750x_31c0ef3c-8fa7-4d7e-a532-4ed92fc2b8ad.webp?v=1730735469"
-    },
-    {
-      "title": "Heartbreaker Snoopy Sticker",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2025-06-17at14-26-26Single_Peanuts_Heartbreaker.png_PNGImage900x900pixels_Scaled_99.png?v=1750167078",
-      "store_link": "https://magmabooks.com/products/heartbreaker-snoopy-sticker",
-      "published_at": "2026-06-15T15:38:02+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2025-06-17at14-26-26Single_Peanuts_Heartbreaker.png_PNGImage900x900pixels_Scaled_99.png?v=1750167078"
-    },
-    {
-      "title": "DJ Dog Sticker by Kieth Haring",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Single_KH_DJDog_750x_a4938e6b-7aa0-4fdf-b2ec-b5a1201b7312.webp?v=1704976360",
-      "store_link": "https://magmabooks.com/products/dk-dog-sticker-by-kieth-haring",
-      "published_at": "2026-06-15T15:25:22+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Single_KH_DJDog_750x_a4938e6b-7aa0-4fdf-b2ec-b5a1201b7312.webp?v=1704976360"
-    },
-    {
-      "title": "Biking Buds Sticker",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2025-09-09at13-36-03BikingBuds_ApplyStickers.png?v=1757421860",
-      "store_link": "https://magmabooks.com/products/biking-buds-sticker",
-      "published_at": "2026-06-15T15:18:00+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2025-09-09at13-36-03BikingBuds_ApplyStickers.png?v=1757421860"
-    },
-    {
-      "title": "DJ Snoopy Sticker",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2025-09-09at13-47-02DJSnoopy_ApplyStickers.png?v=1757422297",
-      "store_link": "https://magmabooks.com/products/dj-snoopy-sticker",
-      "published_at": "2026-06-15T15:12:16+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2025-09-09at13-47-02DJSnoopy_ApplyStickers.png?v=1757422297"
-    },
-    {
-      "title": "An Opinionated Guide to Lisbon",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-15at13-13-47OG_Lisbon_Cover_Mockup_1024x1024.jpg_JPEGImage1024x925pixels_Scaled_96.png?v=1781525681",
-      "store_link": "https://magmabooks.com/products/an-opinionated-guide-to-lisbon",
-      "published_at": "2026-06-15T13:15:32+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-15at13-13-47OG_Lisbon_Cover_Mockup_1024x1024.jpg_JPEGImage1024x925pixels_Scaled_96.png?v=1781525681"
-    },
-    {
-      "title": "PIN–UP #40",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-13at14-06-02e23114d0f69b8f86333bc6478d9db46230c3e6ae-1671x1920.gif_GIFImage2000x2298pixels_Scaled_38.png?v=1781355980",
-      "store_link": "https://magmabooks.com/products/pin-up-41",
-      "published_at": "2026-06-13T14:06:36+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-13at14-06-02e23114d0f69b8f86333bc6478d9db46230c3e6ae-1671x1920.gif_GIFImage2000x2298pixels_Scaled_38.png?v=1781355980"
-    },
-    {
-      "title": "Novembre #18",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-13at13-59-12Novembre-N_18_YvonLambertParis.png?v=1781355564",
-      "store_link": "https://magmabooks.com/products/novembre-18",
-      "published_at": "2026-06-13T13:59:50+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-13at13-59-12Novembre-N_18_YvonLambertParis.png?v=1781355564"
     },
     {
       "title": "Mast Books Tote Bag",
@@ -894,17 +894,6 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/M-brilliant-ae-3757-3d-standing-front-3000.jpg?v=1780330497"
     },
     {
-      "title": "Vegan Vegan!",
-      "store": "Phaidon",
-      "city": "출판사",
-      "section": "아트·디자인",
-      "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/vegan-vegan-en-9262-3d-standing-front-3000.jpg?v=1779978317",
-      "store_link": "https://www.phaidon.com/products/vegan-vegan",
-      "published_at": "2026-06-18T20:26:36+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/vegan-vegan-en-9262-3d-standing-front-3000.jpg?v=1779978317"
-    },
-    {
       "title": "Us Is More: INC Architecture & Design",
       "store": "Phaidon",
       "city": "출판사",
@@ -1101,6 +1090,17 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "store_link": "https://www.phaidon.com/products/garrett-bradley-in-the-palm-of-my-hand-5056880812474",
       "published_at": "2026-05-22T10:41:33+01:00",
       "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/DSCF5479sq.jpg?v=1779198621"
+    },
+    {
+      "title": "Higher Love",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "Artspace",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/Michael_20Kagan-Framed-72dpi-WebUse_20_281_29.jpg?v=1778519383",
+      "store_link": "https://www.phaidon.com/products/michael-kagan-higher-love-5056880812436",
+      "published_at": "2026-05-20T13:50:32+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/Michael_20Kagan-Framed-72dpi-WebUse_20_281_29.jpg?v=1778519383"
     },
     {
       "title": "The Jaguar Book: Collector's Edition",
