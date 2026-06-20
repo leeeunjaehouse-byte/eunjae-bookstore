@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-06-20T08:02:25.411230+09:00",
-  "today": "2026-06-20",
+  "updated_at": "2026-06-21T08:02:41.603676+09:00",
+  "today": "2026-06-21",
   "books": [
+    {
+      "title": "Vogue USA May 2026",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Condé Nast",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Vogue_Standard_e289ef4c-220b-41ff-a692-c56f195833c5.jpg?v=1730212917",
+      "store_link": "https://www.doyoureadme.de/products/vogue-usa-may-2026",
+      "published_at": "2026-06-20T16:58:40+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Vogue_Standard_e289ef4c-220b-41ff-a692-c56f195833c5.jpg?v=1730212917"
+    },
     {
       "title": "Scenery #4 2026",
       "store": "Do you read me?!",
@@ -210,17 +221,6 @@
       "store_link": "https://www.doyoureadme.de/products/eurotrash-zine",
       "published_at": "2026-06-18T11:01:15+02:00",
       "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43520-Eurotrash-Zine-1.jpg?v=1781772483"
-    },
-    {
-      "title": "Red Tory: My Corbyn Chemsex Hell",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Montez Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43522-Red-Tory-My-Corbyn-Chemsex-Hell-1.jpg?v=1781772483",
-      "store_link": "https://www.doyoureadme.de/products/red-tory-my-corbyn-chemsex-hell",
-      "published_at": "2026-06-17T17:18:48+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43522-Red-Tory-My-Corbyn-Chemsex-Hell-1.jpg?v=1781772483"
     },
     {
       "title": "USSR 1991 by Keizo Kitajima (signed)",
@@ -443,6 +443,50 @@
       "cover": "https://cdn.shopify.com/s/files/1/0221/7340/files/Screenshot2026-04-21at13.18.42.png?v=1776775645"
     },
     {
+      "title": "Flavours & Friends: Piccolo Edition",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-20at17-08-13TDDBOOK-FLAVOURS_FRIENDSTDDshop.png?v=1781971718",
+      "store_link": "https://magmabooks.com/products/bar-brutal-a-cookbook-of-revelations-copy",
+      "published_at": "2026-06-20T17:08:52+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-20at17-08-13TDDBOOK-FLAVOURS_FRIENDSTDDshop.png?v=1781971718"
+    },
+    {
+      "title": "On the Rag #3: Special London Edition",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-20at16-56-37OnTheRag_3-LondonEdition_UNITOM.png?v=1781971136",
+      "store_link": "https://magmabooks.com/products/useless-5-copy",
+      "published_at": "2026-06-20T16:59:51+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-20at16-56-37OnTheRag_3-LondonEdition_UNITOM.png?v=1781971136"
+    },
+    {
+      "title": "BILL #6",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-20at16-46-35BILLissue6-GoogleSearch.png?v=1781970416",
+      "store_link": "https://magmabooks.com/products/bill-5-copy",
+      "published_at": "2026-06-20T16:47:17+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-20at16-46-35BILLissue6-GoogleSearch.png?v=1781970416"
+    },
+    {
+      "title": "Endless Magazine #5",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-20at16-32-03endlessmagazineIV-GoogleSearch.png?v=1781969546",
+      "store_link": "https://magmabooks.com/products/endless-magazine-3-copy",
+      "published_at": "2026-06-20T16:39:21+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-20at16-32-03endlessmagazineIV-GoogleSearch.png?v=1781969546"
+    },
+    {
       "title": "Apartamento #37",
       "store": "Magma Books",
       "city": "런던",
@@ -617,50 +661,6 @@
       "store_link": "https://magmabooks.com/products/spring-in-japan",
       "published_at": "2026-06-17T15:14:10+01:00",
       "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/91WCLTIormL._SL1500.jpg?v=1780061421"
-    },
-    {
-      "title": "POSEUTEO POSTER",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/61g0Dyf36_L._SL1230.jpg?v=1780056257",
-      "store_link": "https://magmabooks.com/products/poseuteo-poster",
-      "published_at": "2026-06-17T14:53:24+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/61g0Dyf36_L._SL1230.jpg?v=1780056257"
-    },
-    {
-      "title": "How to Make Work Not Suck",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/71ezTqX1lcL.jpg?v=1687263518",
-      "store_link": "https://magmabooks.com/products/how-to-make-work-not-suck",
-      "published_at": "2026-06-17T14:50:27+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/71ezTqX1lcL.jpg?v=1687263518"
-    },
-    {
-      "title": "Great Wave Snoopy Sticker",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-16161422.png?v=1781622956",
-      "store_link": "https://magmabooks.com/products/kitty-family-copy",
-      "published_at": "2026-06-16T16:18:05+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-16161422.png?v=1781622956"
-    },
-    {
-      "title": "Kitty Family Sticker",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-16155852.png?v=1781622725",
-      "store_link": "https://magmabooks.com/products/skater-sticker-copy",
-      "published_at": "2026-06-16T16:12:50+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-16155852.png?v=1781622725"
     },
     {
       "title": "Mast Books Tote Bag",

@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-20T08:02:14.245444+09:00",
-  "today": "2026-06-20",
+  "updated_at": "2026-06-21T08:02:26.959645+09:00",
+  "today": "2026-06-21",
   "books": [
     {
       "title": "Still Life · 김진주",
@@ -93,6 +93,15 @@
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20Play%20Pocket%20%C2%B7%20%EC%9D%B4%EC%A7%80%EC%98%81"
     },
     {
+      "title": "양말이 많은 사람의 고백 · 박상은",
+      "store": "유어마인드",
+      "section": "BOOKS",
+      "store_link": "https://www.your-mind.com/product/양말이 많은 사람의 고백-·-박상은/5991/category/27/display/1/",
+      "store_cover": "https://www.your-mind.com/web/product/big/202605/335df7195bea72f75d57852c5436ab2a.png",
+      "cover": "https://www.your-mind.com/web/product/big/202605/335df7195bea72f75d57852c5436ab2a.png",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%96%91%EB%A7%90%EC%9D%B4%C2%A0%EB%A7%8E%EC%9D%80%C2%A0%EC%82%AC%EB%9E%8C%EC%9D%98%C2%A0%EA%B3%A0%EB%B0%B1%20%C2%B7%20%EB%B0%95%EC%83%81%EC%9D%80"
+    },
+    {
       "title": "모르는 할머니 · 김보람, 김연재, 김유미, 김윤영, 이재임, 정인혜, 하라",
       "store": "유어마인드",
       "section": "BOOKS",
@@ -147,6 +156,15 @@
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20Unexpected%20Singapore%20%EC%98%88%EC%B8%A1%EB%B6%88%EA%B0%80%20%EC%8B%B1%EA%B0%80%ED%8F%AC%EB%A5%B4%20%EC%97%AC%ED%96%89%EA%B8%B0%20%C2%B7%20%EA%B9%80%EC%A7%80%ED%99%94"
     },
     {
+      "title": "[재입고] 인터넷 견문록 · 김혜연",
+      "store": "유어마인드",
+      "section": "BOOKS",
+      "store_link": "https://www.your-mind.com/product/재입고-인터넷-견문록-·-김혜연/5967/category/27/display/1/",
+      "store_cover": "https://www.your-mind.com/web/product/big/202604/f756285c215cd92619dc557141afee7d.png",
+      "cover": "https://www.your-mind.com/web/product/big/202604/f756285c215cd92619dc557141afee7d.png",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20%EC%9D%B8%ED%84%B0%EB%84%B7%20%EA%B2%AC%EB%AC%B8%EB%A1%9D%20%C2%B7%20%EA%B9%80%ED%98%9C%EC%97%B0"
+    },
+    {
       "title": "[4차 입고] 유령고양이의 두려움과 해골새의 즐거움 · 피칸트",
       "store": "유어마인드",
       "section": "BOOKS",
@@ -181,15 +199,6 @@
       "store_cover": "https://www.your-mind.com/web/product/big/202604/2419afc18546b2f27767aafdad318f73.png",
       "cover": "https://www.your-mind.com/web/product/big/202604/2419afc18546b2f27767aafdad318f73.png",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20%EB%B3%95%EB%89%98%20%EC%95%84%EB%9E%98%EC%84%9C%20%EB%88%88%EC%9D%84%20%EA%B0%90%EC%95%98%EB%8B%A4%20%C2%B7%20%EC%95%88%EC%88%98%ED%98%84"
-    },
-    {
-      "title": "휴간 중입니다—한국 퀴어 연속간행물의 실천 · 이경민",
-      "store": "유어마인드",
-      "section": "BOOKS",
-      "store_link": "https://www.your-mind.com/product/휴간-중입니다한국-퀴어-연속간행물의-실천-·-이경민/5960/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202604/60e0b121a7c7b563ac8f9368f926d221.png",
-      "cover": "https://www.your-mind.com/web/product/big/202604/60e0b121a7c7b563ac8f9368f926d221.png",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%ED%9C%B4%EA%B0%84%20%EC%A4%91%EC%9E%85%EB%8B%88%EB%8B%A4%E2%80%94%ED%95%9C%EA%B5%AD%20%ED%80%B4%EC%96%B4%20%EC%97%B0%EC%86%8D%EA%B0%84%ED%96%89%EB%AC%BC%EC%9D%98%20%EC%8B%A4%EC%B2%9C%20%C2%B7%20%EC%9D%B4%EA%B2%BD%EB%AF%BC"
     },
     {
       "title": "페이스타임으로 글쓰기 · 김철민",
@@ -262,15 +271,6 @@
       "store_cover": "https://www.your-mind.com/web/product/big/202601/bae9a5510f47dc4a4fa130910afe8bae.png",
       "cover": "https://www.your-mind.com/web/product/big/202601/bae9a5510f47dc4a4fa130910afe8bae.png",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20%ED%9B%84%ED%9B%84%20Hoo%20Hoo%20%E5%BE%8C%E5%91%BC%20%C2%B7%20%EB%A7%88%EC%82%AC%EC%A7%84%EC%98%81"
-    },
-    {
-      "title": "[4차 입고] 귀여워! · 호규현, 정신영, 장민지, 전혜정, 양승욱, 조예진",
-      "store": "유어마인드",
-      "section": "BOOKS",
-      "store_link": "https://www.your-mind.com/product/4차-입고-귀여워-·-호규현-정신영-장민지-전혜정-양승욱-조예진/5914/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202512/4ddbce97ad0ee6e746bf79d60cd7f779.png",
-      "cover": "https://www.your-mind.com/web/product/big/202512/4ddbce97ad0ee6e746bf79d60cd7f779.png",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B4%EC%B0%A8%20%EC%9E%85%EA%B3%A0%5D%20%EA%B7%80%EC%97%AC%EC%9B%8C%21%20%C2%B7%20%ED%98%B8%EA%B7%9C%ED%98%84%2C%20%EC%A0%95%EC%8B%A0%EC%98%81%2C%20%EC%9E%A5%EB%AF%BC%EC%A7%80%2C%20%EC%A0%84%ED%98%9C%EC%A0%95%2C%20%EC%96%91%EC%8A%B9%EC%9A%B1%2C%20%EC%A1%B0%EC%98%88%EC%A7%84"
     },
     {
       "title": "[예약판매/배송비 무료] 숨겨둔 책 세트 (No.025, 026, 027)",
@@ -1740,15 +1740,6 @@
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20Love%20Letters"
     },
     {
-      "title": "[4차 입고] Animal Books for Jaap Zeno Anna Julian Luca",
-      "store": "더북소사이어티",
-      "section": "큐레이션",
-      "store_link": "https://thebooksociety.org/shop_view/?idx=538",
-      "store_cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/5fc1dff59f90a.png?w=800",
-      "cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/5fc1dff59f90a.png?w=800",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B4%EC%B0%A8%20%EC%9E%85%EA%B3%A0%5D%20Animal%20Books%20for%20Jaap%20Zeno%20Anna%20Julian%20Luca"
-    },
-    {
       "title": "e-flux Index #8",
       "store": "더북소사이어티",
       "section": "큐레이션",
@@ -1810,6 +1801,15 @@
       "store_cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/26f22cd154b0c.jpg?w=800",
       "cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/26f22cd154b0c.jpg?w=800",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=KIRTI%20Vol.1%20-%20Hunter%20P%20Deerfield"
+    },
+    {
+      "title": "e-flux Index #7",
+      "store": "더북소사이어티",
+      "section": "큐레이션",
+      "store_link": "https://thebooksociety.org/shop_view/?idx=1304",
+      "store_cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/20efabf542d86.jpg?w=800",
+      "cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/20efabf542d86.jpg?w=800",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=e-flux%20Index%20%237"
     },
     {
       "title": "여름어 사전(동네서점 에디션)",
@@ -2270,10 +2270,10 @@
   "errors": [],
   "total": 236,
   "stores_attempted": [
-    "사적인서점",
-    "고요서사",
     "유어마인드",
-    "소심한책방",
-    "북앤스페이스"
+    "북앤스페이스",
+    "고요서사",
+    "사적인서점",
+    "소심한책방"
   ]
 }
