@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-21T08:02:41.603676+09:00",
-  "today": "2026-06-21",
+  "updated_at": "2026-06-22T08:02:44.444187+09:00",
+  "today": "2026-06-22",
   "books": [
     {
       "title": "Vogue USA May 2026",
@@ -443,6 +443,28 @@
       "cover": "https://cdn.shopify.com/s/files/1/0221/7340/files/Screenshot2026-04-21at13.18.42.png?v=1776775645"
     },
     {
+      "title": "Boys Boys Boys! #11",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Cover_Web.webp?v=1782061077",
+      "store_link": "https://magmabooks.com/products/boys-boys-boys-12",
+      "published_at": "2026-06-21T18:00:44+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Cover_Web.webp?v=1782061077"
+    },
+    {
+      "title": "Serviette #8",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/serviette.webp?v=1782060391",
+      "store_link": "https://magmabooks.com/products/serviette-8",
+      "published_at": "2026-06-21T17:48:41+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/serviette.webp?v=1782060391"
+    },
+    {
       "title": "Flavours & Friends: Piccolo Edition",
       "store": "Magma Books",
       "city": "런던",
@@ -639,28 +661,6 @@
       "store_link": "https://magmabooks.com/products/calico-kitty-cat-hair-claw-copy",
       "published_at": "2026-06-17T15:16:41+01:00",
       "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2024-11-04at13-39-05231215_WINONAIRENEFLATS0059_1200x.jpg_JPEGImage1200x1200pixels_Scaled_74.png?v=1730727755"
-    },
-    {
-      "title": "Soccer Snoopy Sticker",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-16160021.png?v=1781623176",
-      "store_link": "https://magmabooks.com/products/kitty-family-sticker-copy",
-      "published_at": "2026-06-17T15:15:22+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-16160021.png?v=1781623176"
-    },
-    {
-      "title": "Spring in Japan",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/91WCLTIormL._SL1500.jpg?v=1780061421",
-      "store_link": "https://magmabooks.com/products/spring-in-japan",
-      "published_at": "2026-06-17T15:14:10+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/91WCLTIormL._SL1500.jpg?v=1780061421"
     },
     {
       "title": "Mast Books Tote Bag",
