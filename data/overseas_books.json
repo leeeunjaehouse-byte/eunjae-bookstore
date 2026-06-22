@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-06-22T08:02:44.444187+09:00",
-  "today": "2026-06-22",
+  "updated_at": "2026-06-23T08:02:36.867016+09:00",
+  "today": "2026-06-23",
   "books": [
+    {
+      "title": "Famous For My Dinner Parties #4 2026",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "FFDP",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43540-Famous-For-My-Dinner-Parties-4-2026-1.jpg?v=1782121558",
+      "store_link": "https://www.doyoureadme.de/products/famous-for-my-dinner-parties-4-2026",
+      "published_at": "2026-06-22T11:48:39+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43540-Famous-For-My-Dinner-Parties-4-2026-1.jpg?v=1782121558"
+    },
+    {
+      "title": "PDF Magazine #1 2026",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Luke Abby Studio",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43535-PDF-Magazine-1-2026-1.jpg?v=1782121559",
+      "store_link": "https://www.doyoureadme.de/products/pdf-1-2026",
+      "published_at": "2026-06-22T11:48:39+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43535-PDF-Magazine-1-2026-1.jpg?v=1782121559"
+    },
+    {
+      "title": "Autre #22 S/S 2026",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Autre Magazine",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43534-Autre-22-SS-2026-1.jpg?v=1782121559",
+      "store_link": "https://www.doyoureadme.de/products/autre-22-s-s-2026",
+      "published_at": "2026-06-22T11:48:39+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43534-Autre-22-SS-2026-1.jpg?v=1782121559"
+    },
+    {
+      "title": "Numero Homme Berlin #24 2026",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Off One's Rocker Publishing LTD.",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43533-Numero-Homme-Berlin-24-2026-1.jpg?v=1782121559",
+      "store_link": "https://www.doyoureadme.de/products/numero-homme-berlin-24-2026",
+      "published_at": "2026-06-22T11:48:39+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43533-Numero-Homme-Berlin-24-2026-1.jpg?v=1782121559"
+    },
     {
       "title": "Vogue USA May 2026",
       "store": "Do you read me?!",
@@ -14,37 +58,15 @@
       "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Vogue_Standard_e289ef4c-220b-41ff-a692-c56f195833c5.jpg?v=1730212917"
     },
     {
-      "title": "Scenery #4 2026",
+      "title": "Scenery #5 2026",
       "store": "Do you read me?!",
       "city": "베를린",
       "section": "잡지·아트북",
       "author": "Scenery Magazine",
-      "store_cover": "",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43531-Scenery-4-2026-1.jpg?v=1782121559",
       "store_link": "https://www.doyoureadme.de/products/scenery-4-2026",
       "published_at": "2026-06-19T11:36:33+02:00",
-      "cover": ""
-    },
-    {
-      "title": "Wallpaper Jul. 2026",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Wallpaper",
-      "store_cover": "",
-      "store_link": "https://www.doyoureadme.de/products/wallpaper-jul-2026",
-      "published_at": "2026-06-19T11:27:50+02:00",
-      "cover": ""
-    },
-    {
-      "title": "World of Interiors Jul. 2026",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "World of Interiors",
-      "store_cover": "",
-      "store_link": "https://www.doyoureadme.de/products/world-of-interiors-jul-2026",
-      "published_at": "2026-06-19T11:03:11+02:00",
-      "cover": ""
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43531-Scenery-4-2026-1.jpg?v=1782121559"
     },
     {
       "title": "King Kong #21 S/S 2026",
@@ -199,28 +221,6 @@
       "store_link": "https://www.doyoureadme.de/products/food-vol-1-sessions-arts-club",
       "published_at": "2026-06-18T11:01:15+02:00",
       "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43523-Food-Vol-1_Sessions-Arts-Club-1.jpg?v=1781772483"
-    },
-    {
-      "title": "RESET #1 2026",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "RESET",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43521-RESET-1-2026-1.jpg?v=1781772483",
-      "store_link": "https://www.doyoureadme.de/products/reset-1-2026",
-      "published_at": "2026-06-18T11:01:15+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43521-RESET-1-2026-1.jpg?v=1781772483"
-    },
-    {
-      "title": "Eurotrash Zine",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Stow Aways",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43520-Eurotrash-Zine-1.jpg?v=1781772483",
-      "store_link": "https://www.doyoureadme.de/products/eurotrash-zine",
-      "published_at": "2026-06-18T11:01:15+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43520-Eurotrash-Zine-1.jpg?v=1781772483"
     },
     {
       "title": "USSR 1991 by Keizo Kitajima (signed)",
@@ -443,6 +443,61 @@
       "cover": "https://cdn.shopify.com/s/files/1/0221/7340/files/Screenshot2026-04-21at13.18.42.png?v=1776775645"
     },
     {
+      "title": "Avantpet Cooling Mat: Pug",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/products/2020-10-29_11-29-24.jpg?v=1603971516",
+      "store_link": "https://magmabooks.com/products/avantpet-cooling-mat-pug",
+      "published_at": "2026-06-22T13:30:53+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/products/2020-10-29_11-29-24.jpg?v=1603971516"
+    },
+    {
+      "title": "True Love #2",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-22132434.png?v=1782131178",
+      "store_link": "https://magmabooks.com/products/true-love-2",
+      "published_at": "2026-06-22T13:26:32+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-22132434.png?v=1782131178"
+    },
+    {
+      "title": "Fay #2",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-22131633.png?v=1782130666",
+      "store_link": "https://magmabooks.com/products/fay-2",
+      "published_at": "2026-06-22T13:18:07+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-22131633.png?v=1782130666"
+    },
+    {
+      "title": "EATEN #26",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-22131307.png?v=1782130515",
+      "store_link": "https://magmabooks.com/products/eaten-26",
+      "published_at": "2026-06-22T13:15:27+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-22131307.png?v=1782130515"
+    },
+    {
+      "title": "Record Culture #11",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/be797745-cb6c-737a-ed77-ecf1b0817b7c.jpg?v=1780660003",
+      "store_link": "https://magmabooks.com/products/record-culture-11",
+      "published_at": "2026-06-22T13:09:08+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/be797745-cb6c-737a-ed77-ecf1b0817b7c.jpg?v=1780660003"
+    },
+    {
       "title": "Boys Boys Boys! #11",
       "store": "Magma Books",
       "city": "런던",
@@ -606,61 +661,6 @@
       "store_link": "https://magmabooks.com/products/inframundi-copy",
       "published_at": "2026-06-19T12:53:58+01:00",
       "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-19122813.png?v=1781869898"
-    },
-    {
-      "title": "Flea",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-19122517.png?v=1781869494",
-      "store_link": "https://magmabooks.com/products/bad-people-copy",
-      "published_at": "2026-06-19T12:47:27+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-19122517.png?v=1781869494"
-    },
-    {
-      "title": "Bad People",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot_2025-10-28_at_12-59-40_badpeople.jpg_JPEG_Image_1100_x_1100_pixels_Scaled_76.png?v=1761656671",
-      "store_link": "https://magmabooks.com/products/bad-people",
-      "published_at": "2026-06-19T12:43:37+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot_2025-10-28_at_12-59-40_badpeople.jpg_JPEG_Image_1100_x_1100_pixels_Scaled_76.png?v=1761656671"
-    },
-    {
-      "title": "FUKT #21",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Cover_front_1.jpg?v=1691161538",
-      "store_link": "https://magmabooks.com/products/fukt-21",
-      "published_at": "2026-06-19T12:12:36+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Cover_front_1.jpg?v=1691161538"
-    },
-    {
-      "title": "BUTT #38",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-18175839.png?v=1781802075",
-      "store_link": "https://magmabooks.com/products/butt-37-copy-1",
-      "published_at": "2026-06-18T17:56:02+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-18175839.png?v=1781802075"
-    },
-    {
-      "title": "Chamomile Flower Butterfly Hair Claw",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2024-11-04at13-39-05231215_WINONAIRENEFLATS0059_1200x.jpg_JPEGImage1200x1200pixels_Scaled_74.png?v=1730727755",
-      "store_link": "https://magmabooks.com/products/calico-kitty-cat-hair-claw-copy",
-      "published_at": "2026-06-17T15:16:41+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2024-11-04at13-39-05231215_WINONAIRENEFLATS0059_1200x.jpg_JPEGImage1200x1200pixels_Scaled_74.png?v=1730727755"
     },
     {
       "title": "Mast Books Tote Bag",
@@ -883,6 +883,127 @@
       "cover": "https://cdn.shopify.com/s/files/1/0290/3562/6574/files/MB_WEINER_WE_ARE_SHIPS_01.jpg?v=1744483758"
     },
     {
+      "title": "Beyond Color: White Interiors from Simple to Sublime",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "The Monacelli Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/M-white-rooms-ae-3774-3d-standing-front-3000.jpg?v=1781807866",
+      "store_link": "https://www.phaidon.com/products/beyond-color-white-interiors-from-simple-to-sublime",
+      "published_at": "2026-06-22T23:01:16+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/M-white-rooms-ae-3774-3d-standing-front-3000.jpg?v=1781807866"
+    },
+    {
+      "title": "Mathieu Lehanneur",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "Phaidon Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/mathieu-lehanneur-en-9229-3d-standing-front-3000.jpg?v=1781845348",
+      "store_link": "https://www.phaidon.com/products/mathieu-lehanneur",
+      "published_at": "2026-06-22T22:28:49+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/mathieu-lehanneur-en-9229-3d-standing-front-3000.jpg?v=1781845348"
+    },
+    {
+      "title": "Once Around the Sun: Seasonal Rituals, Food, and Stories from a House Upstate",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "The Monacelli Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/M-once-around-the-sun-en-7443-3d-standing-front-3000.jpg?v=1780430900",
+      "store_link": "https://www.phaidon.com/products/once-around-the-sun-seasonal-rituals-food-and-stories-from-a-house-upstate",
+      "published_at": "2026-06-22T21:31:22+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/M-once-around-the-sun-en-7443-3d-standing-front-3000.jpg?v=1780430900"
+    },
+    {
+      "title": "The Festive Baker: A Cookbook - Baking for celebrations and special occasions around the world",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "Phaidon Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/the-festive-baker-en-9261-3d-standing-front-3000.jpg?v=1780331191",
+      "store_link": "https://www.phaidon.com/products/the-festive-baker-a-cookbook-baking-for-celebrations-and-special-occasions-around-the-world",
+      "published_at": "2026-06-22T19:55:02+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/the-festive-baker-en-9261-3d-standing-front-3000.jpg?v=1780331191"
+    },
+    {
+      "title": "Vegan Vegan!",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "Phaidon Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/vegan-vegan-en-9262-3d-standing-front-3000.jpg?v=1779978317",
+      "store_link": "https://www.phaidon.com/products/vegan-vegan",
+      "published_at": "2026-06-22T14:28:03+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/vegan-vegan-en-9262-3d-standing-front-3000.jpg?v=1779978317"
+    },
+    {
+      "title": "Tuscany",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "Phaidon Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/tuscany-2026-en-9245-3d-standing-front-3000.jpg?v=1779978518",
+      "store_link": "https://www.phaidon.com/products/tuscany",
+      "published_at": "2026-06-22T14:27:34+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/tuscany-2026-en-9245-3d-standing-front-3000.jpg?v=1779978518"
+    },
+    {
+      "title": "Sicily (2026)",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "Phaidon Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/sicily-2026-en-9246-3d-standing-front-3000.jpg?v=1779978806",
+      "store_link": "https://www.phaidon.com/products/sicily-2026",
+      "published_at": "2026-06-22T14:26:39+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/sicily-2026-en-9246-3d-standing-front-3000.jpg?v=1779978806"
+    },
+    {
+      "title": "Into the Garden: Private Sanctuaries Around the World",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "Phaidon Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/into-the-garden-en-9311-3d-standing-front-3000.jpg?v=1780331166",
+      "store_link": "https://www.phaidon.com/products/into-the-garden-private-sanctuaries-around-the-world",
+      "published_at": "2026-06-22T13:44:12+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/into-the-garden-en-9311-3d-standing-front-3000.jpg?v=1780331166"
+    },
+    {
+      "title": "Boundless Spirit: Iranian Women Artists",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "The Monacelli Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/M-iranian-women-artists-ae-3750-3d-standing-front-3000.jpg?v=1780330517",
+      "store_link": "https://www.phaidon.com/products/boundless-spirit-iranian-women-artists",
+      "published_at": "2026-06-22T13:42:55+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/M-iranian-women-artists-ae-3750-3d-standing-front-3000.jpg?v=1780330517"
+    },
+    {
+      "title": "Architects' Houses",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "Phaidon Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/architects-houses-en-9226-3d-standing-front-3000.jpg?v=1780330331",
+      "store_link": "https://www.phaidon.com/products/architects-houses",
+      "published_at": "2026-06-22T13:42:01+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/architects-houses-en-9226-3d-standing-front-3000.jpg?v=1780330331"
+    },
+    {
+      "title": "Spiced: Recipes Celebrating Spices from Around the World",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "Phaidon Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/spiced-en-9265-3d-standing-front-3000.jpg?v=1780330979",
+      "store_link": "https://www.phaidon.com/products/spiced-recipes-celebrating-spices-from-around-the-world",
+      "published_at": "2026-06-22T13:38:29+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/spiced-en-9265-3d-standing-front-3000.jpg?v=1780330979"
+    },
+    {
       "title": "Brilliant: Unexpected Art from Everywhere",
       "store": "Phaidon",
       "city": "출판사",
@@ -980,127 +1101,6 @@
       "store_link": "https://www.phaidon.com/products/another-view-the-vibrant-world-of-contemporary-black-artists",
       "published_at": "2026-06-16T19:04:32+01:00",
       "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/another-view-en-9022-3d-standing-front-3000.jpg?v=1780331308"
-    },
-    {
-      "title": "Arthur Jafa: I Am Tony",
-      "store": "Phaidon",
-      "city": "출판사",
-      "section": "아트·디자인",
-      "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/arthur-jafa-en-9056-3d-standing-front-3000.jpg?v=1777352838",
-      "store_link": "https://www.phaidon.com/products/arthur-jafa-i-am-tony",
-      "published_at": "2026-06-16T18:59:05+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/arthur-jafa-en-9056-3d-standing-front-3000.jpg?v=1777352838"
-    },
-    {
-      "title": "Christmas!: An Interactive Holiday Book",
-      "store": "Phaidon",
-      "city": "출판사",
-      "section": "아트·디자인",
-      "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/christmas-in-a-book-en-9212-3d-standing-front-3000.jpg?v=1779978434",
-      "store_link": "https://www.phaidon.com/products/christmas-an-interactive-holiday-book",
-      "published_at": "2026-06-16T18:40:56+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/christmas-in-a-book-en-9212-3d-standing-front-3000.jpg?v=1779978434"
-    },
-    {
-      "title": "Robert Indiana: An American Icon",
-      "store": "Phaidon",
-      "city": "출판사",
-      "section": "아트·디자인",
-      "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/robert-indiana-en-9055-3d-standing-front-3000.jpg?v=1780330304",
-      "store_link": "https://www.phaidon.com/products/robert-indiana-an-american-icon",
-      "published_at": "2026-06-16T18:36:58+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/robert-indiana-en-9055-3d-standing-front-3000.jpg?v=1780330304"
-    },
-    {
-      "title": "ATP No. 1 Club: Icons of Men's Tennis",
-      "store": "Phaidon",
-      "city": "출판사",
-      "section": "아트·디자인",
-      "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/atp-number-1-club-en-9267-3d-standing-front-3000.jpg?v=1778514297",
-      "store_link": "https://www.phaidon.com/products/atp-no-1-club-icons-of-mens-tennis",
-      "published_at": "2026-06-16T12:30:42+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/atp-number-1-club-en-9267-3d-standing-front-3000.jpg?v=1778514297"
-    },
-    {
-      "title": "The Cultured Collector",
-      "store": "Phaidon",
-      "city": "출판사",
-      "section": "아트·디자인",
-      "author": "The Monacelli Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/M-the-cultured-collector-ae-3762-3d-standing-front-3000.jpg?v=1780430366",
-      "store_link": "https://www.phaidon.com/products/the-cultured-collector",
-      "published_at": "2026-06-11T17:14:07+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/M-the-cultured-collector-ae-3762-3d-standing-front-3000.jpg?v=1780430366"
-    },
-    {
-      "title": "February 11",
-      "store": "Phaidon",
-      "city": "출판사",
-      "section": "아트·디자인",
-      "author": "Artspace",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/Sho_20Shibuya-1-72dpi-WebUse.jpg?v=1780399068",
-      "store_link": "https://www.phaidon.com/products/sho-shibuya-february-11-5056880812375",
-      "published_at": "2026-06-11T14:13:25+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/Sho_20Shibuya-1-72dpi-WebUse.jpg?v=1780399068"
-    },
-    {
-      "title": "The Mon Lapin Cookbook: De Toute Beauté: From Montreal, With Love",
-      "store": "Phaidon",
-      "city": "출판사",
-      "section": "아트·디자인",
-      "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/mon-lapin-en-9263-3d-standing-front-3000.jpg?v=1779978693",
-      "store_link": "https://www.phaidon.com/products/the-mon-lapin-cookbook-de-toute-beaute-from-montreal-with-love",
-      "published_at": "2026-06-09T15:27:08+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/mon-lapin-en-9263-3d-standing-front-3000.jpg?v=1779978693"
-    },
-    {
-      "title": "Holding (Removed)",
-      "store": "Phaidon",
-      "city": "출판사",
-      "section": "아트·디자인",
-      "author": "Artspace",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/ProductPrint_72DPI_2e49125b-1172-470d-869c-0a2ae4a22439.jpg?v=1780399300",
-      "store_link": "https://www.phaidon.com/products/matthew-stone-holding-removed-5056880812450",
-      "published_at": "2026-06-04T15:56:59+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/ProductPrint_72DPI_2e49125b-1172-470d-869c-0a2ae4a22439.jpg?v=1780399300"
-    },
-    {
-      "title": "BIG Atlas",
-      "store": "Phaidon",
-      "city": "출판사",
-      "section": "아트·디자인",
-      "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/bjarke-ingels-group-atlas-signed-edition-en-9256-standing-front-3000.jpg?v=1777309647",
-      "store_link": "https://www.phaidon.com/products/big-atlas",
-      "published_at": "2026-05-29T10:19:21+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/bjarke-ingels-group-atlas-signed-edition-en-9256-standing-front-3000.jpg?v=1777309647"
-    },
-    {
-      "title": "In the palm of my hand",
-      "store": "Phaidon",
-      "city": "출판사",
-      "section": "아트·디자인",
-      "author": "Artspace",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/DSCF5479sq.jpg?v=1779198621",
-      "store_link": "https://www.phaidon.com/products/garrett-bradley-in-the-palm-of-my-hand-5056880812474",
-      "published_at": "2026-05-22T10:41:33+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/DSCF5479sq.jpg?v=1779198621"
-    },
-    {
-      "title": "Higher Love",
-      "store": "Phaidon",
-      "city": "출판사",
-      "section": "아트·디자인",
-      "author": "Artspace",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/Michael_20Kagan-Framed-72dpi-WebUse_20_281_29.jpg?v=1778519383",
-      "store_link": "https://www.phaidon.com/products/michael-kagan-higher-love-5056880812436",
-      "published_at": "2026-05-20T13:50:32+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/Michael_20Kagan-Framed-72dpi-WebUse_20_281_29.jpg?v=1778519383"
     },
     {
       "title": "The Jaguar Book: Collector's Edition",
