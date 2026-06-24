@@ -1,6 +1,6 @@
 window.__INDIE_BOOKS_DATA__ = {
-  "updated_at": "2026-06-24T08:02:23.768095+09:00",
-  "today": "2026-06-24",
+  "updated_at": "2026-06-25T08:02:06.459009+09:00",
+  "today": "2026-06-25",
   "books": [
     {
       "title": "Still Life · 김진주",
@@ -102,22 +102,31 @@ window.__INDIE_BOOKS_DATA__ = {
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EB%AA%A8%EB%A5%B4%EB%8A%94%20%ED%95%A0%EB%A8%B8%EB%8B%88%20%C2%B7%20%EA%B9%80%EB%B3%B4%EB%9E%8C%2C%20%EA%B9%80%EC%97%B0%EC%9E%AC%2C%20%EA%B9%80%EC%9C%A0%EB%AF%B8%2C%20%EA%B9%80%EC%9C%A4%EC%98%81%2C%20%EC%9D%B4%EC%9E%AC%EC%9E%84%2C%20%EC%A0%95%EC%9D%B8%ED%98%9C%2C%20%ED%95%98%EB%9D%BC"
     },
     {
-      "title": "완벽하지 않아: 에이드리언 토미네 각본집 · 에이드리언 토미네",
+      "title": "[재입고] 완벽하지 않아: 에이드리언 토미네 각본집 · 에이드리언 토미네",
       "store": "유어마인드",
       "section": "BOOKS",
-      "store_link": "https://www.your-mind.com/product/완벽하지-않아-에이드리언-토미네-각본집-·-에이드리언-토미네/5989/category/27/display/1/",
+      "store_link": "https://www.your-mind.com/product/재입고-완벽하지-않아-에이드리언-토미네-각본집-·-에이드리언-토미네/5989/category/27/display/1/",
       "store_cover": "https://www.your-mind.com/web/product/big/202605/ccacbd73bb0571dabe2253ef86e0ee84.png",
       "cover": "https://www.your-mind.com/web/product/big/202605/ccacbd73bb0571dabe2253ef86e0ee84.png",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%99%84%EB%B2%BD%ED%95%98%EC%A7%80%20%EC%95%8A%EC%95%84%3A%20%EC%97%90%EC%9D%B4%EB%93%9C%EB%A6%AC%EC%96%B8%20%ED%86%A0%EB%AF%B8%EB%84%A4%20%EA%B0%81%EB%B3%B8%EC%A7%91%20%C2%B7%20%EC%97%90%EC%9D%B4%EB%93%9C%EB%A6%AC%EC%96%B8%20%ED%86%A0%EB%AF%B8%EB%84%A4"
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20%EC%99%84%EB%B2%BD%ED%95%98%EC%A7%80%20%EC%95%8A%EC%95%84%3A%20%EC%97%90%EC%9D%B4%EB%93%9C%EB%A6%AC%EC%96%B8%20%ED%86%A0%EB%AF%B8%EB%84%A4%20%EA%B0%81%EB%B3%B8%EC%A7%91%20%C2%B7%20%EC%97%90%EC%9D%B4%EB%93%9C%EB%A6%AC%EC%96%B8%20%ED%86%A0%EB%AF%B8%EB%84%A4"
     },
     {
-      "title": "[재입고] 시드니의 책방 · 후루룩",
+      "title": "[3차 입고] 시드니의 책방 · 후루룩",
       "store": "유어마인드",
       "section": "BOOKS",
-      "store_link": "https://www.your-mind.com/product/재입고-시드니의-책방-·-후루룩/5987/category/27/display/1/",
+      "store_link": "https://www.your-mind.com/product/3차-입고-시드니의-책방-·-후루룩/5987/category/27/display/1/",
       "store_cover": "https://www.your-mind.com/web/product/big/202605/d88be4c7d256fcec9548f6cab918991c.png",
       "cover": "https://www.your-mind.com/web/product/big/202605/d88be4c7d256fcec9548f6cab918991c.png",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20%EC%8B%9C%EB%93%9C%EB%8B%88%EC%9D%98%20%EC%B1%85%EB%B0%A9%20%C2%B7%20%ED%9B%84%EB%A3%A8%EB%A3%A9"
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B3%EC%B0%A8%20%EC%9E%85%EA%B3%A0%5D%20%EC%8B%9C%EB%93%9C%EB%8B%88%EC%9D%98%20%EC%B1%85%EB%B0%A9%20%C2%B7%20%ED%9B%84%EB%A3%A8%EB%A3%A9"
+    },
+    {
+      "title": "[3차 입고] 멜버른의 커피 · 후루룩",
+      "store": "유어마인드",
+      "section": "BOOKS",
+      "store_link": "https://www.your-mind.com/product/3차-입고-멜버른의-커피-·-후루룩/5986/category/27/display/1/",
+      "store_cover": "https://www.your-mind.com/web/product/big/202605/0ff63f021d986da5bcd721820dda3e4c.png",
+      "cover": "https://www.your-mind.com/web/product/big/202605/0ff63f021d986da5bcd721820dda3e4c.png",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B3%EC%B0%A8%20%EC%9E%85%EA%B3%A0%5D%20%EB%A9%9C%EB%B2%84%EB%A5%B8%EC%9D%98%20%EC%BB%A4%ED%94%BC%20%C2%B7%20%ED%9B%84%EB%A3%A8%EB%A3%A9"
     },
     {
       "title": "음악의 사생활99: 2008년 유완무(얄개들) · 유완무, 심규태",
@@ -262,15 +271,6 @@ window.__INDIE_BOOKS_DATA__ = {
       "store_cover": "https://www.your-mind.com/web/product/big/202601/995cb31f92cfa85dd436736918c55f60.png",
       "cover": "https://www.your-mind.com/web/product/big/202601/995cb31f92cfa85dd436736918c55f60.png",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20Soft%20Hard%202%3A%20Side%20%C2%B7%20%EB%A1%9C%ED%81%AC%20%ED%9B%84%EB%8F%84%EB%B9%84%EB%B8%8C%EB%8B%89%2C%20%EC%98%A4%EC%A7%80%EC%9D%B8%2C%20818%20%EA%B1%B4%EC%B6%95%EC%82%AC%EC%82%AC%EB%AC%B4%EC%86%8C%2C%20%ED%95%84%EB%A6%BD%20%EB%B2%84%ED%81%AC%EB%84%88%2C%20%ED%9C%98%ED%8A%B8%EB%8B%88%20%EB%A7%90%EB%A0%9B%2C%20%EB%AF%B8%EB%9D%BC%20%EC%9E%89%2C%20%ED%95%9C%EC%9E%AC%EA%B5%AD"
-    },
-    {
-      "title": "[재입고] 후후 Hoo Hoo 後呼 · 마사진영",
-      "store": "유어마인드",
-      "section": "BOOKS",
-      "store_link": "https://www.your-mind.com/product/재입고-후후-hoo-hoo-後呼-·-마사진영/5925/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202601/bae9a5510f47dc4a4fa130910afe8bae.png",
-      "cover": "https://www.your-mind.com/web/product/big/202601/bae9a5510f47dc4a4fa130910afe8bae.png",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20%ED%9B%84%ED%9B%84%20Hoo%20Hoo%20%E5%BE%8C%E5%91%BC%20%C2%B7%20%EB%A7%88%EC%82%AC%EC%A7%84%EC%98%81"
     },
     {
       "title": "[예약판매/배송비 무료] 숨겨둔 책 세트 (No.025, 026, 027)",
@@ -2270,10 +2270,10 @@ window.__INDIE_BOOKS_DATA__ = {
   "errors": [],
   "total": 236,
   "stores_attempted": [
-    "사적인서점",
-    "고요서사",
     "북앤스페이스",
+    "소심한책방",
+    "고요서사",
     "유어마인드",
-    "소심한책방"
+    "사적인서점"
   ]
 };
