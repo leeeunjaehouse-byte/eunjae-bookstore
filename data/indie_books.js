@@ -1,6 +1,6 @@
 window.__INDIE_BOOKS_DATA__ = {
-  "updated_at": "2026-06-26T08:02:22.462520+09:00",
-  "today": "2026-06-26",
+  "updated_at": "2026-06-27T08:02:08.328357+09:00",
+  "today": "2026-06-27",
   "books": [
     {
       "title": "Still Life · 김진주",
@@ -19,6 +19,15 @@ window.__INDIE_BOOKS_DATA__ = {
       "store_cover": "https://www.your-mind.com/web/product/big/202606/b268b3959d10f416ecfde81a3cb3c931.png",
       "cover": "https://www.your-mind.com/web/product/big/202606/b268b3959d10f416ecfde81a3cb3c931.png",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EA%B4%91%EC%A3%BC%EC%97%90%20%EA%B0%80%EB%A9%B4%20%C2%B7%20%EB%AC%B8%EC%A7%84%ED%9D%AC"
+    },
+    {
+      "title": "[재입고]실수 수집가 · 김수정",
+      "store": "유어마인드",
+      "section": "BOOKS",
+      "store_link": "https://www.your-mind.com/product/재입고실수-수집가-·-김수정/6148/category/27/display/1/",
+      "store_cover": "https://www.your-mind.com/web/product/big/202606/d43337001e940c60b173c50f4d931024.jpg",
+      "cover": "https://www.your-mind.com/web/product/big/202606/d43337001e940c60b173c50f4d931024.jpg",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%EC%8B%A4%EC%88%98%20%EC%88%98%EC%A7%91%EA%B0%80%20%C2%B7%20%EA%B9%80%EC%88%98%EC%A0%95"
     },
     {
       "title": "[재입고] 꽃점 (Floral Fortune) · 희다가든",
@@ -262,15 +271,6 @@ window.__INDIE_BOOKS_DATA__ = {
       "store_cover": "https://www.your-mind.com/web/product/big/202601/6fe583f27d5436320a33a17ff3f4cb50.jpg",
       "cover": "https://www.your-mind.com/web/product/big/202601/6fe583f27d5436320a33a17ff3f4cb50.jpg",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20%EC%95%99%ED%8A%B8%EB%A0%88%ED%94%84%EB%A0%88%EC%B9%B4%EB%A6%AC%EC%95%84%ED%8A%B8%20-%C2%A0%EC%9D%B4%EC%A0%9C%EB%8A%94%20%EC%9A%B0%EB%A6%AC%20%EB%AA%A8%EB%91%90%20%EB%AA%A8%EB%91%90%20%EA%B8%B0%EC%97%85%EA%B0%80%2C%EA%B7%B8%EB%9F%AC%EB%82%98%20%EB%88%84%EA%B5%AC%EB%8F%84%20%EB%88%84%EA%B5%AC%EB%8F%84%20%EC%95%88%EC%A0%84%ED%95%98%EC%A7%80%20%EC%95%8A%EC%A7%80.%20%C2%B7%20%EC%8B%A4%EB%B9%84%EC%98%A4%20%EB%A1%9C%EB%A3%A8%EC%86%8C"
-    },
-    {
-      "title": "[4차 입고] 풀잎들 · 김목요",
-      "store": "유어마인드",
-      "section": "BOOKS",
-      "store_link": "https://www.your-mind.com/product/4차-입고-풀잎들-·-김목요/5929/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202601/b9f0cda7c6b962621145ca7c9187667b.png",
-      "cover": "https://www.your-mind.com/web/product/big/202601/b9f0cda7c6b962621145ca7c9187667b.png",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B4%EC%B0%A8%20%EC%9E%85%EA%B3%A0%5D%20%ED%92%80%EC%9E%8E%EB%93%A4%20%C2%B7%20%EA%B9%80%EB%AA%A9%EC%9A%94"
     },
     {
       "title": "[예약판매/배송비 무료] 숨겨둔 책 세트 (No.025, 026, 027)",
@@ -547,8 +547,8 @@ window.__INDIE_BOOKS_DATA__ = {
       "store": "소심한책방",
       "section": "숨겨둔 책",
       "store_link": "https://www.sosimbook.com/product/예약판매-숨겨둔-책-no-025/1239/category/131/display/1/",
-      "store_cover": "https://sosimbook.com/web/product/medium/202603/9a8a98eeeecdb679c2e462993474af3d.jpg",
-      "cover": "https://sosimbook.com/web/product/medium/202603/9a8a98eeeecdb679c2e462993474af3d.jpg",
+      "store_cover": "https://www.sosimbook.com/web/product/medium/202603/9a8a98eeeecdb679c2e462993474af3d.jpg",
+      "cover": "https://www.sosimbook.com/web/product/medium/202603/9a8a98eeeecdb679c2e462993474af3d.jpg",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%98%88%EC%95%BD%ED%8C%90%EB%A7%A4%5D%20%EC%88%A8%EA%B2%A8%EB%91%94%20%EC%B1%85%20No.%20025"
     },
     {
@@ -556,8 +556,8 @@ window.__INDIE_BOOKS_DATA__ = {
       "store": "소심한책방",
       "section": "숨겨둔 책",
       "store_link": "https://www.sosimbook.com/product/예약판매-숨겨둔-책-no-026/1240/category/131/display/1/",
-      "store_cover": "https://sosimbook.com/web/product/medium/202603/b8d915f8eaf4d93914b462c9a69f1ce5.jpg",
-      "cover": "https://sosimbook.com/web/product/medium/202603/b8d915f8eaf4d93914b462c9a69f1ce5.jpg",
+      "store_cover": "https://www.sosimbook.com/web/product/medium/202603/b8d915f8eaf4d93914b462c9a69f1ce5.jpg",
+      "cover": "https://www.sosimbook.com/web/product/medium/202603/b8d915f8eaf4d93914b462c9a69f1ce5.jpg",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%98%88%EC%95%BD%ED%8C%90%EB%A7%A4%5D%20%EC%88%A8%EA%B2%A8%EB%91%94%20%EC%B1%85%20No.%20026"
     },
     {
@@ -565,8 +565,8 @@ window.__INDIE_BOOKS_DATA__ = {
       "store": "소심한책방",
       "section": "숨겨둔 책",
       "store_link": "https://www.sosimbook.com/product/예약판매-숨겨둔-책-no-027/1241/category/131/display/1/",
-      "store_cover": "https://sosimbook.com/web/product/medium/202603/a67dbb1342e12ba3cd04c243710e75b1.jpg",
-      "cover": "https://sosimbook.com/web/product/medium/202603/a67dbb1342e12ba3cd04c243710e75b1.jpg",
+      "store_cover": "https://www.sosimbook.com/web/product/medium/202603/a67dbb1342e12ba3cd04c243710e75b1.jpg",
+      "cover": "https://www.sosimbook.com/web/product/medium/202603/a67dbb1342e12ba3cd04c243710e75b1.jpg",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%98%88%EC%95%BD%ED%8C%90%EB%A7%A4%5D%20%EC%88%A8%EA%B2%A8%EB%91%94%20%EC%B1%85%20No.%20027"
     },
     {
@@ -574,8 +574,8 @@ window.__INDIE_BOOKS_DATA__ = {
       "store": "소심한책방",
       "section": "숨겨둔 책",
       "store_link": "https://www.sosimbook.com/product/예약판매배송비-무료-숨겨둔-책-세트-no025-026-027/1242/category/131/display/1/",
-      "store_cover": "https://sosimbook.com/web/product/medium/202603/fd1e2111f6b56bd6ccc2112c52c090dd.jpg",
-      "cover": "https://sosimbook.com/web/product/medium/202603/fd1e2111f6b56bd6ccc2112c52c090dd.jpg",
+      "store_cover": "https://www.sosimbook.com/web/product/medium/202603/fd1e2111f6b56bd6ccc2112c52c090dd.jpg",
+      "cover": "https://www.sosimbook.com/web/product/medium/202603/fd1e2111f6b56bd6ccc2112c52c090dd.jpg",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%98%88%EC%95%BD%ED%8C%90%EB%A7%A4/%EB%B0%B0%EC%86%A1%EB%B9%84%20%EB%AC%B4%EB%A3%8C%5D%20%EC%88%A8%EA%B2%A8%EB%91%94%20%EC%B1%85%20%EC%84%B8%ED%8A%B8%20%28No.025%2C%20026%2C%20027%29"
     },
     {
@@ -583,8 +583,8 @@ window.__INDIE_BOOKS_DATA__ = {
       "store": "소심한책방",
       "section": "숨겨둔 책",
       "store_link": "https://www.sosimbook.com/product/숨겨둔-책-no-023/1217/category/131/display/1/",
-      "store_cover": "https://sosimbook.com/web/product/medium/202404/3d295c36e986ded7839591b9db9cfde8.jpg",
-      "cover": "https://sosimbook.com/web/product/medium/202404/3d295c36e986ded7839591b9db9cfde8.jpg",
+      "store_cover": "https://www.sosimbook.com/web/product/medium/202404/3d295c36e986ded7839591b9db9cfde8.jpg",
+      "cover": "https://www.sosimbook.com/web/product/medium/202404/3d295c36e986ded7839591b9db9cfde8.jpg",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%88%A8%EA%B2%A8%EB%91%94%20%EC%B1%85%20No.%20023"
     },
     {
@@ -592,8 +592,8 @@ window.__INDIE_BOOKS_DATA__ = {
       "store": "소심한책방",
       "section": "숨겨둔 책",
       "store_link": "https://www.sosimbook.com/product/숨겨둔-책-no-022/1216/category/131/display/1/",
-      "store_cover": "https://sosimbook.com/web/product/medium/202404/77f9d39535cd1180b7dba465142434bc.jpg",
-      "cover": "https://sosimbook.com/web/product/medium/202404/77f9d39535cd1180b7dba465142434bc.jpg",
+      "store_cover": "https://www.sosimbook.com/web/product/medium/202404/77f9d39535cd1180b7dba465142434bc.jpg",
+      "cover": "https://www.sosimbook.com/web/product/medium/202404/77f9d39535cd1180b7dba465142434bc.jpg",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%88%A8%EA%B2%A8%EB%91%94%20%EC%B1%85%20No.%20022"
     },
     {
@@ -601,8 +601,8 @@ window.__INDIE_BOOKS_DATA__ = {
       "store": "소심한책방",
       "section": "숨겨둔 책",
       "store_link": "https://www.sosimbook.com/product/숨겨둔-책-no-021/1215/category/131/display/1/",
-      "store_cover": "https://sosimbook.com/web/product/medium/202404/27a51960851c6407aa655e0281f0f5e1.jpg",
-      "cover": "https://sosimbook.com/web/product/medium/202404/27a51960851c6407aa655e0281f0f5e1.jpg",
+      "store_cover": "https://www.sosimbook.com/web/product/medium/202404/27a51960851c6407aa655e0281f0f5e1.jpg",
+      "cover": "https://www.sosimbook.com/web/product/medium/202404/27a51960851c6407aa655e0281f0f5e1.jpg",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%88%A8%EA%B2%A8%EB%91%94%20%EC%B1%85%20No.%20021"
     },
     {
@@ -610,8 +610,8 @@ window.__INDIE_BOOKS_DATA__ = {
       "store": "소심한책방",
       "section": "숨겨둔 책",
       "store_link": "https://www.sosimbook.com/product/숨겨둔-책-no-020/1199/category/131/display/1/",
-      "store_cover": "https://sosimbook.com/web/product/medium/202308/da383a757ac8d9083ef44b014effa2b9.jpg",
-      "cover": "https://sosimbook.com/web/product/medium/202308/da383a757ac8d9083ef44b014effa2b9.jpg",
+      "store_cover": "https://www.sosimbook.com/web/product/medium/202308/da383a757ac8d9083ef44b014effa2b9.jpg",
+      "cover": "https://www.sosimbook.com/web/product/medium/202308/da383a757ac8d9083ef44b014effa2b9.jpg",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%88%A8%EA%B2%A8%EB%91%94%20%EC%B1%85%20No.%20020"
     },
     {
@@ -619,8 +619,8 @@ window.__INDIE_BOOKS_DATA__ = {
       "store": "소심한책방",
       "section": "숨겨둔 책",
       "store_link": "https://www.sosimbook.com/product/숨겨둔-책-no-019/1192/category/131/display/1/",
-      "store_cover": "https://sosimbook.com/web/product/medium/202306/82589374ad02af27942d1a10a7e02348.jpg",
-      "cover": "https://sosimbook.com/web/product/medium/202306/82589374ad02af27942d1a10a7e02348.jpg",
+      "store_cover": "https://www.sosimbook.com/web/product/medium/202306/82589374ad02af27942d1a10a7e02348.jpg",
+      "cover": "https://www.sosimbook.com/web/product/medium/202306/82589374ad02af27942d1a10a7e02348.jpg",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%88%A8%EA%B2%A8%EB%91%94%20%EC%B1%85%20No.%20019"
     },
     {
@@ -628,8 +628,8 @@ window.__INDIE_BOOKS_DATA__ = {
       "store": "소심한책방",
       "section": "숨겨둔 책",
       "store_link": "https://www.sosimbook.com/product/숨겨둔-책-no018/1191/category/131/display/1/",
-      "store_cover": "https://sosimbook.com/web/product/medium/202306/18bfaca14f640083c1f26159101d6f50.jpg",
-      "cover": "https://sosimbook.com/web/product/medium/202306/18bfaca14f640083c1f26159101d6f50.jpg",
+      "store_cover": "https://www.sosimbook.com/web/product/medium/202306/18bfaca14f640083c1f26159101d6f50.jpg",
+      "cover": "https://www.sosimbook.com/web/product/medium/202306/18bfaca14f640083c1f26159101d6f50.jpg",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%88%A8%EA%B2%A8%EB%91%94%20%EC%B1%85%20no.018"
     },
     {
@@ -637,8 +637,8 @@ window.__INDIE_BOOKS_DATA__ = {
       "store": "소심한책방",
       "section": "숨겨둔 책",
       "store_link": "https://www.sosimbook.com/product/숨겨둔-책-no017/1190/category/131/display/1/",
-      "store_cover": "https://sosimbook.com/web/product/medium/202306/ecfa56e1d110ad305964fac14d691105.jpg",
-      "cover": "https://sosimbook.com/web/product/medium/202306/ecfa56e1d110ad305964fac14d691105.jpg",
+      "store_cover": "https://www.sosimbook.com/web/product/medium/202306/ecfa56e1d110ad305964fac14d691105.jpg",
+      "cover": "https://www.sosimbook.com/web/product/medium/202306/ecfa56e1d110ad305964fac14d691105.jpg",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%88%A8%EA%B2%A8%EB%91%94%20%EC%B1%85%20no.017"
     },
     {
@@ -646,8 +646,8 @@ window.__INDIE_BOOKS_DATA__ = {
       "store": "소심한책방",
       "section": "숨겨둔 책",
       "store_link": "https://www.sosimbook.com/product/숨겨둔-책-no016/1189/category/131/display/1/",
-      "store_cover": "https://sosimbook.com/web/product/medium/202306/3d862ca3868c46f08b7faf6c08ac3988.jpg",
-      "cover": "https://sosimbook.com/web/product/medium/202306/3d862ca3868c46f08b7faf6c08ac3988.jpg",
+      "store_cover": "https://www.sosimbook.com/web/product/medium/202306/3d862ca3868c46f08b7faf6c08ac3988.jpg",
+      "cover": "https://www.sosimbook.com/web/product/medium/202306/3d862ca3868c46f08b7faf6c08ac3988.jpg",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%88%A8%EA%B2%A8%EB%91%94%20%EC%B1%85%20no.016"
     },
     {
@@ -655,8 +655,8 @@ window.__INDIE_BOOKS_DATA__ = {
       "store": "소심한책방",
       "section": "숨겨둔 책",
       "store_link": "https://www.sosimbook.com/product/숨겨둔-책-no015/1183/category/131/display/1/",
-      "store_cover": "https://sosimbook.com/web/product/medium/202302/174d5beceff8edf38672eac98bc4cd3d.jpg",
-      "cover": "https://sosimbook.com/web/product/medium/202302/174d5beceff8edf38672eac98bc4cd3d.jpg",
+      "store_cover": "https://www.sosimbook.com/web/product/medium/202302/174d5beceff8edf38672eac98bc4cd3d.jpg",
+      "cover": "https://www.sosimbook.com/web/product/medium/202302/174d5beceff8edf38672eac98bc4cd3d.jpg",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%88%A8%EA%B2%A8%EB%91%94%20%EC%B1%85%20no.015"
     },
     {
@@ -664,8 +664,8 @@ window.__INDIE_BOOKS_DATA__ = {
       "store": "소심한책방",
       "section": "숨겨둔 책",
       "store_link": "https://www.sosimbook.com/product/숨겨둔-책-no014/1174/category/131/display/1/",
-      "store_cover": "https://sosimbook.com/web/product/medium/202211/e8ce51425482994bf5529f09d0787108.jpg",
-      "cover": "https://sosimbook.com/web/product/medium/202211/e8ce51425482994bf5529f09d0787108.jpg",
+      "store_cover": "https://www.sosimbook.com/web/product/medium/202211/e8ce51425482994bf5529f09d0787108.jpg",
+      "cover": "https://www.sosimbook.com/web/product/medium/202211/e8ce51425482994bf5529f09d0787108.jpg",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%88%A8%EA%B2%A8%EB%91%94%20%EC%B1%85%20No.014"
     },
     {
@@ -673,8 +673,8 @@ window.__INDIE_BOOKS_DATA__ = {
       "store": "소심한책방",
       "section": "숨겨둔 책",
       "store_link": "https://www.sosimbook.com/product/숨겨둔-책-no013/1173/category/131/display/1/",
-      "store_cover": "https://sosimbook.com/web/product/medium/202211/4121c5bbb38cda24611d5b18a3c90ac0.jpg",
-      "cover": "https://sosimbook.com/web/product/medium/202211/4121c5bbb38cda24611d5b18a3c90ac0.jpg",
+      "store_cover": "https://www.sosimbook.com/web/product/medium/202211/4121c5bbb38cda24611d5b18a3c90ac0.jpg",
+      "cover": "https://www.sosimbook.com/web/product/medium/202211/4121c5bbb38cda24611d5b18a3c90ac0.jpg",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%88%A8%EA%B2%A8%EB%91%94%20%EC%B1%85%20No.013"
     },
     {
@@ -682,8 +682,8 @@ window.__INDIE_BOOKS_DATA__ = {
       "store": "소심한책방",
       "section": "숨겨둔 책",
       "store_link": "https://www.sosimbook.com/product/숨겨둔-책-no012/1168/category/131/display/1/",
-      "store_cover": "https://sosimbook.com/web/product/medium/202211/666bdf659016ac9e0306bf02fb3e9def.jpg",
-      "cover": "https://sosimbook.com/web/product/medium/202211/666bdf659016ac9e0306bf02fb3e9def.jpg",
+      "store_cover": "https://www.sosimbook.com/web/product/medium/202211/666bdf659016ac9e0306bf02fb3e9def.jpg",
+      "cover": "https://www.sosimbook.com/web/product/medium/202211/666bdf659016ac9e0306bf02fb3e9def.jpg",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%88%A8%EA%B2%A8%EB%91%94%20%EC%B1%85%20No.012"
     },
     {
@@ -691,8 +691,8 @@ window.__INDIE_BOOKS_DATA__ = {
       "store": "소심한책방",
       "section": "숨겨둔 책",
       "store_link": "https://www.sosimbook.com/product/숨겨둔-책-no011/1167/category/131/display/1/",
-      "store_cover": "https://sosimbook.com/web/product/medium/202211/cb1cdb0ebb14c06dacaf0e4c6d01b362.jpg",
-      "cover": "https://sosimbook.com/web/product/medium/202211/cb1cdb0ebb14c06dacaf0e4c6d01b362.jpg",
+      "store_cover": "https://www.sosimbook.com/web/product/medium/202211/cb1cdb0ebb14c06dacaf0e4c6d01b362.jpg",
+      "cover": "https://www.sosimbook.com/web/product/medium/202211/cb1cdb0ebb14c06dacaf0e4c6d01b362.jpg",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%88%A8%EA%B2%A8%EB%91%94%20%EC%B1%85%20No.011"
     },
     {
@@ -700,8 +700,8 @@ window.__INDIE_BOOKS_DATA__ = {
       "store": "소심한책방",
       "section": "숨겨둔 책",
       "store_link": "https://www.sosimbook.com/product/숨겨둔-책-no010/1156/category/131/display/1/",
-      "store_cover": "https://sosimbook.com/web/product/medium/202211/5b8534ce52bbdc0a8361aa0c55a58a24.jpg",
-      "cover": "https://sosimbook.com/web/product/medium/202211/5b8534ce52bbdc0a8361aa0c55a58a24.jpg",
+      "store_cover": "https://www.sosimbook.com/web/product/medium/202211/5b8534ce52bbdc0a8361aa0c55a58a24.jpg",
+      "cover": "https://www.sosimbook.com/web/product/medium/202211/5b8534ce52bbdc0a8361aa0c55a58a24.jpg",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%88%A8%EA%B2%A8%EB%91%94%20%EC%B1%85%20No.010"
     },
     {
@@ -709,8 +709,8 @@ window.__INDIE_BOOKS_DATA__ = {
       "store": "소심한책방",
       "section": "숨겨둔 책",
       "store_link": "https://www.sosimbook.com/product/숨겨둔-책-no009/1155/category/131/display/1/",
-      "store_cover": "https://sosimbook.com/web/product/medium/202211/43e3cb496daee26c7d4e11680a6198af.jpg",
-      "cover": "https://sosimbook.com/web/product/medium/202211/43e3cb496daee26c7d4e11680a6198af.jpg",
+      "store_cover": "https://www.sosimbook.com/web/product/medium/202211/43e3cb496daee26c7d4e11680a6198af.jpg",
+      "cover": "https://www.sosimbook.com/web/product/medium/202211/43e3cb496daee26c7d4e11680a6198af.jpg",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%88%A8%EA%B2%A8%EB%91%94%20%EC%B1%85%20No.009"
     },
     {
@@ -718,8 +718,8 @@ window.__INDIE_BOOKS_DATA__ = {
       "store": "소심한책방",
       "section": "숨겨둔 책",
       "store_link": "https://www.sosimbook.com/product/숨겨둔-책-no008/1154/category/131/display/1/",
-      "store_cover": "https://sosimbook.com/web/product/medium/202211/38603b4faa7ebc33d38a8e3b38c21bda.jpg",
-      "cover": "https://sosimbook.com/web/product/medium/202211/38603b4faa7ebc33d38a8e3b38c21bda.jpg",
+      "store_cover": "https://www.sosimbook.com/web/product/medium/202211/38603b4faa7ebc33d38a8e3b38c21bda.jpg",
+      "cover": "https://www.sosimbook.com/web/product/medium/202211/38603b4faa7ebc33d38a8e3b38c21bda.jpg",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%88%A8%EA%B2%A8%EB%91%94%20%EC%B1%85%20No.008"
     },
     {
@@ -1290,6 +1290,15 @@ window.__INDIE_BOOKS_DATA__ = {
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%9D%8C%EC%95%85%EC%A7%91"
     },
     {
+      "title": "비대면 사적인 사인회임진아,『아직, 도쿄』[7/8(수) 출고 예정]",
+      "store": "사적인서점",
+      "section": "사적인 베스트·추천",
+      "store_link": "https://www.sajeokin-bookshop.com/product/비대면-사적인-사인회임진아아직-도쿄78수-출고-예정/3013/category/42/display/1/",
+      "store_cover": "https://www.sajeokin-bookshop.com/web/product/medium/202606/7ba00751949c4324264485e1a056fa63.jpg",
+      "cover": "https://www.sajeokin-bookshop.com/web/product/medium/202606/7ba00751949c4324264485e1a056fa63.jpg",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EB%B9%84%EB%8C%80%EB%A9%B4%20%EC%82%AC%EC%A0%81%EC%9D%B8%20%EC%82%AC%EC%9D%B8%ED%9A%8C%EC%9E%84%EC%A7%84%EC%95%84%2C%E3%80%8E%EC%95%84%EC%A7%81%2C%20%EB%8F%84%EC%BF%84%E3%80%8F%5B7/8%28%EC%88%98%29%20%EC%B6%9C%EA%B3%A0%20%EC%98%88%EC%A0%95%5D"
+    },
+    {
       "title": "최혜진, 『아무것도 간절하지 않은 날의 기술』(친필 사인본)",
       "store": "사적인서점",
       "section": "사적인 베스트·추천",
@@ -1531,15 +1540,6 @@ window.__INDIE_BOOKS_DATA__ = {
       "store_cover": "https://www.sajeokin-bookshop.com/web/product/medium/202602/8163204b141df0932ca046af97000d9a.jpg",
       "cover": "https://www.sajeokin-bookshop.com/web/product/medium/202602/8163204b141df0932ca046af97000d9a.jpg",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EA%B9%80%EC%88%98%EC%98%81%2C%20%E3%80%8E%ED%95%84%EC%97%B0%EC%A0%81%20%ED%98%BC%EC%9E%90%EC%9D%98%20%EC%8B%9C%EB%8C%80%E3%80%8F"
-    },
-    {
-      "title": "줄리언 반스(지은이), 정영목(옮긴이)『떠난 것은 돌아오지 않는다』",
-      "store": "사적인서점",
-      "section": "사적인 베스트·추천",
-      "store_link": "https://www.sajeokin-bookshop.com/product/줄리언-반스지은이-정영목옮긴이떠난-것은-돌아오지-않는다/2981/category/42/display/1/",
-      "store_cover": "https://www.sajeokin-bookshop.com/web/product/medium/202602/6fde36e3a75dc33e60a33f7153ec1d6d.jpg",
-      "cover": "https://www.sajeokin-bookshop.com/web/product/medium/202602/6fde36e3a75dc33e60a33f7153ec1d6d.jpg",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%A4%84%EB%A6%AC%EC%96%B8%20%EB%B0%98%EC%8A%A4%28%EC%A7%80%EC%9D%80%EC%9D%B4%29%2C%20%EC%A0%95%EC%98%81%EB%AA%A9%28%EC%98%AE%EA%B8%B4%EC%9D%B4%29%E3%80%8E%EB%96%A0%EB%82%9C%20%EA%B2%83%EC%9D%80%20%EB%8F%8C%EC%95%84%EC%98%A4%EC%A7%80%20%EC%95%8A%EB%8A%94%EB%8B%A4%E3%80%8F"
     },
     {
       "title": "시트 마리-로즈",
@@ -2270,10 +2270,10 @@ window.__INDIE_BOOKS_DATA__ = {
   "errors": [],
   "total": 236,
   "stores_attempted": [
-    "소심한책방",
-    "북앤스페이스",
+    "고요서사",
     "사적인서점",
     "유어마인드",
-    "고요서사"
+    "소심한책방",
+    "북앤스페이스"
   ]
 };
