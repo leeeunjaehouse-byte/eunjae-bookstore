@@ -1,6 +1,6 @@
 window.__OVERSEAS_BOOKS_DATA__ = {
-  "updated_at": "2026-06-27T08:02:23.187709+09:00",
-  "today": "2026-06-27",
+  "updated_at": "2026-06-28T08:02:40.557650+09:00",
+  "today": "2026-06-28",
   "books": [
     {
       "title": "Milk DECO #63 FR Jun./Jul. 2026",
@@ -443,6 +443,61 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "cover": "https://cdn.shopify.com/s/files/1/0221/7340/files/Screenshot2026-04-21at13.18.42.png?v=1776775645"
     },
     {
+      "title": "Noble Rot #41",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/AP-NR-41-COVER-760x1024.jpg?v=1782577733",
+      "store_link": "https://magmabooks.com/products/noble-rot-41",
+      "published_at": "2026-06-27T17:29:36+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/AP-NR-41-COVER-760x1024.jpg?v=1782577733"
+    },
+    {
+      "title": "Little White Lies #113",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/46ef7f3d-407d-429c-8f70-a5bb58d5e90b.png?v=1782577422",
+      "store_link": "https://magmabooks.com/products/little-white-lies-113",
+      "published_at": "2026-06-27T17:24:52+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/46ef7f3d-407d-429c-8f70-a5bb58d5e90b.png?v=1782577422"
+    },
+    {
+      "title": "LUNCHEON #21",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Luncheon21_PaoloRoversi_web_1400x_c9f3060e-8f16-40f7-8697-0e8da065050b.webp?v=1782576843",
+      "store_link": "https://magmabooks.com/products/luncheon-21",
+      "published_at": "2026-06-27T17:16:45+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Luncheon21_PaoloRoversi_web_1400x_c9f3060e-8f16-40f7-8697-0e8da065050b.webp?v=1782576843"
+    },
+    {
+      "title": "Streatham Common to the Tooting Commons",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-27at12-42-22StreathamCommontotheTootingCommons_PublicKnowledge.png?v=1782560650",
+      "store_link": "https://magmabooks.com/products/streatham-common-to-the-tooting-commons",
+      "published_at": "2026-06-27T12:44:21+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-27at12-42-22StreathamCommontotheTootingCommons_PublicKnowledge.png?v=1782560650"
+    },
+    {
+      "title": "One Tree Hill to Peckham Rye Common",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-27at12-37-16PKB_4555.jpg_WEBPImage1946x1461pixels_Scaled_61.png?v=1782560282",
+      "store_link": "https://magmabooks.com/products/one-tree-hill-to-peckham-rye-common",
+      "published_at": "2026-06-27T12:39:01+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-27at12-37-16PKB_4555.jpg_WEBPImage1946x1461pixels_Scaled_61.png?v=1782560282"
+    },
+    {
       "title": "The Social Photo",
       "store": "Magma Books",
       "city": "런던",
@@ -606,61 +661,6 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "store_link": "https://magmabooks.com/products/flea-copy",
       "published_at": "2026-06-23T13:45:38+01:00",
       "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-23at13-45-04UrbanEnigmasOtherEditions.png?v=1782218732"
-    },
-    {
-      "title": "Avantpet Cooling Mat: Pug",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/products/2020-10-29_11-29-24.jpg?v=1603971516",
-      "store_link": "https://magmabooks.com/products/avantpet-cooling-mat-pug",
-      "published_at": "2026-06-22T13:30:53+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/products/2020-10-29_11-29-24.jpg?v=1603971516"
-    },
-    {
-      "title": "True Love #2",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-22132434.png?v=1782131178",
-      "store_link": "https://magmabooks.com/products/true-love-2",
-      "published_at": "2026-06-22T13:26:32+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-22132434.png?v=1782131178"
-    },
-    {
-      "title": "Fay #2",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-22131633.png?v=1782130666",
-      "store_link": "https://magmabooks.com/products/fay-2",
-      "published_at": "2026-06-22T13:18:07+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-22131633.png?v=1782130666"
-    },
-    {
-      "title": "EATEN #26",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-22131307.png?v=1782130515",
-      "store_link": "https://magmabooks.com/products/eaten-26",
-      "published_at": "2026-06-22T13:15:27+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-22131307.png?v=1782130515"
-    },
-    {
-      "title": "Record Culture #11",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/be797745-cb6c-737a-ed77-ecf1b0817b7c.jpg?v=1780660003",
-      "store_link": "https://magmabooks.com/products/record-culture-11",
-      "published_at": "2026-06-22T13:09:08+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/be797745-cb6c-737a-ed77-ecf1b0817b7c.jpg?v=1780660003"
     },
     {
       "title": "Mast Books Tote Bag",

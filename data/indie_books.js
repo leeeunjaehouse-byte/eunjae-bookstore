@@ -1,6 +1,6 @@
 window.__INDIE_BOOKS_DATA__ = {
-  "updated_at": "2026-06-27T08:02:08.328357+09:00",
-  "today": "2026-06-27",
+  "updated_at": "2026-06-28T08:02:25.840265+09:00",
+  "today": "2026-06-28",
   "books": [
     {
       "title": "Still Life · 김진주",
@@ -28,15 +28,6 @@ window.__INDIE_BOOKS_DATA__ = {
       "store_cover": "https://www.your-mind.com/web/product/big/202606/d43337001e940c60b173c50f4d931024.jpg",
       "cover": "https://www.your-mind.com/web/product/big/202606/d43337001e940c60b173c50f4d931024.jpg",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%EC%8B%A4%EC%88%98%20%EC%88%98%EC%A7%91%EA%B0%80%20%C2%B7%20%EA%B9%80%EC%88%98%EC%A0%95"
-    },
-    {
-      "title": "[재입고] 꽃점 (Floral Fortune) · 희다가든",
-      "store": "유어마인드",
-      "section": "BOOKS",
-      "store_link": "https://www.your-mind.com/product/재입고-꽃점-floral-fortune-·-희다가든/6147/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202606/4e6f1f1d9018822d796ec3d49092bd60.png",
-      "cover": "https://www.your-mind.com/web/product/big/202606/4e6f1f1d9018822d796ec3d49092bd60.png",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20%EA%BD%83%EC%A0%90%20%28Floral%20Fortune%29%20%C2%B7%20%ED%9D%AC%EB%8B%A4%EA%B0%80%EB%93%A0"
     },
     {
       "title": "Sunny Bier Klub(Re-Design)",
@@ -271,6 +262,15 @@ window.__INDIE_BOOKS_DATA__ = {
       "store_cover": "https://www.your-mind.com/web/product/big/202601/6fe583f27d5436320a33a17ff3f4cb50.jpg",
       "cover": "https://www.your-mind.com/web/product/big/202601/6fe583f27d5436320a33a17ff3f4cb50.jpg",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20%EC%95%99%ED%8A%B8%EB%A0%88%ED%94%84%EB%A0%88%EC%B9%B4%EB%A6%AC%EC%95%84%ED%8A%B8%20-%C2%A0%EC%9D%B4%EC%A0%9C%EB%8A%94%20%EC%9A%B0%EB%A6%AC%20%EB%AA%A8%EB%91%90%20%EB%AA%A8%EB%91%90%20%EA%B8%B0%EC%97%85%EA%B0%80%2C%EA%B7%B8%EB%9F%AC%EB%82%98%20%EB%88%84%EA%B5%AC%EB%8F%84%20%EB%88%84%EA%B5%AC%EB%8F%84%20%EC%95%88%EC%A0%84%ED%95%98%EC%A7%80%20%EC%95%8A%EC%A7%80.%20%C2%B7%20%EC%8B%A4%EB%B9%84%EC%98%A4%20%EB%A1%9C%EB%A3%A8%EC%86%8C"
+    },
+    {
+      "title": "[4차 입고] 풀잎들 · 김목요",
+      "store": "유어마인드",
+      "section": "BOOKS",
+      "store_link": "https://www.your-mind.com/product/4차-입고-풀잎들-·-김목요/5929/category/27/display/1/",
+      "store_cover": "https://www.your-mind.com/web/product/big/202601/b9f0cda7c6b962621145ca7c9187667b.png",
+      "cover": "https://www.your-mind.com/web/product/big/202601/b9f0cda7c6b962621145ca7c9187667b.png",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B4%EC%B0%A8%20%EC%9E%85%EA%B3%A0%5D%20%ED%92%80%EC%9E%8E%EB%93%A4%20%C2%B7%20%EA%B9%80%EB%AA%A9%EC%9A%94"
     },
     {
       "title": "[예약판매/배송비 무료] 숨겨둔 책 세트 (No.025, 026, 027)",
@@ -2271,9 +2271,9 @@ window.__INDIE_BOOKS_DATA__ = {
   "total": 236,
   "stores_attempted": [
     "고요서사",
+    "소심한책방",
     "사적인서점",
     "유어마인드",
-    "소심한책방",
     "북앤스페이스"
   ]
 };
