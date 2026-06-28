@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-28T08:02:40.557650+09:00",
-  "today": "2026-06-28",
+  "updated_at": "2026-06-29T08:47:23.252663+09:00",
+  "today": "2026-06-29",
   "books": [
     {
       "title": "Milk DECO #63 FR Jun./Jul. 2026",
@@ -443,6 +443,17 @@
       "cover": "https://cdn.shopify.com/s/files/1/0221/7340/files/Screenshot2026-04-21at13.18.42.png?v=1776775645"
     },
     {
+      "title": "Brown Miffy Hair Clip",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/00000012739579_a02.webp?v=1782655600",
+      "store_link": "https://magmabooks.com/products/brown-miffy-hair-clip",
+      "published_at": "2026-06-28T15:06:58+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/00000012739579_a02.webp?v=1782655600"
+    },
+    {
       "title": "Noble Rot #41",
       "store": "Magma Books",
       "city": "런던",
@@ -650,17 +661,6 @@
       "store_link": "https://magmabooks.com/products/the-echo-how-to-design-brands-that-move-culture-copy",
       "published_at": "2026-06-23T14:00:12+01:00",
       "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot_2026-06-23_at_14-00-24_Publishing_as_Method_einBuch.haus.png?v=1782219657"
-    },
-    {
-      "title": "Urban Enigmas #1",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-23at13-45-04UrbanEnigmasOtherEditions.png?v=1782218732",
-      "store_link": "https://magmabooks.com/products/flea-copy",
-      "published_at": "2026-06-23T13:45:38+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-23at13-45-04UrbanEnigmasOtherEditions.png?v=1782218732"
     },
     {
       "title": "Mast Books Tote Bag",
@@ -949,17 +949,6 @@
       "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/M-post-company-ae-3752-3d-standing-front-3000.jpg?v=1780331224"
     },
     {
-      "title": "Rome: City of Gardens",
-      "store": "Phaidon",
-      "city": "출판사",
-      "section": "아트·디자인",
-      "author": "The Monacelli Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/M-rome-ae-3721-3d-standing-front-3000.jpg?v=1780331207",
-      "store_link": "https://www.phaidon.com/products/rome-city-of-gardens",
-      "published_at": "2026-06-24T14:22:14+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/M-rome-ae-3721-3d-standing-front-3000.jpg?v=1780331207"
-    },
-    {
       "title": "Andy Warhol's Index (Book)",
       "store": "Phaidon",
       "city": "출판사",
@@ -1101,6 +1090,17 @@
       "store_link": "https://www.phaidon.com/products/the-oil-painter-s-color-workbook-essentials-for-color-mixing-pigments-palettes-and-harmony",
       "published_at": "2026-06-23T04:09:11+01:00",
       "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/M-the-oil-painter_27s-color-workbook-ae-3742-3d-standing-front-3000.jpg?v=1780330281"
+    },
+    {
+      "title": "Minjung Kim: Ink, Paper, Fire",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "The Monacelli Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/M-minjung-kim-ae-3754-3d-standing-front-3000.jpg?v=1779978143",
+      "store_link": "https://www.phaidon.com/products/minjung-kim-ink-paper-fire",
+      "published_at": "2026-06-23T04:08:23+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/M-minjung-kim-ae-3754-3d-standing-front-3000.jpg?v=1779978143"
     },
     {
       "title": "The Ultimate Ski Book",
