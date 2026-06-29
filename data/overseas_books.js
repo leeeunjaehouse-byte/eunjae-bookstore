@@ -1,51 +1,7 @@
 window.__OVERSEAS_BOOKS_DATA__ = {
-  "updated_at": "2026-06-29T08:47:23.252663+09:00",
-  "today": "2026-06-29",
+  "updated_at": "2026-06-30T08:02:51.240009+09:00",
+  "today": "2026-06-30",
   "books": [
-    {
-      "title": "Milk DECO #63 FR Jun./Jul. 2026",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Milk",
-      "store_cover": "",
-      "store_link": "https://www.doyoureadme.de/products/milk-deco-63-fr-jun-may-2026",
-      "published_at": "2026-06-26T11:18:42+02:00",
-      "cover": ""
-    },
-    {
-      "title": "Art - das Kunstmagazin Jul. 2026",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Art das Kunstmagazin",
-      "store_cover": "",
-      "store_link": "https://www.doyoureadme.de/products/art-das-kunstmagazin-jul-2026",
-      "published_at": "2026-06-26T11:14:52+02:00",
-      "cover": ""
-    },
-    {
-      "title": "AD Architectural Digest Spain Jun. 2026",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Architectural Digest",
-      "store_cover": "",
-      "store_link": "https://www.doyoureadme.de/products/ad-architectural-digest-spain-jun-2026",
-      "published_at": "2026-06-26T11:11:45+02:00",
-      "cover": ""
-    },
-    {
-      "title": "Living #6 2026",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Living",
-      "store_cover": "",
-      "store_link": "https://www.doyoureadme.de/products/living-6-2026",
-      "published_at": "2026-06-26T11:05:24+02:00",
-      "cover": ""
-    },
     {
       "title": "Racquet #28",
       "store": "Do you read me?!",
@@ -221,6 +177,50 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "store_link": "https://www.doyoureadme.de/products/mountains-of-the-mind-robert-macfarlane",
       "published_at": "2026-06-25T11:47:02+02:00",
       "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43576-Mountains-of-the-mind_Robert_Macfarlane-1.jpg?v=1782380758"
+    },
+    {
+      "title": "The Wonderful World that Almost Was: A Life of Peter Hujar and Paul Thek",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Granta",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43575-The-wonderful-world-that-almost-was_A_Life_of_Peter_Hujar_and_Paul_Thek-1.jpg?v=1782380760",
+      "store_link": "https://www.doyoureadme.de/products/the-wonderful-world-that-almost-was-a-life-of-peter-hujar-and-paul-thek",
+      "published_at": "2026-06-25T11:47:02+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43575-The-wonderful-world-that-almost-was_A_Life_of_Peter_Hujar_and_Paul_Thek-1.jpg?v=1782380760"
+    },
+    {
+      "title": "The Village on the End of the World - Herta Müller",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Granta",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43574-The-Village-on-the-edge-of-the-world_Herta-Mueller-1.jpg?v=1782380760",
+      "store_link": "https://www.doyoureadme.de/products/the-village-at-the-end-of-the-world-herta-muller",
+      "published_at": "2026-06-25T11:47:02+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43574-The-Village-on-the-edge-of-the-world_Herta-Mueller-1.jpg?v=1782380760"
+    },
+    {
+      "title": "LEXI.exe - Swan Collective",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Shift Books",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43564-LEXI-exe_Swan-Collective-1.jpg?v=1782380111",
+      "store_link": "https://www.doyoureadme.de/products/lexi-exe-swan-collective",
+      "published_at": "2026-06-25T11:43:47+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43564-LEXI-exe_Swan-Collective-1.jpg?v=1782380111"
+    },
+    {
+      "title": "Sleek #89 2026",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Sleek",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43558-Sleek-89-2026-1.jpg?v=1782380112",
+      "store_link": "https://www.doyoureadme.de/products/sleek-89-2026",
+      "published_at": "2026-06-25T11:43:47+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43558-Sleek-89-2026-1.jpg?v=1782380112"
     },
     {
       "title": "USSR 1991 by Keizo Kitajima (signed)",
@@ -443,6 +443,39 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "cover": "https://cdn.shopify.com/s/files/1/0221/7340/files/Screenshot2026-04-21at13.18.42.png?v=1776775645"
     },
     {
+      "title": "Moomin glass bottle Fruits 1L",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/6416114969616_bilder.jpg?v=1698403466",
+      "store_link": "https://magmabooks.com/products/moomin-glass-bottle-fruits-1l",
+      "published_at": "2026-06-29T19:21:55+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/6416114969616_bilder.jpg?v=1698403466"
+    },
+    {
+      "title": "Famous For My Dinner Parties #4",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-29161517.png?v=1782746354",
+      "store_link": "https://magmabooks.com/products/famous-for-my-dinner-parties-2-copy-1",
+      "published_at": "2026-06-29T16:19:20+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-29161517.png?v=1782746354"
+    },
+    {
+      "title": "Real Review #18",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-29160153.png?v=1782746048",
+      "store_link": "https://magmabooks.com/products/real-review-17-copy",
+      "published_at": "2026-06-29T16:14:26+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-29160153.png?v=1782746048"
+    },
+    {
       "title": "Brown Miffy Hair Clip",
       "store": "Magma Books",
       "city": "런던",
@@ -628,39 +661,6 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "store_link": "https://magmabooks.com/products/breakout-2-100-posters-copy-1",
       "published_at": "2026-06-23T16:43:28+01:00",
       "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-23at16-41-30SpaceExplorationLogoArchive-GoogleSearch.png?v=1782229319"
-    },
-    {
-      "title": "50 Housing Floor Plans 2",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-23at16-33-2650HousingFloorPlans2.VV.AA.png?v=1782228898",
-      "store_link": "https://magmabooks.com/products/apartamento-37-copy",
-      "published_at": "2026-06-23T16:35:28+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-23at16-33-2650HousingFloorPlans2.VV.AA.png?v=1782228898"
-    },
-    {
-      "title": "How to Book in Japan",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-23at14-13-52HowtoBookinJapan_EnglishEdition_-Utrecht.png?v=1782220457",
-      "store_link": "https://magmabooks.com/products/urban-enigmas-copy",
-      "published_at": "2026-06-23T14:15:41+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-23at14-13-52HowtoBookinJapan_EnglishEdition_-Utrecht.png?v=1782220457"
-    },
-    {
-      "title": "Publishing as Method",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot_2026-06-23_at_14-00-24_Publishing_as_Method_einBuch.haus.png?v=1782219657",
-      "store_link": "https://magmabooks.com/products/the-echo-how-to-design-brands-that-move-culture-copy",
-      "published_at": "2026-06-23T14:00:12+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot_2026-06-23_at_14-00-24_Publishing_as_Method_einBuch.haus.png?v=1782219657"
     },
     {
       "title": "Mast Books Tote Bag",
@@ -883,6 +883,39 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "cover": "https://cdn.shopify.com/s/files/1/0290/3562/6574/files/MB_WEINER_WE_ARE_SHIPS_01.jpg?v=1744483758"
     },
     {
+      "title": "John Pawson: The Minimal Home",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "Phaidon Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/john-pawson-the-minimal-way-of-life-signed-edition-en-9345-3d-standing-front--3000.jpg?v=1779978291",
+      "store_link": "https://www.phaidon.com/products/john-pawson-the-minimal-home",
+      "published_at": "2026-06-29T16:35:56+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/john-pawson-the-minimal-way-of-life-signed-edition-en-9345-3d-standing-front--3000.jpg?v=1779978291"
+    },
+    {
+      "title": "Eddie Martinez: 20 Years of Painting",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "The Monacelli Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/M-eddie-martinez-ae-3751-3d-standing-front-3000.jpg?v=1780330673",
+      "store_link": "https://www.phaidon.com/products/eddie-martinez-20-years-of-painting",
+      "published_at": "2026-06-29T15:10:29+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/M-eddie-martinez-ae-3751-3d-standing-front-3000.jpg?v=1780330673"
+    },
+    {
+      "title": "Rome: City of Gardens",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "The Monacelli Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/M-rome-ae-3721-3d-standing-front-3000.jpg?v=1780331207",
+      "store_link": "https://www.phaidon.com/products/rome-city-of-gardens",
+      "published_at": "2026-06-29T15:10:05+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/M-rome-ae-3721-3d-standing-front-3000.jpg?v=1780331207"
+    },
+    {
       "title": "The Pot Book: A Global Survey of Ceramic Craft and Design",
       "store": "Phaidon",
       "city": "출판사",
@@ -1068,39 +1101,6 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "store_link": "https://www.phaidon.com/products/small-monster-big-monster-a-seriously-silly-book-of-opposites",
       "published_at": "2026-06-23T04:21:27+01:00",
       "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/small-monster-big-monster-en-9211-3d-standing-front-3000.jpg?v=1779978373"
-    },
-    {
-      "title": "Urban Elegance: Classic Contemporary Living",
-      "store": "Phaidon",
-      "city": "출판사",
-      "section": "아트·디자인",
-      "author": "The Monacelli Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/M-urban-elegance-ae-3743-3d-standing-front-3000.jpg?v=1780431025",
-      "store_link": "https://www.phaidon.com/products/urban-elegance-classic-contemporary-living",
-      "published_at": "2026-06-23T04:13:04+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/M-urban-elegance-ae-3743-3d-standing-front-3000.jpg?v=1780431025"
-    },
-    {
-      "title": "The Oil Painter’s Color Workbook: Essentials for Color Mixing, Pigments, Palettes, and Harmony",
-      "store": "Phaidon",
-      "city": "출판사",
-      "section": "아트·디자인",
-      "author": "Monacelli Studio",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/M-the-oil-painter_27s-color-workbook-ae-3742-3d-standing-front-3000.jpg?v=1780330281",
-      "store_link": "https://www.phaidon.com/products/the-oil-painter-s-color-workbook-essentials-for-color-mixing-pigments-palettes-and-harmony",
-      "published_at": "2026-06-23T04:09:11+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/M-the-oil-painter_27s-color-workbook-ae-3742-3d-standing-front-3000.jpg?v=1780330281"
-    },
-    {
-      "title": "Minjung Kim: Ink, Paper, Fire",
-      "store": "Phaidon",
-      "city": "출판사",
-      "section": "아트·디자인",
-      "author": "The Monacelli Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/M-minjung-kim-ae-3754-3d-standing-front-3000.jpg?v=1779978143",
-      "store_link": "https://www.phaidon.com/products/minjung-kim-ink-paper-fire",
-      "published_at": "2026-06-23T04:08:23+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/M-minjung-kim-ae-3754-3d-standing-front-3000.jpg?v=1779978143"
     },
     {
       "title": "The Ultimate Ski Book",
