@@ -1,7 +1,128 @@
 window.__OVERSEAS_BOOKS_DATA__ = {
-  "updated_at": "2026-06-30T08:02:51.240009+09:00",
-  "today": "2026-06-30",
+  "updated_at": "2026-07-01T08:03:05.635849+09:00",
+  "today": "2026-07-01",
   "books": [
+    {
+      "title": "Solo #16 2026",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Solo",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Solo-1.jpg?v=1782815637",
+      "store_link": "https://www.doyoureadme.de/products/solo-16-2026",
+      "published_at": "2026-06-30T16:19:22+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Solo-1.jpg?v=1782815637"
+    },
+    {
+      "title": "Suche nach dem Unbestimmten - Steffen Kunkel",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Spector Books",
+      "store_cover": "",
+      "store_link": "https://www.doyoureadme.de/products/suche-nach-dem-unbestimmten-steffen-kunkel",
+      "published_at": "2026-06-30T15:49:05+02:00",
+      "cover": ""
+    },
+    {
+      "title": "Opus Tropus - Lukas Weidinger",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "2b Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43603-Opus-Tropus_Lukas-Weidinger-1.jpg?v=1782815636",
+      "store_link": "https://www.doyoureadme.de/products/opus-tropus-lukas-weidinger",
+      "published_at": "2026-06-30T12:40:43+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43603-Opus-Tropus_Lukas-Weidinger-1.jpg?v=1782815636"
+    },
+    {
+      "title": "Spike Art #88 - Spirituality",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Spike Art",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43595-Spike-Art-88_Spirituality-1.jpg?v=1782815637",
+      "store_link": "https://www.doyoureadme.de/products/spike-art-88-spirituality",
+      "published_at": "2026-06-30T12:37:48+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43595-Spike-Art-88_Spirituality-1.jpg?v=1782815637"
+    },
+    {
+      "title": "Isolarii #17: Dunderhead - Tomoko Yoshida",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Isolarii",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43596-Isolarii-17-Dunderhead-_Tomoko-Yoshida-1.jpg?v=1782815635",
+      "store_link": "https://www.doyoureadme.de/products/isolarii-17-dunderhead-tomoko-yoshida",
+      "published_at": "2026-06-30T12:37:47+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43596-Isolarii-17-Dunderhead-_Tomoko-Yoshida-1.jpg?v=1782815635"
+    },
+    {
+      "title": "Numero France #262 2026",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Numero Magazine",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43599-Numero-France-262-2026-1.jpg?v=1782815637",
+      "store_link": "https://www.doyoureadme.de/products/numero-france-262-2026",
+      "published_at": "2026-06-30T12:37:46+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43599-Numero-France-262-2026-1.jpg?v=1782815637"
+    },
+    {
+      "title": "Lungs #1",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "self published",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43597-Lungs-1-1.jpg?v=1782815637",
+      "store_link": "https://www.doyoureadme.de/products/lungs-1",
+      "published_at": "2026-06-30T12:37:46+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43597-Lungs-1-1.jpg?v=1782815637"
+    },
+    {
+      "title": "Enghelab Street - Hannah Darabi",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Spector Books",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43605-Enghelab-Street_Hannah-Darabi-1.jpg?v=1782815637",
+      "store_link": "https://www.doyoureadme.de/products/enghelab-street-hannah-darabi",
+      "published_at": "2026-06-30T12:37:45+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43605-Enghelab-Street_Hannah-Darabi-1.jpg?v=1782815637"
+    },
+    {
+      "title": "Global Fascisms: Reader",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Archive Books",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43604-Global-Fascisms-Reader-1.jpg?v=1782815636",
+      "store_link": "https://www.doyoureadme.de/products/global-fascisms-reader",
+      "published_at": "2026-06-30T12:37:45+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43604-Global-Fascisms-Reader-1.jpg?v=1782815636"
+    },
+    {
+      "title": "Kunstforum #311 2026 - 61. Venedig Biennale - In Minor Keys",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Kunstforum International",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43601-Kunstforum-311-2026_61-Venedig-Biennale_In-Minor-Keys-1.jpg?v=1782815637",
+      "store_link": "https://www.doyoureadme.de/products/kunstforum-311-2026-61-venedig-biennale-in-minor-keys",
+      "published_at": "2026-06-30T12:37:45+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43601-Kunstforum-311-2026_61-Venedig-Biennale_In-Minor-Keys-1.jpg?v=1782815637"
+    },
+    {
+      "title": "Berlin Review - Reader 7 Summer 2026",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Berlin Review",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43600-Berlin-Review_Reader-7-Summer-2026-1.jpg?v=1782815636",
+      "store_link": "https://www.doyoureadme.de/products/berlin-review-reader-7-summer-2026",
+      "published_at": "2026-06-30T12:37:45+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43600-Berlin-Review_Reader-7-Summer-2026-1.jpg?v=1782815636"
+    },
     {
       "title": "Racquet #28",
       "store": "Do you read me?!",
@@ -100,127 +221,6 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "store_link": "https://www.doyoureadme.de/products/casa-brutus-315-july-2026",
       "published_at": "2026-06-25T14:33:10+02:00",
       "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Casa-Brutus-1.jpg?v=1782385414"
-    },
-    {
-      "title": "Aperture #263 2026 - Secrets",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Aperture",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43583-Aperture-263-Summer-2026_Secrets-1.jpg?v=1782385398",
-      "store_link": "https://www.doyoureadme.de/products/aperture-263-2026-secrets",
-      "published_at": "2026-06-25T14:33:10+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43583-Aperture-263-Summer-2026_Secrets-1.jpg?v=1782385398"
-    },
-    {
-      "title": "The Club #1 2026",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "The Club",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/The-Club-1.jpg?v=1782385415",
-      "store_link": "https://www.doyoureadme.de/products/the-club-1-2026",
-      "published_at": "2026-06-25T14:33:09+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/The-Club-1.jpg?v=1782385415"
-    },
-    {
-      "title": "Popeye #951 July 2026 - Whole City Boy Catalog",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Magazinehouse",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Popeye-951-1.jpg?v=1782385414",
-      "store_link": "https://www.doyoureadme.de/products/popeye-951-july-2026-whole-city-boy-catalog",
-      "published_at": "2026-06-25T14:33:09+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Popeye-951-1.jpg?v=1782385414"
-    },
-    {
-      "title": "Go Out #201 July 2026",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Sanei Shobo",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Go-Out-201-1.jpg?v=1782385414",
-      "store_link": "https://www.doyoureadme.de/products/go-out-201-july-2026",
-      "published_at": "2026-06-25T14:33:09+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Go-Out-201-1.jpg?v=1782385414"
-    },
-    {
-      "title": "RiCE Food Culture Journal #47",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Ricepress",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Rice-1.jpg?v=1782385414",
-      "store_link": "https://www.doyoureadme.de/products/rice-food-culture-journal-47",
-      "published_at": "2026-06-25T14:33:09+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Rice-1.jpg?v=1782385414"
-    },
-    {
-      "title": "BRUTUS #1055 2026",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Magazinehouse",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Brutus-1055-1.jpg?v=1782385414",
-      "store_link": "https://www.doyoureadme.de/products/brutus-1055-2026",
-      "published_at": "2026-06-25T12:59:44+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Brutus-1055-1.jpg?v=1782385414"
-    },
-    {
-      "title": "Mountains of the Mind - Robert Macfarlane",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Granta",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43576-Mountains-of-the-mind_Robert_Macfarlane-1.jpg?v=1782380758",
-      "store_link": "https://www.doyoureadme.de/products/mountains-of-the-mind-robert-macfarlane",
-      "published_at": "2026-06-25T11:47:02+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43576-Mountains-of-the-mind_Robert_Macfarlane-1.jpg?v=1782380758"
-    },
-    {
-      "title": "The Wonderful World that Almost Was: A Life of Peter Hujar and Paul Thek",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Granta",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43575-The-wonderful-world-that-almost-was_A_Life_of_Peter_Hujar_and_Paul_Thek-1.jpg?v=1782380760",
-      "store_link": "https://www.doyoureadme.de/products/the-wonderful-world-that-almost-was-a-life-of-peter-hujar-and-paul-thek",
-      "published_at": "2026-06-25T11:47:02+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43575-The-wonderful-world-that-almost-was_A_Life_of_Peter_Hujar_and_Paul_Thek-1.jpg?v=1782380760"
-    },
-    {
-      "title": "The Village on the End of the World - Herta Müller",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Granta",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43574-The-Village-on-the-edge-of-the-world_Herta-Mueller-1.jpg?v=1782380760",
-      "store_link": "https://www.doyoureadme.de/products/the-village-at-the-end-of-the-world-herta-muller",
-      "published_at": "2026-06-25T11:47:02+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43574-The-Village-on-the-edge-of-the-world_Herta-Mueller-1.jpg?v=1782380760"
-    },
-    {
-      "title": "LEXI.exe - Swan Collective",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Shift Books",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43564-LEXI-exe_Swan-Collective-1.jpg?v=1782380111",
-      "store_link": "https://www.doyoureadme.de/products/lexi-exe-swan-collective",
-      "published_at": "2026-06-25T11:43:47+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43564-LEXI-exe_Swan-Collective-1.jpg?v=1782380111"
-    },
-    {
-      "title": "Sleek #89 2026",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Sleek",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43558-Sleek-89-2026-1.jpg?v=1782380112",
-      "store_link": "https://www.doyoureadme.de/products/sleek-89-2026",
-      "published_at": "2026-06-25T11:43:47+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43558-Sleek-89-2026-1.jpg?v=1782380112"
     },
     {
       "title": "USSR 1991 by Keizo Kitajima (signed)",
@@ -443,7 +443,7 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "cover": "https://cdn.shopify.com/s/files/1/0221/7340/files/Screenshot2026-04-21at13.18.42.png?v=1776775645"
     },
     {
-      "title": "Moomin glass bottle Fruits 1L",
+      "title": "Moomin Glass Bottle Fruits 1L",
       "store": "Magma Books",
       "city": "런던",
       "section": "디자인·아트",
@@ -883,6 +883,17 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "cover": "https://cdn.shopify.com/s/files/1/0290/3562/6574/files/MB_WEINER_WE_ARE_SHIPS_01.jpg?v=1744483758"
     },
     {
+      "title": "Doron Langberg",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "The Monacelli Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/M-doron-langberg-ae-3753-3d-standing-front-3000.jpg?v=1782248605",
+      "store_link": "https://www.phaidon.com/products/doron-langberg",
+      "published_at": "2026-06-30T11:20:03+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/M-doron-langberg-ae-3753-3d-standing-front-3000.jpg?v=1782248605"
+    },
+    {
       "title": "John Pawson: The Minimal Home",
       "store": "Phaidon",
       "city": "출판사",
@@ -1004,17 +1015,6 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/M-white-rooms-ae-3774-3d-standing-front-3000.jpg?v=1781807866"
     },
     {
-      "title": "Doron Langberg",
-      "store": "Phaidon",
-      "city": "출판사",
-      "section": "아트·디자인",
-      "author": "The Monacelli Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/M-doron-langberg-ae-3753-3d-standing-front-3000.jpg?v=1782248605",
-      "store_link": "https://www.phaidon.com/products/doron-langberg",
-      "published_at": "2026-06-23T22:32:52+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/M-doron-langberg-ae-3753-3d-standing-front-3000.jpg?v=1782248605"
-    },
-    {
       "title": "My Favorite Material Is Light: & Other Quotes by Architects",
       "store": "Phaidon",
       "city": "출판사",
@@ -1101,6 +1101,17 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "store_link": "https://www.phaidon.com/products/small-monster-big-monster-a-seriously-silly-book-of-opposites",
       "published_at": "2026-06-23T04:21:27+01:00",
       "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/small-monster-big-monster-en-9211-3d-standing-front-3000.jpg?v=1779978373"
+    },
+    {
+      "title": "Nager en liberté",
+      "store": "Gestalten",
+      "city": "출판사",
+      "section": "디자인",
+      "author": "gestalten",
+      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/SWIJO26_FR_webshop_mockup.png?v=1782827273",
+      "store_link": "https://shop.gestalten.com/products/nager-en-liberte",
+      "published_at": "2026-06-30T15:32:08+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/SWIJO26_FR_webshop_mockup.png?v=1782827273"
     },
     {
       "title": "The Ultimate Ski Book",
@@ -1310,17 +1321,6 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "store_link": "https://shop.gestalten.com/products/golf-the-ultimate-book",
       "published_at": "2026-05-13T15:48:47+02:00",
       "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/TNGolf_front.png?v=1778570431"
-    },
-    {
-      "title": "The Stylish Life: Golf",
-      "store": "Gestalten",
-      "city": "출판사",
-      "section": "디자인",
-      "author": "teNeues",
-      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/9783832732288_The-Stylish-Life-Golf_Cover-front.png?v=1778491400",
-      "store_link": "https://shop.gestalten.com/products/the-stylish-life-golf",
-      "published_at": "2026-05-13T15:48:46+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/9783832732288_The-Stylish-Life-Golf_Cover-front.png?v=1778491400"
     },
     {
       "title": "The Happy Prince and Other Tales",

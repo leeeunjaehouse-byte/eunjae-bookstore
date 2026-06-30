@@ -1,6 +1,6 @@
 window.__INDIE_BOOKS_DATA__ = {
-  "updated_at": "2026-06-30T08:02:40.724333+09:00",
-  "today": "2026-06-30",
+  "updated_at": "2026-07-01T08:02:50.617645+09:00",
+  "today": "2026-07-01",
   "books": [
     {
       "title": "Still Life · 김진주",
@@ -1704,15 +1704,6 @@ window.__INDIE_BOOKS_DATA__ = {
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EB%8D%94%EB%B6%81%EC%86%8C%EC%82%AC%EC%9D%B4%EC%96%B4%ED%8B%B0%20%EB%A1%9C%EA%B3%A0%20%ED%8D%BC%ED%94%8C%EA%B0%80%EB%B0%A9"
     },
     {
-      "title": "더북소사이어티 레드 로고 가방",
-      "store": "더북소사이어티",
-      "section": "큐레이션",
-      "store_link": "https://thebooksociety.org/shop_view/?idx=1321",
-      "store_cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/9c5a2a585feff.jpg?w=800",
-      "cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/9c5a2a585feff.jpg?w=800",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EB%8D%94%EB%B6%81%EC%86%8C%EC%82%AC%EC%9D%B4%EC%96%B4%ED%8B%B0%20%EB%A0%88%EB%93%9C%20%EB%A1%9C%EA%B3%A0%20%EA%B0%80%EB%B0%A9"
-    },
-    {
       "title": "Baskerville’s Teardrop Explodes",
       "store": "더북소사이어티",
       "section": "큐레이션",
@@ -1810,6 +1801,15 @@ window.__INDIE_BOOKS_DATA__ = {
       "store_cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/20efabf542d86.jpg?w=800",
       "cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/20efabf542d86.jpg?w=800",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=e-flux%20Index%20%237"
+    },
+    {
+      "title": "e-flux Index #6",
+      "store": "더북소사이어티",
+      "section": "큐레이션",
+      "store_link": "https://thebooksociety.org/shop_view/?idx=1303",
+      "store_cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/9efeb99f607fc.jpg?w=800",
+      "cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/9efeb99f607fc.jpg?w=800",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=e-flux%20Index%20%236"
     },
     {
       "title": "대리독서견",
@@ -2270,10 +2270,10 @@ window.__INDIE_BOOKS_DATA__ = {
   "errors": [],
   "total": 236,
   "stores_attempted": [
+    "소심한책방",
     "고요서사",
     "북앤스페이스",
-    "소심한책방",
-    "사적인서점",
-    "유어마인드"
+    "유어마인드",
+    "사적인서점"
   ]
 };
