@@ -1,7 +1,106 @@
 {
-  "updated_at": "2026-07-01T08:03:05.635849+09:00",
-  "today": "2026-07-01",
+  "updated_at": "2026-07-02T08:02:50.934066+09:00",
+  "today": "2026-07-02",
   "books": [
+    {
+      "title": "Hannes Meyers Interieurs",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Park Books",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43610-Hannes-Meyers-Interieurs-1.jpg?v=1782894201",
+      "store_link": "https://www.doyoureadme.de/products/hannes-meyers-interieurs",
+      "published_at": "2026-07-01T10:25:42+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43610-Hannes-Meyers-Interieurs-1.jpg?v=1782894201"
+    },
+    {
+      "title": "Suche nach dem Unbestimmten - Steffen Kunkel",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Spector Books",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43609-Suche-nach-dem-Unbestimmten_Steffen-Kunkel-1.jpg?v=1782894200",
+      "store_link": "https://www.doyoureadme.de/products/suche-nach-dem-unbestimmten-steffen-kunkel",
+      "published_at": "2026-07-01T10:25:42+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43609-Suche-nach-dem-Unbestimmten_Steffen-Kunkel-1.jpg?v=1782894200"
+    },
+    {
+      "title": "Psychobuch 2 - Beni Bischof",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Edition Patrick Frey",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43608-Psychobuch-2_Beni-Bischof-1.jpg?v=1782894199",
+      "store_link": "https://www.doyoureadme.de/products/psychobuch-2-beni-bischof",
+      "published_at": "2026-07-01T10:25:42+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43608-Psychobuch-2_Beni-Bischof-1.jpg?v=1782894199"
+    },
+    {
+      "title": "The Future Is Not Lost - Matt Bluemink",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Becoming Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43607-The-Future-Is-Not-Lost_Matt-Bluemink-1.jpg?v=1782894200",
+      "store_link": "https://www.doyoureadme.de/products/the-future-is-not-lost-matt-bluemink",
+      "published_at": "2026-07-01T10:25:42+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43607-The-Future-Is-Not-Lost_Matt-Bluemink-1.jpg?v=1782894200"
+    },
+    {
+      "title": "Sand Journal #29 2026",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Sand Journal",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43616-Sand-Journa-29-2026-1.jpg?v=1782894199",
+      "store_link": "https://www.doyoureadme.de/products/sand-journal-29-2026",
+      "published_at": "2026-07-01T10:25:41+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43616-Sand-Journa-29-2026-1.jpg?v=1782894199"
+    },
+    {
+      "title": "Unmittelbar, dringend, ungeduldig - Ludmila Vachtova",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Hochparterre",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43613-Unmittelbar-dringend-ungeduldig_Ludmila-Vachtova-1.jpg?v=1782894199",
+      "store_link": "https://www.doyoureadme.de/products/the-housing-question-is-a-feminist-question-ccsa-topics-copy",
+      "published_at": "2026-07-01T10:25:41+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43613-Unmittelbar-dringend-ungeduldig_Ludmila-Vachtova-1.jpg?v=1782894199"
+    },
+    {
+      "title": "The Housing Question is a Feminist Question (CCSA Topics)",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "m books",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43612-The-Housing-Question-is-a-Feminist-Question_CCSA-Topics-1.jpg?v=1782894200",
+      "store_link": "https://www.doyoureadme.de/products/the-housing-question-is-a-feminist-question-ccsa-topics",
+      "published_at": "2026-07-01T10:25:41+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43612-The-Housing-Question-is-a-Feminist-Question_CCSA-Topics-1.jpg?v=1782894200"
+    },
+    {
+      "title": "Handlungen / Actions - Helmut Schweizer",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Spector Books",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43611-Handlungen-Actions_Helmut-Schweizer-1.jpg?v=1782894199",
+      "store_link": "https://www.doyoureadme.de/products/suche-nach-dem-unbestimmten-steffen-kunkel-copy",
+      "published_at": "2026-07-01T10:25:41+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43611-Handlungen-Actions_Helmut-Schweizer-1.jpg?v=1782894199"
+    },
+    {
+      "title": "Silence and Light - Louis I. Kahn (2026 Re-print)",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Park Books",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/14158-Silence-and-Light_Louis-I-Kahn-1.jpg?v=1782890642",
+      "store_link": "https://www.doyoureadme.de/products/silence-and-light-louis-i-kahn-1",
+      "published_at": "2026-07-01T09:24:28+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/14158-Silence-and-Light_Louis-I-Kahn-1.jpg?v=1782890642"
+    },
     {
       "title": "Solo #16 2026",
       "store": "Do you read me?!",
@@ -12,17 +111,6 @@
       "store_link": "https://www.doyoureadme.de/products/solo-16-2026",
       "published_at": "2026-06-30T16:19:22+02:00",
       "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Solo-1.jpg?v=1782815637"
-    },
-    {
-      "title": "Suche nach dem Unbestimmten - Steffen Kunkel",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Spector Books",
-      "store_cover": "",
-      "store_link": "https://www.doyoureadme.de/products/suche-nach-dem-unbestimmten-steffen-kunkel",
-      "published_at": "2026-06-30T15:49:05+02:00",
-      "cover": ""
     },
     {
       "title": "Opus Tropus - Lukas Weidinger",
@@ -133,94 +221,6 @@
       "store_link": "https://www.doyoureadme.de/products/racquet-28",
       "published_at": "2026-06-26T10:38:19+02:00",
       "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43544-Racquet-28-1.jpg?v=1782289492"
-    },
-    {
-      "title": "Eye #110 2026",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Eye Magazine",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43577-Eye-110-1.jpg?v=1782381865",
-      "store_link": "https://www.doyoureadme.de/products/eye-110-2026",
-      "published_at": "2026-06-25T14:33:14+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43577-Eye-110-1.jpg?v=1782381865"
-    },
-    {
-      "title": "Frieze #260 June/July/Aug. 2026",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Frieze",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43578-Frieze-Jun-Jul-Aug-2026-1.jpg?v=1782381866",
-      "store_link": "https://www.doyoureadme.de/products/frieze-260-june-july-aug-2026",
-      "published_at": "2026-06-25T14:33:13+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43578-Frieze-Jun-Jul-Aug-2026-1.jpg?v=1782381866"
-    },
-    {
-      "title": "Artforum Summer 2026",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Artforum",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43582-Artforum-Summer-2026-1.jpg?v=1782385398",
-      "store_link": "https://www.doyoureadme.de/products/artforum-summer-2026",
-      "published_at": "2026-06-25T14:33:11+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43582-Artforum-Summer-2026-1.jpg?v=1782385398"
-    },
-    {
-      "title": "Art Review Summer 2026",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Art Review",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43581-Art-Review-Summer-2026-1.jpg?v=1782385397",
-      "store_link": "https://www.doyoureadme.de/products/art-review-summer-2026",
-      "published_at": "2026-06-25T14:33:11+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43581-Art-Review-Summer-2026-1.jpg?v=1782385397"
-    },
-    {
-      "title": "The Art-Form #9 2026",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "The Art-Form",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43580-The-Art-Form-09-2026-1.jpg?v=1782385397",
-      "store_link": "https://www.doyoureadme.de/products/the-art-form-9-2026",
-      "published_at": "2026-06-25T14:33:11+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43580-The-Art-Form-09-2026-1.jpg?v=1782385397"
-    },
-    {
-      "title": "The Wire #509 July 2026",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "The Wire",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43579-The-Wire-509-July-2026-1.jpg?v=1782381868",
-      "store_link": "https://www.doyoureadme.de/products/the-wire-509-july-2026",
-      "published_at": "2026-06-25T14:33:11+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43579-The-Wire-509-July-2026-1.jpg?v=1782381868"
-    },
-    {
-      "title": "Idea #414 - The Graphics of Human Intimacy: Designing Relationships in BL Manga",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "IDEA",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Idea-414-1.jpg?v=1782385414",
-      "store_link": "https://www.doyoureadme.de/products/idea-414-the-graphics-of-human-intimacy-designing-relationships-in-bl-manga",
-      "published_at": "2026-06-25T14:33:10+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Idea-414-1.jpg?v=1782385414"
-    },
-    {
-      "title": "Casa Brutus #315 July 2026",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Magazinehouse",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Casa-Brutus-1.jpg?v=1782385414",
-      "store_link": "https://www.doyoureadme.de/products/casa-brutus-315-july-2026",
-      "published_at": "2026-06-25T14:33:10+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Casa-Brutus-1.jpg?v=1782385414"
     },
     {
       "title": "USSR 1991 by Keizo Kitajima (signed)",
@@ -443,6 +443,17 @@
       "cover": "https://cdn.shopify.com/s/files/1/0221/7340/files/Screenshot2026-04-21at13.18.42.png?v=1776775645"
     },
     {
+      "title": "Mouse's Wood",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-03at15-24-52Thames_HudsonUSA-Book-Mouse_sWoodAYearinNature.png?v=1780496712",
+      "store_link": "https://magmabooks.com/products/miffy-and-the-artists-copy",
+      "published_at": "2026-07-01T14:24:51+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-03at15-24-52Thames_HudsonUSA-Book-Mouse_sWoodAYearinNature.png?v=1780496712"
+    },
+    {
       "title": "Moomin Glass Bottle Fruits 1L",
       "store": "Magma Books",
       "city": "런던",
@@ -650,17 +661,6 @@
       "store_link": "https://magmabooks.com/products/typeone-9-copy",
       "published_at": "2026-06-23T16:54:32+01:00",
       "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/ScreenShot2025-09-09at23.41.38.webp?v=1758292997"
-    },
-    {
-      "title": "Space Exploration Logo Archive",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-23at16-41-30SpaceExplorationLogoArchive-GoogleSearch.png?v=1782229319",
-      "store_link": "https://magmabooks.com/products/breakout-2-100-posters-copy-1",
-      "published_at": "2026-06-23T16:43:28+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-23at16-41-30SpaceExplorationLogoArchive-GoogleSearch.png?v=1782229319"
     },
     {
       "title": "Mast Books Tote Bag",
@@ -883,6 +883,39 @@
       "cover": "https://cdn.shopify.com/s/files/1/0290/3562/6574/files/MB_WEINER_WE_ARE_SHIPS_01.jpg?v=1744483758"
     },
     {
+      "title": "Living in a Japanese House",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "Phaidon Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/living-in-a-japanese-house-en-9269-3d-standing-front-3000.jpg?v=1779978252",
+      "store_link": "https://www.phaidon.com/products/living-in-a-japanese-house",
+      "published_at": "2026-07-01T20:48:18+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/living-in-a-japanese-house-en-9269-3d-standing-front-3000.jpg?v=1779978252"
+    },
+    {
+      "title": "John Pawson: The Minimal Home",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "Phaidon Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/john-pawson-the-minimal-way-of-life-signed-edition-en-9345-3d-standing-front--3000.jpg?v=1779978291",
+      "store_link": "https://www.phaidon.com/products/john-pawson-the-minimal-home-the-minimal-home",
+      "published_at": "2026-07-01T15:31:17+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/john-pawson-the-minimal-way-of-life-signed-edition-en-9345-3d-standing-front--3000.jpg?v=1779978291"
+    },
+    {
+      "title": "The Thought That Counts: A Guide to Gifting for Every Occasion",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "The Monacelli Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/M-the-thought-that-counts-ae-3746-3d-standing-front-3000_53ejx4.jpg?v=1782915853",
+      "store_link": "https://www.phaidon.com/products/the-thought-that-counts-a-guide-to-gifting-for-every-occasion",
+      "published_at": "2026-07-01T15:26:19+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/M-the-thought-that-counts-ae-3746-3d-standing-front-3000_53ejx4.jpg?v=1782915853"
+    },
+    {
       "title": "Doron Langberg",
       "store": "Phaidon",
       "city": "출판사",
@@ -892,17 +925,6 @@
       "store_link": "https://www.phaidon.com/products/doron-langberg",
       "published_at": "2026-06-30T11:20:03+01:00",
       "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/M-doron-langberg-ae-3753-3d-standing-front-3000.jpg?v=1782248605"
-    },
-    {
-      "title": "John Pawson: The Minimal Home",
-      "store": "Phaidon",
-      "city": "출판사",
-      "section": "아트·디자인",
-      "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/john-pawson-the-minimal-way-of-life-signed-edition-en-9345-3d-standing-front--3000.jpg?v=1779978291",
-      "store_link": "https://www.phaidon.com/products/john-pawson-the-minimal-home",
-      "published_at": "2026-06-29T16:35:56+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/john-pawson-the-minimal-way-of-life-signed-edition-en-9345-3d-standing-front--3000.jpg?v=1779978291"
     },
     {
       "title": "Eddie Martinez: 20 Years of Painting",
@@ -1026,17 +1048,6 @@
       "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/my-favourite-material-is-light-en-9253-3d-standing-front-3000.jpg?v=1779978167"
     },
     {
-      "title": "Living in a Japanese House",
-      "store": "Phaidon",
-      "city": "출판사",
-      "section": "아트·디자인",
-      "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/living-in-a-japanese-house-en-9269-3d-standing-front-3000.jpg?v=1779978252",
-      "store_link": "https://www.phaidon.com/products/living-in-a-japanese-house",
-      "published_at": "2026-06-23T04:40:06+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/living-in-a-japanese-house-en-9269-3d-standing-front-3000.jpg?v=1779978252"
-    },
-    {
       "title": "Sanlé Sory",
       "store": "Phaidon",
       "city": "출판사",
@@ -1079,17 +1090,6 @@
       "store_link": "https://www.phaidon.com/products/tom-anholt",
       "published_at": "2026-06-23T04:24:09+01:00",
       "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/M-tom-anholt-ae-3747-3d-standing-front-3000.jpg?v=1780330753"
-    },
-    {
-      "title": "The Thought that Counts: A Guide to Gifting for Every Occasion",
-      "store": "Phaidon",
-      "city": "출판사",
-      "section": "아트·디자인",
-      "author": "The Monacelli Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/M-the-thought-that-counts-signed-edition-ae-3778-3d-standing-front-3000.jpg?v=1780431106",
-      "store_link": "https://www.phaidon.com/products/the-thought-that-counts-a-guide-to-gifting-for-every-occasion",
-      "published_at": "2026-06-23T04:22:44+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/M-the-thought-that-counts-signed-edition-ae-3778-3d-standing-front-3000.jpg?v=1780431106"
     },
     {
       "title": "Small Monster, Big Monster: A Seriously Silly Book of Opposites",
