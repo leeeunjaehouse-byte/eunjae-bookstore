@@ -1,7 +1,18 @@
 window.__OVERSEAS_BOOKS_DATA__ = {
-  "updated_at": "2026-07-02T08:02:50.934066+09:00",
-  "today": "2026-07-02",
+  "updated_at": "2026-07-03T08:02:21.717628+09:00",
+  "today": "2026-07-03",
   "books": [
+    {
+      "title": "100 Things to Do in Berlin: A Voo Guide",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "NUDA",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/100-Things-to-do-in-Berlin-1.jpg?v=1782894201",
+      "store_link": "https://www.doyoureadme.de/products/100-things-to-do-in-berlin-a-voo-guide",
+      "published_at": "2026-07-02T13:29:26+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/100-Things-to-do-in-Berlin-1.jpg?v=1782894201"
+    },
     {
       "title": "Hannes Meyers Interieurs",
       "store": "Do you read me?!",
@@ -210,17 +221,6 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "store_link": "https://www.doyoureadme.de/products/berlin-review-reader-7-summer-2026",
       "published_at": "2026-06-30T12:37:45+02:00",
       "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43600-Berlin-Review_Reader-7-Summer-2026-1.jpg?v=1782815636"
-    },
-    {
-      "title": "Racquet #28",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Racquet",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43544-Racquet-28-1.jpg?v=1782289492",
-      "store_link": "https://www.doyoureadme.de/products/racquet-28",
-      "published_at": "2026-06-26T10:38:19+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43544-Racquet-28-1.jpg?v=1782289492"
     },
     {
       "title": "USSR 1991 by Keizo Kitajima (signed)",
@@ -883,6 +883,17 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "cover": "https://cdn.shopify.com/s/files/1/0290/3562/6574/files/MB_WEINER_WE_ARE_SHIPS_01.jpg?v=1744483758"
     },
     {
+      "title": "Dansaekhwa: Korean Abstract Art and Its Cultural Impact",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "Phaidon Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/dansaekhwa-en-6851-3d-standing-front-3000.jpg?v=1780330432",
+      "store_link": "https://www.phaidon.com/products/dansaekhwa-korean-abstract-art-and-its-cultural-impact",
+      "published_at": "2026-07-02T08:49:42+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/dansaekhwa-en-6851-3d-standing-front-3000.jpg?v=1780330432"
+    },
+    {
       "title": "Living in a Japanese House",
       "store": "Phaidon",
       "city": "출판사",
@@ -890,7 +901,7 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "author": "Phaidon Press",
       "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/living-in-a-japanese-house-en-9269-3d-standing-front-3000.jpg?v=1779978252",
       "store_link": "https://www.phaidon.com/products/living-in-a-japanese-house",
-      "published_at": "2026-07-01T20:48:18+01:00",
+      "published_at": "2026-07-02T08:49:41+01:00",
       "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/living-in-a-japanese-house-en-9269-3d-standing-front-3000.jpg?v=1779978252"
     },
     {
@@ -1090,17 +1101,6 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "store_link": "https://www.phaidon.com/products/tom-anholt",
       "published_at": "2026-06-23T04:24:09+01:00",
       "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/M-tom-anholt-ae-3747-3d-standing-front-3000.jpg?v=1780330753"
-    },
-    {
-      "title": "Small Monster, Big Monster: A Seriously Silly Book of Opposites",
-      "store": "Phaidon",
-      "city": "출판사",
-      "section": "아트·디자인",
-      "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/small-monster-big-monster-en-9211-3d-standing-front-3000.jpg?v=1779978373",
-      "store_link": "https://www.phaidon.com/products/small-monster-big-monster-a-seriously-silly-book-of-opposites",
-      "published_at": "2026-06-23T04:21:27+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/small-monster-big-monster-en-9211-3d-standing-front-3000.jpg?v=1779978373"
     },
     {
       "title": "Nager en liberté",

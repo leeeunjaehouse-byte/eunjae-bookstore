@@ -1,7 +1,16 @@
 window.__INDIE_BOOKS_DATA__ = {
-  "updated_at": "2026-07-02T08:02:34.657896+09:00",
-  "today": "2026-07-02",
+  "updated_at": "2026-07-03T08:02:00.179669+09:00",
+  "today": "2026-07-03",
   "books": [
+    {
+      "title": "Called Pieces · COM",
+      "store": "유어마인드",
+      "section": "BOOKS",
+      "store_link": "https://www.your-mind.com/product/called-pieces-·-com/6151/category/27/display/1/",
+      "store_cover": "https://www.your-mind.com/web/product/big/202607/70ba9ef21e24caa60f1bdc20fa2c3f60.png",
+      "cover": "https://www.your-mind.com/web/product/big/202607/70ba9ef21e24caa60f1bdc20fa2c3f60.png",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=Called%20Pieces%20%C2%B7%20COM"
+    },
     {
       "title": "Still Life · 김진주",
       "store": "유어마인드",
@@ -262,15 +271,6 @@ window.__INDIE_BOOKS_DATA__ = {
       "store_cover": "https://www.your-mind.com/web/product/big/202602/99922ed6ead44c8b445bb208852ef54a.png",
       "cover": "https://www.your-mind.com/web/product/big/202602/99922ed6ead44c8b445bb208852ef54a.png",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B3%EC%B0%A8%20%EC%9E%85%EA%B3%A0%5D%20%EC%84%9C%EB%A1%9C%EC%9D%98%20%EA%B7%B8%EB%A6%BC%EC%9E%90%EA%B0%80%20%EC%9E%A0%EC%8B%9C%20%EA%B2%B9%EC%B9%98%EB%8A%94%20%EA%B2%83%EB%A7%8C%EC%9C%BC%EB%A1%9C%EB%8F%84%2C%20%C2%B7%20%EC%9D%B4%EB%A1%9C"
-    },
-    {
-      "title": "Talking Letters in the _____ Scenes · 곽은진",
-      "store": "유어마인드",
-      "section": "BOOKS",
-      "store_link": "https://www.your-mind.com/product/talking-letters-in-the-scenes-·-곽은진/5936/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202601/97eb42e42a2ca80296caf0734a73dcf8.png",
-      "cover": "https://www.your-mind.com/web/product/big/202601/97eb42e42a2ca80296caf0734a73dcf8.png",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=Talking%20Letters%20in%20the%20_____%20Scenes%20%C2%B7%20%EA%B3%BD%EC%9D%80%EC%A7%84"
     },
     {
       "title": "[예약판매/배송비 무료] 숨겨둔 책 세트 (No.025, 026, 027)",
@@ -2270,10 +2270,10 @@ window.__INDIE_BOOKS_DATA__ = {
   "errors": [],
   "total": 236,
   "stores_attempted": [
-    "고요서사",
-    "유어마인드",
-    "북앤스페이스",
     "사적인서점",
+    "유어마인드",
+    "고요서사",
+    "북앤스페이스",
     "소심한책방"
   ]
 };
