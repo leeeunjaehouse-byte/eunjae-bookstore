@@ -1,6 +1,6 @@
 window.__OVERSEAS_BOOKS_DATA__ = {
-  "updated_at": "2026-07-04T08:02:37.775180+09:00",
-  "today": "2026-07-04",
+  "updated_at": "2026-07-05T08:02:44.328631+09:00",
+  "today": "2026-07-05",
   "books": [
     {
       "title": "032c #49 Summer 2026",
@@ -883,136 +883,169 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "cover": "https://cdn.shopify.com/s/files/1/0290/3562/6574/files/MB_WEINER_WE_ARE_SHIPS_01.jpg?v=1744483758"
     },
     {
-      "title": "Icons",
+      "title": "Fungi: The World of Mushrooms",
       "store": "Phaidon",
       "city": "출판사",
       "section": "아트·디자인",
       "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/sotheby_E2_80_99s-icons-en-9198-standing-front-3000_368f81d1-e874-4f9c-84e1-3c2544b1f982.jpg?v=1783118090",
-      "store_link": "https://www.phaidon.com/products/icons",
-      "published_at": "2026-07-03T23:19:28+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/sotheby_E2_80_99s-icons-en-9198-standing-front-3000_368f81d1-e874-4f9c-84e1-3c2544b1f982.jpg?v=1783118090"
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/fungi-en-9206-3d-standing-front-3000_e9f6443f-7826-4b98-869b-bc39f57401b1.jpg?v=1783121497",
+      "store_link": "https://www.phaidon.com/products/fungi-the-world-of-mushrooms",
+      "published_at": "2026-07-04T15:51:34+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/fungi-en-9206-3d-standing-front-3000_e9f6443f-7826-4b98-869b-bc39f57401b1.jpg?v=1783121497"
     },
     {
-      "title": "Fäviken",
+      "title": "Great Women Photographers",
       "store": "Phaidon",
       "city": "출판사",
       "section": "아트·디자인",
       "author": "Phaidon Press",
-      "store_cover": "",
-      "store_link": "https://www.phaidon.com/products/fviken",
-      "published_at": "2026-07-03T23:19:27+01:00",
-      "cover": ""
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/great-women-photographers-en-9214-3d-standing-front-3000_5c7b0d90-a9fb-429f-9e17-fd6beeeb485a.jpg?v=1783121537",
+      "store_link": "https://www.phaidon.com/products/great-women-photographers",
+      "published_at": "2026-07-04T15:51:33+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/great-women-photographers-en-9214-3d-standing-front-3000_5c7b0d90-a9fb-429f-9e17-fd6beeeb485a.jpg?v=1783121537"
     },
     {
-      "title": "What's That Building?",
+      "title": "The Mon Lapin Cookbook: De Toute Beauté: From Montreal, With Love",
       "store": "Phaidon",
       "city": "출판사",
       "section": "아트·디자인",
       "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/what_E2_80_99s-that-building-ae-9032-standing-front-3000_dfef69be-1a8d-4106-8ce2-403780f0134f.jpg?v=1783118082",
-      "store_link": "https://www.phaidon.com/products/whats-that-building",
-      "published_at": "2026-07-03T23:19:25+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/what_E2_80_99s-that-building-ae-9032-standing-front-3000_dfef69be-1a8d-4106-8ce2-403780f0134f.jpg?v=1783118082"
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/mon-lapin-signed-edition-en-9355-3d-standing-front-3000.jpg?v=1783121595",
+      "store_link": "https://www.phaidon.com/products/the-mon-lapin-cookbook-de-toute-beaute-from-montreal-with-love",
+      "published_at": "2026-07-04T15:51:33+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/mon-lapin-signed-edition-en-9355-3d-standing-front-3000.jpg?v=1783121595"
     },
     {
-      "title": "Vitamin Txt",
+      "title": "Into the Garden: Private Sanctuaries Around the World",
       "store": "Phaidon",
       "city": "출판사",
       "section": "아트·디자인",
       "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/vitamin-txt-en-6546-standing-front-3000_f6a7ff7b-8840-4361-8e35-7df7a5a4576d.jpg?v=1783118055",
-      "store_link": "https://www.phaidon.com/products/vitamin-txt",
-      "published_at": "2026-07-03T23:19:21+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/vitamin-txt-en-6546-standing-front-3000_f6a7ff7b-8840-4361-8e35-7df7a5a4576d.jpg?v=1783118055"
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/into-the-garden-en-9311-3d-standing-front-3000_2c98b2b0-a2e8-4493-a641-ac97d47d981d.jpg?v=1783121683",
+      "store_link": "https://www.phaidon.com/products/into-the-garden-private-sanctuaries-around-the-world",
+      "published_at": "2026-07-04T15:51:32+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/into-the-garden-en-9311-3d-standing-front-3000_2c98b2b0-a2e8-4493-a641-ac97d47d981d.jpg?v=1783121683"
     },
     {
-      "title": "Sacred Spaces",
+      "title": "Mathieu Lehanneur",
       "store": "Phaidon",
       "city": "출판사",
       "section": "아트·디자인",
       "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/Sacred_20Spaces_20HB_203D_209780714868950_0eb3a003-a3f3-4432-a129-bd63ef11d99a.jpg?v=1783118016",
-      "store_link": "https://www.phaidon.com/products/sacred-spaces",
-      "published_at": "2026-07-03T23:19:16+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/Sacred_20Spaces_20HB_203D_209780714868950_0eb3a003-a3f3-4432-a129-bd63ef11d99a.jpg?v=1783118016"
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/mathieu-lehanneur-en-9229-3d-standing-front-3000_8f8e8099-c7b2-4df2-ad6c-9da8485604a5.jpg?v=1783121761",
+      "store_link": "https://www.phaidon.com/products/mathieu-lehanneur",
+      "published_at": "2026-07-04T15:51:31+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/mathieu-lehanneur-en-9229-3d-standing-front-3000_8f8e8099-c7b2-4df2-ad6c-9da8485604a5.jpg?v=1783121761"
     },
     {
-      "title": "Robert Rauschenberg",
+      "title": "My Favorite Material Is Light: & Other Quotes by Architects",
       "store": "Phaidon",
       "city": "출판사",
       "section": "아트·디자인",
       "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/9780714861517-Robert-Rauschenberg-3d-standing-1to1_05578ca9-c9dd-499f-87ea-981c0de66195.jpg?v=1783118796",
-      "store_link": "https://www.phaidon.com/products/robert-rauschenberg",
-      "published_at": "2026-07-03T23:19:13+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/9780714861517-Robert-Rauschenberg-3d-standing-1to1_05578ca9-c9dd-499f-87ea-981c0de66195.jpg?v=1783118796"
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/my-favourite-material-is-light-en-9253-3d-standing-front-3000.jpg?v=1783121803",
+      "store_link": "https://www.phaidon.com/products/my-favorite-material-is-light-other-quotes-by-architects",
+      "published_at": "2026-07-04T15:51:29+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/my-favourite-material-is-light-en-9253-3d-standing-front-3000.jpg?v=1783121803"
     },
     {
-      "title": "Delirious New York",
-      "store": "Phaidon",
-      "city": "출판사",
-      "section": "아트·디자인",
-      "author": "The Monacelli Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/Copy_20of_20delirious-new-york-en-5400-3d-standing-front-3000_94b04212-fb56-41f0-a6d2-0536663442fb.jpg?v=1783117885",
-      "store_link": "https://www.phaidon.com/products/delirious-new-york",
-      "published_at": "2026-07-03T23:19:03+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/Copy_20of_20delirious-new-york-en-5400-3d-standing-front-3000_94b04212-fb56-41f0-a6d2-0536663442fb.jpg?v=1783117885"
-    },
-    {
-      "title": "California Captured",
+      "title": "Small Monster, Big Monster: A Seriously Silly Book of Opposites",
       "store": "Phaidon",
       "city": "출판사",
       "section": "아트·디자인",
       "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/9780714876115-California-Captured-Marvin-Rand-3D-Standing-1to1_d9e75bdf-7cce-475d-936a-704005d60b68.jpg?v=1783117839",
-      "store_link": "https://www.phaidon.com/products/california-captured",
-      "published_at": "2026-07-03T23:19:00+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/9780714876115-California-Captured-Marvin-Rand-3D-Standing-1to1_d9e75bdf-7cce-475d-936a-704005d60b68.jpg?v=1783117839"
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/small-monster-big-monster-en-9211-3d-standing-front-3000.jpg?v=1783121867",
+      "store_link": "https://www.phaidon.com/products/small-monster-big-monster-a-seriously-silly-book-of-opposites",
+      "published_at": "2026-07-04T15:51:27+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/small-monster-big-monster-en-9211-3d-standing-front-3000.jpg?v=1783121867"
     },
     {
-      "title": "Borago",
+      "title": "Vegan Vegan!",
       "store": "Phaidon",
       "city": "출판사",
       "section": "아트·디자인",
       "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/9780714873978-borago-3d-standing-1to1_0e5cf9f1-f579-4d29-a832-32e6ac3d19e6.jpg?v=1783117836",
-      "store_link": "https://www.phaidon.com/products/borago",
-      "published_at": "2026-07-03T23:18:58+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/9780714873978-borago-3d-standing-1to1_0e5cf9f1-f579-4d29-a832-32e6ac3d19e6.jpg?v=1783117836"
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/vegan-vegan-en-9262-3d-standing-front-3000.jpg?v=1783121963",
+      "store_link": "https://www.phaidon.com/products/vegan-vegan",
+      "published_at": "2026-07-04T15:51:25+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/vegan-vegan-en-9262-3d-standing-front-3000.jpg?v=1783121963"
     },
     {
-      "title": "Ana Ros",
+      "title": "John Pawson: The Minimal Home",
       "store": "Phaidon",
       "city": "출판사",
       "section": "아트·디자인",
       "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/9780714879307-Ana-Ros-3d-standing-1to1_9b8aaebe-555c-4a8f-8c62-c025b9b5abc3.jpg?v=1783117842",
-      "store_link": "https://www.phaidon.com/products/ana-ros",
-      "published_at": "2026-07-03T23:18:53+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/9780714879307-Ana-Ros-3d-standing-1to1_9b8aaebe-555c-4a8f-8c62-c025b9b5abc3.jpg?v=1783117842"
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/john-pawson-the-minimal-way-of-life-signed-edition-en-9345-3d-standing-front-3000.jpg?v=1783122088",
+      "store_link": "https://www.phaidon.com/products/john-pawson-the-minimal-home-the-minimal-home",
+      "published_at": "2026-07-04T15:51:23+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/john-pawson-the-minimal-way-of-life-signed-edition-en-9345-3d-standing-front-3000.jpg?v=1783122088"
     },
     {
-      "title": "Vitamin P4",
+      "title": "Sanlé Sory",
       "store": "Phaidon",
       "city": "출판사",
       "section": "아트·디자인",
       "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/vitamin-p4-en-9112-overview-front-3000_34df164f-b2ee-44e7-846e-371702ccdca5.jpg?v=1783116769",
-      "store_link": "https://www.phaidon.com/products/vitamin-p4",
-      "published_at": "2026-07-03T23:12:44+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/vitamin-p4-en-9112-overview-front-3000_34df164f-b2ee-44e7-846e-371702ccdca5.jpg?v=1783116769"
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/sanle-sory-signed-edition-en-9354-3d-standing-front-3000_a997f5f8-98ce-45dd-b2db-7c9165fcdadb.jpg?v=1783122130",
+      "store_link": "https://www.phaidon.com/products/sanle-sory",
+      "published_at": "2026-07-04T15:51:21+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/sanle-sory-signed-edition-en-9354-3d-standing-front-3000_a997f5f8-98ce-45dd-b2db-7c9165fcdadb.jpg?v=1783122130"
     },
     {
-      "title": "Rainbow Dreams",
+      "title": "Tuscany",
       "store": "Phaidon",
       "city": "출판사",
       "section": "아트·디자인",
-      "author": "The Monacelli Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/M-rainbow-dreams-en-3729-overview-back-3000_50cea563-5ccc-4a89-86c4-7c7312b2952d.jpg?v=1783116765",
-      "store_link": "https://www.phaidon.com/products/rainbow-dreams",
-      "published_at": "2026-07-03T23:12:40+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/M-rainbow-dreams-en-3729-overview-back-3000_50cea563-5ccc-4a89-86c4-7c7312b2952d.jpg?v=1783116765"
+      "author": "Phaidon Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/tuscany-2026-en-9245-3d-standing-front-3000_157d8f8e-60dd-4d93-ba82-a114684377a0.jpg?v=1783122172",
+      "store_link": "https://www.phaidon.com/products/tuscany",
+      "published_at": "2026-07-04T15:51:21+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/tuscany-2026-en-9245-3d-standing-front-3000_157d8f8e-60dd-4d93-ba82-a114684377a0.jpg?v=1783122172"
+    },
+    {
+      "title": "Robert Indiana: An American Icon",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "Phaidon Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/robert-indiana-en-9055-3d-standing-front-3000.jpg?v=1783122241",
+      "store_link": "https://www.phaidon.com/products/robert-indiana-an-american-icon",
+      "published_at": "2026-07-04T15:51:20+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/robert-indiana-en-9055-3d-standing-front-3000.jpg?v=1783122241"
+    },
+    {
+      "title": "Lots of Dots",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "Phaidon Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/lots-of-dots-en-9403-3d-standing-front-3000_9a4f6a11-1e2f-4c9b-b01e-33dea537e6d2.jpg?v=1783122279",
+      "store_link": "https://www.phaidon.com/products/lots-of-dots",
+      "published_at": "2026-07-04T15:51:19+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/lots-of-dots-en-9403-3d-standing-front-3000_9a4f6a11-1e2f-4c9b-b01e-33dea537e6d2.jpg?v=1783122279"
+    },
+    {
+      "title": "Spiced: Recipes Celebrating Spices from Around the World",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "Phaidon Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/spiced-en-9265-3d-standing-front-3000.jpg?v=1783122320",
+      "store_link": "https://www.phaidon.com/products/spiced-recipes-celebrating-spices-from-around-the-world",
+      "published_at": "2026-07-04T15:51:18+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/spiced-en-9265-3d-standing-front-3000.jpg?v=1783122320"
+    },
+    {
+      "title": "Sicily: From The Silver Spoon",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "Phaidon Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/sicily-2026-en-9246-3d-standing-front-3000.jpg?v=1783121443",
+      "store_link": "https://www.phaidon.com/products/sicily-from-the-silver-spoon",
+      "published_at": "2026-07-04T02:42:48+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/sicily-2026-en-9246-3d-standing-front-3000.jpg?v=1783121443"
     },
     {
       "title": "Nike Football Boots",
@@ -1020,10 +1053,10 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "city": "출판사",
       "section": "아트·디자인",
       "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/nike-football-boots-en-9149-overview-back-3000_38109209-1d42-476c-ad92-d2582eba89a6.jpg?v=1783116760",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/nike-football-boots-en-9149-standing-front-3000_05f32088-b2e3-4055-a7f2-90264402ed8f.jpg?v=1783143492",
       "store_link": "https://www.phaidon.com/products/nike-football-boots",
       "published_at": "2026-07-03T23:12:35+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/nike-football-boots-en-9149-overview-back-3000_38109209-1d42-476c-ad92-d2582eba89a6.jpg?v=1783116760"
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/nike-football-boots-en-9149-standing-front-3000_05f32088-b2e3-4055-a7f2-90264402ed8f.jpg?v=1783143492"
     },
     {
       "title": "Classic Indian Recipes",
@@ -1031,32 +1064,10 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "city": "출판사",
       "section": "아트·디자인",
       "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/classic-indian-recipes-en-9064-overview-back-3000_f9c54032-fd08-46e7-a766-53e741fec69d.jpg?v=1783116746",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/classic-indian-recipes-en-9064-standing-front-3000_3244acfc-0e9e-4995-ba79-f741120ff829.jpg?v=1783143492",
       "store_link": "https://www.phaidon.com/products/classic-indian-recipes",
       "published_at": "2026-07-03T23:12:21+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/classic-indian-recipes-en-9064-overview-back-3000_f9c54032-fd08-46e7-a766-53e741fec69d.jpg?v=1783116746"
-    },
-    {
-      "title": "Blush",
-      "store": "Phaidon",
-      "city": "출판사",
-      "section": "아트·디자인",
-      "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/blush-en-9121-overview-front-3000_35d302f1-313d-4745-8b0d-741c429ac3d2.jpg?v=1783116741",
-      "store_link": "https://www.phaidon.com/products/blush",
-      "published_at": "2026-07-03T23:12:16+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/blush-en-9121-overview-front-3000_35d302f1-313d-4745-8b0d-741c429ac3d2.jpg?v=1783116741"
-    },
-    {
-      "title": "Vitamin C+",
-      "store": "Phaidon",
-      "city": "출판사",
-      "section": "아트·디자인",
-      "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/9781838665579-vitamin-c-plus-6557-standing-front-3000_7086b1cc-133d-463f-8208-a45310d5b5ad.jpg?v=1783118052",
-      "store_link": "https://www.phaidon.com/products/vitamin-c",
-      "published_at": "2026-07-03T23:12:12+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/9781838665579-vitamin-c-plus-6557-standing-front-3000_7086b1cc-133d-463f-8208-a45310d5b5ad.jpg?v=1783118052"
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/classic-indian-recipes-en-9064-standing-front-3000_3244acfc-0e9e-4995-ba79-f741120ff829.jpg?v=1783143492"
     },
     {
       "title": "Summer Houses",
@@ -1064,21 +1075,10 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "city": "출판사",
       "section": "아트·디자인",
       "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/summer-houses-en-9093-overview-front-3000_ddd48bb8-3679-4588-a310-b86fe99792c6.jpg?v=1783116733",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/summer-houses-en-9093-standing-front-3000_9d2891bc-cb11-40a9-954e-3bd959b29d1b.jpg?v=1783143491",
       "store_link": "https://www.phaidon.com/products/summer-houses",
       "published_at": "2026-07-03T23:12:08+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/summer-houses-en-9093-overview-front-3000_ddd48bb8-3679-4588-a310-b86fe99792c6.jpg?v=1783116733"
-    },
-    {
-      "title": "Summer by the Sea",
-      "store": "Phaidon",
-      "city": "출판사",
-      "section": "아트·디자인",
-      "author": "The Monacelli Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/M-summer-by-the-sea-en-3734-standing-front-3000_effad2ce-c34c-4e41-a9ed-37679e848740.jpg?v=1783116729",
-      "store_link": "https://www.phaidon.com/products/summer-by-the-sea",
-      "published_at": "2026-07-03T23:12:05+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/M-summer-by-the-sea-en-3734-standing-front-3000_effad2ce-c34c-4e41-a9ed-37679e848740.jpg?v=1783116729"
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/summer-houses-en-9093-standing-front-3000_9d2891bc-cb11-40a9-954e-3bd959b29d1b.jpg?v=1783143491"
     },
     {
       "title": "Our Prehistoric Planet",
@@ -1086,21 +1086,21 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "city": "출판사",
       "section": "아트·디자인",
       "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/our-prehistoric-planet-en-9039-standing-front-3000_3defef79-0a4f-4254-b2cc-618ce4d2f2f2.jpg?v=1783116724",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/our-prehistoric-planet-en-9039-standing-front-3000_421cf9dd-da68-48c1-bfd2-169f55cb9e8c.jpg?v=1783143493",
       "store_link": "https://www.phaidon.com/products/our-prehistoric-planet",
       "published_at": "2026-07-03T23:12:00+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/our-prehistoric-planet-en-9039-standing-front-3000_3defef79-0a4f-4254-b2cc-618ce4d2f2f2.jpg?v=1783116724"
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/our-prehistoric-planet-en-9039-standing-front-3000_421cf9dd-da68-48c1-bfd2-169f55cb9e8c.jpg?v=1783143493"
     },
     {
-      "title": "Jeong",
+      "title": "How to Boil an Egg",
       "store": "Phaidon",
       "city": "출판사",
       "section": "아트·디자인",
       "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/jeong-en-6945-overview-back-3000_a6884681-6bf6-4b54-be54-094f1cc5cd9d.jpg?v=1783116721",
-      "store_link": "https://www.phaidon.com/products/jeong",
-      "published_at": "2026-07-03T23:11:56+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/jeong-en-6945-overview-back-3000_a6884681-6bf6-4b54-be54-094f1cc5cd9d.jpg?v=1783116721"
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/how-to-boil-an-egg-en-9223-standing-front-3000_680d5642-0961-4576-9cab-a5ba38948b78.jpg?v=1783143493",
+      "store_link": "https://www.phaidon.com/products/how-to-boil-an-egg",
+      "published_at": "2026-07-03T23:11:53+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/how-to-boil-an-egg-en-9223-standing-front-3000_680d5642-0961-4576-9cab-a5ba38948b78.jpg?v=1783143493"
     },
     {
       "title": "Nager en liberté",

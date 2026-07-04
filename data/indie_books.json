@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-04T08:02:19.093186+09:00",
-  "today": "2026-07-04",
+  "updated_at": "2026-07-05T08:02:29.399917+09:00",
+  "today": "2026-07-05",
   "books": [
     {
       "title": "Called Pieces · COM",
       "store": "유어마인드",
       "section": "BOOKS",
       "store_link": "https://www.your-mind.com/product/called-pieces-·-com/6151/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202607/70ba9ef21e24caa60f1bdc20fa2c3f60.png",
-      "cover": "https://www.your-mind.com/web/product/big/202607/70ba9ef21e24caa60f1bdc20fa2c3f60.png",
+      "store_cover": "https://your-mind.com/web/product/big/202607/70ba9ef21e24caa60f1bdc20fa2c3f60.png",
+      "cover": "https://your-mind.com/web/product/big/202607/70ba9ef21e24caa60f1bdc20fa2c3f60.png",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=Called%20Pieces%20%C2%B7%20COM"
     },
     {
@@ -16,8 +16,8 @@
       "store": "유어마인드",
       "section": "BOOKS",
       "store_link": "https://www.your-mind.com/product/still-life-·-김진주/6150/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202606/be2adf34824d8519460a1d67ee875f1a.jpg",
-      "cover": "https://www.your-mind.com/web/product/big/202606/be2adf34824d8519460a1d67ee875f1a.jpg",
+      "store_cover": "https://your-mind.com/web/product/big/202606/be2adf34824d8519460a1d67ee875f1a.jpg",
+      "cover": "https://your-mind.com/web/product/big/202606/be2adf34824d8519460a1d67ee875f1a.jpg",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=Still%20Life%20%C2%B7%20%EA%B9%80%EC%A7%84%EC%A3%BC"
     },
     {
@@ -25,17 +25,26 @@
       "store": "유어마인드",
       "section": "BOOKS",
       "store_link": "https://www.your-mind.com/product/재입고-실수-수집가-·-김수정/6148/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202606/d43337001e940c60b173c50f4d931024.jpg",
-      "cover": "https://www.your-mind.com/web/product/big/202606/d43337001e940c60b173c50f4d931024.jpg",
+      "store_cover": "https://your-mind.com/web/product/big/202606/d43337001e940c60b173c50f4d931024.jpg",
+      "cover": "https://your-mind.com/web/product/big/202606/d43337001e940c60b173c50f4d931024.jpg",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20%EC%8B%A4%EC%88%98%20%EC%88%98%EC%A7%91%EA%B0%80%20%C2%B7%20%EA%B9%80%EC%88%98%EC%A0%95"
+    },
+    {
+      "title": "[3차 입고] 꽃점 (Floral Fortune) · 희다가든",
+      "store": "유어마인드",
+      "section": "BOOKS",
+      "store_link": "https://www.your-mind.com/product/3차-입고-꽃점-floral-fortune-·-희다가든/6147/category/27/display/1/",
+      "store_cover": "https://your-mind.com/web/product/big/202606/4e6f1f1d9018822d796ec3d49092bd60.png",
+      "cover": "https://your-mind.com/web/product/big/202606/4e6f1f1d9018822d796ec3d49092bd60.png",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B3%EC%B0%A8%20%EC%9E%85%EA%B3%A0%5D%20%EA%BD%83%EC%A0%90%20%28Floral%20Fortune%29%20%C2%B7%20%ED%9D%AC%EB%8B%A4%EA%B0%80%EB%93%A0"
     },
     {
       "title": "Sunny Bier Klub(Re-Design) · 이하여백",
       "store": "유어마인드",
       "section": "BOOKS",
       "store_link": "https://www.your-mind.com/product/sunny-bier-klubre-design-·-이하여백/6146/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202605/262dae6f0e1f13291013fbcca117f6db.png",
-      "cover": "https://www.your-mind.com/web/product/big/202605/262dae6f0e1f13291013fbcca117f6db.png",
+      "store_cover": "https://your-mind.com/web/product/big/202605/262dae6f0e1f13291013fbcca117f6db.png",
+      "cover": "https://your-mind.com/web/product/big/202605/262dae6f0e1f13291013fbcca117f6db.png",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=Sunny%20Bier%20Klub%28Re-Design%29%20%C2%B7%20%EC%9D%B4%ED%95%98%EC%97%AC%EB%B0%B1"
     },
     {
@@ -43,8 +52,8 @@
       "store": "유어마인드",
       "section": "BOOKS",
       "store_link": "https://www.your-mind.com/product/재입고-색과-형태가-되기-훨씬-전에-·-나가시마-리카코/6006/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202605/8eadded314ab2bf31c9fde7c55545513.png",
-      "cover": "https://www.your-mind.com/web/product/big/202605/8eadded314ab2bf31c9fde7c55545513.png",
+      "store_cover": "https://your-mind.com/web/product/big/202605/8eadded314ab2bf31c9fde7c55545513.png",
+      "cover": "https://your-mind.com/web/product/big/202605/8eadded314ab2bf31c9fde7c55545513.png",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20%EC%83%89%EA%B3%BC%20%ED%98%95%ED%83%9C%EA%B0%80%20%EB%90%98%EA%B8%B0%20%ED%9B%A8%EC%94%AC%20%EC%A0%84%EC%97%90%20%C2%B7%20%EB%82%98%EA%B0%80%EC%8B%9C%EB%A7%88%20%EB%A6%AC%EC%B9%B4%EC%BD%94"
     },
     {
@@ -52,8 +61,8 @@
       "store": "유어마인드",
       "section": "BOOKS",
       "store_link": "https://www.your-mind.com/product/재입고-창을-여는-마음-·-안리타/6003/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202605/a5882165018b0edd3beb180c2d88441a.png",
-      "cover": "https://www.your-mind.com/web/product/big/202605/a5882165018b0edd3beb180c2d88441a.png",
+      "store_cover": "https://your-mind.com/web/product/big/202605/a5882165018b0edd3beb180c2d88441a.png",
+      "cover": "https://your-mind.com/web/product/big/202605/a5882165018b0edd3beb180c2d88441a.png",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20%EC%B0%BD%EC%9D%84%20%EC%97%AC%EB%8A%94%20%EB%A7%88%EC%9D%8C%20%C2%B7%20%EC%95%88%EB%A6%AC%ED%83%80"
     },
     {
@@ -61,8 +70,8 @@
       "store": "유어마인드",
       "section": "BOOKS",
       "store_link": "https://www.your-mind.com/product/재입고-sos-book-당신은-어떻게-일하고-어떻게-극복하나요-·-노말에이/6000/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202605/5baeaba246b60462755e9486354d1808.jpg",
-      "cover": "https://www.your-mind.com/web/product/big/202605/5baeaba246b60462755e9486354d1808.jpg",
+      "store_cover": "https://your-mind.com/web/product/big/202605/5baeaba246b60462755e9486354d1808.jpg",
+      "cover": "https://your-mind.com/web/product/big/202605/5baeaba246b60462755e9486354d1808.jpg",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20SOS%20BOOK-%EB%8B%B9%EC%8B%A0%EC%9D%80%20%EC%96%B4%EB%96%BB%EA%B2%8C%20%EC%9D%BC%ED%95%98%EA%B3%A0%2C%20%EC%96%B4%EB%96%BB%EA%B2%8C%20%EA%B7%B9%EB%B3%B5%ED%95%98%EB%82%98%EC%9A%94%3F%20%C2%B7%20%EB%85%B8%EB%A7%90%EC%97%90%EC%9D%B4"
     },
     {
@@ -70,8 +79,8 @@
       "store": "유어마인드",
       "section": "BOOKS",
       "store_link": "https://www.your-mind.com/product/side-project-콰야-세라믹-작품집-·-콰야/5999/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202605/2b990cd6332ffd35d6b0326f45d48f65.png",
-      "cover": "https://www.your-mind.com/web/product/big/202605/2b990cd6332ffd35d6b0326f45d48f65.png",
+      "store_cover": "https://your-mind.com/web/product/big/202605/2b990cd6332ffd35d6b0326f45d48f65.png",
+      "cover": "https://your-mind.com/web/product/big/202605/2b990cd6332ffd35d6b0326f45d48f65.png",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=Side%20Project-%EC%BD%B0%EC%95%BC%20%EC%84%B8%EB%9D%BC%EB%AF%B9%20%EC%9E%91%ED%92%88%EC%A7%91%20%C2%B7%20%EC%BD%B0%EC%95%BC"
     },
     {
@@ -79,26 +88,35 @@
       "store": "유어마인드",
       "section": "BOOKS",
       "store_link": "https://www.your-mind.com/product/재입고-cat-code-·-노말에이/5998/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202605/5e7e0eb0fa0da1e51465f37b7048fb8b.png",
-      "cover": "https://www.your-mind.com/web/product/big/202605/5e7e0eb0fa0da1e51465f37b7048fb8b.png",
+      "store_cover": "https://your-mind.com/web/product/big/202605/5e7e0eb0fa0da1e51465f37b7048fb8b.png",
+      "cover": "https://your-mind.com/web/product/big/202605/5e7e0eb0fa0da1e51465f37b7048fb8b.png",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20CAT%20CODE%20%C2%B7%20%EB%85%B8%EB%A7%90%EC%97%90%EC%9D%B4"
     },
     {
-      "title": "신선하고 뾰족한 가지 · 노석미",
+      "title": "[재입고] 작업실 고양이 · 노석미",
       "store": "유어마인드",
       "section": "BOOKS",
-      "store_link": "https://www.your-mind.com/product/신선하고-뾰족한-가지-·-노석미/5996/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202605/4eee3ae977678bfff63a82706e00a3be.png",
-      "cover": "https://www.your-mind.com/web/product/big/202605/4eee3ae977678bfff63a82706e00a3be.png",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%8B%A0%EC%84%A0%ED%95%98%EA%B3%A0%20%EB%BE%B0%EC%A1%B1%ED%95%9C%20%EA%B0%80%EC%A7%80%20%C2%B7%20%EB%85%B8%EC%84%9D%EB%AF%B8"
+      "store_link": "https://www.your-mind.com/product/재입고-작업실-고양이-·-노석미/5997/category/27/display/1/",
+      "store_cover": "https://your-mind.com/web/product/big/202605/86064aaca5e05d1c78253ed7f58779a2.png",
+      "cover": "https://your-mind.com/web/product/big/202605/86064aaca5e05d1c78253ed7f58779a2.png",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20%EC%9E%91%EC%97%85%EC%8B%A4%20%EA%B3%A0%EC%96%91%EC%9D%B4%20%C2%B7%20%EB%85%B8%EC%84%9D%EB%AF%B8"
+    },
+    {
+      "title": "[재입고] 신선하고 뾰족한 가지 · 노석미",
+      "store": "유어마인드",
+      "section": "BOOKS",
+      "store_link": "https://www.your-mind.com/product/재입고-신선하고-뾰족한-가지-·-노석미/5996/category/27/display/1/",
+      "store_cover": "https://your-mind.com/web/product/big/202605/4eee3ae977678bfff63a82706e00a3be.png",
+      "cover": "https://your-mind.com/web/product/big/202605/4eee3ae977678bfff63a82706e00a3be.png",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20%EC%8B%A0%EC%84%A0%ED%95%98%EA%B3%A0%20%EB%BE%B0%EC%A1%B1%ED%95%9C%20%EA%B0%80%EC%A7%80%20%C2%B7%20%EB%85%B8%EC%84%9D%EB%AF%B8"
     },
     {
       "title": "[재입고] Play Pocket · 이지영",
       "store": "유어마인드",
       "section": "BOOKS",
       "store_link": "https://www.your-mind.com/product/재입고-play-pocket-·-이지영/5992/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202605/29f33d1d6a84b588d2b94c6a0883955c.png",
-      "cover": "https://www.your-mind.com/web/product/big/202605/29f33d1d6a84b588d2b94c6a0883955c.png",
+      "store_cover": "https://your-mind.com/web/product/big/202605/29f33d1d6a84b588d2b94c6a0883955c.png",
+      "cover": "https://your-mind.com/web/product/big/202605/29f33d1d6a84b588d2b94c6a0883955c.png",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20Play%20Pocket%20%C2%B7%20%EC%9D%B4%EC%A7%80%EC%98%81"
     },
     {
@@ -106,8 +124,8 @@
       "store": "유어마인드",
       "section": "BOOKS",
       "store_link": "https://www.your-mind.com/product/양말이 많은 사람의 고백-·-박상은/5991/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202605/335df7195bea72f75d57852c5436ab2a.png",
-      "cover": "https://www.your-mind.com/web/product/big/202605/335df7195bea72f75d57852c5436ab2a.png",
+      "store_cover": "https://your-mind.com/web/product/big/202605/335df7195bea72f75d57852c5436ab2a.png",
+      "cover": "https://your-mind.com/web/product/big/202605/335df7195bea72f75d57852c5436ab2a.png",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%96%91%EB%A7%90%EC%9D%B4%C2%A0%EB%A7%8E%EC%9D%80%C2%A0%EC%82%AC%EB%9E%8C%EC%9D%98%C2%A0%EA%B3%A0%EB%B0%B1%20%C2%B7%20%EB%B0%95%EC%83%81%EC%9D%80"
     },
     {
@@ -115,8 +133,8 @@
       "store": "유어마인드",
       "section": "BOOKS",
       "store_link": "https://www.your-mind.com/product/모르는-할머니-·-김보람-김연재-김유미-김윤영-이재임-정인혜-하라/5990/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202605/b38449866be4c709229e972115b044fe.png",
-      "cover": "https://www.your-mind.com/web/product/big/202605/b38449866be4c709229e972115b044fe.png",
+      "store_cover": "https://your-mind.com/web/product/big/202605/b38449866be4c709229e972115b044fe.png",
+      "cover": "https://your-mind.com/web/product/big/202605/b38449866be4c709229e972115b044fe.png",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EB%AA%A8%EB%A5%B4%EB%8A%94%20%ED%95%A0%EB%A8%B8%EB%8B%88%20%C2%B7%20%EA%B9%80%EB%B3%B4%EB%9E%8C%2C%20%EA%B9%80%EC%97%B0%EC%9E%AC%2C%20%EA%B9%80%EC%9C%A0%EB%AF%B8%2C%20%EA%B9%80%EC%9C%A4%EC%98%81%2C%20%EC%9D%B4%EC%9E%AC%EC%9E%84%2C%20%EC%A0%95%EC%9D%B8%ED%98%9C%2C%20%ED%95%98%EB%9D%BC"
     },
     {
@@ -124,8 +142,8 @@
       "store": "유어마인드",
       "section": "BOOKS",
       "store_link": "https://www.your-mind.com/product/재입고-완벽하지-않아-에이드리언-토미네-각본집-·-에이드리언-토미네/5989/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202605/ccacbd73bb0571dabe2253ef86e0ee84.png",
-      "cover": "https://www.your-mind.com/web/product/big/202605/ccacbd73bb0571dabe2253ef86e0ee84.png",
+      "store_cover": "https://your-mind.com/web/product/big/202605/ccacbd73bb0571dabe2253ef86e0ee84.png",
+      "cover": "https://your-mind.com/web/product/big/202605/ccacbd73bb0571dabe2253ef86e0ee84.png",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20%EC%99%84%EB%B2%BD%ED%95%98%EC%A7%80%20%EC%95%8A%EC%95%84%3A%20%EC%97%90%EC%9D%B4%EB%93%9C%EB%A6%AC%EC%96%B8%20%ED%86%A0%EB%AF%B8%EB%84%A4%20%EA%B0%81%EB%B3%B8%EC%A7%91%20%C2%B7%20%EC%97%90%EC%9D%B4%EB%93%9C%EB%A6%AC%EC%96%B8%20%ED%86%A0%EB%AF%B8%EB%84%A4"
     },
     {
@@ -133,8 +151,8 @@
       "store": "유어마인드",
       "section": "BOOKS",
       "store_link": "https://www.your-mind.com/product/3차-입고-시드니의-책방-·-후루룩/5987/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202605/d88be4c7d256fcec9548f6cab918991c.png",
-      "cover": "https://www.your-mind.com/web/product/big/202605/d88be4c7d256fcec9548f6cab918991c.png",
+      "store_cover": "https://your-mind.com/web/product/big/202605/d88be4c7d256fcec9548f6cab918991c.png",
+      "cover": "https://your-mind.com/web/product/big/202605/d88be4c7d256fcec9548f6cab918991c.png",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B3%EC%B0%A8%20%EC%9E%85%EA%B3%A0%5D%20%EC%8B%9C%EB%93%9C%EB%8B%88%EC%9D%98%20%EC%B1%85%EB%B0%A9%20%C2%B7%20%ED%9B%84%EB%A3%A8%EB%A3%A9"
     },
     {
@@ -142,8 +160,8 @@
       "store": "유어마인드",
       "section": "BOOKS",
       "store_link": "https://www.your-mind.com/product/3차-입고-멜버른의-커피-·-후루룩/5986/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202605/0ff63f021d986da5bcd721820dda3e4c.png",
-      "cover": "https://www.your-mind.com/web/product/big/202605/0ff63f021d986da5bcd721820dda3e4c.png",
+      "store_cover": "https://your-mind.com/web/product/big/202605/0ff63f021d986da5bcd721820dda3e4c.png",
+      "cover": "https://your-mind.com/web/product/big/202605/0ff63f021d986da5bcd721820dda3e4c.png",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B3%EC%B0%A8%20%EC%9E%85%EA%B3%A0%5D%20%EB%A9%9C%EB%B2%84%EB%A5%B8%EC%9D%98%20%EC%BB%A4%ED%94%BC%20%C2%B7%20%ED%9B%84%EB%A3%A8%EB%A3%A9"
     },
     {
@@ -151,8 +169,8 @@
       "store": "유어마인드",
       "section": "BOOKS",
       "store_link": "https://www.your-mind.com/product/음악의-사생활99-2008년-유완무얄개들-·-유완무-심규태/5983/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202604/4f5e0f2d1b2090ef1e295c93d0542a86.png",
-      "cover": "https://www.your-mind.com/web/product/big/202604/4f5e0f2d1b2090ef1e295c93d0542a86.png",
+      "store_cover": "https://your-mind.com/web/product/big/202604/4f5e0f2d1b2090ef1e295c93d0542a86.png",
+      "cover": "https://your-mind.com/web/product/big/202604/4f5e0f2d1b2090ef1e295c93d0542a86.png",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%9D%8C%EC%95%85%EC%9D%98%20%EC%82%AC%EC%83%9D%ED%99%9C99%3A%202008%EB%85%84%20%EC%9C%A0%EC%99%84%EB%AC%B4%28%EC%96%84%EA%B0%9C%EB%93%A4%29%20%C2%B7%20%EC%9C%A0%EC%99%84%EB%AC%B4%2C%20%EC%8B%AC%EA%B7%9C%ED%83%9C"
     },
     {
@@ -160,8 +178,8 @@
       "store": "유어마인드",
       "section": "BOOKS",
       "store_link": "https://www.your-mind.com/product/섬섬돌돌-제3호-재료손질-·-공부중/5979/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202604/2914274efbb28bbcbddb32ac0722431f.png",
-      "cover": "https://www.your-mind.com/web/product/big/202604/2914274efbb28bbcbddb32ac0722431f.png",
+      "store_cover": "https://your-mind.com/web/product/big/202604/2914274efbb28bbcbddb32ac0722431f.png",
+      "cover": "https://your-mind.com/web/product/big/202604/2914274efbb28bbcbddb32ac0722431f.png",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%E3%80%8E%EC%84%AC%EC%84%AC%EB%8F%8C%EB%8F%8C%E3%80%8F%20%EC%A0%9C3%ED%98%B8%20%E2%80%98%EC%9E%AC%EB%A3%8C%EC%86%90%EC%A7%88%E2%80%99%20%C2%B7%20%EA%B3%B5%EB%B6%80%EC%A4%91"
     },
     {
@@ -169,8 +187,8 @@
       "store": "유어마인드",
       "section": "BOOKS",
       "store_link": "https://www.your-mind.com/product/4차-입고-나는-정말-나무가-되었다-·-오하나-홍시야/5971/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202604/6676396b7fcfa5cbdc44d2f0ae409437.png",
-      "cover": "https://www.your-mind.com/web/product/big/202604/6676396b7fcfa5cbdc44d2f0ae409437.png",
+      "store_cover": "https://your-mind.com/web/product/big/202604/6676396b7fcfa5cbdc44d2f0ae409437.png",
+      "cover": "https://your-mind.com/web/product/big/202604/6676396b7fcfa5cbdc44d2f0ae409437.png",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B4%EC%B0%A8%20%EC%9E%85%EA%B3%A0%5D%20%EB%82%98%EB%8A%94%20%EC%A0%95%EB%A7%90%20%EB%82%98%EB%AC%B4%EA%B0%80%20%EB%90%98%EC%97%88%EB%8B%A4%20%C2%B7%20%EC%98%A4%ED%95%98%EB%82%98%2C%20%ED%99%8D%EC%8B%9C%EC%95%BC"
     },
     {
@@ -178,17 +196,26 @@
       "store": "유어마인드",
       "section": "BOOKS",
       "store_link": "https://www.your-mind.com/product/재입고-unexpected-singapore-예측불가-싱가포르-여행기-·-김지화/5970/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202604/f1cdf7acc82e1efb81ce8f81c5da7709.png",
-      "cover": "https://www.your-mind.com/web/product/big/202604/f1cdf7acc82e1efb81ce8f81c5da7709.png",
+      "store_cover": "https://your-mind.com/web/product/big/202604/f1cdf7acc82e1efb81ce8f81c5da7709.png",
+      "cover": "https://your-mind.com/web/product/big/202604/f1cdf7acc82e1efb81ce8f81c5da7709.png",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20Unexpected%20Singapore%20%EC%98%88%EC%B8%A1%EB%B6%88%EA%B0%80%20%EC%8B%B1%EA%B0%80%ED%8F%AC%EB%A5%B4%20%EC%97%AC%ED%96%89%EA%B8%B0%20%C2%B7%20%EA%B9%80%EC%A7%80%ED%99%94"
+    },
+    {
+      "title": "[3차 입고] 오늘의 팬케익: 뒤집기 전에는 아무도 모른다 · 남선우",
+      "store": "유어마인드",
+      "section": "BOOKS",
+      "store_link": "https://www.your-mind.com/product/3차-입고-오늘의-팬케익-뒤집기-전에는-아무도-모른다-·-남선우/5969/category/27/display/1/",
+      "store_cover": "https://your-mind.com/web/product/big/202604/c609f77dc2d2c7c73f058c53caf702bf.png",
+      "cover": "https://your-mind.com/web/product/big/202604/c609f77dc2d2c7c73f058c53caf702bf.png",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B3%EC%B0%A8%20%EC%9E%85%EA%B3%A0%5D%20%EC%98%A4%EB%8A%98%EC%9D%98%20%ED%8C%AC%EC%BC%80%EC%9D%B5%3A%20%EB%92%A4%EC%A7%91%EA%B8%B0%20%EC%A0%84%EC%97%90%EB%8A%94%20%EC%95%84%EB%AC%B4%EB%8F%84%20%EB%AA%A8%EB%A5%B8%EB%8B%A4%20%C2%B7%20%EB%82%A8%EC%84%A0%EC%9A%B0"
     },
     {
       "title": "[재입고] 인터넷 견문록 · 김혜연",
       "store": "유어마인드",
       "section": "BOOKS",
       "store_link": "https://www.your-mind.com/product/재입고-인터넷-견문록-·-김혜연/5967/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202604/f756285c215cd92619dc557141afee7d.png",
-      "cover": "https://www.your-mind.com/web/product/big/202604/f756285c215cd92619dc557141afee7d.png",
+      "store_cover": "https://your-mind.com/web/product/big/202604/f756285c215cd92619dc557141afee7d.png",
+      "cover": "https://your-mind.com/web/product/big/202604/f756285c215cd92619dc557141afee7d.png",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20%EC%9D%B8%ED%84%B0%EB%84%B7%20%EA%B2%AC%EB%AC%B8%EB%A1%9D%20%C2%B7%20%EA%B9%80%ED%98%9C%EC%97%B0"
     },
     {
@@ -196,8 +223,8 @@
       "store": "유어마인드",
       "section": "BOOKS",
       "store_link": "https://www.your-mind.com/product/4차-입고-유령고양이의-두려움과-해골새의-즐거움-·-피칸트/5966/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202604/ef03b56d2b741b63b26ef1108f8ba396.png",
-      "cover": "https://www.your-mind.com/web/product/big/202604/ef03b56d2b741b63b26ef1108f8ba396.png",
+      "store_cover": "https://your-mind.com/web/product/big/202604/ef03b56d2b741b63b26ef1108f8ba396.png",
+      "cover": "https://your-mind.com/web/product/big/202604/ef03b56d2b741b63b26ef1108f8ba396.png",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B4%EC%B0%A8%20%EC%9E%85%EA%B3%A0%5D%20%EC%9C%A0%EB%A0%B9%EA%B3%A0%EC%96%91%EC%9D%B4%EC%9D%98%20%EB%91%90%EB%A0%A4%EC%9B%80%EA%B3%BC%20%ED%95%B4%EA%B3%A8%EC%83%88%EC%9D%98%20%EC%A6%90%EA%B1%B0%EC%9B%80%20%C2%B7%20%ED%94%BC%EC%B9%B8%ED%8A%B8"
     },
     {
@@ -205,8 +232,8 @@
       "store": "유어마인드",
       "section": "BOOKS",
       "store_link": "https://www.your-mind.com/product/4차-입고-나무-그림자-채집-·-송민선-최중원/5965/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202604/b09e2ec098e3bf50b4f8ac7b589d8ed5.png",
-      "cover": "https://www.your-mind.com/web/product/big/202604/b09e2ec098e3bf50b4f8ac7b589d8ed5.png",
+      "store_cover": "https://your-mind.com/web/product/big/202604/b09e2ec098e3bf50b4f8ac7b589d8ed5.png",
+      "cover": "https://your-mind.com/web/product/big/202604/b09e2ec098e3bf50b4f8ac7b589d8ed5.png",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B4%EC%B0%A8%20%EC%9E%85%EA%B3%A0%5D%20%EB%82%98%EB%AC%B4%20%EA%B7%B8%EB%A6%BC%EC%9E%90%20%EC%B1%84%EC%A7%91%20%C2%B7%20%EC%86%A1%EB%AF%BC%EC%84%A0%2C%20%EC%B5%9C%EC%A4%91%EC%9B%90"
     },
     {
@@ -214,8 +241,8 @@
       "store": "유어마인드",
       "section": "BOOKS",
       "store_link": "https://www.your-mind.com/product/3차-입고-철도와-나-·-김은정/5964/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202604/63ca49063a2205f7ea892ef7761e7564.png",
-      "cover": "https://www.your-mind.com/web/product/big/202604/63ca49063a2205f7ea892ef7761e7564.png",
+      "store_cover": "https://your-mind.com/web/product/big/202604/63ca49063a2205f7ea892ef7761e7564.png",
+      "cover": "https://your-mind.com/web/product/big/202604/63ca49063a2205f7ea892ef7761e7564.png",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B3%EC%B0%A8%20%EC%9E%85%EA%B3%A0%5D%20%EC%B2%A0%EB%8F%84%EC%99%80%20%EB%82%98%20%C2%B7%20%EA%B9%80%EC%9D%80%EC%A0%95"
     },
     {
@@ -223,8 +250,8 @@
       "store": "유어마인드",
       "section": "BOOKS",
       "store_link": "https://www.your-mind.com/product/재입고-볕뉘-아래서-눈을-감았다-·-안수현/5962/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202604/2419afc18546b2f27767aafdad318f73.png",
-      "cover": "https://www.your-mind.com/web/product/big/202604/2419afc18546b2f27767aafdad318f73.png",
+      "store_cover": "https://your-mind.com/web/product/big/202604/2419afc18546b2f27767aafdad318f73.png",
+      "cover": "https://your-mind.com/web/product/big/202604/2419afc18546b2f27767aafdad318f73.png",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20%EB%B3%95%EB%89%98%20%EC%95%84%EB%9E%98%EC%84%9C%20%EB%88%88%EC%9D%84%20%EA%B0%90%EC%95%98%EB%8B%A4%20%C2%B7%20%EC%95%88%EC%88%98%ED%98%84"
     },
     {
@@ -232,8 +259,8 @@
       "store": "유어마인드",
       "section": "BOOKS",
       "store_link": "https://www.your-mind.com/product/게이공유데이터-스크랩북-보릿자루-·-이경민/5961/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202604/c0b132d298539c647f0893b27b28fc79.png",
-      "cover": "https://www.your-mind.com/web/product/big/202604/c0b132d298539c647f0893b27b28fc79.png",
+      "store_cover": "https://your-mind.com/web/product/big/202604/c0b132d298539c647f0893b27b28fc79.png",
+      "cover": "https://your-mind.com/web/product/big/202604/c0b132d298539c647f0893b27b28fc79.png",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EA%B2%8C%EC%9D%B4%E2%80%93%EA%B3%B5%EC%9C%A0%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8A%A4%ED%81%AC%EB%9E%A9%EB%B6%81%2C%20%E3%80%8E%EB%B3%B4%EB%A6%BF%EC%9E%90%EB%A3%A8%E3%80%8F%20%C2%B7%20%EC%9D%B4%EA%B2%BD%EB%AF%BC"
     },
     {
@@ -241,36 +268,9 @@
       "store": "유어마인드",
       "section": "BOOKS",
       "store_link": "https://www.your-mind.com/product/페이스타임으로-글쓰기-·-김철민/5959/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202604/30e4cd3e0ccf3423b7aac507f16b6d42.png",
-      "cover": "https://www.your-mind.com/web/product/big/202604/30e4cd3e0ccf3423b7aac507f16b6d42.png",
+      "store_cover": "https://your-mind.com/web/product/big/202604/30e4cd3e0ccf3423b7aac507f16b6d42.png",
+      "cover": "https://your-mind.com/web/product/big/202604/30e4cd3e0ccf3423b7aac507f16b6d42.png",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%ED%8E%98%EC%9D%B4%EC%8A%A4%ED%83%80%EC%9E%84%EC%9C%BC%EB%A1%9C%20%EA%B8%80%EC%93%B0%EA%B8%B0%20%C2%B7%20%EA%B9%80%EC%B2%A0%EB%AF%BC"
-    },
-    {
-      "title": "[3차 입고] 우리 집 작은 개가 할매를 물었을 때 · 현아, 영숙",
-      "store": "유어마인드",
-      "section": "BOOKS",
-      "store_link": "https://www.your-mind.com/product/3차-입고-우리-집-작은-개가-할매를-물었을-때-·-현아-영숙/5958/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202604/8268d97101066fd2c3ba2e481e165a6f.png",
-      "cover": "https://www.your-mind.com/web/product/big/202604/8268d97101066fd2c3ba2e481e165a6f.png",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B3%EC%B0%A8%20%EC%9E%85%EA%B3%A0%5D%20%EC%9A%B0%EB%A6%AC%20%EC%A7%91%20%EC%9E%91%EC%9D%80%20%EA%B0%9C%EA%B0%80%20%ED%95%A0%EB%A7%A4%EB%A5%BC%20%EB%AC%BC%EC%97%88%EC%9D%84%20%EB%95%8C%20%C2%B7%20%ED%98%84%EC%95%84%2C%20%EC%98%81%EC%88%99"
-    },
-    {
-      "title": "Room of Fragments 사진 엽서책 · 문예진",
-      "store": "유어마인드",
-      "section": "BOOKS",
-      "store_link": "https://www.your-mind.com/product/room-of-fragments-사진-엽서책-·-문예진/5957/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202604/d392dd5c02497a3af1d5174dcd694ae1.jpg",
-      "cover": "https://www.your-mind.com/web/product/big/202604/d392dd5c02497a3af1d5174dcd694ae1.jpg",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=Room%20of%20Fragments%20%EC%82%AC%EC%A7%84%20%EC%97%BD%EC%84%9C%EC%B1%85%20%C2%B7%20%EB%AC%B8%EC%98%88%EC%A7%84"
-    },
-    {
-      "title": "[3차 입고] 서로의 그림자가 잠시 겹치는 것만으로도, · 이로",
-      "store": "유어마인드",
-      "section": "BOOKS",
-      "store_link": "https://www.your-mind.com/product/3차-입고-서로의-그림자가-잠시-겹치는-것만으로도-·-이로/5950/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202602/99922ed6ead44c8b445bb208852ef54a.png",
-      "cover": "https://www.your-mind.com/web/product/big/202602/99922ed6ead44c8b445bb208852ef54a.png",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B3%EC%B0%A8%20%EC%9E%85%EA%B3%A0%5D%20%EC%84%9C%EB%A1%9C%EC%9D%98%20%EA%B7%B8%EB%A6%BC%EC%9E%90%EA%B0%80%20%EC%9E%A0%EC%8B%9C%20%EA%B2%B9%EC%B9%98%EB%8A%94%20%EA%B2%83%EB%A7%8C%EC%9C%BC%EB%A1%9C%EB%8F%84%2C%20%C2%B7%20%EC%9D%B4%EB%A1%9C"
     },
     {
       "title": "[예약판매/배송비 무료] 숨겨둔 책 세트 (No.025, 026, 027)",
@@ -2270,10 +2270,10 @@
   "errors": [],
   "total": 236,
   "stores_attempted": [
-    "고요서사",
     "소심한책방",
-    "사적인서점",
     "유어마인드",
-    "북앤스페이스"
+    "사적인서점",
+    "북앤스페이스",
+    "고요서사"
   ]
 }
