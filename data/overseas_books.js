@@ -1,6 +1,6 @@
 window.__OVERSEAS_BOOKS_DATA__ = {
-  "updated_at": "2026-07-05T08:02:44.328631+09:00",
-  "today": "2026-07-05",
+  "updated_at": "2026-07-06T08:02:56.183220+09:00",
+  "today": "2026-07-06",
   "books": [
     {
       "title": "032c #49 Summer 2026",
