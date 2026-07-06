@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-07-06T08:02:56.183220+09:00",
-  "today": "2026-07-06",
+  "updated_at": "2026-07-07T08:03:18.244109+09:00",
+  "today": "2026-07-07",
   "books": [
+    {
+      "title": "Sharp Words - Selected Essays of Dennis Sharp",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Architectural Association London",
+      "store_cover": "",
+      "store_link": "https://www.doyoureadme.de/products/first-work-emerging-architectural-experimentation-of-the-1960s-1970s-brett-steele-francisco-gonzalez-de-canales-copy",
+      "published_at": "2026-07-06T12:02:18+02:00",
+      "cover": ""
+    },
+    {
+      "title": "Vogue Italy May 2026",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Condé Nast",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Vogue_Standard_e289ef4c-220b-41ff-a692-c56f195833c5.jpg?v=1730212917",
+      "store_link": "https://www.doyoureadme.de/products/vogue-italy-may-2026",
+      "published_at": "2026-07-06T10:55:44+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Vogue_Standard_e289ef4c-220b-41ff-a692-c56f195833c5.jpg?v=1730212917"
+    },
     {
       "title": "032c #49 Summer 2026",
       "store": "Do you read me?!",
@@ -199,28 +221,6 @@
       "store_link": "https://www.doyoureadme.de/products/lungs-1",
       "published_at": "2026-06-30T12:37:46+02:00",
       "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43597-Lungs-1-1.jpg?v=1782815637"
-    },
-    {
-      "title": "Enghelab Street - Hannah Darabi",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Spector Books",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43605-Enghelab-Street_Hannah-Darabi-1.jpg?v=1782815637",
-      "store_link": "https://www.doyoureadme.de/products/enghelab-street-hannah-darabi",
-      "published_at": "2026-06-30T12:37:45+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43605-Enghelab-Street_Hannah-Darabi-1.jpg?v=1782815637"
-    },
-    {
-      "title": "Global Fascisms: Reader",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Archive Books",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43604-Global-Fascisms-Reader-1.jpg?v=1782815636",
-      "store_link": "https://www.doyoureadme.de/products/global-fascisms-reader",
-      "published_at": "2026-06-30T12:37:45+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43604-Global-Fascisms-Reader-1.jpg?v=1782815636"
     },
     {
       "title": "USSR 1991 by Keizo Kitajima (signed)",
@@ -443,6 +443,72 @@
       "cover": "https://cdn.shopify.com/s/files/1/0221/7340/files/Screenshot2026-04-21at13.18.42.png?v=1776775645"
     },
     {
+      "title": "Soul Base #8",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-06155327.png?v=1783351260",
+      "store_link": "https://magmabooks.com/products/vittles-2-copy-1",
+      "published_at": "2026-07-06T16:22:00+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-06155327.png?v=1783351260"
+    },
+    {
+      "title": "Flow #43",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-06154519.png?v=1783350978",
+      "store_link": "https://magmabooks.com/products/flow-42-copy",
+      "published_at": "2026-07-06T16:18:03+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-06154519.png?v=1783350978"
+    },
+    {
+      "title": "Arena Homme+ #65",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-06155607.png?v=1783350805",
+      "store_link": "https://magmabooks.com/products/arena-homme-64-copy",
+      "published_at": "2026-07-06T16:15:07+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-06155607.png?v=1783350805"
+    },
+    {
+      "title": "Senet #23",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-06155023.png?v=1783350359",
+      "store_link": "https://magmabooks.com/products/senet-21-copy",
+      "published_at": "2026-07-06T16:07:34+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-06155023.png?v=1783350359"
+    },
+    {
+      "title": "The European Review of Books #11",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-06153853.png?v=1783350149",
+      "store_link": "https://magmabooks.com/products/the-european-review-of-books-5-copy-2",
+      "published_at": "2026-07-06T16:04:19+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-06153853.png?v=1783350149"
+    },
+    {
+      "title": "BUTT #38",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-18175839.png?v=1781802075",
+      "store_link": "https://magmabooks.com/products/butt-37-copy-1",
+      "published_at": "2026-07-06T15:12:25+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-18175839.png?v=1781802075"
+    },
+    {
       "title": "Mouse's Wood",
       "store": "Magma Books",
       "city": "런던",
@@ -595,72 +661,6 @@
       "store_link": "https://magmabooks.com/products/tummy-ache-5",
       "published_at": "2026-06-26T15:03:54+01:00",
       "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-26at15-00-05Untitleddesign_66_.png_PNGImage1080x1080pixels_Scaled_82.png?v=1782482440"
-    },
-    {
-      "title": "KING KONG #21",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Alexis-Texas-x-King-Kong-21.webp?v=1782481268",
-      "store_link": "https://magmabooks.com/products/king-kong-21",
-      "published_at": "2026-06-26T14:41:26+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Alexis-Texas-x-King-Kong-21.webp?v=1782481268"
-    },
-    {
-      "title": "No Magic in Riso",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/products/No_Magic_in_Riso_cover.jpg?v=1568393549",
-      "store_link": "https://magmabooks.com/products/no-magic-in-riso",
-      "published_at": "2026-06-25T14:51:32+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/products/No_Magic_in_Riso_cover.jpg?v=1568393549"
-    },
-    {
-      "title": "FUKT #23",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2025-10-31at12-34-28COVER_Fukt_Sound_23.jpg_JPEGImage750x1029pixels_Scaled_81.png?v=1761914424",
-      "store_link": "https://magmabooks.com/products/fukt-23",
-      "published_at": "2026-06-25T14:17:32+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2025-10-31at12-34-28COVER_Fukt_Sound_23.jpg_JPEGImage750x1029pixels_Scaled_81.png?v=1761914424"
-    },
-    {
-      "title": "Miffy and the Artists",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot_2025-03-19_at_15-05-59_Miffy_and_the_Artists_by_Dick_Bruna_Waterstones.png?v=1742397032",
-      "store_link": "https://magmabooks.com/products/miffy-and-the-artists",
-      "published_at": "2026-06-24T14:20:58+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot_2025-03-19_at_15-05-59_Miffy_and_the_Artists_by_Dick_Bruna_Waterstones.png?v=1742397032"
-    },
-    {
-      "title": "Film Korea",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/71IDhq2ja1L._SL1500.jpg?v=1780055410",
-      "store_link": "https://magmabooks.com/products/film-korea",
-      "published_at": "2026-06-24T14:19:24+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/71IDhq2ja1L._SL1500.jpg?v=1780055410"
-    },
-    {
-      "title": "TYPEONE #10",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/ScreenShot2025-09-09at23.41.38.webp?v=1758292997",
-      "store_link": "https://magmabooks.com/products/typeone-9-copy",
-      "published_at": "2026-06-23T16:54:32+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/ScreenShot2025-09-09at23.41.38.webp?v=1758292997"
     },
     {
       "title": "Mast Books Tote Bag",
@@ -883,224 +883,235 @@
       "cover": "https://cdn.shopify.com/s/files/1/0290/3562/6574/files/MB_WEINER_WE_ARE_SHIPS_01.jpg?v=1744483758"
     },
     {
-      "title": "Fungi: The World of Mushrooms",
+      "title": "Global Warning",
       "store": "Phaidon",
       "city": "출판사",
       "section": "아트·디자인",
       "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/fungi-en-9206-3d-standing-front-3000_e9f6443f-7826-4b98-869b-bc39f57401b1.jpg?v=1783121497",
-      "store_link": "https://www.phaidon.com/products/fungi-the-world-of-mushrooms",
-      "published_at": "2026-07-04T15:51:34+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/fungi-en-9206-3d-standing-front-3000_e9f6443f-7826-4b98-869b-bc39f57401b1.jpg?v=1783121497"
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/martin-parr-global-warning-signed-edition-en-9250-standing-front-3000_7a3fd336-b79d-4b88-a314-60bf5437efc8.jpg?v=1783143474",
+      "store_link": "https://www.phaidon.com/products/global-warning",
+      "published_at": "2026-07-06T21:12:02+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/martin-parr-global-warning-signed-edition-en-9250-standing-front-3000_7a3fd336-b79d-4b88-a314-60bf5437efc8.jpg?v=1783143474"
     },
     {
-      "title": "Great Women Photographers",
+      "title": "The Coastal Garden",
       "store": "Phaidon",
       "city": "출판사",
       "section": "아트·디자인",
       "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/great-women-photographers-en-9214-3d-standing-front-3000_5c7b0d90-a9fb-429f-9e17-fd6beeeb485a.jpg?v=1783121537",
-      "store_link": "https://www.phaidon.com/products/great-women-photographers",
-      "published_at": "2026-07-04T15:51:33+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/great-women-photographers-en-9214-3d-standing-front-3000_5c7b0d90-a9fb-429f-9e17-fd6beeeb485a.jpg?v=1783121537"
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/the-coastal-garden-en-9092-standing-front-3000_79b843bc-f21f-490a-9be9-aa659596aac5.jpg?v=1783143493",
+      "store_link": "https://www.phaidon.com/products/the-coastal-garden",
+      "published_at": "2026-07-06T20:59:42+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/the-coastal-garden-en-9092-standing-front-3000_79b843bc-f21f-490a-9be9-aa659596aac5.jpg?v=1783143493"
     },
     {
-      "title": "The Mon Lapin Cookbook: De Toute Beauté: From Montreal, With Love",
+      "title": "My Art Book of Peace",
       "store": "Phaidon",
       "city": "출판사",
       "section": "아트·디자인",
       "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/mon-lapin-signed-edition-en-9355-3d-standing-front-3000.jpg?v=1783121595",
-      "store_link": "https://www.phaidon.com/products/the-mon-lapin-cookbook-de-toute-beaute-from-montreal-with-love",
-      "published_at": "2026-07-04T15:51:33+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/mon-lapin-signed-edition-en-9355-3d-standing-front-3000.jpg?v=1783121595"
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/my-art-book-of-peace-en-9152-standing-front-3000_4377725d-79b6-4442-850d-10bbe29f01fa.jpg?v=1783143872",
+      "store_link": "https://www.phaidon.com/products/my-art-book-of-peace",
+      "published_at": "2026-07-06T20:59:42+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/my-art-book-of-peace-en-9152-standing-front-3000_4377725d-79b6-4442-850d-10bbe29f01fa.jpg?v=1783143872"
     },
     {
-      "title": "Into the Garden: Private Sanctuaries Around the World",
+      "title": "The Kitchen Garden",
       "store": "Phaidon",
       "city": "출판사",
       "section": "아트·디자인",
       "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/into-the-garden-en-9311-3d-standing-front-3000_2c98b2b0-a2e8-4493-a641-ac97d47d981d.jpg?v=1783121683",
-      "store_link": "https://www.phaidon.com/products/into-the-garden-private-sanctuaries-around-the-world",
-      "published_at": "2026-07-04T15:51:32+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/into-the-garden-en-9311-3d-standing-front-3000_2c98b2b0-a2e8-4493-a641-ac97d47d981d.jpg?v=1783121683"
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/the-kitchen-garden-en-9094-standing-front-3000_f125201b-fb4b-4617-a782-7bd45e7cdb67.jpg?v=1783143494",
+      "store_link": "https://www.phaidon.com/products/the-kitchen-garden",
+      "published_at": "2026-07-06T20:59:42+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/the-kitchen-garden-en-9094-standing-front-3000_f125201b-fb4b-4617-a782-7bd45e7cdb67.jpg?v=1783143494"
     },
     {
-      "title": "Mathieu Lehanneur",
+      "title": "Arbiters of Style",
       "store": "Phaidon",
       "city": "출판사",
       "section": "아트·디자인",
-      "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/mathieu-lehanneur-en-9229-3d-standing-front-3000_8f8e8099-c7b2-4df2-ad6c-9da8485604a5.jpg?v=1783121761",
-      "store_link": "https://www.phaidon.com/products/mathieu-lehanneur",
-      "published_at": "2026-07-04T15:51:31+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/mathieu-lehanneur-en-9229-3d-standing-front-3000_8f8e8099-c7b2-4df2-ad6c-9da8485604a5.jpg?v=1783121761"
+      "author": "The Monacelli Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/M-arbiters-of-style-en-3731-standing-front-3000_d889cfad-9afc-43d9-b5d5-38c14e1fa61c.jpg?v=1783143492",
+      "store_link": "https://www.phaidon.com/products/arbiters-of-style",
+      "published_at": "2026-07-06T20:59:42+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/M-arbiters-of-style-en-3731-standing-front-3000_d889cfad-9afc-43d9-b5d5-38c14e1fa61c.jpg?v=1783143492"
     },
     {
-      "title": "My Favorite Material Is Light: & Other Quotes by Architects",
+      "title": "The Caribbean Cookbook",
       "store": "Phaidon",
       "city": "출판사",
       "section": "아트·디자인",
       "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/my-favourite-material-is-light-en-9253-3d-standing-front-3000.jpg?v=1783121803",
-      "store_link": "https://www.phaidon.com/products/my-favorite-material-is-light-other-quotes-by-architects",
-      "published_at": "2026-07-04T15:51:29+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/my-favourite-material-is-light-en-9253-3d-standing-front-3000.jpg?v=1783121803"
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/the-caribbeancookbook-en-9172-standing-front-3000.jpg?v=1783120191",
+      "store_link": "https://www.phaidon.com/products/the-caribbean-cookbook",
+      "published_at": "2026-07-06T19:32:11+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/the-caribbeancookbook-en-9172-standing-front-3000.jpg?v=1783120191"
     },
     {
-      "title": "Small Monster, Big Monster: A Seriously Silly Book of Opposites",
+      "title": "Explore: The Leading Hotels of the World",
       "store": "Phaidon",
       "city": "출판사",
       "section": "아트·디자인",
-      "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/small-monster-big-monster-en-9211-3d-standing-front-3000.jpg?v=1783121867",
-      "store_link": "https://www.phaidon.com/products/small-monster-big-monster-a-seriously-silly-book-of-opposites",
-      "published_at": "2026-07-04T15:51:27+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/small-monster-big-monster-en-9211-3d-standing-front-3000.jpg?v=1783121867"
+      "author": "The Monacelli Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/M-explore-en-3736-standing-front-3000.jpg?v=1783143832",
+      "store_link": "https://www.phaidon.com/products/explore-the-leading-hotels-of-the-world",
+      "published_at": "2026-07-06T17:52:06+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/M-explore-en-3736-standing-front-3000.jpg?v=1783143832"
     },
     {
-      "title": "Vegan Vegan!",
+      "title": "Vermeer",
       "store": "Phaidon",
       "city": "출판사",
       "section": "아트·디자인",
       "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/vegan-vegan-en-9262-3d-standing-front-3000.jpg?v=1783121963",
-      "store_link": "https://www.phaidon.com/products/vegan-vegan",
-      "published_at": "2026-07-04T15:51:25+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/vegan-vegan-en-9262-3d-standing-front-3000.jpg?v=1783121963"
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/9780714868790-Vermeer-3d-standing-1to1_4781ec36-4318-447a-9acc-1c581e381f52.jpg?v=1764655759",
+      "store_link": "https://www.phaidon.com/products/vermeer",
+      "published_at": "2026-07-06T17:38:21+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/9780714868790-Vermeer-3d-standing-1to1_4781ec36-4318-447a-9acc-1c581e381f52.jpg?v=1764655759"
     },
     {
-      "title": "John Pawson: The Minimal Home",
+      "title": "On Meat: Modern Recipes for the Home Kitchen",
       "store": "Phaidon",
       "city": "출판사",
       "section": "아트·디자인",
       "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/john-pawson-the-minimal-way-of-life-signed-edition-en-9345-3d-standing-front-3000.jpg?v=1783122088",
-      "store_link": "https://www.phaidon.com/products/john-pawson-the-minimal-home-the-minimal-home",
-      "published_at": "2026-07-04T15:51:23+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/john-pawson-the-minimal-way-of-life-signed-edition-en-9345-3d-standing-front-3000.jpg?v=1783122088"
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/on-meat-en-9086-standing-front-3000_b10614f7-2dea-474d-a7aa-4ce734e1a7f1.jpg?v=1764656107",
+      "store_link": "https://www.phaidon.com/products/on-meat-modern-recipes-for-the-home-kitchen",
+      "published_at": "2026-07-06T17:20:03+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/on-meat-en-9086-standing-front-3000_b10614f7-2dea-474d-a7aa-4ce734e1a7f1.jpg?v=1764656107"
     },
     {
-      "title": "Sanlé Sory",
+      "title": "Portraits 2005-2016",
       "store": "Phaidon",
       "city": "출판사",
       "section": "아트·디자인",
       "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/sanle-sory-signed-edition-en-9354-3d-standing-front-3000_a997f5f8-98ce-45dd-b2db-7c9165fcdadb.jpg?v=1783122130",
-      "store_link": "https://www.phaidon.com/products/sanle-sory",
-      "published_at": "2026-07-04T15:51:21+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/sanle-sory-signed-edition-en-9354-3d-standing-front-3000_a997f5f8-98ce-45dd-b2db-7c9165fcdadb.jpg?v=1783122130"
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/annie-leibovitz-portraits-2005-2016-en-6592-standing-jacket-3000_bb98a819-4ee0-4b5e-96e7-91a0b022287f.jpg?v=1772172282",
+      "store_link": "https://www.phaidon.com/products/portraits-2005-2016",
+      "published_at": "2026-07-06T17:20:02+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/annie-leibovitz-portraits-2005-2016-en-6592-standing-jacket-3000_bb98a819-4ee0-4b5e-96e7-91a0b022287f.jpg?v=1772172282"
     },
     {
-      "title": "Tuscany",
+      "title": "Experience",
       "store": "Phaidon",
       "city": "출판사",
       "section": "아트·디자인",
       "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/tuscany-2026-en-9245-3d-standing-front-3000_157d8f8e-60dd-4d93-ba82-a114684377a0.jpg?v=1783122172",
-      "store_link": "https://www.phaidon.com/products/tuscany",
-      "published_at": "2026-07-04T15:51:21+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/tuscany-2026-en-9245-3d-standing-front-3000_157d8f8e-60dd-4d93-ba82-a114684377a0.jpg?v=1783122172"
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/olafur-eliasson-experience-en-6568-standing-front-3000_f8ba708b-7d5a-462a-ad06-ca7234e7bdef.jpg?v=1764655335",
+      "store_link": "https://www.phaidon.com/products/experience",
+      "published_at": "2026-07-06T17:20:01+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/olafur-eliasson-experience-en-6568-standing-front-3000_f8ba708b-7d5a-462a-ad06-ca7234e7bdef.jpg?v=1764655335"
     },
     {
-      "title": "Robert Indiana: An American Icon",
+      "title": "Lorna Simpson",
       "store": "Phaidon",
       "city": "출판사",
       "section": "아트·디자인",
       "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/robert-indiana-en-9055-3d-standing-front-3000.jpg?v=1783122241",
-      "store_link": "https://www.phaidon.com/products/robert-indiana-an-american-icon",
-      "published_at": "2026-07-04T15:51:20+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/robert-indiana-en-9055-3d-standing-front-3000.jpg?v=1783122241"
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/lorna-simpson-en-6124-standing-front-3000_a3695a65-4f82-47f7-a8ed-2e8906a62221.jpg?v=1783351168",
+      "store_link": "https://www.phaidon.com/products/lorna-simpson",
+      "published_at": "2026-07-06T17:20:00+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/lorna-simpson-en-6124-standing-front-3000_a3695a65-4f82-47f7-a8ed-2e8906a62221.jpg?v=1783351168"
     },
     {
-      "title": "Lots of Dots",
+      "title": "Grace: Thirty Years of Fashion at Vogue",
       "store": "Phaidon",
       "city": "출판사",
       "section": "아트·디자인",
       "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/lots-of-dots-en-9403-3d-standing-front-3000_9a4f6a11-1e2f-4c9b-b01e-33dea537e6d2.jpg?v=1783122279",
-      "store_link": "https://www.phaidon.com/products/lots-of-dots",
-      "published_at": "2026-07-04T15:51:19+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/lots-of-dots-en-9403-3d-standing-front-3000_9a4f6a11-1e2f-4c9b-b01e-33dea537e6d2.jpg?v=1783122279"
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/9780714876795-Grace-3d-standing-1to1_153c3574-14d5-4887-b2ed-98866ef003ea.jpg?v=1783351095",
+      "store_link": "https://www.phaidon.com/products/grace-thirty-years-of-fashion-at-vogue",
+      "published_at": "2026-07-06T17:19:59+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/9780714876795-Grace-3d-standing-1to1_153c3574-14d5-4887-b2ed-98866ef003ea.jpg?v=1783351095"
     },
     {
-      "title": "Spiced: Recipes Celebrating Spices from Around the World",
+      "title": "Great Women Artists: Compact Format",
       "store": "Phaidon",
       "city": "출판사",
       "section": "아트·디자인",
       "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/spiced-en-9265-3d-standing-front-3000.jpg?v=1783122320",
-      "store_link": "https://www.phaidon.com/products/spiced-recipes-celebrating-spices-from-around-the-world",
-      "published_at": "2026-07-04T15:51:18+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/spiced-en-9265-3d-standing-front-3000.jpg?v=1783122320"
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/great-women-artists-2026-compact-format-en-9143-standing-front-3000.jpg?v=1768544183",
+      "store_link": "https://www.phaidon.com/products/great-women-artists-compact-format",
+      "published_at": "2026-07-06T17:19:58+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/great-women-artists-2026-compact-format-en-9143-standing-front-3000.jpg?v=1768544183"
     },
     {
-      "title": "Sicily: From The Silver Spoon",
+      "title": "Beyond Peaks: The Cuisine of Schloss Schauenstein",
       "store": "Phaidon",
       "city": "출판사",
       "section": "아트·디자인",
       "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/sicily-2026-en-9246-3d-standing-front-3000.jpg?v=1783121443",
-      "store_link": "https://www.phaidon.com/products/sicily-from-the-silver-spoon",
-      "published_at": "2026-07-04T02:42:48+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/sicily-2026-en-9246-3d-standing-front-3000.jpg?v=1783121443"
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/beyond-peaks-signed-edition-en-9178-standing-front-3000.jpg?v=1772465273",
+      "store_link": "https://www.phaidon.com/products/beyond-peaks-the-cuisine-of-schloss-schauenstein",
+      "published_at": "2026-07-06T17:19:57+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/beyond-peaks-signed-edition-en-9178-standing-front-3000.jpg?v=1772465273"
     },
     {
-      "title": "Nike Football Boots",
+      "title": "Annie Leibovitz At Work",
       "store": "Phaidon",
       "city": "출판사",
       "section": "아트·디자인",
       "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/nike-football-boots-en-9149-standing-front-3000_05f32088-b2e3-4055-a7f2-90264402ed8f.jpg?v=1783143492",
-      "store_link": "https://www.phaidon.com/products/nike-football-boots",
-      "published_at": "2026-07-03T23:12:35+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/nike-football-boots-en-9149-standing-front-3000_05f32088-b2e3-4055-a7f2-90264402ed8f.jpg?v=1783143492"
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/annie-leibovitz-at-work-2024-edition-en-6824-standing-front-3000_a14a15d6-c9b7-4b92-8fa4-f09ffb4a3203.jpg?v=1764656585",
+      "store_link": "https://www.phaidon.com/products/annie-leibovitz-at-work",
+      "published_at": "2026-07-06T17:19:23+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/annie-leibovitz-at-work-2024-edition-en-6824-standing-front-3000_a14a15d6-c9b7-4b92-8fa4-f09ffb4a3203.jpg?v=1764656585"
     },
     {
-      "title": "Classic Indian Recipes",
+      "title": "Brick",
       "store": "Phaidon",
       "city": "출판사",
       "section": "아트·디자인",
       "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/classic-indian-recipes-en-9064-standing-front-3000_3244acfc-0e9e-4995-ba79-f741120ff829.jpg?v=1783143492",
-      "store_link": "https://www.phaidon.com/products/classic-indian-recipes",
-      "published_at": "2026-07-03T23:12:21+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/classic-indian-recipes-en-9064-standing-front-3000_3244acfc-0e9e-4995-ba79-f741120ff829.jpg?v=1783143492"
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/9780714878553-Brick-Mini-Format-3D-Standing-1to1_383a5638-431e-470c-8499-fe906d6afb32.jpg?v=1783351551",
+      "store_link": "https://www.phaidon.com/products/brick",
+      "published_at": "2026-07-06T17:15:23+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/9780714878553-Brick-Mini-Format-3D-Standing-1to1_383a5638-431e-470c-8499-fe906d6afb32.jpg?v=1783351551"
     },
     {
-      "title": "Summer Houses",
+      "title": "Dieter Rams: As Little Design as Possible",
       "store": "Phaidon",
       "city": "출판사",
       "section": "아트·디자인",
       "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/summer-houses-en-9093-standing-front-3000_9d2891bc-cb11-40a9-954e-3bd959b29d1b.jpg?v=1783143491",
-      "store_link": "https://www.phaidon.com/products/summer-houses",
-      "published_at": "2026-07-03T23:12:08+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/summer-houses-en-9093-standing-front-3000_9d2891bc-cb11-40a9-954e-3bd959b29d1b.jpg?v=1783143491"
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/dieter-rams-as-little-design-as-possible-2024-edition-en-6909-standing-front-3000_e092ddb3-8359-4444-a2b2-5ade316eb26a.jpg?v=1764655427",
+      "store_link": "https://www.phaidon.com/products/dieter-rams-as-little-design-as-possible",
+      "published_at": "2026-07-06T17:15:23+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/dieter-rams-as-little-design-as-possible-2024-edition-en-6909-standing-front-3000_e092ddb3-8359-4444-a2b2-5ade316eb26a.jpg?v=1764655427"
     },
     {
-      "title": "Our Prehistoric Planet",
+      "title": "Ettore Sottsass",
       "store": "Phaidon",
       "city": "출판사",
       "section": "아트·디자인",
       "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/our-prehistoric-planet-en-9039-standing-front-3000_421cf9dd-da68-48c1-bfd2-169f55cb9e8c.jpg?v=1783143493",
-      "store_link": "https://www.phaidon.com/products/our-prehistoric-planet",
-      "published_at": "2026-07-03T23:12:00+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/our-prehistoric-planet-en-9039-standing-front-3000_421cf9dd-da68-48c1-bfd2-169f55cb9e8c.jpg?v=1783143493"
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/9780714875200-ettore-sottsass-_new-edition_-3d-standing-1to1_f3f03a08-d283-4d43-8e79-67e499d585cd.jpg?v=1783351500",
+      "store_link": "https://www.phaidon.com/products/ettore-sottsass",
+      "published_at": "2026-07-06T17:15:22+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/9780714875200-ettore-sottsass-_new-edition_-3d-standing-1to1_f3f03a08-d283-4d43-8e79-67e499d585cd.jpg?v=1783351500"
     },
     {
-      "title": "How to Boil an Egg",
+      "title": "The Fashion Book",
       "store": "Phaidon",
       "city": "출판사",
       "section": "아트·디자인",
       "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/how-to-boil-an-egg-en-9223-standing-front-3000_680d5642-0961-4576-9cab-a5ba38948b78.jpg?v=1783143493",
-      "store_link": "https://www.phaidon.com/products/how-to-boil-an-egg",
-      "published_at": "2026-07-03T23:11:53+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/how-to-boil-an-egg-en-9223-standing-front-3000_680d5642-0961-4576-9cab-a5ba38948b78.jpg?v=1783143493"
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/the-fashion-book-the-new-edition-revised-and-updated-2022-en-6570-standing-jacket-3000_fbdf70b5-c69f-4e48-afe5-80d5b8da1724.jpg?v=1764656071",
+      "store_link": "https://www.phaidon.com/products/the-fashion-book",
+      "published_at": "2026-07-06T17:15:21+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/the-fashion-book-the-new-edition-revised-and-updated-2022-en-6570-standing-jacket-3000_fbdf70b5-c69f-4e48-afe5-80d5b8da1724.jpg?v=1764656071"
+    },
+    {
+      "title": "Chanel Bags: Der ultimative Guide",
+      "store": "Gestalten",
+      "city": "출판사",
+      "section": "디자인",
+      "author": "teNeues",
+      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/BRBICH_cover.png?v=1782829829",
+      "store_link": "https://shop.gestalten.com/products/chanel-bags-der-ultimative-guide",
+      "published_at": "2026-07-06T11:48:04+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/BRBICH_cover.png?v=1782829829"
     },
     {
       "title": "Nager en liberté",
@@ -1310,17 +1321,6 @@
       "store_link": "https://shop.gestalten.com/products/the-ferrari-book-passion-for-design",
       "published_at": "2026-05-13T15:51:53+02:00",
       "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/9783961710201_Cover-Front_1920x1920_38ad4fe8-b05f-48d5-986b-1081a1a94f78.png?v=1778666574"
-    },
-    {
-      "title": "Golf - The Ultimate Book",
-      "store": "Gestalten",
-      "city": "출판사",
-      "section": "디자인",
-      "author": "teNeues",
-      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/TNGolf_front.png?v=1778570431",
-      "store_link": "https://shop.gestalten.com/products/golf-the-ultimate-book",
-      "published_at": "2026-05-13T15:48:47+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/TNGolf_front.png?v=1778570431"
     },
     {
       "title": "The Happy Prince and Other Tales",
