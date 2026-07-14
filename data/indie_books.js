@@ -1,6 +1,6 @@
 window.__INDIE_BOOKS_DATA__ = {
-  "updated_at": "2026-07-14T14:29:11.155042+09:00",
-  "today": "2026-07-14",
+  "updated_at": "2026-07-15T08:02:27.922189+09:00",
+  "today": "2026-07-15",
   "books": [
     {
       "title": "여름엔 늘 좋은 일이 생긴다: 이윤희 만화집 · 이윤희",
@@ -118,15 +118,6 @@ window.__INDIE_BOOKS_DATA__ = {
       "store_cover": "https://www.your-mind.com/web/product/big/202605/2b990cd6332ffd35d6b0326f45d48f65.png",
       "cover": "https://www.your-mind.com/web/product/big/202605/2b990cd6332ffd35d6b0326f45d48f65.png",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=Side%20Project-%EC%BD%B0%EC%95%BC%20%EC%84%B8%EB%9D%BC%EB%AF%B9%20%EC%9E%91%ED%92%88%EC%A7%91%20%C2%B7%20%EC%BD%B0%EC%95%BC"
-    },
-    {
-      "title": "[재입고] CAT CODE · 노말에이",
-      "store": "유어마인드",
-      "section": "BOOKS",
-      "store_link": "https://www.your-mind.com/product/재입고-cat-code-·-노말에이/5998/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202605/5e7e0eb0fa0da1e51465f37b7048fb8b.png",
-      "cover": "https://www.your-mind.com/web/product/big/202605/5e7e0eb0fa0da1e51465f37b7048fb8b.png",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20CAT%20CODE%20%C2%B7%20%EB%85%B8%EB%A7%90%EC%97%90%EC%9D%B4"
     },
     {
       "title": "[재입고] 작업실 고양이 · 노석미",
@@ -271,6 +262,15 @@ window.__INDIE_BOOKS_DATA__ = {
       "store_cover": "https://www.your-mind.com/web/product/big/202604/b09e2ec098e3bf50b4f8ac7b589d8ed5.png",
       "cover": "https://www.your-mind.com/web/product/big/202604/b09e2ec098e3bf50b4f8ac7b589d8ed5.png",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B4%EC%B0%A8%20%EC%9E%85%EA%B3%A0%5D%20%EB%82%98%EB%AC%B4%20%EA%B7%B8%EB%A6%BC%EC%9E%90%20%EC%B1%84%EC%A7%91%20%C2%B7%20%EC%86%A1%EB%AF%BC%EC%84%A0%2C%20%EC%B5%9C%EC%A4%91%EC%9B%90"
+    },
+    {
+      "title": "[3차 입고] 철도와 나 · 김은정",
+      "store": "유어마인드",
+      "section": "BOOKS",
+      "store_link": "https://www.your-mind.com/product/3차-입고-철도와-나-·-김은정/5964/category/27/display/1/",
+      "store_cover": "https://www.your-mind.com/web/product/big/202604/63ca49063a2205f7ea892ef7761e7564.png",
+      "cover": "https://www.your-mind.com/web/product/big/202604/63ca49063a2205f7ea892ef7761e7564.png",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B3%EC%B0%A8%20%EC%9E%85%EA%B3%A0%5D%20%EC%B2%A0%EB%8F%84%EC%99%80%20%EB%82%98%20%C2%B7%20%EA%B9%80%EC%9D%80%EC%A0%95"
     },
     {
       "title": "[예약판매/배송비 무료] 숨겨둔 책 세트 (No.025, 026, 027)",
@@ -2270,10 +2270,10 @@ window.__INDIE_BOOKS_DATA__ = {
   "errors": [],
   "total": 236,
   "stores_attempted": [
-    "유어마인드",
-    "사적인서점",
-    "소심한책방",
     "북앤스페이스",
+    "유어마인드",
+    "소심한책방",
+    "사적인서점",
     "고요서사"
   ]
 };
