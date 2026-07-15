@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-15T08:02:49.711227+09:00",
-  "today": "2026-07-15",
+  "updated_at": "2026-07-16T08:12:29.828977+09:00",
+  "today": "2026-07-16",
   "books": [
     {
       "title": "The Wire #510 Aug. 2026",
@@ -443,6 +443,39 @@
       "cover": "https://cdn.shopify.com/s/files/1/0221/7340/files/Screenshot2026-05-10at16.19.03.png?v=1778426507"
     },
     {
+      "title": "Alphabet Logo - Expanded Edition",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/61P1C66V1zL._SL1200.jpg?v=1771160261",
+      "store_link": "https://magmabooks.com/products/alphabet-logo-expanded-edition",
+      "published_at": "2026-07-15T14:04:10+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/61P1C66V1zL._SL1200.jpg?v=1771160261"
+    },
+    {
+      "title": "The Story is Everything",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/products/5121qW0fj-L.jpg?v=1657111623",
+      "store_link": "https://magmabooks.com/products/the-story-is-everything",
+      "published_at": "2026-07-15T14:02:57+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/products/5121qW0fj-L.jpg?v=1657111623"
+    },
+    {
+      "title": "The Wisdom of Ancient Japan",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-04-10151301.png?v=1775830726",
+      "store_link": "https://magmabooks.com/products/japonisme-copy",
+      "published_at": "2026-07-15T13:58:23+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-04-10151301.png?v=1775830726"
+    },
+    {
       "title": "Wardrobe Theory Project #3",
       "store": "Magma Books",
       "city": "런던",
@@ -628,39 +661,6 @@
       "store_link": "https://magmabooks.com/products/general-witchfinders-4-copy",
       "published_at": "2026-07-09T14:11:40+01:00",
       "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-09at14-07-08AriaGitaHandfulofTits_PublicKnowledge.png?v=1783602441"
-    },
-    {
-      "title": "The  Banana Game",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-09at13-42-07TheBananaGame_Pikkii_ecb1d3f5-5cbb-4495-9645-ec9aab2f6921.png?v=1783602123",
-      "store_link": "https://magmabooks.com/products/the-egg-game-copy",
-      "published_at": "2026-07-09T14:02:29+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-09at13-42-07TheBananaGame_Pikkii_ecb1d3f5-5cbb-4495-9645-ec9aab2f6921.png?v=1783602123"
-    },
-    {
-      "title": "Summer Pop Up!",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-09at13-30-59Amazon.comSummerPopsUp_9781837292073PetitAuroreLibros.png?v=1783600299",
-      "store_link": "https://magmabooks.com/products/pink-pop-with-6-playful-pop-ups-copy",
-      "published_at": "2026-07-09T13:33:56+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-09at13-30-59Amazon.comSummerPopsUp_9781837292073PetitAuroreLibros.png?v=1783600299"
-    },
-    {
-      "title": "Collapsed Mythologies: A Geofinancial Atlas",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/610Sr3HupYL._SL1500.jpg?v=1772114427",
-      "store_link": "https://magmabooks.com/products/collapsed-mythologies-a-geofinancial-atlas",
-      "published_at": "2026-07-09T12:32:56+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/610Sr3HupYL._SL1500.jpg?v=1772114427"
     },
     {
       "title": "Mast Books Tote Bag",
@@ -883,6 +883,17 @@
       "cover": "https://cdn.shopify.com/s/files/1/0290/3562/6574/files/MB_WEINER_WE_ARE_SHIPS_01.jpg?v=1744483758"
     },
     {
+      "title": "Spring Pops Up!",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "Phaidon Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/spring-pops-up-en-9209-3d-standing-front-3000.jpg?v=1783957953",
+      "store_link": "https://www.phaidon.com/products/spring-pops-up",
+      "published_at": "2026-07-15T16:08:11+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/spring-pops-up-en-9209-3d-standing-front-3000.jpg?v=1783957953"
+    },
+    {
       "title": "Batty Back Up",
       "store": "Phaidon",
       "city": "출판사",
@@ -1092,15 +1103,26 @@
       "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/Hadi_20Falapishi-1-72dpi.jpg?v=1784022336"
     },
     {
-      "title": "Love Bomb (Persian Cat) Edition 5/30",
-      "store": "Phaidon",
+      "title": "Deserts",
+      "store": "Gestalten",
       "city": "출판사",
-      "section": "아트·디자인",
-      "author": "Artspace",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/Hadi_Falapishi-5-72dpi.jpg?v=1784032651",
-      "store_link": "https://www.phaidon.com/products/hadi-falapishi-love-bomb-persian-cat-edition-5-30-5056880811705",
-      "published_at": "2026-07-14T10:45:19+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/Hadi_Falapishi-5-72dpi.jpg?v=1784032651"
+      "section": "디자인",
+      "author": "teNeues",
+      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/DESERTS_dd77a9ff-b479-42ac-8384-54bb56c5887c.png?v=1781791988",
+      "store_link": "https://shop.gestalten.com/products/deserts",
+      "published_at": "2026-07-15T17:19:31+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/DESERTS_dd77a9ff-b479-42ac-8384-54bb56c5887c.png?v=1781791988"
+    },
+    {
+      "title": "The Harley-Davidson Book - Refueled",
+      "store": "Gestalten",
+      "city": "출판사",
+      "section": "디자인",
+      "author": "teNeues",
+      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/HARLEYDAVIDSON.png?v=1781794618",
+      "store_link": "https://shop.gestalten.com/products/the-harley-davidson-book-refueled",
+      "published_at": "2026-07-15T17:19:26+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/HARLEYDAVIDSON.png?v=1781794618"
     },
     {
       "title": "BMW Motorrad",
@@ -1299,28 +1321,6 @@
       "store_link": "https://shop.gestalten.com/products/the-stylish-life-tennis",
       "published_at": "2026-06-17T10:14:08+02:00",
       "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/9783832732318_The-Stylish-Life-Tennis_Cover-front.png?v=1781538287"
-    },
-    {
-      "title": "The Porsche Book",
-      "store": "Gestalten",
-      "city": "출판사",
-      "section": "디자인",
-      "author": "teNeues",
-      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/9783961716111_The-Porsche-Book_front.png?v=1741853143",
-      "store_link": "https://shop.gestalten.com/products/teneues-the-porsche-book",
-      "published_at": "2026-06-10T13:06:01+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/9783961716111_The-Porsche-Book_front.png?v=1741853143"
-    },
-    {
-      "title": "Metropolis",
-      "store": "Gestalten",
-      "city": "출판사",
-      "section": "디자인",
-      "author": "teNeues",
-      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/metropolis_01.png?v=1779480355",
-      "store_link": "https://shop.gestalten.com/products/metropolis",
-      "published_at": "2026-05-22T22:06:04+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/metropolis_01.png?v=1779480355"
     },
     {
       "title": "The Happy Prince and Other Tales",

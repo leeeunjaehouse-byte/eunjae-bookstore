@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-15T08:02:27.922189+09:00",
-  "today": "2026-07-15",
+  "updated_at": "2026-07-16T08:12:15.244739+09:00",
+  "today": "2026-07-16",
   "books": [
     {
       "title": "여름엔 늘 좋은 일이 생긴다: 이윤희 만화집 · 이윤희",
@@ -174,15 +174,6 @@
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20%EC%99%84%EB%B2%BD%ED%95%98%EC%A7%80%20%EC%95%8A%EC%95%84%3A%20%EC%97%90%EC%9D%B4%EB%93%9C%EB%A6%AC%EC%96%B8%20%ED%86%A0%EB%AF%B8%EB%84%A4%20%EA%B0%81%EB%B3%B8%EC%A7%91%20%C2%B7%20%EC%97%90%EC%9D%B4%EB%93%9C%EB%A6%AC%EC%96%B8%20%ED%86%A0%EB%AF%B8%EB%84%A4"
     },
     {
-      "title": "[3차 입고] 시드니의 책방 · 후루룩",
-      "store": "유어마인드",
-      "section": "BOOKS",
-      "store_link": "https://www.your-mind.com/product/3차-입고-시드니의-책방-·-후루룩/5987/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202605/d88be4c7d256fcec9548f6cab918991c.png",
-      "cover": "https://www.your-mind.com/web/product/big/202605/d88be4c7d256fcec9548f6cab918991c.png",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B3%EC%B0%A8%20%EC%9E%85%EA%B3%A0%5D%20%EC%8B%9C%EB%93%9C%EB%8B%88%EC%9D%98%20%EC%B1%85%EB%B0%A9%20%C2%B7%20%ED%9B%84%EB%A3%A8%EB%A3%A9"
-    },
-    {
       "title": "[3차 입고] 멜버른의 커피 · 후루룩",
       "store": "유어마인드",
       "section": "BOOKS",
@@ -271,6 +262,15 @@
       "store_cover": "https://www.your-mind.com/web/product/big/202604/63ca49063a2205f7ea892ef7761e7564.png",
       "cover": "https://www.your-mind.com/web/product/big/202604/63ca49063a2205f7ea892ef7761e7564.png",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B3%EC%B0%A8%20%EC%9E%85%EA%B3%A0%5D%20%EC%B2%A0%EB%8F%84%EC%99%80%20%EB%82%98%20%C2%B7%20%EA%B9%80%EC%9D%80%EC%A0%95"
+    },
+    {
+      "title": "[재입고] 볕뉘 아래서 눈을 감았다 · 안수현",
+      "store": "유어마인드",
+      "section": "BOOKS",
+      "store_link": "https://www.your-mind.com/product/재입고-볕뉘-아래서-눈을-감았다-·-안수현/5962/category/27/display/1/",
+      "store_cover": "https://www.your-mind.com/web/product/big/202604/2419afc18546b2f27767aafdad318f73.png",
+      "cover": "https://www.your-mind.com/web/product/big/202604/2419afc18546b2f27767aafdad318f73.png",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20%EB%B3%95%EB%89%98%20%EC%95%84%EB%9E%98%EC%84%9C%20%EB%88%88%EC%9D%84%20%EA%B0%90%EC%95%98%EB%8B%A4%20%C2%B7%20%EC%95%88%EC%88%98%ED%98%84"
     },
     {
       "title": "[예약판매/배송비 무료] 숨겨둔 책 세트 (No.025, 026, 027)",
@@ -2270,10 +2270,10 @@
   "errors": [],
   "total": 236,
   "stores_attempted": [
-    "북앤스페이스",
+    "사적인서점",
+    "고요서사",
     "유어마인드",
     "소심한책방",
-    "사적인서점",
-    "고요서사"
+    "북앤스페이스"
   ]
 }
