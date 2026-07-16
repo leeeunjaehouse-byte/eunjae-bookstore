@@ -1,7 +1,73 @@
 window.__OVERSEAS_BOOKS_DATA__ = {
-  "updated_at": "2026-07-16T08:12:29.828977+09:00",
-  "today": "2026-07-16",
+  "updated_at": "2026-07-17T08:07:35.832401+09:00",
+  "today": "2026-07-17",
   "books": [
+    {
+      "title": "Tank Volume 11 Issue #8 Summer 2026",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Tank Magazine",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43695-Tank-Volume-11-Issue-8-Summer-2026-1.jpg?v=1784199291",
+      "store_link": "https://www.doyoureadme.de/products/tank-volume-11-issue-8-summer-2026",
+      "published_at": "2026-07-16T12:57:08+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43695-Tank-Volume-11-Issue-8-Summer-2026-1.jpg?v=1784199291"
+    },
+    {
+      "title": "Arena Homme+ #65 Summer/Autumn 2026",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Arena Homme+",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43694-Arena-Homme_65-Summer-Autumn-2026-1.jpg?v=1784199291",
+      "store_link": "https://www.doyoureadme.de/products/arena-homme-65-summer-autumn-2026",
+      "published_at": "2026-07-16T12:57:08+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43694-Arena-Homme_65-Summer-Autumn-2026-1.jpg?v=1784199291"
+    },
+    {
+      "title": "Balkan Beats - Robert Soko & Robert Rigney",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "self published",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43680-Balkan-Beats_Soko_Rigney-1.jpg?v=1784199291",
+      "store_link": "https://www.doyoureadme.de/products/balkan-beats-robert-soko-robert-rigney",
+      "published_at": "2026-07-16T12:57:08+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43680-Balkan-Beats_Soko_Rigney-1.jpg?v=1784199291"
+    },
+    {
+      "title": "Hunger #39 2026",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Hunger Magazine",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Hunger-39-2026-1.jpg?v=1784199291",
+      "store_link": "https://www.doyoureadme.de/products/hunger-39-2026",
+      "published_at": "2026-07-16T12:36:50+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Hunger-39-2026-1.jpg?v=1784199291"
+    },
+    {
+      "title": "Carcy S/S 2026",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Carcy",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43693-Carcy-SS-2026-1.jpg?v=1784199291",
+      "store_link": "https://www.doyoureadme.de/products/carcy-s-s-2026",
+      "published_at": "2026-07-16T10:46:41+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43693-Carcy-SS-2026-1.jpg?v=1784199291"
+    },
+    {
+      "title": "Behind The Blinds #19 2026",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Behind the Blinds",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43691-Behind-The-Blinds-19-2026-1.jpg?v=1784199291",
+      "store_link": "https://www.doyoureadme.de/products/behind-the-blinds-19-2026",
+      "published_at": "2026-07-16T10:44:02+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43691-Behind-The-Blinds-19-2026-1.jpg?v=1784199291"
+    },
     {
       "title": "The Wire #510 Aug. 2026",
       "store": "Do you read me?!",
@@ -155,72 +221,6 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "store_link": "https://www.doyoureadme.de/products/emergent-14-2026",
       "published_at": "2026-07-14T13:33:00+02:00",
       "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/emergent-15-2026-1.jpg?v=1784028443"
-    },
-    {
-      "title": "Queer Flora, Fauna and Funga: A Radical Forage through Art and Writing",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Valiz",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43690-Queer-Flora-Fauna-and-Funga_A-Radical-Forage-through-Art-and-Writing-1.jpg?v=1784028442",
-      "store_link": "https://www.doyoureadme.de/products/queer-flora-fauna-and-funga-a-radical-forage-through-art-and-writing",
-      "published_at": "2026-07-14T13:33:00+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43690-Queer-Flora-Fauna-and-Funga_A-Radical-Forage-through-Art-and-Writing-1.jpg?v=1784028442"
-    },
-    {
-      "title": "Novembre #18",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Novembre Magazine",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Novembre-18-1.jpg?v=1784028443",
-      "store_link": "https://www.doyoureadme.de/products/novembre-18",
-      "published_at": "2026-07-14T12:49:51+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Novembre-18-1.jpg?v=1784028443"
-    },
-    {
-      "title": "The New Yorker",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "The New Yorker",
-      "store_cover": "",
-      "store_link": "https://www.doyoureadme.de/products/the-new-yorker",
-      "published_at": "2026-07-14T11:13:58+02:00",
-      "cover": ""
-    },
-    {
-      "title": "The Financial Times",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "The Financial Times",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/FullSizeRender.heic?v=1772273672",
-      "store_link": "https://www.doyoureadme.de/products/die-zeit",
-      "published_at": "2026-07-14T11:13:58+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/FullSizeRender.heic?v=1772273672"
-    },
-    {
-      "title": "Reflexive Tema and Global Elsewheres (Entangled Internationalisms)",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Spector Books",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43675-Reflexive-Tema-and-Global-Elsewheres_Entangled-Internationalisms-1.jpg?v=1783681630",
-      "store_link": "https://www.doyoureadme.de/products/reflexive-tema-and-global-elsewheres-entangled-internationalisms",
-      "published_at": "2026-07-14T11:11:51+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43675-Reflexive-Tema-and-Global-Elsewheres_Entangled-Internationalisms-1.jpg?v=1783681630"
-    },
-    {
-      "title": "Der Spiegel",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Der Spiegel",
-      "store_cover": "",
-      "store_link": "https://www.doyoureadme.de/products/der-spiegel",
-      "published_at": "2026-07-13T16:16:24+02:00",
-      "cover": ""
     },
     {
       "title": "The Red Book: A Reader's Edition by C.G. Jung",
@@ -443,6 +443,127 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "cover": "https://cdn.shopify.com/s/files/1/0221/7340/files/Screenshot2026-05-10at16.19.03.png?v=1778426507"
     },
     {
+      "title": "Miffy Ivory Hair Clip Set (2pcs)",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/16174631_7.jpg?v=1784217483",
+      "store_link": "https://magmabooks.com/products/miffy-ivory-hair-clip-set-2pcs",
+      "published_at": "2026-07-16T17:35:57+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/16174631_7.jpg?v=1784217483"
+    },
+    {
+      "title": "Miffy Fringe/Bangs Hair Clip Set (2pcs)",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/16174631_11.jpg?v=1784217022",
+      "store_link": "https://magmabooks.com/products/miffy-fringe-bangs-hair-clip-set-2pcs",
+      "published_at": "2026-07-16T16:52:06+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/16174631_11.jpg?v=1784217022"
+    },
+    {
+      "title": "Elmo Coin Purse",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/15604687_5.jpg?v=1784216136",
+      "store_link": "https://magmabooks.com/products/elmo-coin-purse",
+      "published_at": "2026-07-16T16:35:48+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/15604687_5.jpg?v=1784216136"
+    },
+    {
+      "title": "Cookie Monster Coin Purse",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/15604656_5.jpg?v=1784215904",
+      "store_link": "https://magmabooks.com/products/cookie-monster-coin-purse",
+      "published_at": "2026-07-16T16:33:26+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/15604656_5.jpg?v=1784215904"
+    },
+    {
+      "title": "Moomin Mini Tray Blind Box",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-16at16-25-0113893930_1001.jpg_JPEGImage1000x1000pixels_Scaled_89.png?v=1784215544",
+      "store_link": "https://magmabooks.com/products/moomin-mini-tray-blind-box",
+      "published_at": "2026-07-16T16:29:39+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-16at16-25-0113893930_1001.jpg_JPEGImage1000x1000pixels_Scaled_89.png?v=1784215544"
+    },
+    {
+      "title": "Pull Letter #6",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/PL_Cover2_Rewilding.webp?v=1784215057",
+      "store_link": "https://magmabooks.com/products/pull-letter-6",
+      "published_at": "2026-07-16T16:18:41+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/PL_Cover2_Rewilding.webp?v=1784215057"
+    },
+    {
+      "title": "Servilletas (Spanish Napkins)",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-16at16-00-12AB8672-servilletas-03.jpg_JPEGImage1668x1253pixels_Scaled_71.png?v=1784214388",
+      "store_link": "https://magmabooks.com/products/servilletas-spanish-napkins",
+      "published_at": "2026-07-16T16:10:31+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-16at16-00-12AB8672-servilletas-03.jpg_JPEGImage1668x1253pixels_Scaled_71.png?v=1784214388"
+    },
+    {
+      "title": "An Opinionated Guide to London Bookshop's",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2024-07-10at12-51-57AnOpinionatedGuidetoLondonBookshops-HoxtonMiniPress.png?v=1720612521",
+      "store_link": "https://magmabooks.com/products/an-opinionated-guide-to-london-bookshops",
+      "published_at": "2026-07-16T16:06:06+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2024-07-10at12-51-57AnOpinionatedGuidetoLondonBookshops-HoxtonMiniPress.png?v=1720612521"
+    },
+    {
+      "title": "Flea",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-24at16-22-50Flea_AntenneBooks.png?v=1782314589",
+      "store_link": "https://magmabooks.com/products/bad-people-copy",
+      "published_at": "2026-07-16T13:26:32+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-24at16-22-50Flea_AntenneBooks.png?v=1782314589"
+    },
+    {
+      "title": "General Witchfinders #4",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-05-20at17-53-20GeneralWitchfindersZine_4BeltaneIssue_ColoursMayVary.png?v=1779296024",
+      "store_link": "https://magmabooks.com/products/general-witchfinders-zine-3-copy",
+      "published_at": "2026-07-16T10:51:11+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-05-20at17-53-20GeneralWitchfindersZine_4BeltaneIssue_ColoursMayVary.png?v=1779296024"
+    },
+    {
+      "title": "Beigeification",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-05123521.png?v=1780659529",
+      "store_link": "https://magmabooks.com/products/tools-for-men-with-feminist-ambitions-copy",
+      "published_at": "2026-07-16T10:50:57+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-05123521.png?v=1780659529"
+    },
+    {
       "title": "Alphabet Logo - Expanded Edition",
       "store": "Magma Books",
       "city": "런던",
@@ -540,127 +661,6 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "store_link": "https://magmabooks.com/products/all-of-this-unreal-time-copy",
       "published_at": "2026-07-10T15:41:01+01:00",
       "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-10153645.png?v=1783694324"
-    },
-    {
-      "title": "Watermelon Mini Hair Claw",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot_2025-07-30_at_11-48-27_Watermelon_Mini_Hair_Claw_Seasonal_Accessory_Coucou_Suzette.png?v=1753872622",
-      "store_link": "https://magmabooks.com/products/watermelon-mini-hair-claw",
-      "published_at": "2026-07-10T12:15:05+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot_2025-07-30_at_11-48-27_Watermelon_Mini_Hair_Claw_Seasonal_Accessory_Coucou_Suzette.png?v=1753872622"
-    },
-    {
-      "title": "Lily of the Valley Hair Claw",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot_2024-08-09_at_17-43-41_Lily_of_the_Valley_Flower_Hair_Claw_Coucou_Suzette.png?v=1723221835",
-      "store_link": "https://magmabooks.com/products/lily-of-the-valley-hair-claw",
-      "published_at": "2026-07-10T12:14:43+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot_2024-08-09_at_17-43-41_Lily_of_the_Valley_Flower_Hair_Claw_Coucou_Suzette.png?v=1723221835"
-    },
-    {
-      "title": "Moth Hair Clip",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/2024-05-23_15-11-37.jpg?v=1716473613",
-      "store_link": "https://magmabooks.com/products/moth-hair-clip",
-      "published_at": "2026-07-10T12:13:40+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/2024-05-23_15-11-37.jpg?v=1716473613"
-    },
-    {
-      "title": "Moth Hair Claw",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/2024-05-23_15-43-40.jpg?v=1716475596",
-      "store_link": "https://magmabooks.com/products/moth-hair-claw",
-      "published_at": "2026-07-10T12:13:15+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/2024-05-23_15-43-40.jpg?v=1716475596"
-    },
-    {
-      "title": "Rainbow Hair Clip",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot_2025-06-05_at_16-04-27_Colorful_Rainbow_Hair_Clip_Coucou_Suzette.png?v=1749135939",
-      "store_link": "https://magmabooks.com/products/rainbow-hair-clip",
-      "published_at": "2026-07-10T12:12:42+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot_2025-06-05_at_16-04-27_Colorful_Rainbow_Hair_Clip_Coucou_Suzette.png?v=1749135939"
-    },
-    {
-      "title": "Dachshund Hair Clip",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/d1.jpg?v=1696434898",
-      "store_link": "https://magmabooks.com/products/dachshund-hair-clip",
-      "published_at": "2026-07-10T12:12:05+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/d1.jpg?v=1696434898"
-    },
-    {
-      "title": "Black and White Hair Claw",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2024-06-26at17-27-43Black_WhiteCatHairclaw_CoucouSuzette.png?v=1719419465",
-      "store_link": "https://magmabooks.com/products/black-and-white-hair-claw",
-      "published_at": "2026-07-10T12:11:28+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2024-06-26at17-27-43Black_WhiteCatHairclaw_CoucouSuzette.png?v=1719419465"
-    },
-    {
-      "title": "Blue Eye Hair Claw",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/2024-05-23_16-15-32.jpg?v=1716477490",
-      "store_link": "https://magmabooks.com/products/green-eye-hair-claw-copy",
-      "published_at": "2026-07-10T12:11:14+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/2024-05-23_16-15-32.jpg?v=1716477490"
-    },
-    {
-      "title": "Palette Playbook",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-03-18123832.png?v=1773837729",
-      "store_link": "https://magmabooks.com/products/threedimensional-3d-graphics-in-branding-and-design-copy",
-      "published_at": "2026-07-09T16:11:26+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-03-18123832.png?v=1773837729"
-    },
-    {
-      "title": "Candomble: Sacred Rhythms in Brazil",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-09at14-20-46Candomble-Lespressesdureel_book.png?v=1783603359",
-      "store_link": "https://magmabooks.com/products/afro-sport-copy",
-      "published_at": "2026-07-09T14:25:31+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-09at14-20-46Candomble-Lespressesdureel_book.png?v=1783603359"
-    },
-    {
-      "title": "Handful of Tits: A Coloring Zine",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-09at14-07-08AriaGitaHandfulofTits_PublicKnowledge.png?v=1783602441",
-      "store_link": "https://magmabooks.com/products/general-witchfinders-4-copy",
-      "published_at": "2026-07-09T14:11:40+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-09at14-07-08AriaGitaHandfulofTits_PublicKnowledge.png?v=1783602441"
     },
     {
       "title": "Mast Books Tote Bag",
@@ -883,6 +883,17 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "cover": "https://cdn.shopify.com/s/files/1/0290/3562/6574/files/MB_WEINER_WE_ARE_SHIPS_01.jpg?v=1744483758"
     },
     {
+      "title": "Concrete: Mini Format",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "Phaidon Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/concrete-en-7515-3d-standing-front-3000_8a0e994f-6f9b-4f0d-899f-547365a0dc9c.jpg?v=1784178454",
+      "store_link": "https://www.phaidon.com/products/concrete-mini-format",
+      "published_at": "2026-07-16T06:07:18+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/concrete-en-7515-3d-standing-front-3000_8a0e994f-6f9b-4f0d-899f-547365a0dc9c.jpg?v=1784178454"
+    },
+    {
       "title": "Spring Pops Up!",
       "store": "Phaidon",
       "city": "출판사",
@@ -1092,15 +1103,70 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/Hadi_20Falapishi-2-72dpi.jpg?v=1784022336"
     },
     {
-      "title": "Love Bomb (Persian Cat) Edition 1/30",
-      "store": "Phaidon",
+      "title": "Home for Christmas",
+      "store": "Gestalten",
       "city": "출판사",
-      "section": "아트·디자인",
-      "author": "Artspace",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/Hadi_20Falapishi-1-72dpi.jpg?v=1784022336",
-      "store_link": "https://www.phaidon.com/products/hadi-falapishi-love-bomb-persian-cat-edition-1-30-5056880811057",
-      "published_at": "2026-07-14T10:45:19+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/Hadi_20Falapishi-1-72dpi.jpg?v=1784022336"
+      "section": "디자인",
+      "author": "teNeues",
+      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/Home-For-Christmas_front.png?v=1782125515",
+      "store_link": "https://shop.gestalten.com/products/home-for-christmas-decorating-for-the-holiday-season",
+      "published_at": "2026-07-16T15:14:50+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/Home-For-Christmas_front.png?v=1782125515"
+    },
+    {
+      "title": "Streets of Paris",
+      "store": "Gestalten",
+      "city": "출판사",
+      "section": "디자인",
+      "author": "teNeues",
+      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/41_be803f42-f224-414c-bfa6-c5d177ec8895.png?v=1781681836",
+      "store_link": "https://shop.gestalten.com/products/streets-of-paris-tn4t-edition",
+      "published_at": "2026-07-16T15:12:55+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/41_be803f42-f224-414c-bfa6-c5d177ec8895.png?v=1781681836"
+    },
+    {
+      "title": "Streets of New York",
+      "store": "Gestalten",
+      "city": "출판사",
+      "section": "디자인",
+      "author": "teNeues",
+      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/39_5d42d412-9511-4bee-815f-0634b542ef98.png?v=1782131741",
+      "store_link": "https://shop.gestalten.com/products/teneues-streets-of-new-york-tn4t-edition",
+      "published_at": "2026-07-16T15:12:53+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/39_5d42d412-9511-4bee-815f-0634b542ef98.png?v=1782131741"
+    },
+    {
+      "title": "Football - The Ultimate Book",
+      "store": "Gestalten",
+      "city": "출판사",
+      "section": "디자인",
+      "author": "teNeues",
+      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/FOOTBALLTUB.png?v=1782371055",
+      "store_link": "https://shop.gestalten.com/products/football-the-ultimate-book",
+      "published_at": "2026-07-16T15:09:33+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/FOOTBALLTUB.png?v=1782371055"
+    },
+    {
+      "title": "A Ranch Year",
+      "store": "Gestalten",
+      "city": "출판사",
+      "section": "디자인",
+      "author": "teNeues",
+      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/ARanchYear_front.png?v=1760001442",
+      "store_link": "https://shop.gestalten.com/products/a-ranch-year-cowboys-of-the-west",
+      "published_at": "2026-07-16T15:05:18+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/ARanchYear_front.png?v=1760001442"
+    },
+    {
+      "title": "Elliott Erwitt's Last Laughs",
+      "store": "Gestalten",
+      "city": "출판사",
+      "section": "디자인",
+      "author": "teNeues",
+      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/9783961716333_Last-Laughs_Cover-3D.png?v=1781786911",
+      "store_link": "https://shop.gestalten.com/products/elliott-erwitts-last-laughs",
+      "published_at": "2026-07-16T14:59:05+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/9783961716333_Last-Laughs_Cover-3D.png?v=1781786911"
     },
     {
       "title": "Deserts",
@@ -1255,72 +1321,6 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "store_link": "https://shop.gestalten.com/products/the-jaguar-book-collectors-edition",
       "published_at": "2026-06-17T11:27:08+02:00",
       "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/TheJaguarBook_front01.png?v=1760001104"
-    },
-    {
-      "title": "Basketball - Das ultimative Buch",
-      "store": "Gestalten",
-      "city": "출판사",
-      "section": "디자인",
-      "author": "teNeues",
-      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/BasektballDE_front.png?v=1760002489",
-      "store_link": "https://shop.gestalten.com/products/basketball-das-ultimative-buch",
-      "published_at": "2026-06-17T10:47:07+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/BasektballDE_front.png?v=1760002489"
-    },
-    {
-      "title": "Basketball - The Ultimate Book",
-      "store": "Gestalten",
-      "city": "출판사",
-      "section": "디자인",
-      "author": "teNeues",
-      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/BasketballEN_front.png?v=1760002402",
-      "store_link": "https://shop.gestalten.com/products/basketball-the-ultimate-book",
-      "published_at": "2026-06-17T10:47:04+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/BasketballEN_front.png?v=1760002402"
-    },
-    {
-      "title": "Fishing - The Ultimate Book",
-      "store": "Gestalten",
-      "city": "출판사",
-      "section": "디자인",
-      "author": "teNeues",
-      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/9783961716265_Fishing-The-Ultimate-Book_Cover-3D.png?v=1781622117",
-      "store_link": "https://shop.gestalten.com/products/fishing-the-ultimate-book",
-      "published_at": "2026-06-17T10:19:35+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/9783961716265_Fishing-The-Ultimate-Book_Cover-3D.png?v=1781622117"
-    },
-    {
-      "title": "The Stylish Life: Skiing",
-      "store": "Gestalten",
-      "city": "출판사",
-      "section": "디자인",
-      "author": "teNeues",
-      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/9783832732660_The-Stylish-Life-Skiing_Cover-front.png?v=1781532342",
-      "store_link": "https://shop.gestalten.com/products/the-stylish-life-skiing",
-      "published_at": "2026-06-17T10:16:34+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/9783832732660_The-Stylish-Life-Skiing_Cover-front.png?v=1781532342"
-    },
-    {
-      "title": "The Stylish Life: Cocktail Parties",
-      "store": "Gestalten",
-      "city": "출판사",
-      "section": "디자인",
-      "author": "teNeues",
-      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/9783961716661_The-Stylsih-Life-Cocktail-Parties_Cover-front.png?v=1781535488",
-      "store_link": "https://shop.gestalten.com/products/the-stylish-life-cocktail-parties",
-      "published_at": "2026-06-17T10:15:33+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/9783961716661_The-Stylsih-Life-Cocktail-Parties_Cover-front.png?v=1781535488"
-    },
-    {
-      "title": "The Stylish Life: Tennis",
-      "store": "Gestalten",
-      "city": "출판사",
-      "section": "디자인",
-      "author": "teNeues",
-      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/9783832732318_The-Stylish-Life-Tennis_Cover-front.png?v=1781538287",
-      "store_link": "https://shop.gestalten.com/products/the-stylish-life-tennis",
-      "published_at": "2026-06-17T10:14:08+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/9783832732318_The-Stylish-Life-Tennis_Cover-front.png?v=1781538287"
     },
     {
       "title": "The Happy Prince and Other Tales",

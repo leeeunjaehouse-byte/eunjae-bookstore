@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-16T08:12:15.244739+09:00",
-  "today": "2026-07-16",
+  "updated_at": "2026-07-17T08:07:18.718586+09:00",
+  "today": "2026-07-17",
   "books": [
     {
       "title": "여름엔 늘 좋은 일이 생긴다: 이윤희 만화집 · 이윤희",
@@ -37,6 +37,15 @@
       "store_cover": "https://www.your-mind.com/web/product/big/202606/be2adf34824d8519460a1d67ee875f1a.jpg",
       "cover": "https://www.your-mind.com/web/product/big/202606/be2adf34824d8519460a1d67ee875f1a.jpg",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=Still%20Life%20%C2%B7%20%EA%B9%80%EC%A7%84%EC%A3%BC"
+    },
+    {
+      "title": "[재입고] 광주에 가면 · 문진희",
+      "store": "유어마인드",
+      "section": "BOOKS",
+      "store_link": "https://www.your-mind.com/product/재입고-광주에-가면-·-문진희/6149/category/27/display/1/",
+      "store_cover": "https://www.your-mind.com/web/product/big/202606/b268b3959d10f416ecfde81a3cb3c931.png",
+      "cover": "https://www.your-mind.com/web/product/big/202606/b268b3959d10f416ecfde81a3cb3c931.png",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20%EA%B4%91%EC%A3%BC%EC%97%90%20%EA%B0%80%EB%A9%B4%20%C2%B7%20%EB%AC%B8%EC%A7%84%ED%9D%AC"
     },
     {
       "title": "[재입고] 실수 수집가 · 김수정",
@@ -262,15 +271,6 @@
       "store_cover": "https://www.your-mind.com/web/product/big/202604/63ca49063a2205f7ea892ef7761e7564.png",
       "cover": "https://www.your-mind.com/web/product/big/202604/63ca49063a2205f7ea892ef7761e7564.png",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B3%EC%B0%A8%20%EC%9E%85%EA%B3%A0%5D%20%EC%B2%A0%EB%8F%84%EC%99%80%20%EB%82%98%20%C2%B7%20%EA%B9%80%EC%9D%80%EC%A0%95"
-    },
-    {
-      "title": "[재입고] 볕뉘 아래서 눈을 감았다 · 안수현",
-      "store": "유어마인드",
-      "section": "BOOKS",
-      "store_link": "https://www.your-mind.com/product/재입고-볕뉘-아래서-눈을-감았다-·-안수현/5962/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202604/2419afc18546b2f27767aafdad318f73.png",
-      "cover": "https://www.your-mind.com/web/product/big/202604/2419afc18546b2f27767aafdad318f73.png",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20%EB%B3%95%EB%89%98%20%EC%95%84%EB%9E%98%EC%84%9C%20%EB%88%88%EC%9D%84%20%EA%B0%90%EC%95%98%EB%8B%A4%20%C2%B7%20%EC%95%88%EC%88%98%ED%98%84"
     },
     {
       "title": "[예약판매/배송비 무료] 숨겨둔 책 세트 (No.025, 026, 027)",
@@ -876,6 +876,15 @@
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EB%8F%99%EB%84%A4%EC%84%9C%EC%A0%90%20only%5D%20%EB%8B%A4%EC%A0%95%ED%95%9C%20%EA%B5%AC%EC%9B%90"
     },
     {
+      "title": "살이 너무 만화",
+      "store": "북앤스페이스",
+      "section": "신간·추천",
+      "store_link": "https://www.bookandspace.com/product/살이-너무-만화/744/category/24/display/1/",
+      "store_cover": "https://www.bookandspace.com/web/product/medium/202607/3a1349ab4f1e1b7fe9009c57396becc4.png",
+      "cover": "https://www.bookandspace.com/web/product/medium/202607/3a1349ab4f1e1b7fe9009c57396becc4.png",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%82%B4%EC%9D%B4%20%EB%84%88%EB%AC%B4%20%EB%A7%8C%ED%99%94"
+    },
+    {
       "title": "[재입고!] 우리, 밤말할까요",
       "store": "북앤스페이스",
       "section": "신간·추천",
@@ -1045,15 +1054,6 @@
       "store_cover": "https://www.bookandspace.com/web/product/medium/202506/e5ab6fdb95039a73111c169c06a0d757.jpg",
       "cover": "https://www.bookandspace.com/web/product/medium/202506/e5ab6fdb95039a73111c169c06a0d757.jpg",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EB%A6%AC%ED%83%80%EC%9D%98%20%EC%82%B0%EC%B1%85"
-    },
-    {
-      "title": "ㅈ 인생",
-      "store": "북앤스페이스",
-      "section": "신간·추천",
-      "store_link": "https://www.bookandspace.com/product/ㅈ-인생/710/category/24/display/1/",
-      "store_cover": "https://www.bookandspace.com/web/product/medium/202506/f653f23ceeb6b8f48b4e6cf8c35a7c28.jpg",
-      "cover": "https://www.bookandspace.com/web/product/medium/202506/f653f23ceeb6b8f48b4e6cf8c35a7c28.jpg",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%E3%85%88%20%EC%9D%B8%EC%83%9D"
     },
     {
       "title": "초록을 지닌 채 우리는",
@@ -2270,10 +2270,10 @@
   "errors": [],
   "total": 236,
   "stores_attempted": [
-    "사적인서점",
-    "고요서사",
     "유어마인드",
     "소심한책방",
-    "북앤스페이스"
+    "북앤스페이스",
+    "사적인서점",
+    "고요서사"
   ]
 }
