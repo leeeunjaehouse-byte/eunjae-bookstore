@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-07-17T08:07:18.718586+09:00",
-  "today": "2026-07-17",
+  "updated_at": "2026-07-18T08:03:07.027805+09:00",
+  "today": "2026-07-18",
   "books": [
+    {
+      "title": "거북복과 물떼새 머리뼈의 대화 · 모습",
+      "store": "유어마인드",
+      "section": "BOOKS",
+      "store_link": "https://www.your-mind.com/product/거북복과-물떼새-머리뼈의-대화-·-모습/6156/category/27/display/1/",
+      "store_cover": "https://www.your-mind.com/web/product/big/202607/819fcc8545127c4dbdc2461f85594485.png",
+      "cover": "https://www.your-mind.com/web/product/big/202607/819fcc8545127c4dbdc2461f85594485.png",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EA%B1%B0%EB%B6%81%EB%B3%B5%EA%B3%BC%20%EB%AC%BC%EB%96%BC%EC%83%88%20%EB%A8%B8%EB%A6%AC%EB%BC%88%EC%9D%98%20%EB%8C%80%ED%99%94%20%C2%B7%20%EB%AA%A8%EC%8A%B5"
+    },
     {
       "title": "여름엔 늘 좋은 일이 생긴다: 이윤희 만화집 · 이윤희",
       "store": "유어마인드",
@@ -147,6 +156,15 @@
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20%EC%8B%A0%EC%84%A0%ED%95%98%EA%B3%A0%20%EB%BE%B0%EC%A1%B1%ED%95%9C%20%EA%B0%80%EC%A7%80%20%C2%B7%20%EB%85%B8%EC%84%9D%EB%AF%B8"
     },
     {
+      "title": "바다의 앞모습 · 노석미",
+      "store": "유어마인드",
+      "section": "BOOKS",
+      "store_link": "https://www.your-mind.com/product/바다의-앞모습-·-노석미/5995/category/27/display/1/",
+      "store_cover": "https://www.your-mind.com/web/product/big/202605/9f854aeb2d1af12585f3ffc085edac44.png",
+      "cover": "https://www.your-mind.com/web/product/big/202605/9f854aeb2d1af12585f3ffc085edac44.png",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EB%B0%94%EB%8B%A4%EC%9D%98%20%EC%95%9E%EB%AA%A8%EC%8A%B5%20%C2%B7%20%EB%85%B8%EC%84%9D%EB%AF%B8"
+    },
+    {
       "title": "[재입고] Play Pocket · 이지영",
       "store": "유어마인드",
       "section": "BOOKS",
@@ -201,6 +219,15 @@
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%9D%8C%EC%95%85%EC%9D%98%20%EC%82%AC%EC%83%9D%ED%99%9C99%3A%202008%EB%85%84%20%EC%9C%A0%EC%99%84%EB%AC%B4%28%EC%96%84%EA%B0%9C%EB%93%A4%29%20%C2%B7%20%EC%9C%A0%EC%99%84%EB%AC%B4%2C%20%EC%8B%AC%EA%B7%9C%ED%83%9C"
     },
     {
+      "title": "『섬섬돌돌』 제3호 ‘재료손질’ · 공부중",
+      "store": "유어마인드",
+      "section": "BOOKS",
+      "store_link": "https://www.your-mind.com/product/섬섬돌돌-제3호-재료손질-·-공부중/5979/category/27/display/1/",
+      "store_cover": "https://www.your-mind.com/web/product/big/202604/2914274efbb28bbcbddb32ac0722431f.png",
+      "cover": "https://www.your-mind.com/web/product/big/202604/2914274efbb28bbcbddb32ac0722431f.png",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%E3%80%8E%EC%84%AC%EC%84%AC%EB%8F%8C%EB%8F%8C%E3%80%8F%20%EC%A0%9C3%ED%98%B8%20%E2%80%98%EC%9E%AC%EB%A3%8C%EC%86%90%EC%A7%88%E2%80%99%20%C2%B7%20%EA%B3%B5%EB%B6%80%EC%A4%91"
+    },
+    {
       "title": "[재입고] Me and Tove and a lot of books · 류은지",
       "store": "유어마인드",
       "section": "BOOKS",
@@ -244,33 +271,6 @@
       "store_cover": "https://www.your-mind.com/web/product/big/202604/f756285c215cd92619dc557141afee7d.png",
       "cover": "https://www.your-mind.com/web/product/big/202604/f756285c215cd92619dc557141afee7d.png",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20%EC%9D%B8%ED%84%B0%EB%84%B7%20%EA%B2%AC%EB%AC%B8%EB%A1%9D%20%C2%B7%20%EA%B9%80%ED%98%9C%EC%97%B0"
-    },
-    {
-      "title": "[4차 입고] 유령고양이의 두려움과 해골새의 즐거움 · 피칸트",
-      "store": "유어마인드",
-      "section": "BOOKS",
-      "store_link": "https://www.your-mind.com/product/4차-입고-유령고양이의-두려움과-해골새의-즐거움-·-피칸트/5966/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202604/ef03b56d2b741b63b26ef1108f8ba396.png",
-      "cover": "https://www.your-mind.com/web/product/big/202604/ef03b56d2b741b63b26ef1108f8ba396.png",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B4%EC%B0%A8%20%EC%9E%85%EA%B3%A0%5D%20%EC%9C%A0%EB%A0%B9%EA%B3%A0%EC%96%91%EC%9D%B4%EC%9D%98%20%EB%91%90%EB%A0%A4%EC%9B%80%EA%B3%BC%20%ED%95%B4%EA%B3%A8%EC%83%88%EC%9D%98%20%EC%A6%90%EA%B1%B0%EC%9B%80%20%C2%B7%20%ED%94%BC%EC%B9%B8%ED%8A%B8"
-    },
-    {
-      "title": "[4차 입고] 나무 그림자 채집 · 송민선, 최중원",
-      "store": "유어마인드",
-      "section": "BOOKS",
-      "store_link": "https://www.your-mind.com/product/4차-입고-나무-그림자-채집-·-송민선-최중원/5965/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202604/b09e2ec098e3bf50b4f8ac7b589d8ed5.png",
-      "cover": "https://www.your-mind.com/web/product/big/202604/b09e2ec098e3bf50b4f8ac7b589d8ed5.png",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B4%EC%B0%A8%20%EC%9E%85%EA%B3%A0%5D%20%EB%82%98%EB%AC%B4%20%EA%B7%B8%EB%A6%BC%EC%9E%90%20%EC%B1%84%EC%A7%91%20%C2%B7%20%EC%86%A1%EB%AF%BC%EC%84%A0%2C%20%EC%B5%9C%EC%A4%91%EC%9B%90"
-    },
-    {
-      "title": "[3차 입고] 철도와 나 · 김은정",
-      "store": "유어마인드",
-      "section": "BOOKS",
-      "store_link": "https://www.your-mind.com/product/3차-입고-철도와-나-·-김은정/5964/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202604/63ca49063a2205f7ea892ef7761e7564.png",
-      "cover": "https://www.your-mind.com/web/product/big/202604/63ca49063a2205f7ea892ef7761e7564.png",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B3%EC%B0%A8%20%EC%9E%85%EA%B3%A0%5D%20%EC%B2%A0%EB%8F%84%EC%99%80%20%EB%82%98%20%C2%B7%20%EA%B9%80%EC%9D%80%EC%A0%95"
     },
     {
       "title": "[예약판매/배송비 무료] 숨겨둔 책 세트 (No.025, 026, 027)",
@@ -876,15 +876,6 @@
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EB%8F%99%EB%84%A4%EC%84%9C%EC%A0%90%20only%5D%20%EB%8B%A4%EC%A0%95%ED%95%9C%20%EA%B5%AC%EC%9B%90"
     },
     {
-      "title": "살이 너무 만화",
-      "store": "북앤스페이스",
-      "section": "신간·추천",
-      "store_link": "https://www.bookandspace.com/product/살이-너무-만화/744/category/24/display/1/",
-      "store_cover": "https://www.bookandspace.com/web/product/medium/202607/3a1349ab4f1e1b7fe9009c57396becc4.png",
-      "cover": "https://www.bookandspace.com/web/product/medium/202607/3a1349ab4f1e1b7fe9009c57396becc4.png",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%82%B4%EC%9D%B4%20%EB%84%88%EB%AC%B4%20%EB%A7%8C%ED%99%94"
-    },
-    {
       "title": "[재입고!] 우리, 밤말할까요",
       "store": "북앤스페이스",
       "section": "신간·추천",
@@ -1054,6 +1045,15 @@
       "store_cover": "https://www.bookandspace.com/web/product/medium/202506/e5ab6fdb95039a73111c169c06a0d757.jpg",
       "cover": "https://www.bookandspace.com/web/product/medium/202506/e5ab6fdb95039a73111c169c06a0d757.jpg",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EB%A6%AC%ED%83%80%EC%9D%98%20%EC%82%B0%EC%B1%85"
+    },
+    {
+      "title": "ㅈ 인생",
+      "store": "북앤스페이스",
+      "section": "신간·추천",
+      "store_link": "https://www.bookandspace.com/product/ㅈ-인생/710/category/24/display/1/",
+      "store_cover": "https://www.bookandspace.com/web/product/medium/202506/f653f23ceeb6b8f48b4e6cf8c35a7c28.jpg",
+      "cover": "https://www.bookandspace.com/web/product/medium/202506/f653f23ceeb6b8f48b4e6cf8c35a7c28.jpg",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%E3%85%88%20%EC%9D%B8%EC%83%9D"
     },
     {
       "title": "초록을 지닌 채 우리는",
@@ -2271,9 +2271,9 @@
   "total": 236,
   "stores_attempted": [
     "유어마인드",
+    "사적인서점",
     "소심한책방",
     "북앤스페이스",
-    "사적인서점",
     "고요서사"
   ]
 }

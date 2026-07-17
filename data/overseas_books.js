@@ -1,6 +1,6 @@
 window.__OVERSEAS_BOOKS_DATA__ = {
-  "updated_at": "2026-07-17T08:07:35.832401+09:00",
-  "today": "2026-07-17",
+  "updated_at": "2026-07-18T08:03:22.329157+09:00",
+  "today": "2026-07-18",
   "books": [
     {
       "title": "Tank Volume 11 Issue #8 Summer 2026",
@@ -443,6 +443,17 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "cover": "https://cdn.shopify.com/s/files/1/0221/7340/files/Screenshot2026-05-10at16.19.03.png?v=1778426507"
     },
     {
+      "title": "Komura Setsudai",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/14577365_1000.jpg?v=1784303230",
+      "store_link": "https://magmabooks.com/products/komura-setsudai",
+      "published_at": "2026-07-17T16:47:27+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/14577365_1000.jpg?v=1784303230"
+    },
+    {
       "title": "Miffy Ivory Hair Clip Set (2pcs)",
       "store": "Magma Books",
       "city": "런던",
@@ -650,17 +661,6 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "store_link": "https://magmabooks.com/products/see-you-later",
       "published_at": "2026-07-11T14:00:44+01:00",
       "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/81MfSvixuaL._SL1500.jpg?v=1777641362"
-    },
-    {
-      "title": "All of This Unreal Time",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-10153645.png?v=1783694324",
-      "store_link": "https://magmabooks.com/products/all-of-this-unreal-time-copy",
-      "published_at": "2026-07-10T15:41:01+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-10153645.png?v=1783694324"
     },
     {
       "title": "Mast Books Tote Bag",
@@ -883,15 +883,26 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "cover": "https://cdn.shopify.com/s/files/1/0290/3562/6574/files/MB_WEINER_WE_ARE_SHIPS_01.jpg?v=1744483758"
     },
     {
-      "title": "Concrete: Mini Format",
+      "title": "Mory Sacko: Cuisinier (Édition signée)",
       "store": "Phaidon",
       "city": "출판사",
       "section": "아트·디자인",
       "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/concrete-en-7515-3d-standing-front-3000_8a0e994f-6f9b-4f0d-899f-547365a0dc9c.jpg?v=1784178454",
-      "store_link": "https://www.phaidon.com/products/concrete-mini-format",
-      "published_at": "2026-07-16T06:07:18+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/concrete-en-7515-3d-standing-front-3000_8a0e994f-6f9b-4f0d-899f-547365a0dc9c.jpg?v=1784178454"
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/mory-sacko-signed-edition-fr-9347-3d-overview-3000.jpg?v=1782848276",
+      "store_link": "https://www.phaidon.com/products/mory-sacko-cuisinier-edition-signee",
+      "published_at": "2026-07-17T16:00:57+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/mory-sacko-signed-edition-fr-9347-3d-overview-3000.jpg?v=1782848276"
+    },
+    {
+      "title": "Stone: Mini Format",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "Phaidon Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/stone-mini-format-en-9239-3d-standing-front-3000.jpg?v=1783957807",
+      "store_link": "https://www.phaidon.com/products/stone-mini-format",
+      "published_at": "2026-07-17T15:18:39+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/stone-mini-format-en-9239-3d-standing-front-3000.jpg?v=1783957807"
     },
     {
       "title": "Spring Pops Up!",
@@ -1092,15 +1103,15 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/laurie_20simmons_20388_20ORIG_15f375ea-f8dc-46a1-b994-1e61f76e84b7.jpg?v=1784022331"
     },
     {
-      "title": "Love Bomb (Persian Cat) Edition 2/30",
-      "store": "Phaidon",
+      "title": "Paris Blues",
+      "store": "Gestalten",
       "city": "출판사",
-      "section": "아트·디자인",
-      "author": "Artspace",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/Hadi_20Falapishi-2-72dpi.jpg?v=1784022336",
-      "store_link": "https://www.phaidon.com/products/hadi-falapishi-love-bomb-persian-cat-edition-2-30-5056880811675",
-      "published_at": "2026-07-14T10:45:19+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/Hadi_20Falapishi-2-72dpi.jpg?v=1784022336"
+      "section": "디자인",
+      "author": "teNeues",
+      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/9783961716685_Paris-Blues-Cover-front.png?v=1781077347",
+      "store_link": "https://shop.gestalten.com/products/paris-blues",
+      "published_at": "2026-07-17T14:59:38+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/9783961716685_Paris-Blues-Cover-front.png?v=1781077347"
     },
     {
       "title": "Home for Christmas",
@@ -1310,17 +1321,6 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "store_link": "https://shop.gestalten.com/products/the-ultimate-ski-book",
       "published_at": "2026-06-23T23:17:22+02:00",
       "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/TNSki_front.png?v=1781687257"
-    },
-    {
-      "title": "The Jaguar Book: Collector's Edition",
-      "store": "Gestalten",
-      "city": "출판사",
-      "section": "디자인",
-      "author": "teNeues",
-      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/TheJaguarBook_front01.png?v=1760001104",
-      "store_link": "https://shop.gestalten.com/products/the-jaguar-book-collectors-edition",
-      "published_at": "2026-06-17T11:27:08+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/TheJaguarBook_front01.png?v=1760001104"
     },
     {
       "title": "The Happy Prince and Other Tales",
