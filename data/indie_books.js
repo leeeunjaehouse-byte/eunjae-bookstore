@@ -1,6 +1,6 @@
 window.__INDIE_BOOKS_DATA__ = {
-  "updated_at": "2026-07-18T08:03:07.027805+09:00",
-  "today": "2026-07-18",
+  "updated_at": "2026-07-19T08:03:00.554470+09:00",
+  "today": "2026-07-19",
   "books": [
     {
       "title": "거북복과 물떼새 머리뼈의 대화 · 모습",
@@ -1833,8 +1833,8 @@ window.__INDIE_BOOKS_DATA__ = {
       "week": "2026년 7월 6일 ~ 7월 12일",
       "tb_page": "http://thanksbooks.com/site/thanksbooks/index.php/selection/weeklttb2026/",
       "store_cover": "",
-      "cover": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791199757684.jpg",
-      "buy_link": "https://product.kyobobook.co.kr/detail/S000220272256",
+      "cover": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791191347975.jpg",
+      "buy_link": "https://product.kyobobook.co.kr/detail/S000061451366",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%9A%B0%EB%A6%AC%EB%8A%94%20%EC%82%AC%EB%9E%91%ED%95%98%EA%B8%B0%20%EC%A2%8B%EC%9D%80%20%ED%8C%94%EC%9D%84%20%EA%B0%80%EC%A1%8C%EA%B5%AC%EB%82%98%28%ED%95%9C%EC%A7%80%20%EC%97%90%EB%94%94%EC%85%98%29"
     },
     {
@@ -2270,10 +2270,10 @@ window.__INDIE_BOOKS_DATA__ = {
   "errors": [],
   "total": 236,
   "stores_attempted": [
-    "유어마인드",
-    "사적인서점",
-    "소심한책방",
     "북앤스페이스",
-    "고요서사"
+    "소심한책방",
+    "유어마인드",
+    "고요서사",
+    "사적인서점"
   ]
 };

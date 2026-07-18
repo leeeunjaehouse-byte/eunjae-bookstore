@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-07-18T08:03:22.329157+09:00",
-  "today": "2026-07-18",
+  "updated_at": "2026-07-19T08:03:15.611726+09:00",
+  "today": "2026-07-19",
   "books": [
+    {
+      "title": "French Fries #11 S/S 2026",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "French Fries",
+      "store_cover": "",
+      "store_link": "https://www.doyoureadme.de/products/french-fries-11-s-s-2026",
+      "published_at": "2026-07-18T10:42:51+02:00",
+      "cover": ""
+    },
     {
       "title": "Tank Volume 11 Issue #8 Summer 2026",
       "store": "Do you read me?!",
@@ -210,17 +221,6 @@
       "store_link": "https://www.doyoureadme.de/products/acne-paper-21-2026-autoportrait",
       "published_at": "2026-07-14T13:33:00+02:00",
       "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Acne-Paper-21-2026_Autoportrait-1.jpg?v=1784028443"
-    },
-    {
-      "title": "emergent #15 2026",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "emergent Magazine",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/emergent-15-2026-1.jpg?v=1784028443",
-      "store_link": "https://www.doyoureadme.de/products/emergent-14-2026",
-      "published_at": "2026-07-14T13:33:00+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/emergent-15-2026-1.jpg?v=1784028443"
     },
     {
       "title": "The Red Book: A Reader's Edition by C.G. Jung",
@@ -443,6 +443,94 @@
       "cover": "https://cdn.shopify.com/s/files/1/0221/7340/files/Screenshot2026-05-10at16.19.03.png?v=1778426507"
     },
     {
+      "title": "SOLO #16",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-18144956.png?v=1784383557",
+      "store_link": "https://magmabooks.com/products/solo-10-copy",
+      "published_at": "2026-07-18T15:08:20+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-18144956.png?v=1784383557"
+    },
+    {
+      "title": "The Guardian long Read",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-18144536.png?v=1784383333",
+      "store_link": "https://magmabooks.com/products/sloft-magazine-10-copy",
+      "published_at": "2026-07-18T15:03:10+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-18144536.png?v=1784383333"
+    },
+    {
+      "title": "Sloft Magazine #10",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-18144054.png?v=1784383185",
+      "store_link": "https://magmabooks.com/products/sloft-magazine-copy",
+      "published_at": "2026-07-18T15:00:27+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-18144054.png?v=1784383185"
+    },
+    {
+      "title": "Glotta #2",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-18143613.png?v=1784383028",
+      "store_link": "https://magmabooks.com/products/record-culture-11-copy",
+      "published_at": "2026-07-18T14:57:54+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-18143613.png?v=1784383028"
+    },
+    {
+      "title": "Showa Modern - Ad Designs, 1920s-30s (New Ed.)",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/250916.showaadvert.9784861529931.jpg_500x693_bfa4dd77-7962-4e84-b11d-c97adb14ab4d.jpg?v=1778057286",
+      "store_link": "https://magmabooks.com/products/showa-modern-ad-designs-1920s-30s-new-ed",
+      "published_at": "2026-07-18T09:10:55+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/250916.showaadvert.9784861529931.jpg_500x693_bfa4dd77-7962-4e84-b11d-c97adb14ab4d.jpg?v=1778057286"
+    },
+    {
+      "title": "Showa Modern - Signs and Store Designs, 1920s–30s (New Ed.)",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/250917.showasigns.9784861529948.jpg_500x696_19a43956-9dfb-49b9-a5e7-1eaecd7ddff9.jpg?v=1778056713",
+      "store_link": "https://magmabooks.com/products/showa-modern-signs-and-store-designs-1920s-30s-new-ed",
+      "published_at": "2026-07-18T09:01:23+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/250917.showasigns.9784861529948.jpg_500x696_19a43956-9dfb-49b9-a5e7-1eaecd7ddff9.jpg?v=1778056713"
+    },
+    {
+      "title": "Green Style Notebook",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-03-26165500.png?v=1774544198",
+      "store_link": "https://magmabooks.com/products/cooking-style-notebook-copy-1",
+      "published_at": "2026-07-18T09:01:13+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-03-26165500.png?v=1774544198"
+    },
+    {
+      "title": "Cooking Style Notebook",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-03-26163040.png?v=1774543682",
+      "store_link": "https://magmabooks.com/products/dog-notebook-memo-pad-grid-red-copy",
+      "published_at": "2026-07-18T09:01:02+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-03-26163040.png?v=1774543682"
+    },
+    {
       "title": "Komura Setsudai",
       "store": "Magma Books",
       "city": "런던",
@@ -573,94 +661,6 @@
       "store_link": "https://magmabooks.com/products/tools-for-men-with-feminist-ambitions-copy",
       "published_at": "2026-07-16T10:50:57+01:00",
       "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-05123521.png?v=1780659529"
-    },
-    {
-      "title": "Alphabet Logo - Expanded Edition",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/61P1C66V1zL._SL1200.jpg?v=1771160261",
-      "store_link": "https://magmabooks.com/products/alphabet-logo-expanded-edition",
-      "published_at": "2026-07-15T14:04:10+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/61P1C66V1zL._SL1200.jpg?v=1771160261"
-    },
-    {
-      "title": "The Story is Everything",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/products/5121qW0fj-L.jpg?v=1657111623",
-      "store_link": "https://magmabooks.com/products/the-story-is-everything",
-      "published_at": "2026-07-15T14:02:57+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/products/5121qW0fj-L.jpg?v=1657111623"
-    },
-    {
-      "title": "The Wisdom of Ancient Japan",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-04-10151301.png?v=1775830726",
-      "store_link": "https://magmabooks.com/products/japonisme-copy",
-      "published_at": "2026-07-15T13:58:23+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-04-10151301.png?v=1775830726"
-    },
-    {
-      "title": "Wardrobe Theory Project #3",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-13at14-51-20WardrobeTheoryProject.png?v=1783950706",
-      "store_link": "https://magmabooks.com/products/wardrobe-theory-project-1-copy",
-      "published_at": "2026-07-13T14:54:57+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-13at14-51-20WardrobeTheoryProject.png?v=1783950706"
-    },
-    {
-      "title": "Kitchen Table #8",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-13at14-40-13KitchenTableIssue8-PicsandInk.png?v=1783950044",
-      "store_link": "https://magmabooks.com/products/kitchen-table-7-copy",
-      "published_at": "2026-07-13T14:42:44+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-13at14-40-13KitchenTableIssue8-PicsandInk.png?v=1783950044"
-    },
-    {
-      "title": "Look at Me: Antwerp",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-13at13-47-43LookAtMeAntwerp_AntenneBooks.png?v=1783946932",
-      "store_link": "https://magmabooks.com/products/smoking-hot-horses-copy",
-      "published_at": "2026-07-13T13:50:55+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-13at13-47-43LookAtMeAntwerp_AntenneBooks.png?v=1783946932"
-    },
-    {
-      "title": "FUKT #23",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2025-10-31at12-34-28COVER_Fukt_Sound_23.jpg_JPEGImage750x1029pixels_Scaled_81.png?v=1761914424",
-      "store_link": "https://magmabooks.com/products/fukt-23",
-      "published_at": "2026-07-11T17:23:24+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2025-10-31at12-34-28COVER_Fukt_Sound_23.jpg_JPEGImage750x1029pixels_Scaled_81.png?v=1761914424"
-    },
-    {
-      "title": "See You Later...",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/81MfSvixuaL._SL1500.jpg?v=1777641362",
-      "store_link": "https://magmabooks.com/products/see-you-later",
-      "published_at": "2026-07-11T14:00:44+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/81MfSvixuaL._SL1500.jpg?v=1777641362"
     },
     {
       "title": "Mast Books Tote Bag",
