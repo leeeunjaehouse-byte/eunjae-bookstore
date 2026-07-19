@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-19T08:03:00.554470+09:00",
-  "today": "2026-07-19",
+  "updated_at": "2026-07-20T08:02:07.649885+09:00",
+  "today": "2026-07-20",
   "books": [
     {
       "title": "거북복과 물떼새 머리뼈의 대화 · 모습",
@@ -138,6 +138,15 @@
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=Side%20Project-%EC%BD%B0%EC%95%BC%20%EC%84%B8%EB%9D%BC%EB%AF%B9%20%EC%9E%91%ED%92%88%EC%A7%91%20%C2%B7%20%EC%BD%B0%EC%95%BC"
     },
     {
+      "title": "[재입고] CAT CODE · 노말에이",
+      "store": "유어마인드",
+      "section": "BOOKS",
+      "store_link": "https://www.your-mind.com/product/재입고-cat-code-·-노말에이/5998/category/27/display/1/",
+      "store_cover": "https://www.your-mind.com/web/product/big/202605/5e7e0eb0fa0da1e51465f37b7048fb8b.png",
+      "cover": "https://www.your-mind.com/web/product/big/202605/5e7e0eb0fa0da1e51465f37b7048fb8b.png",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20CAT%20CODE%20%C2%B7%20%EB%85%B8%EB%A7%90%EC%97%90%EC%9D%B4"
+    },
+    {
       "title": "[재입고] 작업실 고양이 · 노석미",
       "store": "유어마인드",
       "section": "BOOKS",
@@ -262,15 +271,6 @@
       "store_cover": "https://www.your-mind.com/web/product/big/202604/c609f77dc2d2c7c73f058c53caf702bf.png",
       "cover": "https://www.your-mind.com/web/product/big/202604/c609f77dc2d2c7c73f058c53caf702bf.png",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B3%EC%B0%A8%20%EC%9E%85%EA%B3%A0%5D%20%EC%98%A4%EB%8A%98%EC%9D%98%20%ED%8C%AC%EC%BC%80%EC%9D%B5%3A%20%EB%92%A4%EC%A7%91%EA%B8%B0%20%EC%A0%84%EC%97%90%EB%8A%94%20%EC%95%84%EB%AC%B4%EB%8F%84%20%EB%AA%A8%EB%A5%B8%EB%8B%A4%20%C2%B7%20%EB%82%A8%EC%84%A0%EC%9A%B0"
-    },
-    {
-      "title": "[재입고] 인터넷 견문록 · 김혜연",
-      "store": "유어마인드",
-      "section": "BOOKS",
-      "store_link": "https://www.your-mind.com/product/재입고-인터넷-견문록-·-김혜연/5967/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202604/f756285c215cd92619dc557141afee7d.png",
-      "cover": "https://www.your-mind.com/web/product/big/202604/f756285c215cd92619dc557141afee7d.png",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20%EC%9D%B8%ED%84%B0%EB%84%B7%20%EA%B2%AC%EB%AC%B8%EB%A1%9D%20%C2%B7%20%EA%B9%80%ED%98%9C%EC%97%B0"
     },
     {
       "title": "[예약판매/배송비 무료] 숨겨둔 책 세트 (No.025, 026, 027)",
@@ -1542,6 +1542,15 @@
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%A0%9C%EC%8B%9C%EC%B9%B4%20J.%20%EB%A6%AC%28%EC%A7%80%EC%9D%80%EC%9D%B4%29%2C%20%EC%84%9C%EC%A0%9C%EC%9D%B8%28%EC%98%AE%EA%B8%B4%EC%9D%B4%29%E3%80%8E%ED%9D%A9%EC%96%B4%EC%A7%90%E3%80%8F"
     },
     {
+      "title": "김아영: 합성의 스토리텔러 (개정판)",
+      "store": "더북소사이어티",
+      "section": "큐레이션",
+      "store_link": "https://thebooksociety.org/shop_view/?idx=1265",
+      "store_cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/a11ee34b4a600.jpg?w=800",
+      "cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/a11ee34b4a600.jpg?w=800",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EA%B9%80%EC%95%84%EC%98%81%3A%20%ED%95%A9%EC%84%B1%EC%9D%98%20%EC%8A%A4%ED%86%A0%EB%A6%AC%ED%85%94%EB%9F%AC%20%28%EA%B0%9C%EC%A0%95%ED%8C%90%29"
+    },
+    {
       "title": "시트 마리-로즈",
       "store": "더북소사이어티",
       "section": "큐레이션",
@@ -1801,15 +1810,6 @@
       "store_cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/20efabf542d86.jpg?w=800",
       "cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/20efabf542d86.jpg?w=800",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=e-flux%20Index%20%237"
-    },
-    {
-      "title": "e-flux Index #6",
-      "store": "더북소사이어티",
-      "section": "큐레이션",
-      "store_link": "https://thebooksociety.org/shop_view/?idx=1303",
-      "store_cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/9efeb99f607fc.jpg?w=800",
-      "cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/9efeb99f607fc.jpg?w=800",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=e-flux%20Index%20%236"
     },
     {
       "title": "여름, 커피",
@@ -2270,10 +2270,10 @@
   "errors": [],
   "total": 236,
   "stores_attempted": [
-    "북앤스페이스",
     "소심한책방",
+    "사적인서점",
     "유어마인드",
     "고요서사",
-    "사적인서점"
+    "북앤스페이스"
   ]
 }

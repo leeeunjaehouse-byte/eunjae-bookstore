@@ -1,6 +1,6 @@
 window.__OVERSEAS_BOOKS_DATA__ = {
-  "updated_at": "2026-07-19T08:03:15.611726+09:00",
-  "today": "2026-07-19",
+  "updated_at": "2026-07-20T08:02:22.003978+09:00",
+  "today": "2026-07-20",
   "books": [
     {
       "title": "French Fries #11 S/S 2026",
@@ -443,6 +443,61 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "cover": "https://cdn.shopify.com/s/files/1/0221/7340/files/Screenshot2026-05-10at16.19.03.png?v=1778426507"
     },
     {
+      "title": "Interview #567",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Interview567_1200x1886_280761c5-c935-412c-a60e-dd7f9b7555a0.webp?v=1784462469",
+      "store_link": "https://magmabooks.com/products/interview-567",
+      "published_at": "2026-07-19T16:21:53+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Interview567_1200x1886_280761c5-c935-412c-a60e-dd7f9b7555a0.webp?v=1784462469"
+    },
+    {
+      "title": "Hanon Mizutani",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/fa5krYTZ_0sqRnI.jpg?v=1784474391",
+      "store_link": "https://magmabooks.com/products/hanon-mizutani",
+      "published_at": "2026-07-19T16:19:59+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/fa5krYTZ_0sqRnI.jpg?v=1784474391"
+    },
+    {
+      "title": "Alphabet #4",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Alphabet_4_1_ab6bd0a1-5267-4e8e-b67a-5531f38f1cf5.jpg?v=1784471523",
+      "store_link": "https://magmabooks.com/products/alphabet-4",
+      "published_at": "2026-07-19T15:33:33+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Alphabet_4_1_ab6bd0a1-5267-4e8e-b67a-5531f38f1cf5.jpg?v=1784471523"
+    },
+    {
+      "title": "sabukaru #2",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/260512_SBK_magazine_exploration_MASTER_FILE_COVER_front6.webp?v=1784463457",
+      "store_link": "https://magmabooks.com/products/sabukaru-2",
+      "published_at": "2026-07-19T13:24:59+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/260512_SBK_magazine_exploration_MASTER_FILE_COVER_front6.webp?v=1784463457"
+    },
+    {
+      "title": "Carcy #15",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-19at12-50-20CARCYMagazine_15PRE-ORDER.png?v=1784461865",
+      "store_link": "https://magmabooks.com/products/carcy-15",
+      "published_at": "2026-07-19T12:53:03+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-19at12-50-20CARCYMagazine_15PRE-ORDER.png?v=1784461865"
+    },
+    {
       "title": "SOLO #16",
       "store": "Magma Books",
       "city": "런던",
@@ -606,61 +661,6 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "store_link": "https://magmabooks.com/products/pull-letter-6",
       "published_at": "2026-07-16T16:18:41+01:00",
       "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/PL_Cover2_Rewilding.webp?v=1784215057"
-    },
-    {
-      "title": "Servilletas (Spanish Napkins)",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-16at16-00-12AB8672-servilletas-03.jpg_JPEGImage1668x1253pixels_Scaled_71.png?v=1784214388",
-      "store_link": "https://magmabooks.com/products/servilletas-spanish-napkins",
-      "published_at": "2026-07-16T16:10:31+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-16at16-00-12AB8672-servilletas-03.jpg_JPEGImage1668x1253pixels_Scaled_71.png?v=1784214388"
-    },
-    {
-      "title": "An Opinionated Guide to London Bookshop's",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2024-07-10at12-51-57AnOpinionatedGuidetoLondonBookshops-HoxtonMiniPress.png?v=1720612521",
-      "store_link": "https://magmabooks.com/products/an-opinionated-guide-to-london-bookshops",
-      "published_at": "2026-07-16T16:06:06+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2024-07-10at12-51-57AnOpinionatedGuidetoLondonBookshops-HoxtonMiniPress.png?v=1720612521"
-    },
-    {
-      "title": "Flea",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-24at16-22-50Flea_AntenneBooks.png?v=1782314589",
-      "store_link": "https://magmabooks.com/products/bad-people-copy",
-      "published_at": "2026-07-16T13:26:32+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-24at16-22-50Flea_AntenneBooks.png?v=1782314589"
-    },
-    {
-      "title": "General Witchfinders #4",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-05-20at17-53-20GeneralWitchfindersZine_4BeltaneIssue_ColoursMayVary.png?v=1779296024",
-      "store_link": "https://magmabooks.com/products/general-witchfinders-zine-3-copy",
-      "published_at": "2026-07-16T10:51:11+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-05-20at17-53-20GeneralWitchfindersZine_4BeltaneIssue_ColoursMayVary.png?v=1779296024"
-    },
-    {
-      "title": "Beigeification",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-05123521.png?v=1780659529",
-      "store_link": "https://magmabooks.com/products/tools-for-men-with-feminist-ambitions-copy",
-      "published_at": "2026-07-16T10:50:57+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-05123521.png?v=1780659529"
     },
     {
       "title": "Mast Books Tote Bag",
