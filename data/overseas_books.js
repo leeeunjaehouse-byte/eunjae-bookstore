@@ -1,17 +1,17 @@
 window.__OVERSEAS_BOOKS_DATA__ = {
-  "updated_at": "2026-07-20T08:02:22.003978+09:00",
-  "today": "2026-07-20",
+  "updated_at": "2026-07-21T08:02:55.711629+09:00",
+  "today": "2026-07-21",
   "books": [
     {
-      "title": "French Fries #11 S/S 2026",
+      "title": "Mysteries of a Communist Cave: Oscar Niemeyer’s PCF building",
       "store": "Do you read me?!",
       "city": "베를린",
       "section": "잡지·아트북",
-      "author": "French Fries",
-      "store_cover": "",
-      "store_link": "https://www.doyoureadme.de/products/french-fries-11-s-s-2026",
-      "published_at": "2026-07-18T10:42:51+02:00",
-      "cover": ""
+      "author": "Park Books",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43325-Mysteries-of-a-Communist-Cave-Oscar-Niemeyers-PCF-building-1.jpg?v=1781602176",
+      "store_link": "https://www.doyoureadme.de/products/mysteries-of-a-communist-cave",
+      "published_at": "2026-07-20T16:02:13+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43325-Mysteries-of-a-Communist-Cave-Oscar-Niemeyers-PCF-building-1.jpg?v=1781602176"
     },
     {
       "title": "Tank Volume 11 Issue #8 Summer 2026",
@@ -78,17 +78,6 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "store_link": "https://www.doyoureadme.de/products/behind-the-blinds-19-2026",
       "published_at": "2026-07-16T10:44:02+02:00",
       "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43691-Behind-The-Blinds-19-2026-1.jpg?v=1784199291"
-    },
-    {
-      "title": "The Wire #510 Aug. 2026",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "The Wire",
-      "store_cover": "",
-      "store_link": "https://www.doyoureadme.de/products/the-wire-510-aug-2026",
-      "published_at": "2026-07-14T14:32:36+02:00",
-      "cover": ""
     },
     {
       "title": "Ecoes #8",
@@ -221,6 +210,17 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "store_link": "https://www.doyoureadme.de/products/acne-paper-21-2026-autoportrait",
       "published_at": "2026-07-14T13:33:00+02:00",
       "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Acne-Paper-21-2026_Autoportrait-1.jpg?v=1784028443"
+    },
+    {
+      "title": "emergent #15 2026",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "emergent Magazine",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/emergent-15-2026-1.jpg?v=1784028443",
+      "store_link": "https://www.doyoureadme.de/products/emergent-14-2026",
+      "published_at": "2026-07-14T13:33:00+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/emergent-15-2026-1.jpg?v=1784028443"
     },
     {
       "title": "The Red Book: A Reader's Edition by C.G. Jung",
@@ -443,15 +443,114 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "cover": "https://cdn.shopify.com/s/files/1/0221/7340/files/Screenshot2026-05-10at16.19.03.png?v=1778426507"
     },
     {
-      "title": "Interview #567",
+      "title": "Lines of the Hand",
       "store": "Magma Books",
       "city": "런던",
       "section": "디자인·아트",
       "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Interview567_1200x1886_280761c5-c935-412c-a60e-dd7f9b7555a0.webp?v=1784462469",
-      "store_link": "https://magmabooks.com/products/interview-567",
-      "published_at": "2026-07-19T16:21:53+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Interview567_1200x1886_280761c5-c935-412c-a60e-dd7f9b7555a0.webp?v=1784462469"
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-20160321.png?v=1784562685",
+      "store_link": "https://magmabooks.com/products/the-incomplete-deck-copy",
+      "published_at": "2026-07-20T16:51:33+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-20160321.png?v=1784562685"
+    },
+    {
+      "title": "Fare #19 Athens",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-20at16-49-36Fare_Athens_Cover_Web.jpg_JPEGImage1080x1080pixels_Scaled_87.png?v=1784562582",
+      "store_link": "https://magmabooks.com/products/fare-19-athens",
+      "published_at": "2026-07-20T16:46:43+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-20at16-49-36Fare_Athens_Cover_Web.jpg_JPEGImage1080x1080pixels_Scaled_87.png?v=1784562582"
+    },
+    {
+      "title": "The Incomplete Deck",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/IMG_2685.jpg?v=1784562374",
+      "store_link": "https://magmabooks.com/products/dead-jobs-dont-take-it-personal-copy",
+      "published_at": "2026-07-20T16:46:28+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/IMG_2685.jpg?v=1784562374"
+    },
+    {
+      "title": "Fare #14 Mexico City",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/faremexico.png?v=1707571939",
+      "store_link": "https://magmabooks.com/products/fare-14-mexico-city",
+      "published_at": "2026-07-20T16:43:49+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/faremexico.png?v=1707571939"
+    },
+    {
+      "title": "Fare #12 Copenhagen",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/products/Screenshot2022-12-15at11-18-30Fare_12_Copenhagen_Cover.png_PNGImage1500x1500pixels_Scaled_60.png?v=1674128933",
+      "store_link": "https://magmabooks.com/products/fare-12-copenhagen",
+      "published_at": "2026-07-20T16:43:48+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/products/Screenshot2022-12-15at11-18-30Fare_12_Copenhagen_Cover.png_PNGImage1500x1500pixels_Scaled_60.png?v=1674128933"
+    },
+    {
+      "title": "Fare #11 Lisbon",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/products/Screenshot2022-09-03at11-49-40Fare-Lisbon-Cover.png_PNGImage1500x1500pixels_Scaled_45.png?v=1662202458",
+      "store_link": "https://magmabooks.com/products/fare-11-lisbon",
+      "published_at": "2026-07-20T16:43:47+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/products/Screenshot2022-09-03at11-49-40Fare-Lisbon-Cover.png_PNGImage1500x1500pixels_Scaled_45.png?v=1662202458"
+    },
+    {
+      "title": "Dead Jobs - don't take it personal",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-20161127.png?v=1784561631",
+      "store_link": "https://magmabooks.com/products/synth-history-5-copy",
+      "published_at": "2026-07-20T16:35:03+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-20161127.png?v=1784561631"
+    },
+    {
+      "title": "You Don't Make a Masterpiece, You Survive One",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-20161354.png?v=1784561364",
+      "store_link": "https://magmabooks.com/products/bad-people-copy-1",
+      "published_at": "2026-07-20T16:30:21+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-20161354.png?v=1784561364"
+    },
+    {
+      "title": "Cyanotote - Solar Print Cyanotype Tote Bag",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-20162040.png?v=1784560989",
+      "store_link": "https://magmabooks.com/products/limited-edition-magma-tote-bag-2000-2025-b-w-copy",
+      "published_at": "2026-07-20T16:25:49+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-20162040.png?v=1784560989"
+    },
+    {
+      "title": "Go Name Yourself",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/products/2020-12-13_14-50-09.jpg?v=1607871064",
+      "store_link": "https://magmabooks.com/products/go-name-yourself",
+      "published_at": "2026-07-20T12:47:40+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/products/2020-12-13_14-50-09.jpg?v=1607871064"
     },
     {
       "title": "Hanon Mizutani",
@@ -520,7 +619,7 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-18144536.png?v=1784383333"
     },
     {
-      "title": "Sloft Magazine #10",
+      "title": "Sloft #10",
       "store": "Magma Books",
       "city": "런던",
       "section": "디자인·아트",
@@ -562,105 +661,6 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "store_link": "https://magmabooks.com/products/showa-modern-signs-and-store-designs-1920s-30s-new-ed",
       "published_at": "2026-07-18T09:01:23+01:00",
       "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/250917.showasigns.9784861529948.jpg_500x696_19a43956-9dfb-49b9-a5e7-1eaecd7ddff9.jpg?v=1778056713"
-    },
-    {
-      "title": "Green Style Notebook",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-03-26165500.png?v=1774544198",
-      "store_link": "https://magmabooks.com/products/cooking-style-notebook-copy-1",
-      "published_at": "2026-07-18T09:01:13+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-03-26165500.png?v=1774544198"
-    },
-    {
-      "title": "Cooking Style Notebook",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-03-26163040.png?v=1774543682",
-      "store_link": "https://magmabooks.com/products/dog-notebook-memo-pad-grid-red-copy",
-      "published_at": "2026-07-18T09:01:02+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-03-26163040.png?v=1774543682"
-    },
-    {
-      "title": "Komura Setsudai",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/14577365_1000.jpg?v=1784303230",
-      "store_link": "https://magmabooks.com/products/komura-setsudai",
-      "published_at": "2026-07-17T16:47:27+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/14577365_1000.jpg?v=1784303230"
-    },
-    {
-      "title": "Miffy Ivory Hair Clip Set (2pcs)",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/16174631_7.jpg?v=1784217483",
-      "store_link": "https://magmabooks.com/products/miffy-ivory-hair-clip-set-2pcs",
-      "published_at": "2026-07-16T17:35:57+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/16174631_7.jpg?v=1784217483"
-    },
-    {
-      "title": "Miffy Fringe/Bangs Hair Clip Set (2pcs)",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/16174631_11.jpg?v=1784217022",
-      "store_link": "https://magmabooks.com/products/miffy-fringe-bangs-hair-clip-set-2pcs",
-      "published_at": "2026-07-16T16:52:06+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/16174631_11.jpg?v=1784217022"
-    },
-    {
-      "title": "Elmo Coin Purse",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/15604687_5.jpg?v=1784216136",
-      "store_link": "https://magmabooks.com/products/elmo-coin-purse",
-      "published_at": "2026-07-16T16:35:48+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/15604687_5.jpg?v=1784216136"
-    },
-    {
-      "title": "Cookie Monster Coin Purse",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/15604656_5.jpg?v=1784215904",
-      "store_link": "https://magmabooks.com/products/cookie-monster-coin-purse",
-      "published_at": "2026-07-16T16:33:26+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/15604656_5.jpg?v=1784215904"
-    },
-    {
-      "title": "Moomin Mini Tray Blind Box",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-16at16-25-0113893930_1001.jpg_JPEGImage1000x1000pixels_Scaled_89.png?v=1784215544",
-      "store_link": "https://magmabooks.com/products/moomin-mini-tray-blind-box",
-      "published_at": "2026-07-16T16:29:39+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-16at16-25-0113893930_1001.jpg_JPEGImage1000x1000pixels_Scaled_89.png?v=1784215544"
-    },
-    {
-      "title": "Pull Letter #6",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/PL_Cover2_Rewilding.webp?v=1784215057",
-      "store_link": "https://magmabooks.com/products/pull-letter-6",
-      "published_at": "2026-07-16T16:18:41+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/PL_Cover2_Rewilding.webp?v=1784215057"
     },
     {
       "title": "Mast Books Tote Bag",
@@ -883,15 +883,15 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "cover": "https://cdn.shopify.com/s/files/1/0290/3562/6574/files/MB_WEINER_WE_ARE_SHIPS_01.jpg?v=1744483758"
     },
     {
-      "title": "Mory Sacko: Cuisinier (Édition signée)",
+      "title": "The Tomorrow Tree: How Nature Creates New Life From Old",
       "store": "Phaidon",
       "city": "출판사",
       "section": "아트·디자인",
       "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/mory-sacko-signed-edition-fr-9347-3d-overview-3000.jpg?v=1782848276",
-      "store_link": "https://www.phaidon.com/products/mory-sacko-cuisinier-edition-signee",
-      "published_at": "2026-07-17T16:00:57+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/mory-sacko-signed-edition-fr-9347-3d-overview-3000.jpg?v=1782848276"
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/the-tomorrow-tree-ae-9057-standing-front-3000_15b6f8c1-753c-416d-8f10-e0aee776394b.jpg?v=1764656692",
+      "store_link": "https://www.phaidon.com/products/the-tomorrow-tree-how-nature-creates-new-life-from-old",
+      "published_at": "2026-07-20T09:09:32+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/the-tomorrow-tree-ae-9057-standing-front-3000_15b6f8c1-753c-416d-8f10-e0aee776394b.jpg?v=1764656692"
     },
     {
       "title": "Stone: Mini Format",
@@ -1103,6 +1103,17 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/laurie_20simmons_20388_20ORIG_15f375ea-f8dc-46a1-b994-1e61f76e84b7.jpg?v=1784022331"
     },
     {
+      "title": "Rebirth",
+      "store": "Gestalten",
+      "city": "출판사",
+      "section": "디자인",
+      "author": "teNeues",
+      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/rebirth_5fa059e2-a186-4062-a240-655e441b7dab.png?v=1777980516",
+      "store_link": "https://shop.gestalten.com/products/rebirth",
+      "published_at": "2026-07-20T10:05:13+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/rebirth_5fa059e2-a186-4062-a240-655e441b7dab.png?v=1777980516"
+    },
+    {
       "title": "Paris Blues",
       "store": "Gestalten",
       "city": "출판사",
@@ -1310,17 +1321,6 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "store_link": "https://shop.gestalten.com/products/nager-en-liberte",
       "published_at": "2026-06-30T15:32:08+02:00",
       "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/SWIJO26_FR_webshop_mockup.png?v=1782827273"
-    },
-    {
-      "title": "The Ultimate Ski Book",
-      "store": "Gestalten",
-      "city": "출판사",
-      "section": "디자인",
-      "author": "teNeues",
-      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/TNSki_front.png?v=1781687257",
-      "store_link": "https://shop.gestalten.com/products/the-ultimate-ski-book",
-      "published_at": "2026-06-23T23:17:22+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/TNSki_front.png?v=1781687257"
     },
     {
       "title": "The Happy Prince and Other Tales",

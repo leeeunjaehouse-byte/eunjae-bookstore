@@ -1,6 +1,6 @@
 window.__INDIE_BOOKS_DATA__ = {
-  "updated_at": "2026-07-20T08:02:07.649885+09:00",
-  "today": "2026-07-20",
+  "updated_at": "2026-07-21T08:02:37.852467+09:00",
+  "today": "2026-07-21",
   "books": [
     {
       "title": "거북복과 물떼새 머리뼈의 대화 · 모습",
@@ -82,6 +82,15 @@ window.__INDIE_BOOKS_DATA__ = {
       "store_cover": "https://www.your-mind.com/web/product/big/202605/262dae6f0e1f13291013fbcca117f6db.png",
       "cover": "https://www.your-mind.com/web/product/big/202605/262dae6f0e1f13291013fbcca117f6db.png",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=Sunny%20Bier%20Klub%28Re-Design%29%20%C2%B7%20%EC%9D%B4%ED%95%98%EC%97%AC%EB%B0%B1"
+    },
+    {
+      "title": "[4차 입고] 놀이와 시와 타이포그래피: 오래된 시-놀이 속 자유와 해방의 글자 실험 · 이윤호",
+      "store": "유어마인드",
+      "section": "BOOKS",
+      "store_link": "https://www.your-mind.com/product/4차-입고-놀이와-시와-타이포그래피-오래된-시-놀이-속-자유와-해방의-글자-실험-·-이윤호/6008/category/27/display/1/",
+      "store_cover": "https://www.your-mind.com/web/product/big/202605/1ad7975224e74f57e576eb644c7611ca.png",
+      "cover": "https://www.your-mind.com/web/product/big/202605/1ad7975224e74f57e576eb644c7611ca.png",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B4%EC%B0%A8%20%EC%9E%85%EA%B3%A0%5D%20%EB%86%80%EC%9D%B4%EC%99%80%20%EC%8B%9C%EC%99%80%20%ED%83%80%EC%9D%B4%ED%8F%AC%EA%B7%B8%EB%9E%98%ED%94%BC%3A%20%EC%98%A4%EB%9E%98%EB%90%9C%20%EC%8B%9C-%EB%86%80%EC%9D%B4%20%EC%86%8D%20%EC%9E%90%EC%9C%A0%EC%99%80%20%ED%95%B4%EB%B0%A9%EC%9D%98%20%EA%B8%80%EC%9E%90%20%EC%8B%A4%ED%97%98%20%C2%B7%20%EC%9D%B4%EC%9C%A4%ED%98%B8"
     },
     {
       "title": "[재입고] 색과 형태가 되기 훨씬 전에 · 나가시마 리카코",
@@ -262,15 +271,6 @@ window.__INDIE_BOOKS_DATA__ = {
       "store_cover": "https://www.your-mind.com/web/product/big/202604/6676396b7fcfa5cbdc44d2f0ae409437.png",
       "cover": "https://www.your-mind.com/web/product/big/202604/6676396b7fcfa5cbdc44d2f0ae409437.png",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B4%EC%B0%A8%20%EC%9E%85%EA%B3%A0%5D%20%EB%82%98%EB%8A%94%20%EC%A0%95%EB%A7%90%20%EB%82%98%EB%AC%B4%EA%B0%80%20%EB%90%98%EC%97%88%EB%8B%A4%20%C2%B7%20%EC%98%A4%ED%95%98%EB%82%98%2C%20%ED%99%8D%EC%8B%9C%EC%95%BC"
-    },
-    {
-      "title": "[3차 입고] 오늘의 팬케익: 뒤집기 전에는 아무도 모른다 · 남선우",
-      "store": "유어마인드",
-      "section": "BOOKS",
-      "store_link": "https://www.your-mind.com/product/3차-입고-오늘의-팬케익-뒤집기-전에는-아무도-모른다-·-남선우/5969/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202604/c609f77dc2d2c7c73f058c53caf702bf.png",
-      "cover": "https://www.your-mind.com/web/product/big/202604/c609f77dc2d2c7c73f058c53caf702bf.png",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B3%EC%B0%A8%20%EC%9E%85%EA%B3%A0%5D%20%EC%98%A4%EB%8A%98%EC%9D%98%20%ED%8C%AC%EC%BC%80%EC%9D%B5%3A%20%EB%92%A4%EC%A7%91%EA%B8%B0%20%EC%A0%84%EC%97%90%EB%8A%94%20%EC%95%84%EB%AC%B4%EB%8F%84%20%EB%AA%A8%EB%A5%B8%EB%8B%A4%20%C2%B7%20%EB%82%A8%EC%84%A0%EC%9A%B0"
     },
     {
       "title": "[예약판매/배송비 무료] 숨겨둔 책 세트 (No.025, 026, 027)",
@@ -1812,6 +1812,97 @@ window.__INDIE_BOOKS_DATA__ = {
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=e-flux%20Index%20%237"
     },
     {
+      "title": "우리는 사랑하기 좋은 팔을 가졌구나(한지 에디션)",
+      "store": "땡스북스",
+      "section": "금주의 책",
+      "publisher": "민음사",
+      "author": "",
+      "week": "2026년 7월 13일 ~ 7월 19일",
+      "tb_page": "http://thanksbooks.com/site/thanksbooks/index.php/selection/weeklttb2026/",
+      "store_cover": "",
+      "cover": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791191347975.jpg",
+      "buy_link": "https://product.kyobobook.co.kr/detail/S000061451366",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%9A%B0%EB%A6%AC%EB%8A%94%20%EC%82%AC%EB%9E%91%ED%95%98%EA%B8%B0%20%EC%A2%8B%EC%9D%80%20%ED%8C%94%EC%9D%84%20%EA%B0%80%EC%A1%8C%EA%B5%AC%EB%82%98%28%ED%95%9C%EC%A7%80%20%EC%97%90%EB%94%94%EC%85%98%29"
+    },
+    {
+      "title": "서울 100경",
+      "store": "땡스북스",
+      "section": "금주의 책",
+      "publisher": "김병진일러스트레이션제작소",
+      "author": "김병진",
+      "week": "2026년 7월 13일 ~ 7월 19일",
+      "tb_page": "http://thanksbooks.com/site/thanksbooks/index.php/selection/weeklttb2026/",
+      "store_cover": "",
+      "cover": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791199825888.jpg",
+      "buy_link": "https://product.kyobobook.co.kr/detail/S000220364720",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%84%9C%EC%9A%B8%20100%EA%B2%BD"
+    },
+    {
+      "title": "여름어 사전(동네서점 에디션)",
+      "store": "땡스북스",
+      "section": "금주의 책",
+      "publisher": "아침달",
+      "author": "아침달 편집부",
+      "week": "2026년 7월 13일 ~ 7월 19일",
+      "tb_page": "http://thanksbooks.com/site/thanksbooks/index.php/selection/weeklttb2026/",
+      "store_cover": "",
+      "cover": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791194324799.jpg",
+      "buy_link": "https://product.kyobobook.co.kr/detail/S000216830653",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%97%AC%EB%A6%84%EC%96%B4%20%EC%82%AC%EC%A0%84%28%EB%8F%99%EB%84%A4%EC%84%9C%EC%A0%90%20%EC%97%90%EB%94%94%EC%85%98%29"
+    },
+    {
+      "title": "텅 빈 마음 가진 채로",
+      "store": "땡스북스",
+      "section": "금주의 책",
+      "publisher": "문학과지성사",
+      "author": "김화진",
+      "week": "2026년 7월 13일 ~ 7월 19일",
+      "tb_page": "http://thanksbooks.com/site/thanksbooks/index.php/selection/weeklttb2026/",
+      "store_cover": "",
+      "cover": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788932045573.jpg",
+      "buy_link": "https://product.kyobobook.co.kr/detail/S000220453074",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%ED%85%85%20%EB%B9%88%20%EB%A7%88%EC%9D%8C%20%EA%B0%80%EC%A7%84%20%EC%B1%84%EB%A1%9C"
+    },
+    {
+      "title": "아구아 비바",
+      "store": "땡스북스",
+      "section": "금주의 책",
+      "publisher": "을유문화사",
+      "author": "클라리시 리스펙토르, 민승남 역",
+      "week": "2026년 7월 13일 ~ 7월 19일",
+      "tb_page": "http://thanksbooks.com/site/thanksbooks/index.php/selection/weeklttb2026/",
+      "store_cover": "",
+      "cover": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9780141197364.jpg",
+      "buy_link": "https://product.kyobobook.co.kr/detail/S000002291053",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%95%84%EA%B5%AC%EC%95%84%20%EB%B9%84%EB%B0%94"
+    },
+    {
+      "title": "당신에게 미학은 어떤 의미입니까?",
+      "store": "땡스북스",
+      "section": "금주의 책",
+      "publisher": "1984Books",
+      "author": "레너드 코렌, 박정훈 역",
+      "week": "2026년 7월 13일 ~ 7월 19일",
+      "tb_page": "http://thanksbooks.com/site/thanksbooks/index.php/selection/weeklttb2026/",
+      "store_cover": "",
+      "cover": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791190533843.jpg",
+      "buy_link": "https://product.kyobobook.co.kr/detail/S000219789897",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EB%8B%B9%EC%8B%A0%EC%97%90%EA%B2%8C%20%EB%AF%B8%ED%95%99%EC%9D%80%20%EC%96%B4%EB%96%A4%20%EC%9D%98%EB%AF%B8%EC%9E%85%EB%8B%88%EA%B9%8C%3F"
+    },
+    {
+      "title": "고양이의 노래",
+      "store": "땡스북스",
+      "section": "금주의 책",
+      "publisher": "에이치비프레스",
+      "author": "이미나",
+      "week": "2026년 7월 13일 ~ 7월 19일",
+      "tb_page": "http://thanksbooks.com/site/thanksbooks/index.php/selection/weeklttb2026/",
+      "store_cover": "",
+      "cover": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791190314497.jpg",
+      "buy_link": "https://product.kyobobook.co.kr/detail/S000220428030",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EA%B3%A0%EC%96%91%EC%9D%B4%EC%9D%98%20%EB%85%B8%EB%9E%98"
+    },
+    {
       "title": "여름, 커피",
       "store": "땡스북스",
       "section": "금주의 책",
@@ -1823,32 +1914,6 @@ window.__INDIE_BOOKS_DATA__ = {
       "cover": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791192066554.jpg",
       "buy_link": "https://product.kyobobook.co.kr/detail/S000220440346",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%97%AC%EB%A6%84%2C%20%EC%BB%A4%ED%94%BC"
-    },
-    {
-      "title": "우리는 사랑하기 좋은 팔을 가졌구나(한지 에디션)",
-      "store": "땡스북스",
-      "section": "금주의 책",
-      "publisher": "민음사",
-      "author": "",
-      "week": "2026년 7월 6일 ~ 7월 12일",
-      "tb_page": "http://thanksbooks.com/site/thanksbooks/index.php/selection/weeklttb2026/",
-      "store_cover": "",
-      "cover": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791191347975.jpg",
-      "buy_link": "https://product.kyobobook.co.kr/detail/S000061451366",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%9A%B0%EB%A6%AC%EB%8A%94%20%EC%82%AC%EB%9E%91%ED%95%98%EA%B8%B0%20%EC%A2%8B%EC%9D%80%20%ED%8C%94%EC%9D%84%20%EA%B0%80%EC%A1%8C%EA%B5%AC%EB%82%98%28%ED%95%9C%EC%A7%80%20%EC%97%90%EB%94%94%EC%85%98%29"
-    },
-    {
-      "title": "여름어 사전(동네서점 에디션)",
-      "store": "땡스북스",
-      "section": "금주의 책",
-      "publisher": "아침달",
-      "author": "아침달 편집부",
-      "week": "2026년 7월 6일 ~ 7월 12일",
-      "tb_page": "http://thanksbooks.com/site/thanksbooks/index.php/selection/weeklttb2026/",
-      "store_cover": "",
-      "cover": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791194324799.jpg",
-      "buy_link": "https://product.kyobobook.co.kr/detail/S000216830653",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%97%AC%EB%A6%84%EC%96%B4%20%EC%82%AC%EC%A0%84%28%EB%8F%99%EB%84%A4%EC%84%9C%EC%A0%90%20%EC%97%90%EB%94%94%EC%85%98%29"
     },
     {
       "title": "계절의 수첩",
@@ -1888,19 +1953,6 @@ window.__INDIE_BOOKS_DATA__ = {
       "cover": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791167742926.jpg",
       "buy_link": "https://product.kyobobook.co.kr/detail/S000219940604",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EB%86%8D%EB%8B%B4%EC%97%90%20%EC%A7%84%EC%8B%AC"
-    },
-    {
-      "title": "텅 빈 마음 가진 채로",
-      "store": "땡스북스",
-      "section": "금주의 책",
-      "publisher": "문학과지성사",
-      "author": "김화진",
-      "week": "2026년 7월 6일 ~ 7월 12일",
-      "tb_page": "http://thanksbooks.com/site/thanksbooks/index.php/selection/weeklttb2026/",
-      "store_cover": "",
-      "cover": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788932045573.jpg",
-      "buy_link": "https://product.kyobobook.co.kr/detail/S000220453074",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%ED%85%85%20%EB%B9%88%20%EB%A7%88%EC%9D%8C%20%EA%B0%80%EC%A7%84%20%EC%B1%84%EB%A1%9C"
     },
     {
       "title": "별의 시간",
@@ -2018,58 +2070,6 @@ window.__INDIE_BOOKS_DATA__ = {
       "cover": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791194324621.jpg",
       "buy_link": "https://product.kyobobook.co.kr/detail/S000220242085",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%ED%8F%AC%EC%98%B9%EC%9D%B4%20%ED%92%80%EC%96%B4%EC%A7%80%EB%8A%94%20%EA%B3%84%EC%A0%88"
-    },
-    {
-      "title": "대리독서견",
-      "store": "땡스북스",
-      "section": "금주의 책",
-      "publisher": "텍스트컨텍스트",
-      "author": "김승연",
-      "week": "2026년 6월 22일 ~ 6월 28일",
-      "tb_page": "http://thanksbooks.com/site/thanksbooks/index.php/selection/weeklttb2026/",
-      "store_cover": "",
-      "cover": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791186117002.jpg",
-      "buy_link": "https://product.kyobobook.co.kr/detail/S000001879640",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EB%8C%80%EB%A6%AC%EB%8F%85%EC%84%9C%EA%B2%AC"
-    },
-    {
-      "title": "미라클 에디팅",
-      "store": "땡스북스",
-      "section": "금주의 책",
-      "publisher": "북스톤",
-      "author": "디에디트",
-      "week": "2026년 6월 22일 ~ 6월 28일",
-      "tb_page": "http://thanksbooks.com/site/thanksbooks/index.php/selection/weeklttb2026/",
-      "store_cover": "",
-      "cover": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791175230477.jpg",
-      "buy_link": "https://product.kyobobook.co.kr/detail/S000220036694",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EB%AF%B8%EB%9D%BC%ED%81%B4%20%EC%97%90%EB%94%94%ED%8C%85"
-    },
-    {
-      "title": "당신에게 미학은 어떤 의미입니까?",
-      "store": "땡스북스",
-      "section": "금주의 책",
-      "publisher": "1984Books",
-      "author": "레너드 코렌, 박정훈 역",
-      "week": "2026년 6월 22일 ~ 6월 28일",
-      "tb_page": "http://thanksbooks.com/site/thanksbooks/index.php/selection/weeklttb2026/",
-      "store_cover": "",
-      "cover": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791190533843.jpg",
-      "buy_link": "https://product.kyobobook.co.kr/detail/S000219789897",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EB%8B%B9%EC%8B%A0%EC%97%90%EA%B2%8C%20%EB%AF%B8%ED%95%99%EC%9D%80%20%EC%96%B4%EB%96%A4%20%EC%9D%98%EB%AF%B8%EC%9E%85%EB%8B%88%EA%B9%8C%3F"
-    },
-    {
-      "title": "한 문장이 있다고 해보자",
-      "store": "땡스북스",
-      "section": "금주의 책",
-      "publisher": "봄날의책",
-      "author": "브라이언 딜런, 김은지 역",
-      "week": "2026년 6월 22일 ~ 6월 28일",
-      "tb_page": "http://thanksbooks.com/site/thanksbooks/index.php/selection/weeklttb2026/",
-      "store_cover": "",
-      "cover": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791192884608.jpg",
-      "buy_link": "https://product.kyobobook.co.kr/detail/S000219800481",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%ED%95%9C%20%EB%AC%B8%EC%9E%A5%EC%9D%B4%20%EC%9E%88%EB%8B%A4%EA%B3%A0%20%ED%95%B4%EB%B3%B4%EC%9E%90"
     },
     {
       "title": "계절의 수첩",
@@ -2272,8 +2272,8 @@ window.__INDIE_BOOKS_DATA__ = {
   "stores_attempted": [
     "소심한책방",
     "사적인서점",
-    "유어마인드",
+    "북앤스페이스",
     "고요서사",
-    "북앤스페이스"
+    "유어마인드"
   ]
 };
