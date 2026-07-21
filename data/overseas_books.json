@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-21T08:02:55.711629+09:00",
-  "today": "2026-07-21",
+  "updated_at": "2026-07-22T08:02:37.160631+09:00",
+  "today": "2026-07-22",
   "books": [
     {
       "title": "Mysteries of a Communist Cave: Oscar Niemeyer’s PCF building",
@@ -443,6 +443,17 @@
       "cover": "https://cdn.shopify.com/s/files/1/0221/7340/files/Screenshot2026-05-10at16.19.03.png?v=1778426507"
     },
     {
+      "title": "Ivy and Bearlock Holmes: The Case of the Missing Flower",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-21153607.png?v=1784644670",
+      "store_link": "https://magmabooks.com/products/detective-stanley-and-the-green-thumbed-thief-copy",
+      "published_at": "2026-07-21T15:38:42+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-21153607.png?v=1784644670"
+    },
+    {
       "title": "Lines of the Hand",
       "store": "Magma Books",
       "city": "런던",
@@ -650,17 +661,6 @@
       "store_link": "https://magmabooks.com/products/showa-modern-ad-designs-1920s-30s-new-ed",
       "published_at": "2026-07-18T09:10:55+01:00",
       "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/250916.showaadvert.9784861529931.jpg_500x693_bfa4dd77-7962-4e84-b11d-c97adb14ab4d.jpg?v=1778057286"
-    },
-    {
-      "title": "Showa Modern - Signs and Store Designs, 1920s–30s (New Ed.)",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/250917.showasigns.9784861529948.jpg_500x696_19a43956-9dfb-49b9-a5e7-1eaecd7ddff9.jpg?v=1778056713",
-      "store_link": "https://magmabooks.com/products/showa-modern-signs-and-store-designs-1920s-30s-new-ed",
-      "published_at": "2026-07-18T09:01:23+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/250917.showasigns.9784861529948.jpg_500x696_19a43956-9dfb-49b9-a5e7-1eaecd7ddff9.jpg?v=1778056713"
     },
     {
       "title": "Mast Books Tote Bag",
@@ -883,6 +883,17 @@
       "cover": "https://cdn.shopify.com/s/files/1/0290/3562/6574/files/MB_WEINER_WE_ARE_SHIPS_01.jpg?v=1744483758"
     },
     {
+      "title": "Holding (Removed)",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "Artspace",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/ProductPrint_72DPI_e37df617-543f-444c-8bd3-580bf2e1a993.jpg?v=1784103117",
+      "store_link": "https://www.phaidon.com/products/matthew-stone-holding-removed-5056880812450",
+      "published_at": "2026-07-21T19:51:37+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/ProductPrint_72DPI_e37df617-543f-444c-8bd3-580bf2e1a993.jpg?v=1784103117"
+    },
+    {
       "title": "The Tomorrow Tree: How Nature Creates New Life From Old",
       "store": "Phaidon",
       "city": "출판사",
@@ -1090,17 +1101,6 @@
       "store_link": "https://www.phaidon.com/products/lisk-feng-tropical-reverie-5056880812368",
       "published_at": "2026-07-14T10:45:19+01:00",
       "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/Lisk_20Feng-Framed-72dpi-WebUse-v2.jpg?v=1784022337"
-    },
-    {
-      "title": "The Music Of Regret (Meryl Act 2 Rain)",
-      "store": "Phaidon",
-      "city": "출판사",
-      "section": "아트·디자인",
-      "author": "Artspace",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/laurie_20simmons_20388_20ORIG_15f375ea-f8dc-46a1-b994-1e61f76e84b7.jpg?v=1784022331",
-      "store_link": "https://www.phaidon.com/products/laurie-simmons-the-music-of-regret-meryl-act-2-rain-5056880806367",
-      "published_at": "2026-07-14T10:45:19+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/laurie_20simmons_20388_20ORIG_15f375ea-f8dc-46a1-b994-1e61f76e84b7.jpg?v=1784022331"
     },
     {
       "title": "Rebirth",

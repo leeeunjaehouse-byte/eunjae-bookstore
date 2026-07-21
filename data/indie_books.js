@@ -1,6 +1,6 @@
 window.__INDIE_BOOKS_DATA__ = {
-  "updated_at": "2026-07-21T08:02:37.852467+09:00",
-  "today": "2026-07-21",
+  "updated_at": "2026-07-22T08:02:23.078711+09:00",
+  "today": "2026-07-22",
   "books": [
     {
       "title": "거북복과 물떼새 머리뼈의 대화 · 모습",
@@ -91,15 +91,6 @@ window.__INDIE_BOOKS_DATA__ = {
       "store_cover": "https://www.your-mind.com/web/product/big/202605/1ad7975224e74f57e576eb644c7611ca.png",
       "cover": "https://www.your-mind.com/web/product/big/202605/1ad7975224e74f57e576eb644c7611ca.png",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B4%EC%B0%A8%20%EC%9E%85%EA%B3%A0%5D%20%EB%86%80%EC%9D%B4%EC%99%80%20%EC%8B%9C%EC%99%80%20%ED%83%80%EC%9D%B4%ED%8F%AC%EA%B7%B8%EB%9E%98%ED%94%BC%3A%20%EC%98%A4%EB%9E%98%EB%90%9C%20%EC%8B%9C-%EB%86%80%EC%9D%B4%20%EC%86%8D%20%EC%9E%90%EC%9C%A0%EC%99%80%20%ED%95%B4%EB%B0%A9%EC%9D%98%20%EA%B8%80%EC%9E%90%20%EC%8B%A4%ED%97%98%20%C2%B7%20%EC%9D%B4%EC%9C%A4%ED%98%B8"
-    },
-    {
-      "title": "[재입고] 색과 형태가 되기 훨씬 전에 · 나가시마 리카코",
-      "store": "유어마인드",
-      "section": "BOOKS",
-      "store_link": "https://www.your-mind.com/product/재입고-색과-형태가-되기-훨씬-전에-·-나가시마-리카코/6006/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202605/8eadded314ab2bf31c9fde7c55545513.png",
-      "cover": "https://www.your-mind.com/web/product/big/202605/8eadded314ab2bf31c9fde7c55545513.png",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20%EC%83%89%EA%B3%BC%20%ED%98%95%ED%83%9C%EA%B0%80%20%EB%90%98%EA%B8%B0%20%ED%9B%A8%EC%94%AC%20%EC%A0%84%EC%97%90%20%C2%B7%20%EB%82%98%EA%B0%80%EC%8B%9C%EB%A7%88%20%EB%A6%AC%EC%B9%B4%EC%BD%94"
     },
     {
       "title": "[3차 입고] 리타의 산책 · 안리타",
@@ -271,6 +262,15 @@ window.__INDIE_BOOKS_DATA__ = {
       "store_cover": "https://www.your-mind.com/web/product/big/202604/6676396b7fcfa5cbdc44d2f0ae409437.png",
       "cover": "https://www.your-mind.com/web/product/big/202604/6676396b7fcfa5cbdc44d2f0ae409437.png",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B4%EC%B0%A8%20%EC%9E%85%EA%B3%A0%5D%20%EB%82%98%EB%8A%94%20%EC%A0%95%EB%A7%90%20%EB%82%98%EB%AC%B4%EA%B0%80%20%EB%90%98%EC%97%88%EB%8B%A4%20%C2%B7%20%EC%98%A4%ED%95%98%EB%82%98%2C%20%ED%99%8D%EC%8B%9C%EC%95%BC"
+    },
+    {
+      "title": "[3차 입고] 오늘의 팬케익: 뒤집기 전에는 아무도 모른다 · 남선우",
+      "store": "유어마인드",
+      "section": "BOOKS",
+      "store_link": "https://www.your-mind.com/product/3차-입고-오늘의-팬케익-뒤집기-전에는-아무도-모른다-·-남선우/5969/category/27/display/1/",
+      "store_cover": "https://www.your-mind.com/web/product/big/202604/c609f77dc2d2c7c73f058c53caf702bf.png",
+      "cover": "https://www.your-mind.com/web/product/big/202604/c609f77dc2d2c7c73f058c53caf702bf.png",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B3%EC%B0%A8%20%EC%9E%85%EA%B3%A0%5D%20%EC%98%A4%EB%8A%98%EC%9D%98%20%ED%8C%AC%EC%BC%80%EC%9D%B5%3A%20%EB%92%A4%EC%A7%91%EA%B8%B0%20%EC%A0%84%EC%97%90%EB%8A%94%20%EC%95%84%EB%AC%B4%EB%8F%84%20%EB%AA%A8%EB%A5%B8%EB%8B%A4%20%C2%B7%20%EB%82%A8%EC%84%A0%EC%9A%B0"
     },
     {
       "title": "[예약판매/배송비 무료] 숨겨둔 책 세트 (No.025, 026, 027)",
@@ -2270,10 +2270,10 @@ window.__INDIE_BOOKS_DATA__ = {
   "errors": [],
   "total": 236,
   "stores_attempted": [
-    "소심한책방",
     "사적인서점",
-    "북앤스페이스",
     "고요서사",
-    "유어마인드"
+    "소심한책방",
+    "유어마인드",
+    "북앤스페이스"
   ]
 };
