@@ -1,6 +1,6 @@
 window.__INDIE_BOOKS_DATA__ = {
-  "updated_at": "2026-07-23T08:02:23.559098+09:00",
-  "today": "2026-07-23",
+  "updated_at": "2026-07-24T08:02:31.930296+09:00",
+  "today": "2026-07-24",
   "books": [
     {
       "title": "거북복과 물떼새 머리뼈의 대화 · 모습",
@@ -55,15 +55,6 @@ window.__INDIE_BOOKS_DATA__ = {
       "store_cover": "https://www.your-mind.com/web/product/big/202606/b268b3959d10f416ecfde81a3cb3c931.png",
       "cover": "https://www.your-mind.com/web/product/big/202606/b268b3959d10f416ecfde81a3cb3c931.png",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20%EA%B4%91%EC%A3%BC%EC%97%90%20%EA%B0%80%EB%A9%B4%20%C2%B7%20%EB%AC%B8%EC%A7%84%ED%9D%AC"
-    },
-    {
-      "title": "[재입고] 실수 수집가 · 김수정",
-      "store": "유어마인드",
-      "section": "BOOKS",
-      "store_link": "https://www.your-mind.com/product/재입고-실수-수집가-·-김수정/6148/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202606/d43337001e940c60b173c50f4d931024.jpg",
-      "cover": "https://www.your-mind.com/web/product/big/202606/d43337001e940c60b173c50f4d931024.jpg",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20%EC%8B%A4%EC%88%98%20%EC%88%98%EC%A7%91%EA%B0%80%20%C2%B7%20%EA%B9%80%EC%88%98%EC%A0%95"
     },
     {
       "title": "[3차 입고] 꽃점 (Floral Fortune) · 희다가든",
@@ -271,6 +262,15 @@ window.__INDIE_BOOKS_DATA__ = {
       "store_cover": "https://www.your-mind.com/web/product/big/202604/f756285c215cd92619dc557141afee7d.png",
       "cover": "https://www.your-mind.com/web/product/big/202604/f756285c215cd92619dc557141afee7d.png",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20%EC%9D%B8%ED%84%B0%EB%84%B7%20%EA%B2%AC%EB%AC%B8%EB%A1%9D%20%C2%B7%20%EA%B9%80%ED%98%9C%EC%97%B0"
+    },
+    {
+      "title": "[4차 입고] 유령고양이의 두려움과 해골새의 즐거움 · 피칸트",
+      "store": "유어마인드",
+      "section": "BOOKS",
+      "store_link": "https://www.your-mind.com/product/4차-입고-유령고양이의-두려움과-해골새의-즐거움-·-피칸트/5966/category/27/display/1/",
+      "store_cover": "https://www.your-mind.com/web/product/big/202604/ef03b56d2b741b63b26ef1108f8ba396.png",
+      "cover": "https://www.your-mind.com/web/product/big/202604/ef03b56d2b741b63b26ef1108f8ba396.png",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B4%EC%B0%A8%20%EC%9E%85%EA%B3%A0%5D%20%EC%9C%A0%EB%A0%B9%EA%B3%A0%EC%96%91%EC%9D%B4%EC%9D%98%20%EB%91%90%EB%A0%A4%EC%9B%80%EA%B3%BC%20%ED%95%B4%EA%B3%A8%EC%83%88%EC%9D%98%20%EC%A6%90%EA%B1%B0%EC%9B%80%20%C2%B7%20%ED%94%BC%EC%B9%B8%ED%8A%B8"
     },
     {
       "title": "[예약판매/배송비 무료] 숨겨둔 책 세트 (No.025, 026, 027)",
@@ -1542,6 +1542,15 @@ window.__INDIE_BOOKS_DATA__ = {
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%A0%9C%EC%8B%9C%EC%B9%B4%20J.%20%EB%A6%AC%28%EC%A7%80%EC%9D%80%EC%9D%B4%29%2C%20%EC%84%9C%EC%A0%9C%EC%9D%B8%28%EC%98%AE%EA%B8%B4%EC%9D%B4%29%E3%80%8E%ED%9D%A9%EC%96%B4%EC%A7%90%E3%80%8F"
     },
     {
+      "title": "Liminal Figures",
+      "store": "더북소사이어티",
+      "section": "큐레이션",
+      "store_link": "https://thebooksociety.org/shop_view/?idx=1340",
+      "store_cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/cd6d91323edc5.jpg?w=800",
+      "cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/cd6d91323edc5.jpg?w=800",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=Liminal%20Figures"
+    },
+    {
       "title": "김아영: 합성의 스토리텔러 (개정판)",
       "store": "더북소사이어티",
       "section": "큐레이션",
@@ -1801,15 +1810,6 @@ window.__INDIE_BOOKS_DATA__ = {
       "store_cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/26f22cd154b0c.jpg?w=800",
       "cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/26f22cd154b0c.jpg?w=800",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=KIRTI%20Vol.1%20-%20Hunter%20P%20Deerfield"
-    },
-    {
-      "title": "e-flux Index #7",
-      "store": "더북소사이어티",
-      "section": "큐레이션",
-      "store_link": "https://thebooksociety.org/shop_view/?idx=1304",
-      "store_cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/20efabf542d86.jpg?w=800",
-      "cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/20efabf542d86.jpg?w=800",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=e-flux%20Index%20%237"
     },
     {
       "title": "우리는 사랑하기 좋은 팔을 가졌구나(한지 에디션)",
@@ -2270,10 +2270,10 @@ window.__INDIE_BOOKS_DATA__ = {
   "errors": [],
   "total": 236,
   "stores_attempted": [
-    "유어마인드",
     "북앤스페이스",
+    "고요서사",
     "사적인서점",
-    "소심한책방",
-    "고요서사"
+    "유어마인드",
+    "소심한책방"
   ]
 };

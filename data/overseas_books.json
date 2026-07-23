@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-07-23T08:02:37.907500+09:00",
-  "today": "2026-07-23",
+  "updated_at": "2026-07-24T08:02:43.927851+09:00",
+  "today": "2026-07-24",
   "books": [
+    {
+      "title": "Casa Brutus #316 August 2026",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Magazinehouse",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Casa-Brutus-316.jpg?v=1784830052",
+      "store_link": "https://www.doyoureadme.de/products/casa-brutus-316-august-2026",
+      "published_at": "2026-07-23T20:08:02+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Casa-Brutus-316.jpg?v=1784830052"
+    },
+    {
+      "title": "Popeye #952 August 2026 - To the South, from Tokyo",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Magazinehouse",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Popeye-952.jpg?v=1784829154",
+      "store_link": "https://www.doyoureadme.de/products/popeye-952-august-2026-to-the-south-from-tokyo",
+      "published_at": "2026-07-23T19:53:17+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Popeye-952.jpg?v=1784829154"
+    },
     {
       "title": "Mysteries of a Communist Cave: Oscar Niemeyer’s PCF building",
       "store": "Do you read me?!",
@@ -199,28 +221,6 @@
       "store_link": "https://www.doyoureadme.de/products/study-magazine-vol-15-2026",
       "published_at": "2026-07-14T13:33:00+02:00",
       "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Study-Magazine-Vol-15-2026-1.jpg?v=1784028442"
-    },
-    {
-      "title": "Acne Paper #21 2026 - Autoportrait",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Acne Studios",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Acne-Paper-21-2026_Autoportrait-1.jpg?v=1784028443",
-      "store_link": "https://www.doyoureadme.de/products/acne-paper-21-2026-autoportrait",
-      "published_at": "2026-07-14T13:33:00+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Acne-Paper-21-2026_Autoportrait-1.jpg?v=1784028443"
-    },
-    {
-      "title": "emergent #15 2026",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "emergent Magazine",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/emergent-15-2026-1.jpg?v=1784028443",
-      "store_link": "https://www.doyoureadme.de/products/emergent-14-2026",
-      "published_at": "2026-07-14T13:33:00+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/emergent-15-2026-1.jpg?v=1784028443"
     },
     {
       "title": "Under the Radar: Underground Zines and Self-publications 1965-1975",
@@ -443,6 +443,105 @@
       "cover": "https://cdn.shopify.com/s/files/1/0221/7340/files/Screenshot2026-06-03at16.33.24.png?v=1780501154"
     },
     {
+      "title": "Letting Go Cards",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-23at17-13-40LettingGoCardsLearntoreleasethepastAmazon.co.ukofLifeTheSchool9781916753587Books.png?v=1784823250",
+      "store_link": "https://magmabooks.com/products/creative-thinking-cards-copy",
+      "published_at": "2026-07-23T17:18:45+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-23at17-13-40LettingGoCardsLearntoreleasethepastAmazon.co.ukofLifeTheSchool9781916753587Books.png?v=1784823250"
+    },
+    {
+      "title": "How To Find The Right Words",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-23at16-57-08HowtoFindtheRightWordsaguidetodeliveringlife_smostawkwardmessagesAmazon.co.ukTheSchoolofLife9781912891511Books.png?v=1784822251",
+      "store_link": "https://magmabooks.com/products/how-to-understand-yourself-copy",
+      "published_at": "2026-07-23T16:58:23+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-23at16-57-08HowtoFindtheRightWordsaguidetodeliveringlife_smostawkwardmessagesAmazon.co.ukTheSchoolofLife9781912891511Books.png?v=1784822251"
+    },
+    {
+      "title": "How to Understand Yourself",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-23at16-40-52HowtoUnderstandYourselfPsychologicaltestsandquestionnairestodevelopemotionalintelligenceAmazon.co.ukofLifeTheSchool9781916753228Books.png?v=1784821507",
+      "store_link": "https://magmabooks.com/products/dont-believe-everything-you-think-copy-1",
+      "published_at": "2026-07-23T16:46:18+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-23at16-40-52HowtoUnderstandYourselfPsychologicaltestsandquestionnairestodevelopemotionalintelligenceAmazon.co.ukofLifeTheSchool9781916753228Books.png?v=1784821507"
+    },
+    {
+      "title": "Creative Thinking Cards",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2025-10-21at16-26-13Instagram.png?v=1761060393",
+      "store_link": "https://magmabooks.com/products/creative-thinking-cards-1",
+      "published_at": "2026-07-23T16:13:59+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2025-10-21at16-26-13Instagram.png?v=1761060393"
+    },
+    {
+      "title": "Untranslatable Words",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/products/2016-09-04_16-08-59.jpg?v=1475093390",
+      "store_link": "https://magmabooks.com/products/untranslatable-words",
+      "published_at": "2026-07-23T16:04:23+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/products/2016-09-04_16-08-59.jpg?v=1475093390"
+    },
+    {
+      "title": "Make Time for Creativity",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/products/make-time-for-creativity6.jpg?v=1621087546",
+      "store_link": "https://magmabooks.com/products/make-time-for-creativity-finding-space-for-your-most-meaningful-work",
+      "published_at": "2026-07-23T15:41:42+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/products/make-time-for-creativity6.jpg?v=1621087546"
+    },
+    {
+      "title": "Let's Learn Japanese",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/products/Let_s-Learn-Japanese-9781452166254-cover.jpg?v=1604666800",
+      "store_link": "https://magmabooks.com/products/lets-learn-japanese-first-words-for-everyone",
+      "published_at": "2026-07-23T15:39:54+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/products/Let_s-Learn-Japanese-9781452166254-cover.jpg?v=1604666800"
+    },
+    {
+      "title": "Summer Pop Up!",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-09at13-30-59Amazon.comSummerPopsUp_9781837292073PetitAuroreLibros.png?v=1783600299",
+      "store_link": "https://magmabooks.com/products/pink-pop-with-6-playful-pop-ups-copy",
+      "published_at": "2026-07-23T15:37:56+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-09at13-30-59Amazon.comSummerPopsUp_9781837292073PetitAuroreLibros.png?v=1783600299"
+    },
+    {
+      "title": "Crack-Crack! Who's That?",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-05-16161836.png?v=1778944909",
+      "store_link": "https://magmabooks.com/products/cats-in-pants-copy",
+      "published_at": "2026-07-23T15:31:46+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-05-16161836.png?v=1778944909"
+    },
+    {
       "title": "Clayful",
       "store": "Magma Books",
       "city": "런던",
@@ -562,105 +661,6 @@
       "store_link": "https://magmabooks.com/products/fare-11-lisbon",
       "published_at": "2026-07-20T16:43:47+01:00",
       "cover": "https://cdn.shopify.com/s/files/1/0285/4760/products/Screenshot2022-09-03at11-49-40Fare-Lisbon-Cover.png_PNGImage1500x1500pixels_Scaled_45.png?v=1662202458"
-    },
-    {
-      "title": "Dead Jobs - don't take it personal",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-20161127.png?v=1784561631",
-      "store_link": "https://magmabooks.com/products/synth-history-5-copy",
-      "published_at": "2026-07-20T16:35:03+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-20161127.png?v=1784561631"
-    },
-    {
-      "title": "You Don't Make a Masterpiece, You Survive One",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-20161354.png?v=1784561364",
-      "store_link": "https://magmabooks.com/products/bad-people-copy-1",
-      "published_at": "2026-07-20T16:30:21+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-20161354.png?v=1784561364"
-    },
-    {
-      "title": "Cyanotote - Solar Print Cyanotype Tote Bag",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-20162040.png?v=1784560989",
-      "store_link": "https://magmabooks.com/products/limited-edition-magma-tote-bag-2000-2025-b-w-copy",
-      "published_at": "2026-07-20T16:25:49+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-20162040.png?v=1784560989"
-    },
-    {
-      "title": "Go Name Yourself",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/products/2020-12-13_14-50-09.jpg?v=1607871064",
-      "store_link": "https://magmabooks.com/products/go-name-yourself",
-      "published_at": "2026-07-20T12:47:40+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/products/2020-12-13_14-50-09.jpg?v=1607871064"
-    },
-    {
-      "title": "Hanon Mizutani",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/fa5krYTZ_0sqRnI.jpg?v=1784474391",
-      "store_link": "https://magmabooks.com/products/hanon-mizutani",
-      "published_at": "2026-07-19T16:19:59+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/fa5krYTZ_0sqRnI.jpg?v=1784474391"
-    },
-    {
-      "title": "Alphabet #4",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Alphabet_4_1_ab6bd0a1-5267-4e8e-b67a-5531f38f1cf5.jpg?v=1784471523",
-      "store_link": "https://magmabooks.com/products/alphabet-4",
-      "published_at": "2026-07-19T15:33:33+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Alphabet_4_1_ab6bd0a1-5267-4e8e-b67a-5531f38f1cf5.jpg?v=1784471523"
-    },
-    {
-      "title": "sabukaru #2",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/260512_SBK_magazine_exploration_MASTER_FILE_COVER_front6.webp?v=1784463457",
-      "store_link": "https://magmabooks.com/products/sabukaru-2",
-      "published_at": "2026-07-19T13:24:59+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/260512_SBK_magazine_exploration_MASTER_FILE_COVER_front6.webp?v=1784463457"
-    },
-    {
-      "title": "Carcy #15",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-19at12-50-20CARCYMagazine_15PRE-ORDER.png?v=1784461865",
-      "store_link": "https://magmabooks.com/products/carcy-15",
-      "published_at": "2026-07-19T12:53:03+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-19at12-50-20CARCYMagazine_15PRE-ORDER.png?v=1784461865"
-    },
-    {
-      "title": "SOLO #16",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-18144956.png?v=1784383557",
-      "store_link": "https://magmabooks.com/products/solo-10-copy",
-      "published_at": "2026-07-18T15:08:20+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-18144956.png?v=1784383557"
     },
     {
       "title": "Mast Books Tote Bag",
@@ -883,26 +883,15 @@
       "cover": "https://cdn.shopify.com/s/files/1/0290/3562/6574/files/MB_WEINER_WE_ARE_SHIPS_01.jpg?v=1744483758"
     },
     {
-      "title": "Rosa Barba",
+      "title": "The Mon Lapin Cookbook: De Toute Beauté: From Montreal, With Love",
       "store": "Phaidon",
       "city": "출판사",
       "section": "아트·디자인",
       "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/rosa-barba-signed-edition-9240-standing-front-3000_a342d0d7-4618-4d40-ac60-4207d2e79bec.jpg?v=1784728012",
-      "store_link": "https://www.phaidon.com/products/rosa-barba",
-      "published_at": "2026-07-22T14:52:07+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/rosa-barba-signed-edition-9240-standing-front-3000_a342d0d7-4618-4d40-ac60-4207d2e79bec.jpg?v=1784728012"
-    },
-    {
-      "title": "Odette: Terroir to Table, Heart to Plate [A Cookbook]",
-      "store": "Phaidon",
-      "city": "출판사",
-      "section": "아트·디자인",
-      "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/odette-en-9109-standing-front-3000.jpg?v=1784725444",
-      "store_link": "https://www.phaidon.com/products/odette-terroir-to-table-heart-to-plate-a-cookbook",
-      "published_at": "2026-07-22T14:07:43+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/odette-en-9109-standing-front-3000.jpg?v=1784725444"
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/mon-lapin-en-9263-3d-standing-front-3000.jpg?v=1784696590",
+      "store_link": "https://www.phaidon.com/products/the-mon-lapin-cookbook-de-toute-beaute-from-montreal-with-love",
+      "published_at": "2026-07-23T12:20:27+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/mon-lapin-en-9263-3d-standing-front-3000.jpg?v=1784696590"
     },
     {
       "title": "Global Warning",
@@ -912,8 +901,151 @@
       "author": "Phaidon Press",
       "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/martin-parr-global-warning-en-9154-standing-front-3000.jpg?v=1771237265",
       "store_link": "https://www.phaidon.com/products/global-warning",
-      "published_at": "2026-07-22T12:44:19+01:00",
+      "published_at": "2026-07-23T12:20:27+01:00",
       "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/martin-parr-global-warning-en-9154-standing-front-3000.jpg?v=1771237265"
+    },
+    {
+      "title": "John Pawson: The Minimal Home: The Minimal Home",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "Phaidon Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/john-pawson-the-minimal-way-of-life-signed-edition-en-9345-3d-standing-front-3000_150ff42b-eaa4-43b3-8380-ebff6f9374fd.jpg?v=1784704386",
+      "store_link": "https://www.phaidon.com/products/john-pawson-the-minimal-home-the-minimal-home",
+      "published_at": "2026-07-23T12:20:25+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/john-pawson-the-minimal-way-of-life-signed-edition-en-9345-3d-standing-front-3000_150ff42b-eaa4-43b3-8380-ebff6f9374fd.jpg?v=1784704386"
+    },
+    {
+      "title": "Sanlé Sory",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "Phaidon Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/sanle-sory-en-9254-3d-standing-front-3000.jpg?v=1780331142",
+      "store_link": "https://www.phaidon.com/products/sanle-sory",
+      "published_at": "2026-07-23T12:20:25+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/sanle-sory-en-9254-3d-standing-front-3000.jpg?v=1780331142"
+    },
+    {
+      "title": "The Thought That Counts: A Guide to Gifting for Every Occasion",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "The Monacelli Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/M-the-thought-that-counts-ae-3746-3d-standing-front-3000_53ejx4.jpg?v=1782915853",
+      "store_link": "https://www.phaidon.com/products/the-thought-that-counts-a-guide-to-gifting-for-every-occasion",
+      "published_at": "2026-07-23T12:20:23+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/M-the-thought-that-counts-ae-3746-3d-standing-front-3000_53ejx4.jpg?v=1782915853"
+    },
+    {
+      "title": "The Pot Book: A Global Survey of Ceramic Craft and Design",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "Phaidon Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/the-pot-book-en-9051-3d-standing-front-3000.jpg?v=1780430654",
+      "store_link": "https://www.phaidon.com/products/the-pot-book-a-global-survey-of-ceramic-craft-and-design",
+      "published_at": "2026-07-23T12:20:23+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/the-pot-book-en-9051-3d-standing-front-3000.jpg?v=1780430654"
+    },
+    {
+      "title": "Formafantasma",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "Phaidon Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/formafantasma-signed-edition-en-9344-3d-standing-front-3000.jpg?v=1784699260",
+      "store_link": "https://www.phaidon.com/products/formafantasma",
+      "published_at": "2026-07-23T12:20:21+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/formafantasma-signed-edition-en-9344-3d-standing-front-3000.jpg?v=1784699260"
+    },
+    {
+      "title": "Mory Sacko: A Cook's Journey",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "Phaidon Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/mory-sacko-en-9044-3d-standing-front-3000.jpg?v=1780330407",
+      "store_link": "https://www.phaidon.com/products/mory-sacko-a-cooks-journey",
+      "published_at": "2026-07-23T12:20:21+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/mory-sacko-en-9044-3d-standing-front-3000.jpg?v=1780330407"
+    },
+    {
+      "title": "Arthur Jafa: I Am Tony",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "Phaidon Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/arthur-jafa-en-9056-3d-standing-front-3000.jpg?v=1777352838",
+      "store_link": "https://www.phaidon.com/products/arthur-jafa-i-am-tony",
+      "published_at": "2026-07-23T12:20:19+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/arthur-jafa-en-9056-3d-standing-front-3000.jpg?v=1777352838"
+    },
+    {
+      "title": "Grace: Now",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "Phaidon Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/grace-now-signed-edition-en-xxxx-3d-standing-front-3000_0c92cefb-6a5d-4073-8843-7153009e4a08.jpg?v=1784709619",
+      "store_link": "https://www.phaidon.com/products/grace-now",
+      "published_at": "2026-07-23T12:20:19+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/grace-now-signed-edition-en-xxxx-3d-standing-front-3000_0c92cefb-6a5d-4073-8843-7153009e4a08.jpg?v=1784709619"
+    },
+    {
+      "title": "Odette: Terroir to Table, Heart to Plate [A Cookbook]",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "Phaidon Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/odette-en-9109-standing-front-3000.jpg?v=1784725444",
+      "store_link": "https://www.phaidon.com/products/odette-terroir-to-table-heart-to-plate-a-cookbook",
+      "published_at": "2026-07-23T12:20:17+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/odette-en-9109-standing-front-3000.jpg?v=1784725444"
+    },
+    {
+      "title": "Tavares Strachan",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "Phaidon Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/tavares-strachan-en-9023-3d-standing-front-3000_7a49482c-5410-413b-916b-e342e9003636.jpg?v=1784701874",
+      "store_link": "https://www.phaidon.com/products/tavares-strachan",
+      "published_at": "2026-07-23T12:20:16+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/tavares-strachan-en-9023-3d-standing-front-3000_7a49482c-5410-413b-916b-e342e9003636.jpg?v=1784701874"
+    },
+    {
+      "title": "The Rise of Indian Food: Recipes Reimagined by Trèsind Studio",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "Phaidon Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/the-rise-of-indian-food-en-9203-standing-front-3000.jpg?v=1784712608",
+      "store_link": "https://www.phaidon.com/products/the-rise-of-indian-food-recipes-reimagined-by-tresind-studio",
+      "published_at": "2026-07-23T12:20:15+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/the-rise-of-indian-food-en-9203-standing-front-3000.jpg?v=1784712608"
+    },
+    {
+      "title": "Rosa Barba",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "Phaidon Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/rosa-barba-signed-edition-9240-standing-front-3000_a342d0d7-4618-4d40-ac60-4207d2e79bec.jpg?v=1784728012",
+      "store_link": "https://www.phaidon.com/products/rosa-barba",
+      "published_at": "2026-07-23T12:20:15+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/rosa-barba-signed-edition-9240-standing-front-3000_a342d0d7-4618-4d40-ac60-4207d2e79bec.jpg?v=1784728012"
+    },
+    {
+      "title": "Oteque: Ideas, Principles, Recipes, Stories and Connections [A Cookbook]",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "Phaidon Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/oteque-ideas-principles-en-9062-standing-front-3000.jpg?v=1784712566",
+      "store_link": "https://www.phaidon.com/products/oteque-ideas-principles-recipes-stories-and-connections-a-cookbook",
+      "published_at": "2026-07-23T12:20:13+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/oteque-ideas-principles-en-9062-standing-front-3000.jpg?v=1784712566"
     },
     {
       "title": "Living in a Japanese House",
@@ -927,61 +1059,6 @@
       "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/living-in-a-japanese-house-en-9269-3d-standing-front-3000.jpg?v=1779978252"
     },
     {
-      "title": "Sanlé Sory",
-      "store": "Phaidon",
-      "city": "출판사",
-      "section": "아트·디자인",
-      "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/sanle-sory-en-9254-3d-standing-front-3000.jpg?v=1780331142",
-      "store_link": "https://www.phaidon.com/products/sanle-sory",
-      "published_at": "2026-07-22T12:14:36+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/sanle-sory-en-9254-3d-standing-front-3000.jpg?v=1780331142"
-    },
-    {
-      "title": "The Pot Book: A Global Survey of Ceramic Craft and Design",
-      "store": "Phaidon",
-      "city": "출판사",
-      "section": "아트·디자인",
-      "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/the-pot-book-en-9051-3d-standing-front-3000.jpg?v=1780430654",
-      "store_link": "https://www.phaidon.com/products/the-pot-book-a-global-survey-of-ceramic-craft-and-design",
-      "published_at": "2026-07-22T12:14:35+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/the-pot-book-en-9051-3d-standing-front-3000.jpg?v=1780430654"
-    },
-    {
-      "title": "Arthur Jafa: I Am Tony",
-      "store": "Phaidon",
-      "city": "출판사",
-      "section": "아트·디자인",
-      "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/arthur-jafa-en-9056-3d-standing-front-3000.jpg?v=1777352838",
-      "store_link": "https://www.phaidon.com/products/arthur-jafa-i-am-tony",
-      "published_at": "2026-07-22T12:14:34+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/arthur-jafa-en-9056-3d-standing-front-3000.jpg?v=1777352838"
-    },
-    {
-      "title": "The Rise of Indian Food: Recipes Reimagined by Trèsind Studio",
-      "store": "Phaidon",
-      "city": "출판사",
-      "section": "아트·디자인",
-      "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/the-rise-of-indian-food-en-9203-standing-front-3000.jpg?v=1784712608",
-      "store_link": "https://www.phaidon.com/products/the-rise-of-indian-food-recipes-reimagined-by-tresind-studio",
-      "published_at": "2026-07-22T10:43:15+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/the-rise-of-indian-food-en-9203-standing-front-3000.jpg?v=1784712608"
-    },
-    {
-      "title": "Oteque: Ideas, Principles, Recipes, Stories and Connections [A Cookbook]",
-      "store": "Phaidon",
-      "city": "출판사",
-      "section": "아트·디자인",
-      "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/oteque-ideas-principles-en-9062-standing-front-3000.jpg?v=1784712566",
-      "store_link": "https://www.phaidon.com/products/oteque-ideas-principles-recipes-stories-and-connections-a-cookbook",
-      "published_at": "2026-07-22T10:43:14+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/oteque-ideas-principles-en-9062-standing-front-3000.jpg?v=1784712566"
-    },
-    {
       "title": "Atlas of Never Built Architecture",
       "store": "Phaidon",
       "city": "출판사",
@@ -991,83 +1068,6 @@
       "store_link": "https://www.phaidon.com/products/atlas-of-never-built-architecture-2024",
       "published_at": "2026-07-22T10:24:47+01:00",
       "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/atlas-of-never-built-architecture-en-6653-standing-front-3000_2563dfd4-431a-4293-acc1-d98aba2b2e68.jpg?v=1784712316"
-    },
-    {
-      "title": "The Mon Lapin Cookbook: De Toute Beauté: From Montreal, With Love",
-      "store": "Phaidon",
-      "city": "출판사",
-      "section": "아트·디자인",
-      "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/mon-lapin-en-9263-3d-standing-front-3000.jpg?v=1784696590",
-      "store_link": "https://www.phaidon.com/products/the-mon-lapin-cookbook-de-toute-beaute-from-montreal-with-love",
-      "published_at": "2026-07-22T10:03:03+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/mon-lapin-en-9263-3d-standing-front-3000.jpg?v=1784696590"
-    },
-    {
-      "title": "John Pawson: The Minimal Home: The Minimal Home",
-      "store": "Phaidon",
-      "city": "출판사",
-      "section": "아트·디자인",
-      "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/john-pawson-the-minimal-way-of-life-signed-edition-en-9345-3d-standing-front-3000_150ff42b-eaa4-43b3-8380-ebff6f9374fd.jpg?v=1784704386",
-      "store_link": "https://www.phaidon.com/products/john-pawson-the-minimal-home-the-minimal-home",
-      "published_at": "2026-07-22T10:03:02+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/john-pawson-the-minimal-way-of-life-signed-edition-en-9345-3d-standing-front-3000_150ff42b-eaa4-43b3-8380-ebff6f9374fd.jpg?v=1784704386"
-    },
-    {
-      "title": "The Thought That Counts: A Guide to Gifting for Every Occasion",
-      "store": "Phaidon",
-      "city": "출판사",
-      "section": "아트·디자인",
-      "author": "The Monacelli Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/M-the-thought-that-counts-ae-3746-3d-standing-front-3000_53ejx4.jpg?v=1782915853",
-      "store_link": "https://www.phaidon.com/products/the-thought-that-counts-a-guide-to-gifting-for-every-occasion",
-      "published_at": "2026-07-22T10:03:02+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/M-the-thought-that-counts-ae-3746-3d-standing-front-3000_53ejx4.jpg?v=1782915853"
-    },
-    {
-      "title": "Formafantasma",
-      "store": "Phaidon",
-      "city": "출판사",
-      "section": "아트·디자인",
-      "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/formafantasma-signed-edition-en-9344-3d-standing-front-3000.jpg?v=1784699260",
-      "store_link": "https://www.phaidon.com/products/formafantasma",
-      "published_at": "2026-07-22T10:03:00+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/formafantasma-signed-edition-en-9344-3d-standing-front-3000.jpg?v=1784699260"
-    },
-    {
-      "title": "Mory Sacko: A Cook's Journey",
-      "store": "Phaidon",
-      "city": "출판사",
-      "section": "아트·디자인",
-      "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/mory-sacko-en-9044-3d-standing-front-3000.jpg?v=1780330407",
-      "store_link": "https://www.phaidon.com/products/mory-sacko-a-cooks-journey",
-      "published_at": "2026-07-22T10:03:00+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/mory-sacko-en-9044-3d-standing-front-3000.jpg?v=1780330407"
-    },
-    {
-      "title": "Grace: Now",
-      "store": "Phaidon",
-      "city": "출판사",
-      "section": "아트·디자인",
-      "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/grace-now-signed-edition-en-xxxx-3d-standing-front-3000_0c92cefb-6a5d-4073-8843-7153009e4a08.jpg?v=1784709619",
-      "store_link": "https://www.phaidon.com/products/grace-now",
-      "published_at": "2026-07-22T10:02:59+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/grace-now-signed-edition-en-xxxx-3d-standing-front-3000_0c92cefb-6a5d-4073-8843-7153009e4a08.jpg?v=1784709619"
-    },
-    {
-      "title": "Tavares Strachan",
-      "store": "Phaidon",
-      "city": "출판사",
-      "section": "아트·디자인",
-      "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/tavares-strachan-en-9023-3d-standing-front-3000_7a49482c-5410-413b-916b-e342e9003636.jpg?v=1784701874",
-      "store_link": "https://www.phaidon.com/products/tavares-strachan",
-      "published_at": "2026-07-22T10:02:58+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/tavares-strachan-en-9023-3d-standing-front-3000_7a49482c-5410-413b-916b-e342e9003636.jpg?v=1784701874"
     },
     {
       "title": "Spring Pops Up!",
@@ -1101,6 +1101,50 @@
       "store_link": "https://www.phaidon.com/products/the-tomorrow-tree-how-nature-creates-new-life-from-old",
       "published_at": "2026-07-20T09:09:32+01:00",
       "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/the-tomorrow-tree-ae-9057-standing-front-3000_15b6f8c1-753c-416d-8f10-e0aee776394b.jpg?v=1764656692"
+    },
+    {
+      "title": "WildLOVE",
+      "store": "Gestalten",
+      "city": "출판사",
+      "section": "디자인",
+      "author": "teNeues",
+      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/Wild-Love_Cover-front.png?v=1760005515",
+      "store_link": "https://shop.gestalten.com/products/wildlove",
+      "published_at": "2026-07-23T20:30:24+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/Wild-Love_Cover-front.png?v=1760005515"
+    },
+    {
+      "title": "The New Traditional",
+      "store": "Gestalten",
+      "city": "출판사",
+      "section": "디자인",
+      "author": "gestalten",
+      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/products/TheNewTraditional_front.png?v=1583503140",
+      "store_link": "https://shop.gestalten.com/products/new-traditional",
+      "published_at": "2026-07-23T09:49:36+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/products/TheNewTraditional_front.png?v=1583503140"
+    },
+    {
+      "title": "Los Logos 8",
+      "store": "Gestalten",
+      "city": "출판사",
+      "section": "디자인",
+      "author": "gestalten",
+      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/products/LosLogos08_gestalten_book_e1254897-b312-4081-af86-6bd5f662f93a.png?v=1645550810",
+      "store_link": "https://shop.gestalten.com/products/los-logos-8",
+      "published_at": "2026-07-23T09:48:52+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/products/LosLogos08_gestalten_book_e1254897-b312-4081-af86-6bd5f662f93a.png?v=1645550810"
+    },
+    {
+      "title": "Cliffhanger",
+      "store": "Gestalten",
+      "city": "출판사",
+      "section": "디자인",
+      "author": "gestalten",
+      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/products/CliffhangerEN_front.png?v=1584355064",
+      "store_link": "https://shop.gestalten.com/products/cliffhanger",
+      "published_at": "2026-07-23T09:48:02+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/products/CliffhangerEN_front.png?v=1584355064"
     },
     {
       "title": "The Monocle Guide to Shops, Kiosks and Markets",
@@ -1277,50 +1321,6 @@
       "store_link": "https://shop.gestalten.com/products/masters-of-street-art-art-without-a-frame",
       "published_at": "2026-07-08T12:54:39+02:00",
       "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/MastersofStreetArt-Cover.png?v=1781707128"
-    },
-    {
-      "title": "The Watch Book: Hanhart",
-      "store": "Gestalten",
-      "city": "출판사",
-      "section": "디자인",
-      "author": "teNeues",
-      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/TWB_Hanhart_Cover.png?v=1778835879",
-      "store_link": "https://shop.gestalten.com/products/the-watch-book-hanhart-und-die-deutsche-uhrenindustrie",
-      "published_at": "2026-07-07T10:57:14+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/TWB_Hanhart_Cover.png?v=1778835879"
-    },
-    {
-      "title": "Escape",
-      "store": "Gestalten",
-      "city": "출판사",
-      "section": "디자인",
-      "author": "teNeues",
-      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/TNEscapeDE_front_dabe5f29-a4d3-43e5-8270-69f89df6877b.png?v=1782729866",
-      "store_link": "https://shop.gestalten.com/products/escape",
-      "published_at": "2026-07-07T10:57:05+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/TNEscapeDE_front_dabe5f29-a4d3-43e5-8270-69f89df6877b.png?v=1782729866"
-    },
-    {
-      "title": "Escape (Deutsche Ausgabe)",
-      "store": "Gestalten",
-      "city": "출판사",
-      "section": "디자인",
-      "author": "teNeues",
-      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/TNEscapeDE_front.png?v=1760004629",
-      "store_link": "https://shop.gestalten.com/products/escape-die-dolomiten-entdecken-eine-visuelle-reise-und-wilde-abenteuer",
-      "published_at": "2026-07-07T10:56:55+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/TNEscapeDE_front.png?v=1760004629"
-    },
-    {
-      "title": "Elliott Erwitt: Personal Best",
-      "store": "Gestalten",
-      "city": "출판사",
-      "section": "디자인",
-      "author": "teNeues",
-      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/Elliott-Erwitt-Personal-Best_Cover-front.png?v=1760005208",
-      "store_link": "https://shop.gestalten.com/products/elliott-erwitts-personal-best-tn4t",
-      "published_at": "2026-07-07T10:56:42+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/Elliott-Erwitt-Personal-Best_Cover-front.png?v=1760005208"
     },
     {
       "title": "The Happy Prince and Other Tales",
