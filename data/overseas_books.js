@@ -1,7 +1,51 @@
 window.__OVERSEAS_BOOKS_DATA__ = {
-  "updated_at": "2026-07-24T08:02:43.927851+09:00",
-  "today": "2026-07-24",
+  "updated_at": "2026-07-25T08:02:12.354128+09:00",
+  "today": "2026-07-25",
   "books": [
+    {
+      "title": "Bestiary - Anne Geene & Arjan de Nooy",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Blind Finch Books",
+      "store_cover": "",
+      "store_link": "https://www.doyoureadme.de/products/bestiary-anne-geene-arjan-de-nooy",
+      "published_at": "2026-07-24T15:43:56+02:00",
+      "cover": ""
+    },
+    {
+      "title": "See All This #42",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "See All This",
+      "store_cover": "",
+      "store_link": "https://www.doyoureadme.de/products/see-all-this-42",
+      "published_at": "2026-07-24T14:43:11+02:00",
+      "cover": ""
+    },
+    {
+      "title": "Entreprecariat - Silvio Lorusso (2026 Hustler Edition)",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Set Margins",
+      "store_cover": "",
+      "store_link": "https://www.doyoureadme.de/products/entreprecariat-silvio-lorusso-2026-hustler-edition",
+      "published_at": "2026-07-24T14:29:43+02:00",
+      "cover": ""
+    },
+    {
+      "title": "Ideat FR #178 July/ August 2026",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Ideat",
+      "store_cover": "",
+      "store_link": "https://www.doyoureadme.de/products/ideat-fr-178-july-august-2026",
+      "published_at": "2026-07-24T10:56:10+02:00",
+      "cover": ""
+    },
     {
       "title": "Casa Brutus #316 August 2026",
       "store": "Do you read me?!",
@@ -177,50 +221,6 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "store_link": "https://www.doyoureadme.de/products/thinking-back-moving-forward-artistic-research-in-practice",
       "published_at": "2026-07-14T13:33:01+02:00",
       "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43689-Thinking-Back-Making-Forward_Artistic-Research-in-Practice-1.jpg?v=1784028443"
-    },
-    {
-      "title": "Girls Like Us #15 2026 - The Vortex",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "GLU",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43688-Girls-Like-Us-15-2026_The-Vortex-1.jpg?v=1784028443",
-      "store_link": "https://www.doyoureadme.de/products/girls-like-us-5-2026",
-      "published_at": "2026-07-14T13:33:01+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43688-Girls-Like-Us-15-2026_The-Vortex-1.jpg?v=1784028443"
-    },
-    {
-      "title": "Dead Letter Room - Allie Tsubota",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "The Eriskay Connection",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43687-Dead-Letter-Room_Allie-Tsubota-1.jpg?v=1784028443",
-      "store_link": "https://www.doyoureadme.de/products/dead-letter-room-allie-tsubota",
-      "published_at": "2026-07-14T13:33:01+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43687-Dead-Letter-Room_Allie-Tsubota-1.jpg?v=1784028443"
-    },
-    {
-      "title": "Poetics of Place",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Nai010 Publishers",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43686-Poetics-of-Place-1.jpg?v=1784028442",
-      "store_link": "https://www.doyoureadme.de/products/poetics-of-place",
-      "published_at": "2026-07-14T13:33:01+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43686-Poetics-of-Place-1.jpg?v=1784028442"
-    },
-    {
-      "title": "Study Magazine Vol.15 2026",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "STUDY",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Study-Magazine-Vol-15-2026-1.jpg?v=1784028442",
-      "store_link": "https://www.doyoureadme.de/products/study-magazine-vol-15-2026",
-      "published_at": "2026-07-14T13:33:00+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Study-Magazine-Vol-15-2026-1.jpg?v=1784028442"
     },
     {
       "title": "Under the Radar: Underground Zines and Self-publications 1965-1975",
@@ -938,17 +938,6 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/M-the-thought-that-counts-ae-3746-3d-standing-front-3000_53ejx4.jpg?v=1782915853"
     },
     {
-      "title": "The Pot Book: A Global Survey of Ceramic Craft and Design",
-      "store": "Phaidon",
-      "city": "출판사",
-      "section": "아트·디자인",
-      "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/the-pot-book-en-9051-3d-standing-front-3000.jpg?v=1780430654",
-      "store_link": "https://www.phaidon.com/products/the-pot-book-a-global-survey-of-ceramic-craft-and-design",
-      "published_at": "2026-07-23T12:20:23+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/the-pot-book-en-9051-3d-standing-front-3000.jpg?v=1780430654"
-    },
-    {
       "title": "Formafantasma",
       "store": "Phaidon",
       "city": "출판사",
@@ -1101,6 +1090,17 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "store_link": "https://www.phaidon.com/products/the-tomorrow-tree-how-nature-creates-new-life-from-old",
       "published_at": "2026-07-20T09:09:32+01:00",
       "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/the-tomorrow-tree-ae-9057-standing-front-3000_15b6f8c1-753c-416d-8f10-e0aee776394b.jpg?v=1764656692"
+    },
+    {
+      "title": "Stone (2019)",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "Phaidon Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/9780714879253-Stone-3d-standing-1to1_e6cbc8c3-5076-4c2d-ae66-90defaac579b.jpg?v=1784019792",
+      "store_link": "https://www.phaidon.com/products/stone-2019",
+      "published_at": "2026-07-17T15:18:39+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/9780714879253-Stone-3d-standing-1to1_e6cbc8c3-5076-4c2d-ae66-90defaac579b.jpg?v=1784019792"
     },
     {
       "title": "WildLOVE",
