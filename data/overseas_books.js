@@ -1,6 +1,6 @@
 window.__OVERSEAS_BOOKS_DATA__ = {
-  "updated_at": "2026-07-25T08:02:12.354128+09:00",
-  "today": "2026-07-25",
+  "updated_at": "2026-07-26T08:02:38.496510+09:00",
+  "today": "2026-07-26",
   "books": [
     {
       "title": "Bestiary - Anne Geene & Arjan de Nooy",
@@ -443,6 +443,17 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "cover": "https://cdn.shopify.com/s/files/1/0221/7340/files/Screenshot2026-06-03at16.33.24.png?v=1780501154"
     },
     {
+      "title": "UPPERCASE #70",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-25at12-09-31UPPERCASE_70.png?v=1784977868",
+      "store_link": "https://magmabooks.com/products/uppercase-69-copy",
+      "published_at": "2026-07-25T12:13:06+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-25at12-09-31UPPERCASE_70.png?v=1784977868"
+    },
+    {
       "title": "Letting Go Cards",
       "store": "Magma Books",
       "city": "런던",
@@ -650,17 +661,6 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "store_link": "https://magmabooks.com/products/fare-12-copenhagen",
       "published_at": "2026-07-20T16:43:48+01:00",
       "cover": "https://cdn.shopify.com/s/files/1/0285/4760/products/Screenshot2022-12-15at11-18-30Fare_12_Copenhagen_Cover.png_PNGImage1500x1500pixels_Scaled_60.png?v=1674128933"
-    },
-    {
-      "title": "Fare #11 Lisbon",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/products/Screenshot2022-09-03at11-49-40Fare-Lisbon-Cover.png_PNGImage1500x1500pixels_Scaled_45.png?v=1662202458",
-      "store_link": "https://magmabooks.com/products/fare-11-lisbon",
-      "published_at": "2026-07-20T16:43:47+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/products/Screenshot2022-09-03at11-49-40Fare-Lisbon-Cover.png_PNGImage1500x1500pixels_Scaled_45.png?v=1662202458"
     },
     {
       "title": "Mast Books Tote Bag",
