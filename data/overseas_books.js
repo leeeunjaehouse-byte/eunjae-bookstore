@@ -1,6 +1,6 @@
 window.__OVERSEAS_BOOKS_DATA__ = {
-  "updated_at": "2026-07-26T08:02:38.496510+09:00",
-  "today": "2026-07-26",
+  "updated_at": "2026-07-27T08:03:47.241159+09:00",
+  "today": "2026-07-27",
   "books": [
     {
       "title": "Bestiary - Anne Geene & Arjan de Nooy",
