@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-07-29T08:02:45.170432+09:00",
-  "today": "2026-07-29",
+  "updated_at": "2026-07-30T08:02:52.852494+09:00",
+  "today": "2026-07-30",
   "books": [
+    {
+      "title": "Why Don't You Dance - Hannah Darabi",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Kodoji Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Neu_Hannah-Darabi---Why-Don_t-You-Dance.jpg?v=1785328348",
+      "store_link": "https://www.doyoureadme.de/products/why-dont-you-dance-hannah-darabi",
+      "published_at": "2026-07-29T14:26:25+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Neu_Hannah-Darabi---Why-Don_t-You-Dance.jpg?v=1785328348"
+    },
+    {
+      "title": "For a Quantum Theory of History - Slavoj Zizek (Tre Oci Book Club)",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Berggruen Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43659-For-a-Quantum-Theory-of-History_Slavoj-Zizek_Tre-Oci-Book-Club-1.jpg?v=1783681630",
+      "store_link": "https://www.doyoureadme.de/products/for-a-quantum-theory-of-history-slavoj-zizek-tre-oci-book-club",
+      "published_at": "2026-07-29T12:32:36+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43659-For-a-Quantum-Theory-of-History_Slavoj-Zizek_Tre-Oci-Book-Club-1.jpg?v=1783681630"
+    },
     {
       "title": "Casa Brutus by NIGO - (English Edition)",
       "store": "Do you read me?!",
@@ -199,28 +221,6 @@
       "store_link": "https://www.doyoureadme.de/products/girls-like-us-5-2026",
       "published_at": "2026-07-14T13:33:01+02:00",
       "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43688-Girls-Like-Us-15-2026_The-Vortex-1.jpg?v=1784028443"
-    },
-    {
-      "title": "Dead Letter Room - Allie Tsubota",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "The Eriskay Connection",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43687-Dead-Letter-Room_Allie-Tsubota-1.jpg?v=1784028443",
-      "store_link": "https://www.doyoureadme.de/products/dead-letter-room-allie-tsubota",
-      "published_at": "2026-07-14T13:33:01+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43687-Dead-Letter-Room_Allie-Tsubota-1.jpg?v=1784028443"
-    },
-    {
-      "title": "Poetics of Place",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Nai010 Publishers",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43686-Poetics-of-Place-1.jpg?v=1784028442",
-      "store_link": "https://www.doyoureadme.de/products/poetics-of-place",
-      "published_at": "2026-07-14T13:33:01+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43686-Poetics-of-Place-1.jpg?v=1784028442"
     },
     {
       "title": "Under the Radar: Underground Zines and Self-publications 1965-1975",
@@ -443,6 +443,39 @@
       "cover": "https://cdn.shopify.com/s/files/1/0221/7340/files/Screenshot2026-06-03at16.33.24.png?v=1780501154"
     },
     {
+      "title": "MacGuffin STORIES",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-29132128.png?v=1785328187",
+      "store_link": "https://magmabooks.com/products/plop-magazine-2-polish-design-revue-copy",
+      "published_at": "2026-07-29T13:31:46+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-29132128.png?v=1785328187"
+    },
+    {
+      "title": "Plop Magazine #2 – Polish Design Revue",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-29131717.png?v=1785327848",
+      "store_link": "https://magmabooks.com/products/macguffin-15-copy-2",
+      "published_at": "2026-07-29T13:27:30+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-29131717.png?v=1785327848"
+    },
+    {
+      "title": "MacGuffin #15",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/2025-09-12_17-08-13_494c54d2-befe-43fa-87bf-92b976889bc6.jpg?v=1757693954",
+      "store_link": "https://magmabooks.com/products/macguffin-14-copy",
+      "published_at": "2026-07-29T12:43:13+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/2025-09-12_17-08-13_494c54d2-befe-43fa-87bf-92b976889bc6.jpg?v=1757693954"
+    },
+    {
       "title": "A Book on Zines: New Aesthetics in Zine Design",
       "store": "Magma Books",
       "city": "런던",
@@ -628,39 +661,6 @@
       "store_link": "https://magmabooks.com/products/miffy-and-the-artists-copy",
       "published_at": "2026-07-22T16:06:51+01:00",
       "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-03at15-24-52Thames_HudsonUSA-Book-Mouse_sWoodAYearinNature.png?v=1780496712"
-    },
-    {
-      "title": "Ivy and Bearlock Holmes: The Case of the Missing Flower",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-21153607.png?v=1784644670",
-      "store_link": "https://magmabooks.com/products/detective-stanley-and-the-green-thumbed-thief-copy",
-      "published_at": "2026-07-21T15:38:42+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-21153607.png?v=1784644670"
-    },
-    {
-      "title": "Lines of the Hand",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-20160321.png?v=1784562685",
-      "store_link": "https://magmabooks.com/products/the-incomplete-deck-copy",
-      "published_at": "2026-07-20T16:51:33+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-20160321.png?v=1784562685"
-    },
-    {
-      "title": "Fare #19 Athens",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-20at16-49-36Fare_Athens_Cover_Web.jpg_JPEGImage1080x1080pixels_Scaled_87.png?v=1784562582",
-      "store_link": "https://magmabooks.com/products/fare-19-athens",
-      "published_at": "2026-07-20T16:46:43+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-20at16-49-36Fare_Athens_Cover_Web.jpg_JPEGImage1080x1080pixels_Scaled_87.png?v=1784562582"
     },
     {
       "title": "Mast Books Tote Bag",
