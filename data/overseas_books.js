@@ -1,6 +1,6 @@
 window.__OVERSEAS_BOOKS_DATA__ = {
-  "updated_at": "2026-07-30T08:02:52.852494+09:00",
-  "today": "2026-07-30",
+  "updated_at": "2026-07-31T08:07:33.774501+09:00",
+  "today": "2026-07-31",
   "books": [
     {
       "title": "Why Don't You Dance - Hannah Darabi",
@@ -443,6 +443,28 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "cover": "https://cdn.shopify.com/s/files/1/0221/7340/files/Screenshot2026-06-03at16.33.24.png?v=1780501154"
     },
     {
+      "title": "Boo!",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/products/51TsBsqCG-L.jpg?v=1635325867",
+      "store_link": "https://magmabooks.com/products/boo",
+      "published_at": "2026-07-30T16:01:46+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/products/51TsBsqCG-L.jpg?v=1635325867"
+    },
+    {
+      "title": "EK Baumer Type-Specimen",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-30154740.png?v=1785423191",
+      "store_link": "https://magmabooks.com/products/francesca-biasetton-the-pencil-is-under-the-table-copy",
+      "published_at": "2026-07-30T15:54:00+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-30154740.png?v=1785423191"
+    },
+    {
       "title": "MacGuffin STORIES",
       "store": "Magma Books",
       "city": "런던",
@@ -639,28 +661,6 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "store_link": "https://magmabooks.com/products/windows-copy",
       "published_at": "2026-07-22T16:38:19+01:00",
       "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-22at16-26-11HowtoBeaCatVoultersSamAmazon.co.ukBooks_375dc5df-19cf-42f8-9f40-928a9b451e3d.png?v=1784734257"
-    },
-    {
-      "title": "windows",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/9781917933025.jpg?v=1784733737",
-      "store_link": "https://magmabooks.com/products/mouses-wood-copy-1",
-      "published_at": "2026-07-22T16:22:23+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/9781917933025.jpg?v=1784733737"
-    },
-    {
-      "title": "Mouse's Wood",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-03at15-24-52Thames_HudsonUSA-Book-Mouse_sWoodAYearinNature.png?v=1780496712",
-      "store_link": "https://magmabooks.com/products/miffy-and-the-artists-copy",
-      "published_at": "2026-07-22T16:06:51+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-03at15-24-52Thames_HudsonUSA-Book-Mouse_sWoodAYearinNature.png?v=1780496712"
     },
     {
       "title": "Mast Books Tote Bag",
