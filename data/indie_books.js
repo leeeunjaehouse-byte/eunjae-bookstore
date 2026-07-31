@@ -1,7 +1,25 @@
 window.__INDIE_BOOKS_DATA__ = {
-  "updated_at": "2026-07-31T08:20:17.028798+09:00",
-  "today": "2026-07-31",
+  "updated_at": "2026-08-01T08:09:02.198487+09:00",
+  "today": "2026-08-01",
   "books": [
+    {
+      "title": "Patterns · 강유라",
+      "store": "유어마인드",
+      "section": "BOOKS",
+      "store_link": "https://www.your-mind.com/product/patterns-·-강유라/6163/category/27/display/1/",
+      "store_cover": "https://www.your-mind.com/web/product/big/202607/a253312ab81f13e9c3a7fc9740d73ab9.png",
+      "cover": "https://www.your-mind.com/web/product/big/202607/a253312ab81f13e9c3a7fc9740d73ab9.png",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=Patterns%20%C2%B7%20%EA%B0%95%EC%9C%A0%EB%9D%BC"
+    },
+    {
+      "title": "미세 조정 · 김대웅, 조효준, 강유라",
+      "store": "유어마인드",
+      "section": "BOOKS",
+      "store_link": "https://www.your-mind.com/product/미세-조정-·-김대웅-조효준-강유라/6162/category/27/display/1/",
+      "store_cover": "https://www.your-mind.com/web/product/big/202607/5e0cd8a5ec2e9666bc324fbd90d4ea63.png",
+      "cover": "https://www.your-mind.com/web/product/big/202607/5e0cd8a5ec2e9666bc324fbd90d4ea63.png",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EB%AF%B8%EC%84%B8%20%EC%A1%B0%EC%A0%95%20%C2%B7%20%EA%B9%80%EB%8C%80%EC%9B%85%2C%20%EC%A1%B0%ED%9A%A8%EC%A4%80%2C%20%EA%B0%95%EC%9C%A0%EB%9D%BC"
+    },
     {
       "title": "돌고래 지망생 · 안유진",
       "store": "유어마인드",
@@ -46,15 +64,6 @@ window.__INDIE_BOOKS_DATA__ = {
       "store_cover": "https://www.your-mind.com/web/product/big/202607/70ba9ef21e24caa60f1bdc20fa2c3f60.png",
       "cover": "https://www.your-mind.com/web/product/big/202607/70ba9ef21e24caa60f1bdc20fa2c3f60.png",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=Called%20Pieces%20%C2%B7%20COM"
-    },
-    {
-      "title": "Still Life · 김진주",
-      "store": "유어마인드",
-      "section": "BOOKS",
-      "store_link": "https://www.your-mind.com/product/still-life-·-김진주/6150/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202606/be2adf34824d8519460a1d67ee875f1a.jpg",
-      "cover": "https://www.your-mind.com/web/product/big/202606/be2adf34824d8519460a1d67ee875f1a.jpg",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=Still%20Life%20%C2%B7%20%EA%B9%80%EC%A7%84%EC%A3%BC"
     },
     {
       "title": "[재입고] 광주에 가면 · 문진희",
@@ -262,15 +271,6 @@ window.__INDIE_BOOKS_DATA__ = {
       "store_cover": "https://www.your-mind.com/web/product/big/202604/2914274efbb28bbcbddb32ac0722431f.png",
       "cover": "https://www.your-mind.com/web/product/big/202604/2914274efbb28bbcbddb32ac0722431f.png",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%E3%80%8E%EC%84%AC%EC%84%AC%EB%8F%8C%EB%8F%8C%E3%80%8F%20%EC%A0%9C3%ED%98%B8%20%E2%80%98%EC%9E%AC%EB%A3%8C%EC%86%90%EC%A7%88%E2%80%99%20%C2%B7%20%EA%B3%B5%EB%B6%80%EC%A4%91"
-    },
-    {
-      "title": "[재입고] Me and Tove and a lot of books · 류은지",
-      "store": "유어마인드",
-      "section": "BOOKS",
-      "store_link": "https://www.your-mind.com/product/재입고-me-and-tove-and-a-lot-of-books-·-류은지/5975/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202604/8efbe4fa5d9b39bf0f6ed7342006f99f.png",
-      "cover": "https://www.your-mind.com/web/product/big/202604/8efbe4fa5d9b39bf0f6ed7342006f99f.png",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20Me%20and%20Tove%20and%20a%20lot%20of%20books%20%C2%B7%20%EB%A5%98%EC%9D%80%EC%A7%80"
     },
     {
       "title": "[예약판매/배송비 무료] 숨겨둔 책 세트 (No.025, 026, 027)",
@@ -1542,6 +1542,15 @@ window.__INDIE_BOOKS_DATA__ = {
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%9D%B4%EC%9D%80%EA%B2%BD%2C%20%E3%80%8E%EC%95%84%EB%AC%B4%ED%8A%BC%2C%20%EB%AA%85%EC%83%81%E3%80%8F%EC%95%84%EB%AC%B4%ED%8A%BC%20%EC%8B%9C%EB%A6%AC%EC%A6%88%2081"
     },
     {
+      "title": "[3차 입고] 큐레이팅의 교육적 전환",
+      "store": "더북소사이어티",
+      "section": "큐레이션",
+      "store_link": "https://thebooksociety.org/shop_view/?idx=445",
+      "store_cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/251f65db2d9e2.jpg?w=800",
+      "cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/251f65db2d9e2.jpg?w=800",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B3%EC%B0%A8%20%EC%9E%85%EA%B3%A0%5D%20%ED%81%90%EB%A0%88%EC%9D%B4%ED%8C%85%EC%9D%98%20%EA%B5%90%EC%9C%A1%EC%A0%81%20%EC%A0%84%ED%99%98"
+    },
+    {
       "title": "Liminal Figures",
       "store": "더북소사이어티",
       "section": "큐레이션",
@@ -1803,15 +1812,6 @@ window.__INDIE_BOOKS_DATA__ = {
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=KIRTI%20Vol.1%20-%20Hunter%20P%20Deerfield"
     },
     {
-      "title": "e-flux Index #7",
-      "store": "더북소사이어티",
-      "section": "큐레이션",
-      "store_link": "https://thebooksociety.org/shop_view/?idx=1304",
-      "store_cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/20efabf542d86.jpg?w=800",
-      "cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/20efabf542d86.jpg?w=800",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=e-flux%20Index%20%237"
-    },
-    {
       "title": "우리는 사랑하기 좋은 팔을 가졌구나(한지 에디션)",
       "store": "땡스북스",
       "section": "금주의 책",
@@ -1820,7 +1820,7 @@ window.__INDIE_BOOKS_DATA__ = {
       "week": "2026년 7월 20일 ~ 7월 26일",
       "tb_page": "http://thanksbooks.com/site/thanksbooks/index.php/selection/weeklttb2026/",
       "store_cover": "",
-      "cover": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788925568928.jpg",
+      "cover": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791191347975.jpg",
       "buy_link": "https://product.kyobobook.co.kr/detail/S000001807570",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%9A%B0%EB%A6%AC%EB%8A%94%20%EC%82%AC%EB%9E%91%ED%95%98%EA%B8%B0%20%EC%A2%8B%EC%9D%80%20%ED%8C%94%EC%9D%84%20%EA%B0%80%EC%A1%8C%EA%B5%AC%EB%82%98%28%ED%95%9C%EC%A7%80%20%EC%97%90%EB%94%94%EC%85%98%29"
     },
@@ -2270,10 +2270,10 @@ window.__INDIE_BOOKS_DATA__ = {
   "errors": [],
   "total": 236,
   "stores_attempted": [
-    "고요서사",
-    "사적인서점",
-    "소심한책방",
     "유어마인드",
+    "고요서사",
+    "소심한책방",
+    "사적인서점",
     "북앤스페이스"
   ]
 };
