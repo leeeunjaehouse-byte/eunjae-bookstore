@@ -1,6 +1,6 @@
 window.__OVERSEAS_BOOKS_DATA__ = {
-  "updated_at": "2026-08-01T08:09:17.824024+09:00",
-  "today": "2026-08-01",
+  "updated_at": "2026-08-02T08:02:54.989703+09:00",
+  "today": "2026-08-02",
   "books": [
     {
       "title": "Why Don't You Dance - Hannah Darabi",
@@ -476,17 +476,6 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot_2025-01-23_at_17-08-53_Mushroom_People_Magazine_Volume_2_Broccoli.png?v=1737652480"
     },
     {
-      "title": "A Magazine Curated by Cecile Nike",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-19172213.png?v=1781886526",
-      "store_link": "https://magmabooks.com/products/a-magazine-curated-by-cecile-bahnsen-copy",
-      "published_at": "2026-07-31T17:14:58+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-19172213.png?v=1781886526"
-    },
-    {
       "title": "Swallowtail Butterfly Claw",
       "store": "Magma Books",
       "city": "런던",
@@ -661,6 +650,17 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "store_link": "https://magmabooks.com/products/a-book-on-zines",
       "published_at": "2026-07-28T16:19:02+01:00",
       "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/A-Book-on-Zines_top_1000height_2048x_566c2b63-8758-4df2-ad6c-e72fe68b2ca7.webp?v=1785256039"
+    },
+    {
+      "title": "Cake Zine #Steak Zine",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-04-10150213.png?v=1775829973",
+      "store_link": "https://magmabooks.com/products/cake-zine-forbidden-fruit-copy",
+      "published_at": "2026-07-28T16:08:33+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-04-10150213.png?v=1775829973"
     },
     {
       "title": "Mast Books Tote Bag",
@@ -883,17 +883,6 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "cover": "https://cdn.shopify.com/s/files/1/0290/3562/6574/files/MB_WEINER_WE_ARE_SHIPS_01.jpg?v=1744483758"
     },
     {
-      "title": "Stone: Mini Format",
-      "store": "Phaidon",
-      "city": "출판사",
-      "section": "아트·디자인",
-      "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/stone-mini-format-en-9239-3d-standing-front-3000.jpg?v=1783957807",
-      "store_link": "https://www.phaidon.com/products/stone-mini-format",
-      "published_at": "2026-07-27T10:10:53+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/stone-mini-format-en-9239-3d-standing-front-3000.jpg?v=1783957807"
-    },
-    {
       "title": "Huma Bhabha",
       "store": "Phaidon",
       "city": "출판사",
@@ -1070,17 +1059,6 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/oteque-ideas-principles-en-9062-standing-front-3000.jpg?v=1784712566"
     },
     {
-      "title": "Living in a Japanese House",
-      "store": "Phaidon",
-      "city": "출판사",
-      "section": "아트·디자인",
-      "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/living-in-a-japanese-house-en-9269-3d-standing-front-3000.jpg?v=1779978252",
-      "store_link": "https://www.phaidon.com/products/living-in-a-japanese-house",
-      "published_at": "2026-07-22T12:14:37+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/living-in-a-japanese-house-en-9269-3d-standing-front-3000.jpg?v=1779978252"
-    },
-    {
       "title": "Atlas of Never Built Architecture",
       "store": "Phaidon",
       "city": "출판사",
@@ -1092,15 +1070,37 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/atlas-of-never-built-architecture-en-6653-standing-front-3000_2563dfd4-431a-4293-acc1-d98aba2b2e68.jpg?v=1784712316"
     },
     {
-      "title": "Spring Pops Up!",
+      "title": "Holding (Removed)",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "Artspace",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/ProductPrint_72DPI_e37df617-543f-444c-8bd3-580bf2e1a993.jpg?v=1784103117",
+      "store_link": "https://www.phaidon.com/products/matthew-stone-holding-removed-5056880812450",
+      "published_at": "2026-07-21T19:51:37+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/ProductPrint_72DPI_e37df617-543f-444c-8bd3-580bf2e1a993.jpg?v=1784103117"
+    },
+    {
+      "title": "The Tomorrow Tree: How Nature Creates New Life From Old",
       "store": "Phaidon",
       "city": "출판사",
       "section": "아트·디자인",
       "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/spring-pops-up-en-9209-3d-standing-front-3000.jpg?v=1783957953",
-      "store_link": "https://www.phaidon.com/products/spring-pops-up",
-      "published_at": "2026-07-22T09:25:44+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/spring-pops-up-en-9209-3d-standing-front-3000.jpg?v=1783957953"
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/the-tomorrow-tree-ae-9057-standing-front-3000_15b6f8c1-753c-416d-8f10-e0aee776394b.jpg?v=1764656692",
+      "store_link": "https://www.phaidon.com/products/the-tomorrow-tree-how-nature-creates-new-life-from-old",
+      "published_at": "2026-07-20T09:09:32+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/the-tomorrow-tree-ae-9057-standing-front-3000_15b6f8c1-753c-416d-8f10-e0aee776394b.jpg?v=1764656692"
+    },
+    {
+      "title": "Batty Back Up",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "Artspace",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/william_wegman_1932_ORIG.jpg?v=1784033936",
+      "store_link": "https://www.phaidon.com/products/william-wegman-batty-back-up-5056880806428",
+      "published_at": "2026-07-14T11:06:34+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/william_wegman_1932_ORIG.jpg?v=1784033936"
     },
     {
       "title": "WildLOVE",

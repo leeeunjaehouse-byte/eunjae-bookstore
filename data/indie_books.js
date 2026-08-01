@@ -1,6 +1,6 @@
 window.__INDIE_BOOKS_DATA__ = {
-  "updated_at": "2026-08-01T08:09:02.198487+09:00",
-  "today": "2026-08-01",
+  "updated_at": "2026-08-02T08:02:39.000699+09:00",
+  "today": "2026-08-02",
   "books": [
     {
       "title": "Patterns · 강유라",
@@ -2270,10 +2270,10 @@ window.__INDIE_BOOKS_DATA__ = {
   "errors": [],
   "total": 236,
   "stores_attempted": [
-    "유어마인드",
-    "고요서사",
     "소심한책방",
     "사적인서점",
+    "고요서사",
+    "유어마인드",
     "북앤스페이스"
   ]
 };
