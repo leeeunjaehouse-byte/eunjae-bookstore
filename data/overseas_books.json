@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-02T08:02:54.989703+09:00",
-  "today": "2026-08-02",
+  "updated_at": "2026-08-03T08:20:18.678071+09:00",
+  "today": "2026-08-03",
   "books": [
     {
       "title": "Why Don't You Dance - Hannah Darabi",
@@ -443,6 +443,17 @@
       "cover": "https://cdn.shopify.com/s/files/1/0221/7340/files/Screenshot2026-06-03at16.33.24.png?v=1780501154"
     },
     {
+      "title": "A Book on Books",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/products/ABookonBooks.jpg?v=1605877824",
+      "store_link": "https://magmabooks.com/products/a-book-on-books",
+      "published_at": "2026-08-02T19:35:28+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/products/ABookonBooks.jpg?v=1605877824"
+    },
+    {
       "title": "Interlope #9",
       "store": "Magma Books",
       "city": "런던",
@@ -531,7 +542,7 @@
       "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-31124454.png?v=1785498487"
     },
     {
-      "title": "THE NEW JAPAN",
+      "title": "THE NEW JAPAN #2",
       "store": "Magma Books",
       "city": "런던",
       "section": "디자인·아트",
@@ -650,17 +661,6 @@
       "store_link": "https://magmabooks.com/products/a-book-on-zines",
       "published_at": "2026-07-28T16:19:02+01:00",
       "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/A-Book-on-Zines_top_1000height_2048x_566c2b63-8758-4df2-ad6c-e72fe68b2ca7.webp?v=1785256039"
-    },
-    {
-      "title": "Cake Zine #Steak Zine",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-04-10150213.png?v=1775829973",
-      "store_link": "https://magmabooks.com/products/cake-zine-forbidden-fruit-copy",
-      "published_at": "2026-07-28T16:08:33+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-04-10150213.png?v=1775829973"
     },
     {
       "title": "Mast Books Tote Bag",

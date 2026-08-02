@@ -1,6 +1,6 @@
 window.__INDIE_BOOKS_DATA__ = {
-  "updated_at": "2026-08-02T08:02:39.000699+09:00",
-  "today": "2026-08-02",
+  "updated_at": "2026-08-03T08:20:00.954517+09:00",
+  "today": "2026-08-03",
   "books": [
     {
       "title": "Patterns · 강유라",
@@ -2072,6 +2072,19 @@ window.__INDIE_BOOKS_DATA__ = {
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%95%84%EB%AC%B4%ED%8A%BC%2C%20%EC%A0%84%ED%99%94%EC%98%81%EC%96%B4"
     },
     {
+      "title": "거북복과 물떼새 머리뼈의 대화",
+      "store": "땡스북스",
+      "section": "땡스, 페이퍼!",
+      "publisher": "",
+      "author": "모습",
+      "paper_no": "650",
+      "tb_page": "http://thanksbooks.com/site/thanksbooks/index.php/selection/tp-2026/",
+      "store_cover": "",
+      "cover": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791188594382.jpg",
+      "buy_link": "https://product.kyobobook.co.kr/detail/S000220363141",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EA%B1%B0%EB%B6%81%EB%B3%B5%EA%B3%BC%20%EB%AC%BC%EB%96%BC%EC%83%88%20%EB%A8%B8%EB%A6%AC%EB%BC%88%EC%9D%98%20%EB%8C%80%ED%99%94"
+    },
+    {
       "title": "계절의 수첩",
       "store": "땡스북스",
       "section": "땡스, 페이퍼!",
@@ -2252,28 +2265,15 @@ window.__INDIE_BOOKS_DATA__ = {
       "cover": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791197360480.jpg",
       "buy_link": "https://product.kyobobook.co.kr/detail/S000218881312",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EA%B5%AD%EC%88%98%EC%9D%98%20%EB%A7%9B"
-    },
-    {
-      "title": "H마트에서 울다",
-      "store": "땡스북스",
-      "section": "땡스, 페이퍼!",
-      "publisher": "",
-      "author": "미셸 자우너, 정혜윤 역",
-      "paper_no": "432",
-      "tb_page": "http://thanksbooks.com/site/thanksbooks/index.php/selection/tp-2026/",
-      "store_cover": "",
-      "cover": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788954683371.jpg",
-      "buy_link": "https://product.kyobobook.co.kr/detail/S000000781176",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=H%EB%A7%88%ED%8A%B8%EC%97%90%EC%84%9C%20%EC%9A%B8%EB%8B%A4"
     }
   ],
   "errors": [],
   "total": 236,
   "stores_attempted": [
-    "소심한책방",
-    "사적인서점",
+    "북앤스페이스",
     "고요서사",
     "유어마인드",
-    "북앤스페이스"
+    "사적인서점",
+    "소심한책방"
   ]
 };
