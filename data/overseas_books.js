@@ -1,7 +1,51 @@
 window.__OVERSEAS_BOOKS_DATA__ = {
-  "updated_at": "2026-08-03T08:20:18.678071+09:00",
-  "today": "2026-08-03",
+  "updated_at": "2026-08-04T08:18:16.744275+09:00",
+  "today": "2026-08-04",
   "books": [
+    {
+      "title": "Forming Cityscapes #10 Shelter",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Temporary Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Forming-Cityscapes.jpg?v=1785769404",
+      "store_link": "https://www.doyoureadme.de/products/forming-cityscapes-10-shelter",
+      "published_at": "2026-08-03T17:03:43+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Forming-Cityscapes.jpg?v=1785769404"
+    },
+    {
+      "title": "What Is Equality? - Wang Hui (Tre Oci Book Club)",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Berggruen Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/What-Is-Equality----Wang-Hui-_Tre-Oci-Book-Club.jpg?v=1785767762",
+      "store_link": "https://www.doyoureadme.de/products/what-is-equality-wang-hui-tre-oci-book-club",
+      "published_at": "2026-08-03T16:36:42+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/What-Is-Equality----Wang-Hui-_Tre-Oci-Book-Club.jpg?v=1785767762"
+    },
+    {
+      "title": "e-flux Index #9 2026",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "e-flux",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/e-flux-Index-_9-2026.jpg?v=1785767044",
+      "store_link": "https://www.doyoureadme.de/products/e-flux-index-9-2026",
+      "published_at": "2026-08-03T16:24:56+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/e-flux-Index-_9-2026.jpg?v=1785767044"
+    },
+    {
+      "title": "Foam #68 2026 - Talent",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Foam",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Foam-Talent-68.jpg?v=1785765234",
+      "store_link": "https://www.doyoureadme.de/products/foam-68-2026-talent",
+      "published_at": "2026-08-03T16:24:32+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Foam-Talent-68.jpg?v=1785765234"
+    },
     {
       "title": "Why Don't You Dance - Hannah Darabi",
       "store": "Do you read me?!",
@@ -177,50 +221,6 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "store_link": "https://www.doyoureadme.de/products/the-boy-is-beautiful-issue-5",
       "published_at": "2026-07-14T13:37:25+02:00",
       "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43682-The-Boy-is-Beautiful_Issue-5-1.jpg?v=1784028442"
-    },
-    {
-      "title": "République - Bérangère Fromont",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Chose Commune",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43681-Republique_Berangere-Fromont-1.jpg?v=1784028443",
-      "store_link": "https://www.doyoureadme.de/products/republique-berangere-fromont",
-      "published_at": "2026-07-14T13:37:25+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43681-Republique_Berangere-Fromont-1.jpg?v=1784028443"
-    },
-    {
-      "title": "The Activist City",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Nai010 Publishers",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43685-The-Activist-City-1.jpg?v=1784028443",
-      "store_link": "https://www.doyoureadme.de/products/the-activist-city",
-      "published_at": "2026-07-14T13:33:02+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43685-The-Activist-City-1.jpg?v=1784028443"
-    },
-    {
-      "title": "Thinking Back, Making Forward: Artistic Research in Practice",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Valiz",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43689-Thinking-Back-Making-Forward_Artistic-Research-in-Practice-1.jpg?v=1784028443",
-      "store_link": "https://www.doyoureadme.de/products/thinking-back-moving-forward-artistic-research-in-practice",
-      "published_at": "2026-07-14T13:33:01+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43689-Thinking-Back-Making-Forward_Artistic-Research-in-Practice-1.jpg?v=1784028443"
-    },
-    {
-      "title": "Girls Like Us #15 2026 - The Vortex",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "GLU",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43688-Girls-Like-Us-15-2026_The-Vortex-1.jpg?v=1784028443",
-      "store_link": "https://www.doyoureadme.de/products/girls-like-us-5-2026",
-      "published_at": "2026-07-14T13:33:01+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43688-Girls-Like-Us-15-2026_The-Vortex-1.jpg?v=1784028443"
     },
     {
       "title": "Under the Radar: Underground Zines and Self-publications 1965-1975",
@@ -443,6 +443,39 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "cover": "https://cdn.shopify.com/s/files/1/0221/7340/files/Screenshot2026-06-03at16.33.24.png?v=1780501154"
     },
     {
+      "title": "Fare #14 Mexico City",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/faremexico.png?v=1707571939",
+      "store_link": "https://magmabooks.com/products/fare-14-mexico-city",
+      "published_at": "2026-08-03T13:39:02+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/faremexico.png?v=1707571939"
+    },
+    {
+      "title": "Capolavori – Masterpieces",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-08-03at13-06-22AB8861-capolavori-masterpieces-03.jpg_JPEGImage2048x1539pixels_Scaled_61.png?v=1785758801",
+      "store_link": "https://magmabooks.com/products/9782493283283",
+      "published_at": "2026-08-03T13:07:09+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-08-03at13-06-22AB8861-capolavori-masterpieces-03.jpg_JPEGImage2048x1539pixels_Scaled_61.png?v=1785758801"
+    },
+    {
+      "title": "TOAST",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-08-03at13-02-38ToastAmazon.co.ukAkinagaYu9781917933018Books.png?v=1785758636",
+      "store_link": "https://magmabooks.com/products/windows-copy-1",
+      "published_at": "2026-08-03T13:05:18+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-08-03at13-02-38ToastAmazon.co.ukAkinagaYu9781917933018Books.png?v=1785758636"
+    },
+    {
       "title": "A Book on Books",
       "store": "Magma Books",
       "city": "런던",
@@ -628,39 +661,6 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "store_link": "https://magmabooks.com/products/plop-magazine-2-polish-design-revue-copy",
       "published_at": "2026-07-29T13:31:46+01:00",
       "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-29132128.png?v=1785328187"
-    },
-    {
-      "title": "Plop Magazine #2 – Polish Design Revue",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-29131717.png?v=1785327848",
-      "store_link": "https://magmabooks.com/products/macguffin-15-copy-2",
-      "published_at": "2026-07-29T13:27:30+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-29131717.png?v=1785327848"
-    },
-    {
-      "title": "MacGuffin #15",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/2025-09-12_17-08-13_494c54d2-befe-43fa-87bf-92b976889bc6.jpg?v=1757693954",
-      "store_link": "https://magmabooks.com/products/macguffin-14-copy",
-      "published_at": "2026-07-29T12:43:13+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/2025-09-12_17-08-13_494c54d2-befe-43fa-87bf-92b976889bc6.jpg?v=1757693954"
-    },
-    {
-      "title": "A Book on Zines: New Aesthetics in Zine Design",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/A-Book-on-Zines_top_1000height_2048x_566c2b63-8758-4df2-ad6c-e72fe68b2ca7.webp?v=1785256039",
-      "store_link": "https://magmabooks.com/products/a-book-on-zines",
-      "published_at": "2026-07-28T16:19:02+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/A-Book-on-Zines_top_1000height_2048x_566c2b63-8758-4df2-ad6c-e72fe68b2ca7.webp?v=1785256039"
     },
     {
       "title": "Mast Books Tote Bag",
@@ -883,6 +883,39 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "cover": "https://cdn.shopify.com/s/files/1/0290/3562/6574/files/MB_WEINER_WE_ARE_SHIPS_01.jpg?v=1744483758"
     },
     {
+      "title": "Spring Pops Up!",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "Phaidon Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/spring-pops-up-en-9209-3d-standing-front-3000.jpg?v=1783957953",
+      "store_link": "https://www.phaidon.com/products/spring-pops-up",
+      "published_at": "2026-08-03T09:18:41+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/spring-pops-up-en-9209-3d-standing-front-3000.jpg?v=1783957953"
+    },
+    {
+      "title": "Living in a Japanese House",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "Phaidon Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/living-in-a-japanese-house-en-9269-3d-standing-front-3000.jpg?v=1779978252",
+      "store_link": "https://www.phaidon.com/products/living-in-a-japanese-house",
+      "published_at": "2026-08-03T09:18:40+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/living-in-a-japanese-house-en-9269-3d-standing-front-3000.jpg?v=1779978252"
+    },
+    {
+      "title": "Stone: Mini Format",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "Phaidon Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/stone-mini-format-en-9239-3d-standing-front-3000.jpg?v=1783957807",
+      "store_link": "https://www.phaidon.com/products/stone-mini-format",
+      "published_at": "2026-08-03T09:18:38+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/stone-mini-format-en-9239-3d-standing-front-3000.jpg?v=1783957807"
+    },
+    {
       "title": "Huma Bhabha",
       "store": "Phaidon",
       "city": "출판사",
@@ -1070,259 +1103,6 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/atlas-of-never-built-architecture-en-6653-standing-front-3000_2563dfd4-431a-4293-acc1-d98aba2b2e68.jpg?v=1784712316"
     },
     {
-      "title": "Holding (Removed)",
-      "store": "Phaidon",
-      "city": "출판사",
-      "section": "아트·디자인",
-      "author": "Artspace",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/ProductPrint_72DPI_e37df617-543f-444c-8bd3-580bf2e1a993.jpg?v=1784103117",
-      "store_link": "https://www.phaidon.com/products/matthew-stone-holding-removed-5056880812450",
-      "published_at": "2026-07-21T19:51:37+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/ProductPrint_72DPI_e37df617-543f-444c-8bd3-580bf2e1a993.jpg?v=1784103117"
-    },
-    {
-      "title": "The Tomorrow Tree: How Nature Creates New Life From Old",
-      "store": "Phaidon",
-      "city": "출판사",
-      "section": "아트·디자인",
-      "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/the-tomorrow-tree-ae-9057-standing-front-3000_15b6f8c1-753c-416d-8f10-e0aee776394b.jpg?v=1764656692",
-      "store_link": "https://www.phaidon.com/products/the-tomorrow-tree-how-nature-creates-new-life-from-old",
-      "published_at": "2026-07-20T09:09:32+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/the-tomorrow-tree-ae-9057-standing-front-3000_15b6f8c1-753c-416d-8f10-e0aee776394b.jpg?v=1764656692"
-    },
-    {
-      "title": "Batty Back Up",
-      "store": "Phaidon",
-      "city": "출판사",
-      "section": "아트·디자인",
-      "author": "Artspace",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/william_wegman_1932_ORIG.jpg?v=1784033936",
-      "store_link": "https://www.phaidon.com/products/william-wegman-batty-back-up-5056880806428",
-      "published_at": "2026-07-14T11:06:34+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/william_wegman_1932_ORIG.jpg?v=1784033936"
-    },
-    {
-      "title": "WildLOVE",
-      "store": "Gestalten",
-      "city": "출판사",
-      "section": "디자인",
-      "author": "teNeues",
-      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/Wild-Love_Cover-front.png?v=1760005515",
-      "store_link": "https://shop.gestalten.com/products/wildlove",
-      "published_at": "2026-07-23T20:30:24+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/Wild-Love_Cover-front.png?v=1760005515"
-    },
-    {
-      "title": "The Monocle Guide to Shops, Kiosks and Markets",
-      "store": "Gestalten",
-      "city": "출판사",
-      "section": "디자인",
-      "author": "gestalten",
-      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/products/TheMonocleGuidetoShopsKioskandMarkets__gestalten_book_monocle_front.png?v=1586448018",
-      "store_link": "https://shop.gestalten.com/products/monocle-shops-kiosks-markets",
-      "published_at": "2026-07-22T10:13:11+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/products/TheMonocleGuidetoShopsKioskandMarkets__gestalten_book_monocle_front.png?v=1586448018"
-    },
-    {
-      "title": "The Watch Book I",
-      "store": "Gestalten",
-      "city": "출판사",
-      "section": "디자인",
-      "author": "teNeues",
-      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/The-Watchbook-I-tN4t_Cover-front.png?v=1760004808",
-      "store_link": "https://shop.gestalten.com/products/the-watch-book-i-tn4t",
-      "published_at": "2026-07-22T09:37:13+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/The-Watchbook-I-tN4t_Cover-front.png?v=1760004808"
-    },
-    {
-      "title": "Rebirth",
-      "store": "Gestalten",
-      "city": "출판사",
-      "section": "디자인",
-      "author": "teNeues",
-      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/rebirth_5fa059e2-a186-4062-a240-655e441b7dab.png?v=1777980516",
-      "store_link": "https://shop.gestalten.com/products/rebirth",
-      "published_at": "2026-07-20T10:05:13+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/rebirth_5fa059e2-a186-4062-a240-655e441b7dab.png?v=1777980516"
-    },
-    {
-      "title": "Paris Blues",
-      "store": "Gestalten",
-      "city": "출판사",
-      "section": "디자인",
-      "author": "teNeues",
-      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/9783961716685_Paris-Blues-Cover-front.png?v=1781077347",
-      "store_link": "https://shop.gestalten.com/products/paris-blues",
-      "published_at": "2026-07-17T14:59:38+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/9783961716685_Paris-Blues-Cover-front.png?v=1781077347"
-    },
-    {
-      "title": "Home for Christmas",
-      "store": "Gestalten",
-      "city": "출판사",
-      "section": "디자인",
-      "author": "teNeues",
-      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/Home-For-Christmas_front.png?v=1782125515",
-      "store_link": "https://shop.gestalten.com/products/home-for-christmas-decorating-for-the-holiday-season",
-      "published_at": "2026-07-16T15:14:50+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/Home-For-Christmas_front.png?v=1782125515"
-    },
-    {
-      "title": "Streets of Paris",
-      "store": "Gestalten",
-      "city": "출판사",
-      "section": "디자인",
-      "author": "teNeues",
-      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/41_be803f42-f224-414c-bfa6-c5d177ec8895.png?v=1781681836",
-      "store_link": "https://shop.gestalten.com/products/streets-of-paris-tn4t-edition",
-      "published_at": "2026-07-16T15:12:55+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/41_be803f42-f224-414c-bfa6-c5d177ec8895.png?v=1781681836"
-    },
-    {
-      "title": "Streets of New York",
-      "store": "Gestalten",
-      "city": "출판사",
-      "section": "디자인",
-      "author": "teNeues",
-      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/39_5d42d412-9511-4bee-815f-0634b542ef98.png?v=1782131741",
-      "store_link": "https://shop.gestalten.com/products/teneues-streets-of-new-york-tn4t-edition",
-      "published_at": "2026-07-16T15:12:53+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/39_5d42d412-9511-4bee-815f-0634b542ef98.png?v=1782131741"
-    },
-    {
-      "title": "Football - The Ultimate Book",
-      "store": "Gestalten",
-      "city": "출판사",
-      "section": "디자인",
-      "author": "teNeues",
-      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/FOOTBALLTUB.png?v=1782371055",
-      "store_link": "https://shop.gestalten.com/products/football-the-ultimate-book",
-      "published_at": "2026-07-16T15:09:33+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/FOOTBALLTUB.png?v=1782371055"
-    },
-    {
-      "title": "A Ranch Year",
-      "store": "Gestalten",
-      "city": "출판사",
-      "section": "디자인",
-      "author": "teNeues",
-      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/ARanchYear_front.png?v=1760001442",
-      "store_link": "https://shop.gestalten.com/products/a-ranch-year-cowboys-of-the-west",
-      "published_at": "2026-07-16T15:05:18+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/ARanchYear_front.png?v=1760001442"
-    },
-    {
-      "title": "Elliott Erwitt's Last Laughs",
-      "store": "Gestalten",
-      "city": "출판사",
-      "section": "디자인",
-      "author": "teNeues",
-      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/9783961716333_Last-Laughs_Cover-3D.png?v=1781786911",
-      "store_link": "https://shop.gestalten.com/products/elliott-erwitts-last-laughs",
-      "published_at": "2026-07-16T14:59:05+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/9783961716333_Last-Laughs_Cover-3D.png?v=1781786911"
-    },
-    {
-      "title": "Deserts",
-      "store": "Gestalten",
-      "city": "출판사",
-      "section": "디자인",
-      "author": "teNeues",
-      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/DESERTS_dd77a9ff-b479-42ac-8384-54bb56c5887c.png?v=1781791988",
-      "store_link": "https://shop.gestalten.com/products/deserts",
-      "published_at": "2026-07-15T17:19:31+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/DESERTS_dd77a9ff-b479-42ac-8384-54bb56c5887c.png?v=1781791988"
-    },
-    {
-      "title": "The Harley-Davidson Book - Refueled",
-      "store": "Gestalten",
-      "city": "출판사",
-      "section": "디자인",
-      "author": "teNeues",
-      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/HARLEYDAVIDSON.png?v=1781794618",
-      "store_link": "https://shop.gestalten.com/products/the-harley-davidson-book-refueled",
-      "published_at": "2026-07-15T17:19:26+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/HARLEYDAVIDSON.png?v=1781794618"
-    },
-    {
-      "title": "BMW Motorrad",
-      "store": "Gestalten",
-      "city": "출판사",
-      "section": "디자인",
-      "author": "teNeues",
-      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/BMWMO26_front_webshop_mockup_26070_dbed589c-bd62-4a0b-a709-f5f5e5797272.png?v=1783934655",
-      "store_link": "https://shop.gestalten.com/products/bmw-motorrad",
-      "published_at": "2026-07-13T11:26:17+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/BMWMO26_front_webshop_mockup_26070_dbed589c-bd62-4a0b-a709-f5f5e5797272.png?v=1783934655"
-    },
-    {
-      "title": "The Watch Book Rolex: 3rd updated and extended edition",
-      "store": "Gestalten",
-      "city": "출판사",
-      "section": "디자인",
-      "author": "teNeues",
-      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/9783961716067_Rolex-Special-Edition_Cover-front_3a168378-0dcc-4631-9060-678e916a5f71.png?v=1781162002",
-      "store_link": "https://shop.gestalten.com/products/the-watch-book-rolex-3rd-updated-and-extended-edition",
-      "published_at": "2026-07-10T17:09:33+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/9783961716067_Rolex-Special-Edition_Cover-front_3a168378-0dcc-4631-9060-678e916a5f71.png?v=1781162002"
-    },
-    {
-      "title": "Everyday Luxury",
-      "store": "Gestalten",
-      "city": "출판사",
-      "section": "디자인",
-      "author": "teNeues",
-      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/EVERYDAYLUXURY.png?v=1781689558",
-      "store_link": "https://shop.gestalten.com/products/everyday-luxury",
-      "published_at": "2026-07-10T13:38:07+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/EVERYDAYLUXURY.png?v=1781689558"
-    },
-    {
-      "title": "Masters of Street Art",
-      "store": "Gestalten",
-      "city": "출판사",
-      "section": "디자인",
-      "author": "teNeues",
-      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/MastersofStreetArt-Cover.png?v=1781707128",
-      "store_link": "https://shop.gestalten.com/products/masters-of-street-art-art-without-a-frame",
-      "published_at": "2026-07-08T12:54:39+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/MastersofStreetArt-Cover.png?v=1781707128"
-    },
-    {
-      "title": "The Watch Book: Hanhart",
-      "store": "Gestalten",
-      "city": "출판사",
-      "section": "디자인",
-      "author": "teNeues",
-      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/TWB_Hanhart_Cover.png?v=1778835879",
-      "store_link": "https://shop.gestalten.com/products/the-watch-book-hanhart-und-die-deutsche-uhrenindustrie",
-      "published_at": "2026-07-07T10:57:14+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/TWB_Hanhart_Cover.png?v=1778835879"
-    },
-    {
-      "title": "Escape",
-      "store": "Gestalten",
-      "city": "출판사",
-      "section": "디자인",
-      "author": "teNeues",
-      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/TNEscapeDE_front_dabe5f29-a4d3-43e5-8270-69f89df6877b.png?v=1782729866",
-      "store_link": "https://shop.gestalten.com/products/escape",
-      "published_at": "2026-07-07T10:57:05+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/TNEscapeDE_front_dabe5f29-a4d3-43e5-8270-69f89df6877b.png?v=1782729866"
-    },
-    {
-      "title": "Escape (Deutsche Ausgabe)",
-      "store": "Gestalten",
-      "city": "출판사",
-      "section": "디자인",
-      "author": "teNeues",
-      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/TNEscapeDE_front.png?v=1760004629",
-      "store_link": "https://shop.gestalten.com/products/escape-die-dolomiten-entdecken-eine-visuelle-reise-und-wilde-abenteuer",
-      "published_at": "2026-07-07T10:56:55+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/TNEscapeDE_front.png?v=1760004629"
-    },
-    {
       "title": "The Happy Prince and Other Tales",
       "store": "Daunt Books",
       "city": "런던",
@@ -1484,7 +1264,7 @@ window.__OVERSEAS_BOOKS_DATA__ = {
     }
   ],
   "errors": [],
-  "total": 136,
+  "total": 116,
   "stores": [
     "Do you read me?!",
     "Donlon Books",
