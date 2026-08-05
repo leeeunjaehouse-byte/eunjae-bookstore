@@ -1,6 +1,6 @@
 window.__OVERSEAS_BOOKS_DATA__ = {
-  "updated_at": "2026-08-04T08:18:16.744275+09:00",
-  "today": "2026-08-04",
+  "updated_at": "2026-08-06T08:02:32.182952+09:00",
+  "today": "2026-08-06",
   "books": [
     {
       "title": "Forming Cityscapes #10 Shelter",
@@ -443,6 +443,160 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "cover": "https://cdn.shopify.com/s/files/1/0221/7340/files/Screenshot2026-06-03at16.33.24.png?v=1780501154"
     },
     {
+      "title": "Bar Brutal: A Cookbook of Revelations",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot_2026-06-16_at_14-12-39_Bar_Brutal_A_Cookbook_of_Revelations.png?v=1781615576",
+      "store_link": "https://magmabooks.com/products/bon-appetit-paris-copy",
+      "published_at": "2026-08-05T16:06:57+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot_2026-06-16_at_14-12-39_Bar_Brutal_A_Cookbook_of_Revelations.png?v=1781615576"
+    },
+    {
+      "title": "Dark London",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-08-05at15-07-30DarkLondonAJourneyThroughtheCity_sMysteriousandMacabreUnderworldAmazon.co.ukGrayDr.Drew9781836004240Books.png?v=1785938870",
+      "store_link": "https://magmabooks.com/products/dark-london",
+      "published_at": "2026-08-05T15:08:06+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-08-05at15-07-30DarkLondonAJourneyThroughtheCity_sMysteriousandMacabreUnderworldAmazon.co.ukGrayDr.Drew9781836004240Books.png?v=1785938870"
+    },
+    {
+      "title": "Architecture of Doom",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-08-05at15-01-06ArchitectureofDoom-HoxtonMiniPress.png?v=1785938486",
+      "store_link": "https://magmabooks.com/products/architecture-of-doom",
+      "published_at": "2026-08-05T15:01:54+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-08-05at15-01-06ArchitectureofDoom-HoxtonMiniPress.png?v=1785938486"
+    },
+    {
+      "title": "Brutalist London",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-08-05at14-55-35BrutalistLondonAPhotographicandArchitecturalSurveyofLondon_sConcreteLandmarks_BlueCrowArchitecturalGuides_Amazon.co.ukHopkinsOwenGreenNigel9781912018451B.png?v=1785938178",
+      "store_link": "https://magmabooks.com/products/brutalist-london",
+      "published_at": "2026-08-05T14:56:38+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-08-05at14-55-35BrutalistLondonAPhotographicandArchitecturalSurveyofLondon_sConcreteLandmarks_BlueCrowArchitecturalGuides_Amazon.co.ukHopkinsOwenGreenNigel9781912018451B.png?v=1785938178"
+    },
+    {
+      "title": "Brutalist Berlin",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-08-05at14-44-44BrutalistBerlinAPhotographicandArchitecturalSurveyofBerlin_sBrutalistBuildings_BlueCrowArchitecturalGuides_Amazon.co.ukTorkarFelixMediaBlueCrow9781912018.png?v=1785937631",
+      "store_link": "https://magmabooks.com/products/saigon-brutalism-copy",
+      "published_at": "2026-08-05T14:49:31+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-08-05at14-44-44BrutalistBerlinAPhotographicandArchitecturalSurveyofBerlin_sBrutalistBuildings_BlueCrowArchitecturalGuides_Amazon.co.ukTorkarFelixMediaBlueCrow9781912018.png?v=1785937631"
+    },
+    {
+      "title": "How to Tell a Story",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-08-05at14-36-45HowtoTellaStoryTheEssentialGuidetoMemorableStorytellingfromTheMothAmazon.co.ukTheMothBowlesMegBurnsCatherineHixsonJeniferJennessSarahAustinTellersKate978.png?v=1785937025",
+      "store_link": "https://magmabooks.com/products/how-to-tell-a-story-copy",
+      "published_at": "2026-08-05T14:38:50+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-08-05at14-36-45HowtoTellaStoryTheEssentialGuidetoMemorableStorytellingfromTheMothAmazon.co.ukTheMothBowlesMegBurnsCatherineHixsonJeniferJennessSarahAustinTellersKate978.png?v=1785937025"
+    },
+    {
+      "title": "The Rules Book",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/TheRulesBook.webp?v=1785935065",
+      "store_link": "https://magmabooks.com/products/the-rules-book-copy",
+      "published_at": "2026-08-05T14:04:39+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/TheRulesBook.webp?v=1785935065"
+    },
+    {
+      "title": "Psychogames",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/2025-10-16_15-56-41.jpg?v=1760626817",
+      "store_link": "https://magmabooks.com/products/dream-decoder-copy",
+      "published_at": "2026-08-05T13:39:27+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/2025-10-16_15-56-41.jpg?v=1760626817"
+    },
+    {
+      "title": "French Cooking For Two",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/9781068433832.jpg?v=1762448544",
+      "store_link": "https://magmabooks.com/products/french-cooking-for-two",
+      "published_at": "2026-08-05T13:37:28+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/9781068433832.jpg?v=1762448544"
+    },
+    {
+      "title": "How To Draw Almost Everything",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/products/2016-04-22_12-58-29.jpg?v=1465309702",
+      "store_link": "https://magmabooks.com/products/how-to-draw-almost-evert",
+      "published_at": "2026-08-05T13:17:28+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/products/2016-04-22_12-58-29.jpg?v=1465309702"
+    },
+    {
+      "title": "Yoga for Stiff Birds",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/products/lf.webp?v=1676468463",
+      "store_link": "https://magmabooks.com/products/yoga-for-stiff-birds",
+      "published_at": "2026-08-05T12:14:01+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/products/lf.webp?v=1676468463"
+    },
+    {
+      "title": "Happy Birthday Cat & Saxophone Greetings Card",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-08-04160210.png?v=1785856049",
+      "store_link": "https://magmabooks.com/products/happy-birthday-cake-cherries-greetings-card-copy",
+      "published_at": "2026-08-04T16:08:42+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-08-04160210.png?v=1785856049"
+    },
+    {
+      "title": "Happy Birthday Cake & Cherries Greetings Card",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-08-04160015.png?v=1785855888",
+      "store_link": "https://magmabooks.com/products/happy-bday-cat-balloons-greetings-card-copy-1",
+      "published_at": "2026-08-04T16:06:26+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-08-04160015.png?v=1785855888"
+    },
+    {
+      "title": "te #4",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-08-04155528.png?v=1785855474",
+      "store_link": "https://magmabooks.com/products/te-3-copy",
+      "published_at": "2026-08-04T15:58:47+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-08-04155528.png?v=1785855474"
+    },
+    {
       "title": "Fare #14 Mexico City",
       "store": "Magma Books",
       "city": "런던",
@@ -507,160 +661,6 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "store_link": "https://magmabooks.com/products/032c-48-copy",
       "published_at": "2026-07-31T17:25:54+01:00",
       "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-31172159.png?v=1785515086"
-    },
-    {
-      "title": "Mushroom People #2",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot_2025-01-23_at_17-08-53_Mushroom_People_Magazine_Volume_2_Broccoli.png?v=1737652480",
-      "store_link": "https://magmabooks.com/products/mushroom-people-2",
-      "published_at": "2026-07-31T17:16:10+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot_2025-01-23_at_17-08-53_Mushroom_People_Magazine_Volume_2_Broccoli.png?v=1737652480"
-    },
-    {
-      "title": "Swallowtail Butterfly Claw",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-31131408.png?v=1785500096",
-      "store_link": "https://magmabooks.com/products/juno-claw-in-strot-copy",
-      "published_at": "2026-07-31T13:15:32+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-31131408.png?v=1785500096"
-    },
-    {
-      "title": "Juno Claw in Strot",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-31130555.png?v=1785499748",
-      "store_link": "https://magmabooks.com/products/chunks-checker-claw-in-black-white-copy",
-      "published_at": "2026-07-31T13:10:39+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-31130555.png?v=1785499748"
-    },
-    {
-      "title": "Mini Claw in Strot",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-31125940.png?v=1785499370",
-      "store_link": "https://magmabooks.com/products/micro-claws-in-play-copy",
-      "published_at": "2026-07-31T13:05:05+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-31125940.png?v=1785499370"
-    },
-    {
-      "title": "Different Leaf, collection one",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-31125039.png?v=1785498885",
-      "store_link": "https://magmabooks.com/products/broccoli-20-copy",
-      "published_at": "2026-07-31T12:57:00+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-31125039.png?v=1785498885"
-    },
-    {
-      "title": "Popeye # 951",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-31124454.png?v=1785498487",
-      "store_link": "https://magmabooks.com/products/popeye-issue-946-copy",
-      "published_at": "2026-07-31T12:49:25+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-31124454.png?v=1785498487"
-    },
-    {
-      "title": "THE NEW JAPAN #2",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-31123822.png?v=1785498122",
-      "store_link": "https://magmabooks.com/products/brutus-magazine-special-issue-copy-1",
-      "published_at": "2026-07-31T12:44:04+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-31123822.png?v=1785498122"
-    },
-    {
-      "title": "Mini Furry Friends Kit Cute Animal Origami Kit",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-31121814.png?v=1785496874",
-      "store_link": "https://magmabooks.com/products/paper-pups-origami-dog-kit-copy",
-      "published_at": "2026-07-31T12:23:11+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-31121814.png?v=1785496874"
-    },
-    {
-      "title": "Micro Claws in Play",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/JesterMicroClawsPlay_470x_2355c423-637e-4a4d-a4b0-41bf106af814.webp?v=1733752413",
-      "store_link": "https://magmabooks.com/products/micro-claws-in-play",
-      "published_at": "2026-07-31T11:59:01+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/JesterMicroClawsPlay_470x_2355c423-637e-4a4d-a4b0-41bf106af814.webp?v=1733752413"
-    },
-    {
-      "title": "Allie in Oval Vanilla Stripes Clips",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2025-10-28at15-53-36oval-allie-vanilla-stripe2_470x.jpg_JPEGImage470x470pixels.png?v=1761667239",
-      "store_link": "https://magmabooks.com/products/allie-in-oval-vanilla-stripes-clips",
-      "published_at": "2026-07-31T11:58:18+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2025-10-28at15-53-36oval-allie-vanilla-stripe2_470x.jpg_JPEGImage470x470pixels.png?v=1761667239"
-    },
-    {
-      "title": "Ton #6 Meet Your Idols",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-31at11-30-04Instagram.png?v=1785494427",
-      "store_link": "https://magmabooks.com/products/fare-19-athens-copy",
-      "published_at": "2026-07-31T11:40:45+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-31at11-30-04Instagram.png?v=1785494427"
-    },
-    {
-      "title": "Boo!",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/products/51TsBsqCG-L.jpg?v=1635325867",
-      "store_link": "https://magmabooks.com/products/boo",
-      "published_at": "2026-07-30T16:01:46+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/products/51TsBsqCG-L.jpg?v=1635325867"
-    },
-    {
-      "title": "EK Baumer Type-Specimen",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-30154740.png?v=1785423191",
-      "store_link": "https://magmabooks.com/products/francesca-biasetton-the-pencil-is-under-the-table-copy",
-      "published_at": "2026-07-30T15:54:00+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-30154740.png?v=1785423191"
-    },
-    {
-      "title": "MacGuffin STORIES",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-29132128.png?v=1785328187",
-      "store_link": "https://magmabooks.com/products/plop-magazine-2-polish-design-revue-copy",
-      "published_at": "2026-07-29T13:31:46+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-29132128.png?v=1785328187"
     },
     {
       "title": "Mast Books Tote Bag",
@@ -883,6 +883,17 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "cover": "https://cdn.shopify.com/s/files/1/0290/3562/6574/files/MB_WEINER_WE_ARE_SHIPS_01.jpg?v=1744483758"
     },
     {
+      "title": "John Pawson: The Minimal Home",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "Phaidon Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/john-pawson-the-minimal-way-of-life-signed-edition-en-9345-3d-standing-front-3000_150ff42b-eaa4-43b3-8380-ebff6f9374fd.jpg?v=1784704386",
+      "store_link": "https://www.phaidon.com/products/john-pawson-the-minimal-home-the-minimal-home",
+      "published_at": "2026-08-04T17:16:26+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/john-pawson-the-minimal-way-of-life-signed-edition-en-9345-3d-standing-front-3000_150ff42b-eaa4-43b3-8380-ebff6f9374fd.jpg?v=1784704386"
+    },
+    {
       "title": "Spring Pops Up!",
       "store": "Phaidon",
       "city": "출판사",
@@ -958,17 +969,6 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "store_link": "https://www.phaidon.com/products/global-warning",
       "published_at": "2026-07-23T12:20:27+01:00",
       "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/martin-parr-global-warning-en-9154-standing-front-3000.jpg?v=1771237265"
-    },
-    {
-      "title": "John Pawson: The Minimal Home: The Minimal Home",
-      "store": "Phaidon",
-      "city": "출판사",
-      "section": "아트·디자인",
-      "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/john-pawson-the-minimal-way-of-life-signed-edition-en-9345-3d-standing-front-3000_150ff42b-eaa4-43b3-8380-ebff6f9374fd.jpg?v=1784704386",
-      "store_link": "https://www.phaidon.com/products/john-pawson-the-minimal-home-the-minimal-home",
-      "published_at": "2026-07-23T12:20:25+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/john-pawson-the-minimal-way-of-life-signed-edition-en-9345-3d-standing-front-3000_150ff42b-eaa4-43b3-8380-ebff6f9374fd.jpg?v=1784704386"
     },
     {
       "title": "Sanlé Sory",
@@ -1101,6 +1101,226 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "store_link": "https://www.phaidon.com/products/atlas-of-never-built-architecture-2024",
       "published_at": "2026-07-22T10:24:47+01:00",
       "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/atlas-of-never-built-architecture-en-6653-standing-front-3000_2563dfd4-431a-4293-acc1-d98aba2b2e68.jpg?v=1784712316"
+    },
+    {
+      "title": "POP: Entdecke 100 Jahre Popkultur",
+      "store": "Gestalten",
+      "city": "출판사",
+      "section": "디자인",
+      "author": "Kleine Gestalten",
+      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/KINPOP-DE_sample.jpg?v=1785923548",
+      "store_link": "https://shop.gestalten.com/products/pop-eine-visuelle-zeitreise-durch-die-jahrzehnte",
+      "published_at": "2026-08-05T11:52:34+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/KINPOP-DE_sample.jpg?v=1785923548"
+    },
+    {
+      "title": "POP: A Visual History",
+      "store": "Gestalten",
+      "city": "출판사",
+      "section": "디자인",
+      "author": "Little Gestalten",
+      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/KINPOP_sample.jpg?v=1785923458",
+      "store_link": "https://shop.gestalten.com/products/pop-a-visual-history",
+      "published_at": "2026-08-05T11:51:11+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/KINPOP_sample.jpg?v=1785923458"
+    },
+    {
+      "title": "WildLOVE",
+      "store": "Gestalten",
+      "city": "출판사",
+      "section": "디자인",
+      "author": "teNeues",
+      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/Wild-Love_Cover-front.png?v=1760005515",
+      "store_link": "https://shop.gestalten.com/products/wildlove",
+      "published_at": "2026-07-23T20:30:24+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/Wild-Love_Cover-front.png?v=1760005515"
+    },
+    {
+      "title": "The Monocle Guide to Shops, Kiosks and Markets",
+      "store": "Gestalten",
+      "city": "출판사",
+      "section": "디자인",
+      "author": "gestalten",
+      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/products/TheMonocleGuidetoShopsKioskandMarkets__gestalten_book_monocle_front.png?v=1586448018",
+      "store_link": "https://shop.gestalten.com/products/monocle-shops-kiosks-markets",
+      "published_at": "2026-07-22T10:13:11+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/products/TheMonocleGuidetoShopsKioskandMarkets__gestalten_book_monocle_front.png?v=1586448018"
+    },
+    {
+      "title": "The Watch Book I",
+      "store": "Gestalten",
+      "city": "출판사",
+      "section": "디자인",
+      "author": "teNeues",
+      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/The-Watchbook-I-tN4t_Cover-front.png?v=1760004808",
+      "store_link": "https://shop.gestalten.com/products/the-watch-book-i-tn4t",
+      "published_at": "2026-07-22T09:37:13+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/The-Watchbook-I-tN4t_Cover-front.png?v=1760004808"
+    },
+    {
+      "title": "Rebirth",
+      "store": "Gestalten",
+      "city": "출판사",
+      "section": "디자인",
+      "author": "teNeues",
+      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/rebirth_5fa059e2-a186-4062-a240-655e441b7dab.png?v=1777980516",
+      "store_link": "https://shop.gestalten.com/products/rebirth",
+      "published_at": "2026-07-20T10:05:13+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/rebirth_5fa059e2-a186-4062-a240-655e441b7dab.png?v=1777980516"
+    },
+    {
+      "title": "Paris Blues",
+      "store": "Gestalten",
+      "city": "출판사",
+      "section": "디자인",
+      "author": "teNeues",
+      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/9783961716685_Paris-Blues-Cover-front.png?v=1781077347",
+      "store_link": "https://shop.gestalten.com/products/paris-blues",
+      "published_at": "2026-07-17T14:59:38+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/9783961716685_Paris-Blues-Cover-front.png?v=1781077347"
+    },
+    {
+      "title": "Home for Christmas",
+      "store": "Gestalten",
+      "city": "출판사",
+      "section": "디자인",
+      "author": "teNeues",
+      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/Home-For-Christmas_front.png?v=1782125515",
+      "store_link": "https://shop.gestalten.com/products/home-for-christmas-decorating-for-the-holiday-season",
+      "published_at": "2026-07-16T15:14:50+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/Home-For-Christmas_front.png?v=1782125515"
+    },
+    {
+      "title": "Streets of Paris",
+      "store": "Gestalten",
+      "city": "출판사",
+      "section": "디자인",
+      "author": "teNeues",
+      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/41_be803f42-f224-414c-bfa6-c5d177ec8895.png?v=1781681836",
+      "store_link": "https://shop.gestalten.com/products/streets-of-paris-tn4t-edition",
+      "published_at": "2026-07-16T15:12:55+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/41_be803f42-f224-414c-bfa6-c5d177ec8895.png?v=1781681836"
+    },
+    {
+      "title": "Streets of New York",
+      "store": "Gestalten",
+      "city": "출판사",
+      "section": "디자인",
+      "author": "teNeues",
+      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/39_5d42d412-9511-4bee-815f-0634b542ef98.png?v=1782131741",
+      "store_link": "https://shop.gestalten.com/products/teneues-streets-of-new-york-tn4t-edition",
+      "published_at": "2026-07-16T15:12:53+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/39_5d42d412-9511-4bee-815f-0634b542ef98.png?v=1782131741"
+    },
+    {
+      "title": "Football - The Ultimate Book",
+      "store": "Gestalten",
+      "city": "출판사",
+      "section": "디자인",
+      "author": "teNeues",
+      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/FOOTBALLTUB.png?v=1782371055",
+      "store_link": "https://shop.gestalten.com/products/football-the-ultimate-book",
+      "published_at": "2026-07-16T15:09:33+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/FOOTBALLTUB.png?v=1782371055"
+    },
+    {
+      "title": "A Ranch Year",
+      "store": "Gestalten",
+      "city": "출판사",
+      "section": "디자인",
+      "author": "teNeues",
+      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/ARanchYear_front.png?v=1760001442",
+      "store_link": "https://shop.gestalten.com/products/a-ranch-year-cowboys-of-the-west",
+      "published_at": "2026-07-16T15:05:18+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/ARanchYear_front.png?v=1760001442"
+    },
+    {
+      "title": "Elliott Erwitt's Last Laughs",
+      "store": "Gestalten",
+      "city": "출판사",
+      "section": "디자인",
+      "author": "teNeues",
+      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/9783961716333_Last-Laughs_Cover-3D.png?v=1781786911",
+      "store_link": "https://shop.gestalten.com/products/elliott-erwitts-last-laughs",
+      "published_at": "2026-07-16T14:59:05+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/9783961716333_Last-Laughs_Cover-3D.png?v=1781786911"
+    },
+    {
+      "title": "Deserts",
+      "store": "Gestalten",
+      "city": "출판사",
+      "section": "디자인",
+      "author": "teNeues",
+      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/DESERTS_dd77a9ff-b479-42ac-8384-54bb56c5887c.png?v=1781791988",
+      "store_link": "https://shop.gestalten.com/products/deserts",
+      "published_at": "2026-07-15T17:19:31+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/DESERTS_dd77a9ff-b479-42ac-8384-54bb56c5887c.png?v=1781791988"
+    },
+    {
+      "title": "The Harley-Davidson Book - Refueled",
+      "store": "Gestalten",
+      "city": "출판사",
+      "section": "디자인",
+      "author": "teNeues",
+      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/HARLEYDAVIDSON.png?v=1781794618",
+      "store_link": "https://shop.gestalten.com/products/the-harley-davidson-book-refueled",
+      "published_at": "2026-07-15T17:19:26+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/HARLEYDAVIDSON.png?v=1781794618"
+    },
+    {
+      "title": "BMW Motorrad",
+      "store": "Gestalten",
+      "city": "출판사",
+      "section": "디자인",
+      "author": "teNeues",
+      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/BMWMO26_front_webshop_mockup_26070_dbed589c-bd62-4a0b-a709-f5f5e5797272.png?v=1783934655",
+      "store_link": "https://shop.gestalten.com/products/bmw-motorrad",
+      "published_at": "2026-07-13T11:26:17+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/BMWMO26_front_webshop_mockup_26070_dbed589c-bd62-4a0b-a709-f5f5e5797272.png?v=1783934655"
+    },
+    {
+      "title": "The Watch Book Rolex: 3rd updated and extended edition",
+      "store": "Gestalten",
+      "city": "출판사",
+      "section": "디자인",
+      "author": "teNeues",
+      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/9783961716067_Rolex-Special-Edition_Cover-front_3a168378-0dcc-4631-9060-678e916a5f71.png?v=1781162002",
+      "store_link": "https://shop.gestalten.com/products/the-watch-book-rolex-3rd-updated-and-extended-edition",
+      "published_at": "2026-07-10T17:09:33+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/9783961716067_Rolex-Special-Edition_Cover-front_3a168378-0dcc-4631-9060-678e916a5f71.png?v=1781162002"
+    },
+    {
+      "title": "Everyday Luxury",
+      "store": "Gestalten",
+      "city": "출판사",
+      "section": "디자인",
+      "author": "teNeues",
+      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/EVERYDAYLUXURY.png?v=1781689558",
+      "store_link": "https://shop.gestalten.com/products/everyday-luxury",
+      "published_at": "2026-07-10T13:38:07+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/EVERYDAYLUXURY.png?v=1781689558"
+    },
+    {
+      "title": "Masters of Street Art",
+      "store": "Gestalten",
+      "city": "출판사",
+      "section": "디자인",
+      "author": "teNeues",
+      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/MastersofStreetArt-Cover.png?v=1781707128",
+      "store_link": "https://shop.gestalten.com/products/masters-of-street-art-art-without-a-frame",
+      "published_at": "2026-07-08T12:54:39+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/MastersofStreetArt-Cover.png?v=1781707128"
+    },
+    {
+      "title": "The Watch Book: Hanhart",
+      "store": "Gestalten",
+      "city": "출판사",
+      "section": "디자인",
+      "author": "teNeues",
+      "store_cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/TWB_Hanhart_Cover.png?v=1778835879",
+      "store_link": "https://shop.gestalten.com/products/the-watch-book-hanhart-und-die-deutsche-uhrenindustrie",
+      "published_at": "2026-07-07T10:57:14+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/2717/4124/files/TWB_Hanhart_Cover.png?v=1778835879"
     },
     {
       "title": "The Happy Prince and Other Tales",
@@ -1264,7 +1484,7 @@ window.__OVERSEAS_BOOKS_DATA__ = {
     }
   ],
   "errors": [],
-  "total": 116,
+  "total": 136,
   "stores": [
     "Do you read me?!",
     "Donlon Books",

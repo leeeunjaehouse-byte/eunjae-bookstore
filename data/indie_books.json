@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-04T08:17:42.858233+09:00",
-  "today": "2026-08-04",
+  "updated_at": "2026-08-06T08:02:06.793952+09:00",
+  "today": "2026-08-06",
   "books": [
     {
       "title": "Patterns · 강유라",
@@ -64,15 +64,6 @@
       "store_cover": "https://www.your-mind.com/web/product/big/202607/70ba9ef21e24caa60f1bdc20fa2c3f60.png",
       "cover": "https://www.your-mind.com/web/product/big/202607/70ba9ef21e24caa60f1bdc20fa2c3f60.png",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=Called%20Pieces%20%C2%B7%20COM"
-    },
-    {
-      "title": "[재입고] 광주에 가면 · 문진희",
-      "store": "유어마인드",
-      "section": "BOOKS",
-      "store_link": "https://www.your-mind.com/product/재입고-광주에-가면-·-문진희/6149/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202606/b268b3959d10f416ecfde81a3cb3c931.png",
-      "cover": "https://www.your-mind.com/web/product/big/202606/b268b3959d10f416ecfde81a3cb3c931.png",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20%EA%B4%91%EC%A3%BC%EC%97%90%20%EA%B0%80%EB%A9%B4%20%C2%B7%20%EB%AC%B8%EC%A7%84%ED%9D%AC"
     },
     {
       "title": "[재입고] 실수 수집가 · 김수정",
@@ -271,6 +262,15 @@
       "store_cover": "https://www.your-mind.com/web/product/big/202604/2914274efbb28bbcbddb32ac0722431f.png",
       "cover": "https://www.your-mind.com/web/product/big/202604/2914274efbb28bbcbddb32ac0722431f.png",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%E3%80%8E%EC%84%AC%EC%84%AC%EB%8F%8C%EB%8F%8C%E3%80%8F%20%EC%A0%9C3%ED%98%B8%20%E2%80%98%EC%9E%AC%EB%A3%8C%EC%86%90%EC%A7%88%E2%80%99%20%C2%B7%20%EA%B3%B5%EB%B6%80%EC%A4%91"
+    },
+    {
+      "title": "[재입고] Me and Tove and a lot of books · 류은지",
+      "store": "유어마인드",
+      "section": "BOOKS",
+      "store_link": "https://www.your-mind.com/product/재입고-me-and-tove-and-a-lot-of-books-·-류은지/5975/category/27/display/1/",
+      "store_cover": "https://www.your-mind.com/web/product/big/202604/8efbe4fa5d9b39bf0f6ed7342006f99f.png",
+      "cover": "https://www.your-mind.com/web/product/big/202604/8efbe4fa5d9b39bf0f6ed7342006f99f.png",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20Me%20and%20Tove%20and%20a%20lot%20of%20books%20%C2%B7%20%EB%A5%98%EC%9D%80%EC%A7%80"
     },
     {
       "title": "내 아들의 연인 (만춘서점 특별판)",
@@ -1834,7 +1834,7 @@
       "tb_page": "http://thanksbooks.com/site/thanksbooks/index.php/selection/weeklttb2026/",
       "store_cover": "",
       "cover": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791191347975.jpg",
-      "buy_link": "https://product.kyobobook.co.kr/detail/S000001807570",
+      "buy_link": "https://product.kyobobook.co.kr/detail/S000061451366",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%9A%B0%EB%A6%AC%EB%8A%94%20%EC%82%AC%EB%9E%91%ED%95%98%EA%B8%B0%20%EC%A2%8B%EC%9D%80%20%ED%8C%94%EC%9D%84%20%EA%B0%80%EC%A1%8C%EA%B5%AC%EB%82%98%28%ED%95%9C%EC%A7%80%20%EC%97%90%EB%94%94%EC%85%98%29"
     },
     {
@@ -2270,10 +2270,10 @@
   "errors": [],
   "total": 236,
   "stores_attempted": [
-    "유어마인드",
     "북앤스페이스",
-    "사적인서점",
+    "고요서사",
     "소심한책방",
-    "고요서사"
+    "유어마인드",
+    "사적인서점"
   ]
 }
