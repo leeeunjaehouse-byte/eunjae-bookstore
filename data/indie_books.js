@@ -1,6 +1,6 @@
 window.__INDIE_BOOKS_DATA__ = {
-  "updated_at": "2026-08-06T08:02:06.793952+09:00",
-  "today": "2026-08-06",
+  "updated_at": "2026-08-07T08:02:10.825480+09:00",
+  "today": "2026-08-07",
   "books": [
     {
       "title": "Patterns · 강유라",
@@ -55,15 +55,6 @@ window.__INDIE_BOOKS_DATA__ = {
       "store_cover": "https://www.your-mind.com/web/product/big/202607/c9c345d3d457c1d1809c9e02517a8504.png",
       "cover": "https://www.your-mind.com/web/product/big/202607/c9c345d3d457c1d1809c9e02517a8504.png",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%83%B4%ED%8E%98%EC%9D%B8%20%EC%8A%88%ED%8D%BC%EB%85%B8%EB%B0%94%3A%20%EC%A1%B0%EC%9E%AC%EC%97%B0%20%EB%A7%8C%ED%99%94%EC%A7%91%20%C2%B7%20%EC%A1%B0%EC%9E%AC%EC%97%B0"
-    },
-    {
-      "title": "Called Pieces · COM",
-      "store": "유어마인드",
-      "section": "BOOKS",
-      "store_link": "https://www.your-mind.com/product/called-pieces-·-com/6151/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202607/70ba9ef21e24caa60f1bdc20fa2c3f60.png",
-      "cover": "https://www.your-mind.com/web/product/big/202607/70ba9ef21e24caa60f1bdc20fa2c3f60.png",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=Called%20Pieces%20%C2%B7%20COM"
     },
     {
       "title": "[재입고] 실수 수집가 · 김수정",
@@ -271,6 +262,15 @@ window.__INDIE_BOOKS_DATA__ = {
       "store_cover": "https://www.your-mind.com/web/product/big/202604/8efbe4fa5d9b39bf0f6ed7342006f99f.png",
       "cover": "https://www.your-mind.com/web/product/big/202604/8efbe4fa5d9b39bf0f6ed7342006f99f.png",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20Me%20and%20Tove%20and%20a%20lot%20of%20books%20%C2%B7%20%EB%A5%98%EC%9D%80%EC%A7%80"
+    },
+    {
+      "title": "[재입고] Carnet de dessin · 류은지",
+      "store": "유어마인드",
+      "section": "BOOKS",
+      "store_link": "https://www.your-mind.com/product/재입고-carnet-de-dessin-·-류은지/5974/category/27/display/1/",
+      "store_cover": "https://www.your-mind.com/web/product/big/202604/0d2299809f787814410f7ae5f5342e3c.png",
+      "cover": "https://www.your-mind.com/web/product/big/202604/0d2299809f787814410f7ae5f5342e3c.png",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20Carnet%20de%20dessin%20%C2%B7%20%EB%A5%98%EC%9D%80%EC%A7%80"
     },
     {
       "title": "내 아들의 연인 (만춘서점 특별판)",
@@ -2158,8 +2158,8 @@ window.__INDIE_BOOKS_DATA__ = {
       "paper_no": "645",
       "tb_page": "http://thanksbooks.com/site/thanksbooks/index.php/selection/tp-2026/",
       "store_cover": "",
-      "cover": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791140719471.jpg",
-      "buy_link": "https://product.kyobobook.co.kr/detail/S000220453121",
+      "cover": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791186561959.jpg",
+      "buy_link": "https://product.kyobobook.co.kr/detail/S000219731447",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%ED%9D%AC%ED%9D%AC%ED%9D%AC"
     },
     {
@@ -2271,9 +2271,9 @@ window.__INDIE_BOOKS_DATA__ = {
   "total": 236,
   "stores_attempted": [
     "북앤스페이스",
-    "고요서사",
-    "소심한책방",
     "유어마인드",
-    "사적인서점"
+    "고요서사",
+    "사적인서점",
+    "소심한책방"
   ]
 };
