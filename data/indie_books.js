@@ -1,7 +1,16 @@
 window.__INDIE_BOOKS_DATA__ = {
-  "updated_at": "2026-08-07T08:02:10.825480+09:00",
-  "today": "2026-08-07",
+  "updated_at": "2026-08-08T08:02:30.189103+09:00",
+  "today": "2026-08-08",
   "books": [
+    {
+      "title": "여름조각집 · 파과",
+      "store": "유어마인드",
+      "section": "BOOKS",
+      "store_link": "https://www.your-mind.com/product/여름조각집-·-파과/6164/category/27/display/1/",
+      "store_cover": "https://www.your-mind.com/web/product/big/202608/a524ffc1d54352f66da28e66218c85ef.png",
+      "cover": "https://www.your-mind.com/web/product/big/202608/a524ffc1d54352f66da28e66218c85ef.png",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%97%AC%EB%A6%84%EC%A1%B0%EA%B0%81%EC%A7%91%20%C2%B7%20%ED%8C%8C%EA%B3%BC"
+    },
     {
       "title": "Patterns · 강유라",
       "store": "유어마인드",
@@ -57,13 +66,13 @@ window.__INDIE_BOOKS_DATA__ = {
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%83%B4%ED%8E%98%EC%9D%B8%20%EC%8A%88%ED%8D%BC%EB%85%B8%EB%B0%94%3A%20%EC%A1%B0%EC%9E%AC%EC%97%B0%20%EB%A7%8C%ED%99%94%EC%A7%91%20%C2%B7%20%EC%A1%B0%EC%9E%AC%EC%97%B0"
     },
     {
-      "title": "[재입고] 실수 수집가 · 김수정",
+      "title": "Called Pieces · COM",
       "store": "유어마인드",
       "section": "BOOKS",
-      "store_link": "https://www.your-mind.com/product/재입고-실수-수집가-·-김수정/6148/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202606/d43337001e940c60b173c50f4d931024.jpg",
-      "cover": "https://www.your-mind.com/web/product/big/202606/d43337001e940c60b173c50f4d931024.jpg",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20%EC%8B%A4%EC%88%98%20%EC%88%98%EC%A7%91%EA%B0%80%20%C2%B7%20%EA%B9%80%EC%88%98%EC%A0%95"
+      "store_link": "https://www.your-mind.com/product/called-pieces-·-com/6151/category/27/display/1/",
+      "store_cover": "https://www.your-mind.com/web/product/big/202607/70ba9ef21e24caa60f1bdc20fa2c3f60.png",
+      "cover": "https://www.your-mind.com/web/product/big/202607/70ba9ef21e24caa60f1bdc20fa2c3f60.png",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=Called%20Pieces%20%C2%B7%20COM"
     },
     {
       "title": "[4차 입고] 꽃점 (Floral Fortune) · 희다가든",
@@ -118,15 +127,6 @@ window.__INDIE_BOOKS_DATA__ = {
       "store_cover": "https://www.your-mind.com/web/product/big/202605/612d030058ed2f7872d60ac11975651d.png",
       "cover": "https://www.your-mind.com/web/product/big/202605/612d030058ed2f7872d60ac11975651d.png",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B3%EC%B0%A8%20%EC%9E%85%EA%B3%A0%5D%20%EB%A6%AC%ED%83%80%EC%9D%98%20%EC%A0%95%EC%9B%90%20%C2%B7%20%EC%95%88%EB%A6%AC%ED%83%80"
-    },
-    {
-      "title": "[3차 입고] 창을 여는 마음 · 안리타",
-      "store": "유어마인드",
-      "section": "BOOKS",
-      "store_link": "https://www.your-mind.com/product/3차-입고-창을-여는-마음-·-안리타/6003/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202605/a5882165018b0edd3beb180c2d88441a.png",
-      "cover": "https://www.your-mind.com/web/product/big/202605/a5882165018b0edd3beb180c2d88441a.png",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B3%EC%B0%A8%20%EC%9E%85%EA%B3%A0%5D%20%EC%B0%BD%EC%9D%84%20%EC%97%AC%EB%8A%94%20%EB%A7%88%EC%9D%8C%20%C2%B7%20%EC%95%88%EB%A6%AC%ED%83%80"
     },
     {
       "title": "[재입고] SOS BOOK-당신은 어떻게 일하고, 어떻게 극복하나요? · 노말에이",
@@ -246,15 +246,6 @@ window.__INDIE_BOOKS_DATA__ = {
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%9D%8C%EC%95%85%EC%9D%98%20%EC%82%AC%EC%83%9D%ED%99%9C99%3A%202008%EB%85%84%20%EC%9C%A0%EC%99%84%EB%AC%B4%28%EC%96%84%EA%B0%9C%EB%93%A4%29%20%C2%B7%20%EC%9C%A0%EC%99%84%EB%AC%B4%2C%20%EC%8B%AC%EA%B7%9C%ED%83%9C"
     },
     {
-      "title": "『섬섬돌돌』 제3호 ‘재료손질’ · 공부중",
-      "store": "유어마인드",
-      "section": "BOOKS",
-      "store_link": "https://www.your-mind.com/product/섬섬돌돌-제3호-재료손질-·-공부중/5979/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202604/2914274efbb28bbcbddb32ac0722431f.png",
-      "cover": "https://www.your-mind.com/web/product/big/202604/2914274efbb28bbcbddb32ac0722431f.png",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%E3%80%8E%EC%84%AC%EC%84%AC%EB%8F%8C%EB%8F%8C%E3%80%8F%20%EC%A0%9C3%ED%98%B8%20%E2%80%98%EC%9E%AC%EB%A3%8C%EC%86%90%EC%A7%88%E2%80%99%20%C2%B7%20%EA%B3%B5%EB%B6%80%EC%A4%91"
-    },
-    {
       "title": "[재입고] Me and Tove and a lot of books · 류은지",
       "store": "유어마인드",
       "section": "BOOKS",
@@ -271,6 +262,15 @@ window.__INDIE_BOOKS_DATA__ = {
       "store_cover": "https://www.your-mind.com/web/product/big/202604/0d2299809f787814410f7ae5f5342e3c.png",
       "cover": "https://www.your-mind.com/web/product/big/202604/0d2299809f787814410f7ae5f5342e3c.png",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20Carnet%20de%20dessin%20%C2%B7%20%EB%A5%98%EC%9D%80%EC%A7%80"
+    },
+    {
+      "title": "[4차 입고] 나는 정말 나무가 되었다 · 오하나, 홍시야",
+      "store": "유어마인드",
+      "section": "BOOKS",
+      "store_link": "https://www.your-mind.com/product/4차-입고-나는-정말-나무가-되었다-·-오하나-홍시야/5971/category/27/display/1/",
+      "store_cover": "https://www.your-mind.com/web/product/big/202604/6676396b7fcfa5cbdc44d2f0ae409437.png",
+      "cover": "https://www.your-mind.com/web/product/big/202604/6676396b7fcfa5cbdc44d2f0ae409437.png",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B4%EC%B0%A8%20%EC%9E%85%EA%B3%A0%5D%20%EB%82%98%EB%8A%94%20%EC%A0%95%EB%A7%90%20%EB%82%98%EB%AC%B4%EA%B0%80%20%EB%90%98%EC%97%88%EB%8B%A4%20%C2%B7%20%EC%98%A4%ED%95%98%EB%82%98%2C%20%ED%99%8D%EC%8B%9C%EC%95%BC"
     },
     {
       "title": "내 아들의 연인 (만춘서점 특별판)",
@@ -1833,8 +1833,8 @@ window.__INDIE_BOOKS_DATA__ = {
       "week": "2026년 7월 27일 ~ 8월 2일",
       "tb_page": "http://thanksbooks.com/site/thanksbooks/index.php/selection/weeklttb2026/",
       "store_cover": "",
-      "cover": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791191347975.jpg",
-      "buy_link": "https://product.kyobobook.co.kr/detail/S000061451366",
+      "cover": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788966073108.jpg",
+      "buy_link": "https://product.kyobobook.co.kr/detail/S000001029829",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%9A%B0%EB%A6%AC%EB%8A%94%20%EC%82%AC%EB%9E%91%ED%95%98%EA%B8%B0%20%EC%A2%8B%EC%9D%80%20%ED%8C%94%EC%9D%84%20%EA%B0%80%EC%A1%8C%EA%B5%AC%EB%82%98%28%ED%95%9C%EC%A7%80%20%EC%97%90%EB%94%94%EC%85%98%29"
     },
     {
@@ -2270,10 +2270,10 @@ window.__INDIE_BOOKS_DATA__ = {
   "errors": [],
   "total": 236,
   "stores_attempted": [
-    "북앤스페이스",
-    "유어마인드",
     "고요서사",
     "사적인서점",
+    "유어마인드",
+    "북앤스페이스",
     "소심한책방"
   ]
 };
