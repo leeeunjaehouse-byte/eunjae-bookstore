@@ -1,6 +1,6 @@
 window.__INDIE_BOOKS_DATA__ = {
-  "updated_at": "2026-08-08T08:02:30.189103+09:00",
-  "today": "2026-08-08",
+  "updated_at": "2026-08-09T08:02:36.356933+09:00",
+  "today": "2026-08-09",
   "books": [
     {
       "title": "여름조각집 · 파과",
@@ -127,15 +127,6 @@ window.__INDIE_BOOKS_DATA__ = {
       "store_cover": "https://www.your-mind.com/web/product/big/202605/612d030058ed2f7872d60ac11975651d.png",
       "cover": "https://www.your-mind.com/web/product/big/202605/612d030058ed2f7872d60ac11975651d.png",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B3%EC%B0%A8%20%EC%9E%85%EA%B3%A0%5D%20%EB%A6%AC%ED%83%80%EC%9D%98%20%EC%A0%95%EC%9B%90%20%C2%B7%20%EC%95%88%EB%A6%AC%ED%83%80"
-    },
-    {
-      "title": "[재입고] SOS BOOK-당신은 어떻게 일하고, 어떻게 극복하나요? · 노말에이",
-      "store": "유어마인드",
-      "section": "BOOKS",
-      "store_link": "https://www.your-mind.com/product/재입고-sos-book-당신은-어떻게-일하고-어떻게-극복하나요-·-노말에이/6000/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202605/5baeaba246b60462755e9486354d1808.jpg",
-      "cover": "https://www.your-mind.com/web/product/big/202605/5baeaba246b60462755e9486354d1808.jpg",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20SOS%20BOOK-%EB%8B%B9%EC%8B%A0%EC%9D%80%20%EC%96%B4%EB%96%BB%EA%B2%8C%20%EC%9D%BC%ED%95%98%EA%B3%A0%2C%20%EC%96%B4%EB%96%BB%EA%B2%8C%20%EA%B7%B9%EB%B3%B5%ED%95%98%EB%82%98%EC%9A%94%3F%20%C2%B7%20%EB%85%B8%EB%A7%90%EC%97%90%EC%9D%B4"
     },
     {
       "title": "Side Project-콰야 세라믹 작품집 · 콰야",
@@ -271,6 +262,15 @@ window.__INDIE_BOOKS_DATA__ = {
       "store_cover": "https://www.your-mind.com/web/product/big/202604/6676396b7fcfa5cbdc44d2f0ae409437.png",
       "cover": "https://www.your-mind.com/web/product/big/202604/6676396b7fcfa5cbdc44d2f0ae409437.png",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B4%EC%B0%A8%20%EC%9E%85%EA%B3%A0%5D%20%EB%82%98%EB%8A%94%20%EC%A0%95%EB%A7%90%20%EB%82%98%EB%AC%B4%EA%B0%80%20%EB%90%98%EC%97%88%EB%8B%A4%20%C2%B7%20%EC%98%A4%ED%95%98%EB%82%98%2C%20%ED%99%8D%EC%8B%9C%EC%95%BC"
+    },
+    {
+      "title": "[3차 입고] 오늘의 팬케익: 뒤집기 전에는 아무도 모른다 · 남선우",
+      "store": "유어마인드",
+      "section": "BOOKS",
+      "store_link": "https://www.your-mind.com/product/3차-입고-오늘의-팬케익-뒤집기-전에는-아무도-모른다-·-남선우/5969/category/27/display/1/",
+      "store_cover": "https://www.your-mind.com/web/product/big/202604/c609f77dc2d2c7c73f058c53caf702bf.png",
+      "cover": "https://www.your-mind.com/web/product/big/202604/c609f77dc2d2c7c73f058c53caf702bf.png",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B3%EC%B0%A8%20%EC%9E%85%EA%B3%A0%5D%20%EC%98%A4%EB%8A%98%EC%9D%98%20%ED%8C%AC%EC%BC%80%EC%9D%B5%3A%20%EB%92%A4%EC%A7%91%EA%B8%B0%20%EC%A0%84%EC%97%90%EB%8A%94%20%EC%95%84%EB%AC%B4%EB%8F%84%20%EB%AA%A8%EB%A5%B8%EB%8B%A4%20%C2%B7%20%EB%82%A8%EC%84%A0%EC%9A%B0"
     },
     {
       "title": "내 아들의 연인 (만춘서점 특별판)",
@@ -1833,8 +1833,8 @@ window.__INDIE_BOOKS_DATA__ = {
       "week": "2026년 7월 27일 ~ 8월 2일",
       "tb_page": "http://thanksbooks.com/site/thanksbooks/index.php/selection/weeklttb2026/",
       "store_cover": "",
-      "cover": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788966073108.jpg",
-      "buy_link": "https://product.kyobobook.co.kr/detail/S000001029829",
+      "cover": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788925568928.jpg",
+      "buy_link": "https://product.kyobobook.co.kr/detail/S000000479140",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%9A%B0%EB%A6%AC%EB%8A%94%20%EC%82%AC%EB%9E%91%ED%95%98%EA%B8%B0%20%EC%A2%8B%EC%9D%80%20%ED%8C%94%EC%9D%84%20%EA%B0%80%EC%A1%8C%EA%B5%AC%EB%82%98%28%ED%95%9C%EC%A7%80%20%EC%97%90%EB%94%94%EC%85%98%29"
     },
     {
@@ -2270,10 +2270,10 @@ window.__INDIE_BOOKS_DATA__ = {
   "errors": [],
   "total": 236,
   "stores_attempted": [
-    "고요서사",
-    "사적인서점",
     "유어마인드",
+    "고요서사",
     "북앤스페이스",
-    "소심한책방"
+    "소심한책방",
+    "사적인서점"
   ]
 };
