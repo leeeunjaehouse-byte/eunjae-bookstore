@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-09T08:02:36.356933+09:00",
-  "today": "2026-08-09",
+  "updated_at": "2026-08-10T08:02:44.440611+09:00",
+  "today": "2026-08-10",
   "books": [
     {
       "title": "여름조각집 · 파과",
@@ -91,15 +91,6 @@
       "store_cover": "https://www.your-mind.com/web/product/big/202605/262dae6f0e1f13291013fbcca117f6db.png",
       "cover": "https://www.your-mind.com/web/product/big/202605/262dae6f0e1f13291013fbcca117f6db.png",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=Sunny%20Bier%20Klub%28Re-Design%29%20%C2%B7%20%EC%9D%B4%ED%95%98%EC%97%AC%EB%B0%B1"
-    },
-    {
-      "title": "[4차 입고] 놀이와 시와 타이포그래피: 오래된 시-놀이 속 자유와 해방의 글자 실험 · 이윤호",
-      "store": "유어마인드",
-      "section": "BOOKS",
-      "store_link": "https://www.your-mind.com/product/4차-입고-놀이와-시와-타이포그래피-오래된-시-놀이-속-자유와-해방의-글자-실험-·-이윤호/6008/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202605/1ad7975224e74f57e576eb644c7611ca.png",
-      "cover": "https://www.your-mind.com/web/product/big/202605/1ad7975224e74f57e576eb644c7611ca.png",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B4%EC%B0%A8%20%EC%9E%85%EA%B3%A0%5D%20%EB%86%80%EC%9D%B4%EC%99%80%20%EC%8B%9C%EC%99%80%20%ED%83%80%EC%9D%B4%ED%8F%AC%EA%B7%B8%EB%9E%98%ED%94%BC%3A%20%EC%98%A4%EB%9E%98%EB%90%9C%20%EC%8B%9C-%EB%86%80%EC%9D%B4%20%EC%86%8D%20%EC%9E%90%EC%9C%A0%EC%99%80%20%ED%95%B4%EB%B0%A9%EC%9D%98%20%EA%B8%80%EC%9E%90%20%EC%8B%A4%ED%97%98%20%C2%B7%20%EC%9D%B4%EC%9C%A4%ED%98%B8"
     },
     {
       "title": "[재입고] 색과 형태가 되기 훨씬 전에 · 나가시마 리카코",
@@ -271,6 +262,15 @@
       "store_cover": "https://www.your-mind.com/web/product/big/202604/c609f77dc2d2c7c73f058c53caf702bf.png",
       "cover": "https://www.your-mind.com/web/product/big/202604/c609f77dc2d2c7c73f058c53caf702bf.png",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B3%EC%B0%A8%20%EC%9E%85%EA%B3%A0%5D%20%EC%98%A4%EB%8A%98%EC%9D%98%20%ED%8C%AC%EC%BC%80%EC%9D%B5%3A%20%EB%92%A4%EC%A7%91%EA%B8%B0%20%EC%A0%84%EC%97%90%EB%8A%94%20%EC%95%84%EB%AC%B4%EB%8F%84%20%EB%AA%A8%EB%A5%B8%EB%8B%A4%20%C2%B7%20%EB%82%A8%EC%84%A0%EC%9A%B0"
+    },
+    {
+      "title": "[3차 입고] 인터넷 견문록 · 김혜연",
+      "store": "유어마인드",
+      "section": "BOOKS",
+      "store_link": "https://www.your-mind.com/product/3차-입고-인터넷-견문록-·-김혜연/5967/category/27/display/1/",
+      "store_cover": "https://www.your-mind.com/web/product/big/202604/f756285c215cd92619dc557141afee7d.png",
+      "cover": "https://www.your-mind.com/web/product/big/202604/f756285c215cd92619dc557141afee7d.png",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B3%EC%B0%A8%20%EC%9E%85%EA%B3%A0%5D%20%EC%9D%B8%ED%84%B0%EB%84%B7%20%EA%B2%AC%EB%AC%B8%EB%A1%9D%20%C2%B7%20%EA%B9%80%ED%98%9C%EC%97%B0"
     },
     {
       "title": "내 아들의 연인 (만춘서점 특별판)",
@@ -2072,6 +2072,19 @@
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EB%86%8D%EB%8B%B4%EC%97%90%20%EC%A7%84%EC%8B%AC"
     },
     {
+      "title": "사고외주",
+      "store": "땡스북스",
+      "section": "땡스, 페이퍼!",
+      "publisher": "",
+      "author": "홍진기",
+      "paper_no": "651",
+      "tb_page": "http://thanksbooks.com/site/thanksbooks/index.php/selection/tp-2026/",
+      "store_cover": "",
+      "cover": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791167743091.jpg",
+      "buy_link": "https://product.kyobobook.co.kr/detail/S000220293112",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%82%AC%EA%B3%A0%EC%99%B8%EC%A3%BC"
+    },
+    {
       "title": "거북복과 물떼새 머리뼈의 대화",
       "store": "땡스북스",
       "section": "땡스, 페이퍼!",
@@ -2252,28 +2265,15 @@
       "cover": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791198873378.jpg",
       "buy_link": "https://product.kyobobook.co.kr/detail/S000218550901",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EB%81%9D%2C%20%EC%B1%85"
-    },
-    {
-      "title": "국수의 맛",
-      "store": "땡스북스",
-      "section": "땡스, 페이퍼!",
-      "publisher": "",
-      "author": "조영권 글, 이윤희 만화",
-      "paper_no": "627",
-      "tb_page": "http://thanksbooks.com/site/thanksbooks/index.php/selection/tp-2026/",
-      "store_cover": "",
-      "cover": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791197360480.jpg",
-      "buy_link": "https://product.kyobobook.co.kr/detail/S000218881312",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EA%B5%AD%EC%88%98%EC%9D%98%20%EB%A7%9B"
     }
   ],
   "errors": [],
   "total": 236,
   "stores_attempted": [
-    "유어마인드",
-    "고요서사",
-    "북앤스페이스",
+    "사적인서점",
     "소심한책방",
-    "사적인서점"
+    "유어마인드",
+    "북앤스페이스",
+    "고요서사"
   ]
 }

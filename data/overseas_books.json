@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-09T08:02:52.451589+09:00",
-  "today": "2026-08-09",
+  "updated_at": "2026-08-10T08:02:59.181555+09:00",
+  "today": "2026-08-10",
   "books": [
     {
       "title": "Go Out #202 August 2026",
@@ -443,7 +443,40 @@
       "cover": "https://cdn.shopify.com/s/files/1/0221/7340/files/Screenshot2026-06-03at16.33.24.png?v=1780501154"
     },
     {
-      "title": "Madeleine de Sinéty. A Life",
+      "title": "Andrew Weatherall - A Disco Pogo Tribute",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Disco_Pogo_Andrew_Weatherall_Tribute_Cover_800x_21142717-4dc5-4ba9-8d94-26fafa8a0a2e.webp?v=1786280075",
+      "store_link": "https://magmabooks.com/products/andrew-weatherall-a-disco-pogo-tribute",
+      "published_at": "2026-08-09T13:49:06+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Disco_Pogo_Andrew_Weatherall_Tribute_Cover_800x_21142717-4dc5-4ba9-8d94-26fafa8a0a2e.webp?v=1786280075"
+    },
+    {
+      "title": "Monocle Mediterraneo",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/monocle-mediterraneo-newspaper-summer-2026-2209007.webp?v=1786276552",
+      "store_link": "https://magmabooks.com/products/monocle-alpino-newspaper-2023-copy",
+      "published_at": "2026-08-09T12:49:12+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/monocle-mediterraneo-newspaper-summer-2026-2209007.webp?v=1786276552"
+    },
+    {
+      "title": "Calling All Horse Girls #8",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Cover_Reveal_with_bg_400x_36a66465-63c1-4b62-a1d0-c13d212d2e0c.webp?v=1764696388",
+      "store_link": "https://magmabooks.com/products/calling-all-horse-girls-8",
+      "published_at": "2026-08-09T12:48:07+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Cover_Reveal_with_bg_400x_36a66465-63c1-4b62-a1d0-c13d212d2e0c.webp?v=1764696388"
+    },
+    {
+      "title": "Madeleine de Sinéty: A Life",
       "store": "Magma Books",
       "city": "런던",
       "section": "디자인·아트",
@@ -628,39 +661,6 @@
       "store_link": "https://magmabooks.com/products/get-your-shit-together-1",
       "published_at": "2026-08-07T11:53:52+01:00",
       "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2025-08-23at11-55-17GetYourShitTogetherDavidShrigleyAmazon.co.ukShrigleyDavid9781797234748Books.png?v=1755947225"
-    },
-    {
-      "title": "No Magic in Riso",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/products/No_Magic_in_Riso_cover.jpg?v=1568393549",
-      "store_link": "https://magmabooks.com/products/no-magic-in-riso",
-      "published_at": "2026-08-06T18:01:19+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/products/No_Magic_in_Riso_cover.jpg?v=1568393549"
-    },
-    {
-      "title": "The Practice Of Not Thinking",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/products/41bOo-3gZtS.jpg?v=1681473924",
-      "store_link": "https://magmabooks.com/products/the-practice-of-not-thinking",
-      "published_at": "2026-08-06T17:52:21+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/products/41bOo-3gZtS.jpg?v=1681473924"
-    },
-    {
-      "title": "(A)WAY SOCCER PAPER #1",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-07122211.png?v=1783424090",
-      "store_link": "https://magmabooks.com/products/mundial-37-copy",
-      "published_at": "2026-08-06T12:08:15+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-07122211.png?v=1783424090"
     },
     {
       "title": "Mast Books Tote Bag",
