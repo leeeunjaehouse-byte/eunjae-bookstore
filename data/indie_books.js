@@ -1,6 +1,6 @@
 window.__INDIE_BOOKS_DATA__ = {
-  "updated_at": "2026-08-12T10:04:07.181290+09:00",
-  "today": "2026-08-12",
+  "updated_at": "2026-08-13T15:48:49.364281+09:00",
+  "today": "2026-08-13",
   "books": [
     {
       "title": "짤쭈만화1 · 새손",
@@ -10,6 +10,15 @@ window.__INDIE_BOOKS_DATA__ = {
       "store_cover": "https://www.your-mind.com/web/product/big/202608/a824054cc8eb5bdf5296f131ae53b559.png",
       "cover": "https://www.your-mind.com/web/product/big/202608/a824054cc8eb5bdf5296f131ae53b559.png",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%A7%A4%EC%AD%88%EB%A7%8C%ED%99%941%20%C2%B7%20%EC%83%88%EC%86%90"
+    },
+    {
+      "title": "[재입고] 여름조각집 · 파과",
+      "store": "유어마인드",
+      "section": "BOOKS",
+      "store_link": "https://www.your-mind.com/product/재입고-여름조각집-·-파과/6164/category/27/display/1/",
+      "store_cover": "https://www.your-mind.com/web/product/big/202608/a524ffc1d54352f66da28e66218c85ef.png",
+      "cover": "https://www.your-mind.com/web/product/big/202608/a524ffc1d54352f66da28e66218c85ef.png",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20%EC%97%AC%EB%A6%84%EC%A1%B0%EA%B0%81%EC%A7%91%20%C2%B7%20%ED%8C%8C%EA%B3%BC"
     },
     {
       "title": "Patterns · 강유라",
@@ -156,24 +165,6 @@ window.__INDIE_BOOKS_DATA__ = {
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20%EC%9E%91%EC%97%85%EC%8B%A4%20%EA%B3%A0%EC%96%91%EC%9D%B4%20%C2%B7%20%EB%85%B8%EC%84%9D%EB%AF%B8"
     },
     {
-      "title": "[재입고] 신선하고 뾰족한 가지 · 노석미",
-      "store": "유어마인드",
-      "section": "BOOKS",
-      "store_link": "https://www.your-mind.com/product/재입고-신선하고-뾰족한-가지-·-노석미/5996/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202605/4eee3ae977678bfff63a82706e00a3be.png",
-      "cover": "https://www.your-mind.com/web/product/big/202605/4eee3ae977678bfff63a82706e00a3be.png",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20%EC%8B%A0%EC%84%A0%ED%95%98%EA%B3%A0%20%EB%BE%B0%EC%A1%B1%ED%95%9C%20%EA%B0%80%EC%A7%80%20%C2%B7%20%EB%85%B8%EC%84%9D%EB%AF%B8"
-    },
-    {
-      "title": "바다의 앞모습 · 노석미",
-      "store": "유어마인드",
-      "section": "BOOKS",
-      "store_link": "https://www.your-mind.com/product/바다의-앞모습-·-노석미/5995/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202605/9f854aeb2d1af12585f3ffc085edac44.png",
-      "cover": "https://www.your-mind.com/web/product/big/202605/9f854aeb2d1af12585f3ffc085edac44.png",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EB%B0%94%EB%8B%A4%EC%9D%98%20%EC%95%9E%EB%AA%A8%EC%8A%B5%20%C2%B7%20%EB%85%B8%EC%84%9D%EB%AF%B8"
-    },
-    {
       "title": "[재입고] Play Pocket · 이지영",
       "store": "유어마인드",
       "section": "BOOKS",
@@ -226,6 +217,15 @@ window.__INDIE_BOOKS_DATA__ = {
       "store_cover": "https://www.your-mind.com/web/product/big/202604/0d2299809f787814410f7ae5f5342e3c.png",
       "cover": "https://www.your-mind.com/web/product/big/202604/0d2299809f787814410f7ae5f5342e3c.png",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20Carnet%20de%20dessin%20%C2%B7%20%EB%A5%98%EC%9D%80%EC%A7%80"
+    },
+    {
+      "title": "[5차 입고] 나는 정말 나무가 되었다 · 오하나, 홍시야",
+      "store": "유어마인드",
+      "section": "BOOKS",
+      "store_link": "https://www.your-mind.com/product/5차-입고-나는-정말-나무가-되었다-·-오하나-홍시야/5971/category/27/display/1/",
+      "store_cover": "https://www.your-mind.com/web/product/big/202604/6676396b7fcfa5cbdc44d2f0ae409437.png",
+      "cover": "https://www.your-mind.com/web/product/big/202604/6676396b7fcfa5cbdc44d2f0ae409437.png",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B5%EC%B0%A8%20%EC%9E%85%EA%B3%A0%5D%20%EB%82%98%EB%8A%94%20%EC%A0%95%EB%A7%90%20%EB%82%98%EB%AC%B4%EA%B0%80%20%EB%90%98%EC%97%88%EB%8B%A4%20%C2%B7%20%EC%98%A4%ED%95%98%EB%82%98%2C%20%ED%99%8D%EC%8B%9C%EC%95%BC"
     },
     {
       "title": "[3차 입고] 오늘의 팬케익: 뒤집기 전에는 아무도 모른다 · 남선우",
@@ -2270,10 +2270,10 @@ window.__INDIE_BOOKS_DATA__ = {
   "errors": [],
   "total": 236,
   "stores_attempted": [
-    "유어마인드",
-    "소심한책방",
     "사적인서점",
-    "북앤스페이스",
-    "고요서사"
+    "유어마인드",
+    "고요서사",
+    "소심한책방",
+    "북앤스페이스"
   ]
 };
