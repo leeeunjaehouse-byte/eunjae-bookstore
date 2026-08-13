@@ -1,7 +1,43 @@
 window.__INDIE_BOOKS_DATA__ = {
-  "updated_at": "2026-08-13T15:48:49.364281+09:00",
-  "today": "2026-08-13",
+  "updated_at": "2026-08-14T08:02:25.235717+09:00",
+  "today": "2026-08-14",
   "books": [
+    {
+      "title": "Pigeon Headshot · Bird Pit",
+      "store": "유어마인드",
+      "section": "BOOKS",
+      "store_link": "https://www.your-mind.com/product/pigeon-headshot-·-bird-pit/6175/category/27/display/1/",
+      "store_cover": "https://www.your-mind.com/web/product/big/202608/feaa1b213f61f2384ee9e3cc572ca967.png",
+      "cover": "https://www.your-mind.com/web/product/big/202608/feaa1b213f61f2384ee9e3cc572ca967.png",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=Pigeon%20Headshot%20%C2%B7%20Bird%20Pit"
+    },
+    {
+      "title": "Mocking Birds · Bird Pit",
+      "store": "유어마인드",
+      "section": "BOOKS",
+      "store_link": "https://www.your-mind.com/product/mocking-birds-·-bird-pit/6174/category/27/display/1/",
+      "store_cover": "https://www.your-mind.com/web/product/big/202608/5fb8e6d728c149b17d20ae9ebce3f936.png",
+      "cover": "https://www.your-mind.com/web/product/big/202608/5fb8e6d728c149b17d20ae9ebce3f936.png",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=Mocking%20Birds%20%C2%B7%20Bird%20Pit"
+    },
+    {
+      "title": "Tree Sings Songs · Bird Pit",
+      "store": "유어마인드",
+      "section": "BOOKS",
+      "store_link": "https://www.your-mind.com/product/tree-sings-songs-·-bird-pit/6173/category/27/display/1/",
+      "store_cover": "https://www.your-mind.com/web/product/big/202608/ca68dbf6676e4dac8ed569883ee73112.png",
+      "cover": "https://www.your-mind.com/web/product/big/202608/ca68dbf6676e4dac8ed569883ee73112.png",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=Tree%20Sings%20Songs%20%C2%B7%20Bird%20Pit"
+    },
+    {
+      "title": "저 푸른 초원 위에 그림 같은 집을 짓고  · 김유빈, 이주은",
+      "store": "유어마인드",
+      "section": "BOOKS",
+      "store_link": "https://www.your-mind.com/product/저-푸른-초원-위에-그림-같은-집을-짓고-·-김유빈-이주은/6171/category/27/display/1/",
+      "store_cover": "https://www.your-mind.com/web/product/big/202608/57270ee9731496f61c47489358f80733.png",
+      "cover": "https://www.your-mind.com/web/product/big/202608/57270ee9731496f61c47489358f80733.png",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%A0%80%20%ED%91%B8%EB%A5%B8%20%EC%B4%88%EC%9B%90%20%EC%9C%84%EC%97%90%20%EA%B7%B8%EB%A6%BC%20%EA%B0%99%EC%9D%80%20%EC%A7%91%EC%9D%84%20%EC%A7%93%EA%B3%A0%E2%80%A8%20%C2%B7%20%EA%B9%80%EC%9C%A0%EB%B9%88%2C%20%EC%9D%B4%EC%A3%BC%EC%9D%80"
+    },
     {
       "title": "짤쭈만화1 · 새손",
       "store": "유어마인드",
@@ -235,42 +271,6 @@ window.__INDIE_BOOKS_DATA__ = {
       "store_cover": "https://www.your-mind.com/web/product/big/202604/c609f77dc2d2c7c73f058c53caf702bf.png",
       "cover": "https://www.your-mind.com/web/product/big/202604/c609f77dc2d2c7c73f058c53caf702bf.png",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B3%EC%B0%A8%20%EC%9E%85%EA%B3%A0%5D%20%EC%98%A4%EB%8A%98%EC%9D%98%20%ED%8C%AC%EC%BC%80%EC%9D%B5%3A%20%EB%92%A4%EC%A7%91%EA%B8%B0%20%EC%A0%84%EC%97%90%EB%8A%94%20%EC%95%84%EB%AC%B4%EB%8F%84%20%EB%AA%A8%EB%A5%B8%EB%8B%A4%20%C2%B7%20%EB%82%A8%EC%84%A0%EC%9A%B0"
-    },
-    {
-      "title": "[3차 입고] 인터넷 견문록 · 김혜연",
-      "store": "유어마인드",
-      "section": "BOOKS",
-      "store_link": "https://www.your-mind.com/product/3차-입고-인터넷-견문록-·-김혜연/5967/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202604/f756285c215cd92619dc557141afee7d.png",
-      "cover": "https://www.your-mind.com/web/product/big/202604/f756285c215cd92619dc557141afee7d.png",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B3%EC%B0%A8%20%EC%9E%85%EA%B3%A0%5D%20%EC%9D%B8%ED%84%B0%EB%84%B7%20%EA%B2%AC%EB%AC%B8%EB%A1%9D%20%C2%B7%20%EA%B9%80%ED%98%9C%EC%97%B0"
-    },
-    {
-      "title": "[5차 입고] 유령고양이의 두려움과 해골새의 즐거움 · 피칸트",
-      "store": "유어마인드",
-      "section": "BOOKS",
-      "store_link": "https://www.your-mind.com/product/5차-입고-유령고양이의-두려움과-해골새의-즐거움-·-피칸트/5966/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202604/ef03b56d2b741b63b26ef1108f8ba396.png",
-      "cover": "https://www.your-mind.com/web/product/big/202604/ef03b56d2b741b63b26ef1108f8ba396.png",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B5%EC%B0%A8%20%EC%9E%85%EA%B3%A0%5D%20%EC%9C%A0%EB%A0%B9%EA%B3%A0%EC%96%91%EC%9D%B4%EC%9D%98%20%EB%91%90%EB%A0%A4%EC%9B%80%EA%B3%BC%20%ED%95%B4%EA%B3%A8%EC%83%88%EC%9D%98%20%EC%A6%90%EA%B1%B0%EC%9B%80%20%C2%B7%20%ED%94%BC%EC%B9%B8%ED%8A%B8"
-    },
-    {
-      "title": "[4차 입고] 나무 그림자 채집 · 송민선, 최중원",
-      "store": "유어마인드",
-      "section": "BOOKS",
-      "store_link": "https://www.your-mind.com/product/4차-입고-나무-그림자-채집-·-송민선-최중원/5965/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202604/b09e2ec098e3bf50b4f8ac7b589d8ed5.png",
-      "cover": "https://www.your-mind.com/web/product/big/202604/b09e2ec098e3bf50b4f8ac7b589d8ed5.png",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B4%EC%B0%A8%20%EC%9E%85%EA%B3%A0%5D%20%EB%82%98%EB%AC%B4%20%EA%B7%B8%EB%A6%BC%EC%9E%90%20%EC%B1%84%EC%A7%91%20%C2%B7%20%EC%86%A1%EB%AF%BC%EC%84%A0%2C%20%EC%B5%9C%EC%A4%91%EC%9B%90"
-    },
-    {
-      "title": "[3차 입고] 철도와 나 · 김은정",
-      "store": "유어마인드",
-      "section": "BOOKS",
-      "store_link": "https://www.your-mind.com/product/3차-입고-철도와-나-·-김은정/5964/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202604/63ca49063a2205f7ea892ef7761e7564.png",
-      "cover": "https://www.your-mind.com/web/product/big/202604/63ca49063a2205f7ea892ef7761e7564.png",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B3%EC%B0%A8%20%EC%9E%85%EA%B3%A0%5D%20%EC%B2%A0%EB%8F%84%EC%99%80%20%EB%82%98%20%C2%B7%20%EA%B9%80%EC%9D%80%EC%A0%95"
     },
     {
       "title": "내 아들의 연인 (만춘서점 특별판)",
@@ -2041,8 +2041,8 @@ window.__INDIE_BOOKS_DATA__ = {
       "week": "2026년 7월 13일 ~ 7월 19일",
       "tb_page": "http://thanksbooks.com/site/thanksbooks/index.php/selection/weeklttb2026/",
       "store_cover": "",
-      "cover": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791199825888.jpg",
-      "buy_link": "https://product.kyobobook.co.kr/detail/S000220364720",
+      "cover": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788932035673.jpg",
+      "buy_link": "https://product.kyobobook.co.kr/detail/S000000570457",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%84%9C%EC%9A%B8%20100%EA%B2%BD"
     },
     {
