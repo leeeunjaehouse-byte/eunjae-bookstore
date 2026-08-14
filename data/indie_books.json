@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-08-14T08:02:25.235717+09:00",
-  "today": "2026-08-14",
+  "updated_at": "2026-08-15T08:02:25.199489+09:00",
+  "today": "2026-08-15",
   "books": [
+    {
+      "title": "나그네새 편지_바다건너:대만 · 배현정",
+      "store": "유어마인드",
+      "section": "BOOKS",
+      "store_link": "https://www.your-mind.com/product/나그네새-편지바다건너대만-·-배현정/6178/category/27/display/1/",
+      "store_cover": "https://www.your-mind.com/web/product/big/202608/50f47d2c7f061ab6fd15bd74e5c7e9f5.png",
+      "cover": "https://www.your-mind.com/web/product/big/202608/50f47d2c7f061ab6fd15bd74e5c7e9f5.png",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EB%82%98%EA%B7%B8%EB%84%A4%EC%83%88%20%ED%8E%B8%EC%A7%80_%EB%B0%94%EB%8B%A4%EA%B1%B4%EB%84%88%3A%EB%8C%80%EB%A7%8C%20%C2%B7%20%EB%B0%B0%ED%98%84%EC%A0%95"
+    },
+    {
+      "title": "제1강: 거절하는 방법 · 강윤지",
+      "store": "유어마인드",
+      "section": "BOOKS",
+      "store_link": "https://www.your-mind.com/product/제1강-거절하는-방법-·-강윤지/6176/category/27/display/1/",
+      "store_cover": "https://www.your-mind.com/web/product/big/202608/66d3eaa9f30044e0891f91e0af47a487.png",
+      "cover": "https://www.your-mind.com/web/product/big/202608/66d3eaa9f30044e0891f91e0af47a487.png",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%A0%9C1%EA%B0%95%3A%20%EA%B1%B0%EC%A0%88%ED%95%98%EB%8A%94%20%EB%B0%A9%EB%B2%95%20%C2%B7%20%EA%B0%95%EC%9C%A4%EC%A7%80"
+    },
     {
       "title": "Pigeon Headshot · Bird Pit",
       "store": "유어마인드",
@@ -192,15 +210,6 @@
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20CAT%20CODE%20%C2%B7%20%EB%85%B8%EB%A7%90%EC%97%90%EC%9D%B4"
     },
     {
-      "title": "[재입고] 작업실 고양이 · 노석미",
-      "store": "유어마인드",
-      "section": "BOOKS",
-      "store_link": "https://www.your-mind.com/product/재입고-작업실-고양이-·-노석미/5997/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202605/86064aaca5e05d1c78253ed7f58779a2.png",
-      "cover": "https://www.your-mind.com/web/product/big/202605/86064aaca5e05d1c78253ed7f58779a2.png",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20%EC%9E%91%EC%97%85%EC%8B%A4%20%EA%B3%A0%EC%96%91%EC%9D%B4%20%C2%B7%20%EB%85%B8%EC%84%9D%EB%AF%B8"
-    },
-    {
       "title": "[재입고] Play Pocket · 이지영",
       "store": "유어마인드",
       "section": "BOOKS",
@@ -262,15 +271,6 @@
       "store_cover": "https://www.your-mind.com/web/product/big/202604/6676396b7fcfa5cbdc44d2f0ae409437.png",
       "cover": "https://www.your-mind.com/web/product/big/202604/6676396b7fcfa5cbdc44d2f0ae409437.png",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B5%EC%B0%A8%20%EC%9E%85%EA%B3%A0%5D%20%EB%82%98%EB%8A%94%20%EC%A0%95%EB%A7%90%20%EB%82%98%EB%AC%B4%EA%B0%80%20%EB%90%98%EC%97%88%EB%8B%A4%20%C2%B7%20%EC%98%A4%ED%95%98%EB%82%98%2C%20%ED%99%8D%EC%8B%9C%EC%95%BC"
-    },
-    {
-      "title": "[3차 입고] 오늘의 팬케익: 뒤집기 전에는 아무도 모른다 · 남선우",
-      "store": "유어마인드",
-      "section": "BOOKS",
-      "store_link": "https://www.your-mind.com/product/3차-입고-오늘의-팬케익-뒤집기-전에는-아무도-모른다-·-남선우/5969/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202604/c609f77dc2d2c7c73f058c53caf702bf.png",
-      "cover": "https://www.your-mind.com/web/product/big/202604/c609f77dc2d2c7c73f058c53caf702bf.png",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B3%EC%B0%A8%20%EC%9E%85%EA%B3%A0%5D%20%EC%98%A4%EB%8A%98%EC%9D%98%20%ED%8C%AC%EC%BC%80%EC%9D%B5%3A%20%EB%92%A4%EC%A7%91%EA%B8%B0%20%EC%A0%84%EC%97%90%EB%8A%94%20%EC%95%84%EB%AC%B4%EB%8F%84%20%EB%AA%A8%EB%A5%B8%EB%8B%A4%20%C2%B7%20%EB%82%A8%EC%84%A0%EC%9A%B0"
     },
     {
       "title": "내 아들의 연인 (만춘서점 특별판)",
@@ -1542,6 +1542,24 @@
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EA%B9%80%EA%B7%9C%EB%A6%BC%2C%20%E3%80%8E%EC%86%8C%EB%B9%84%EC%98%88%EC%B0%AC%E3%80%8F"
     },
     {
+      "title": "[재입고] 점(占) : 아시아, 참여, 예술",
+      "store": "더북소사이어티",
+      "section": "큐레이션",
+      "store_link": "https://thebooksociety.org/shop_view/?idx=1151",
+      "store_cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/a2e9afa058283.jpg?w=800",
+      "cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/a2e9afa058283.jpg?w=800",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20%EC%A0%90%28%E5%8D%A0%29%20%3A%20%EC%95%84%EC%8B%9C%EC%95%84%2C%20%EC%B0%B8%EC%97%AC%2C%20%EC%98%88%EC%88%A0"
+    },
+    {
+      "title": "[5차 입고] The Most Beautiful Swiss Books 2023",
+      "store": "더북소사이어티",
+      "section": "큐레이션",
+      "store_link": "https://thebooksociety.org/shop_view/?idx=1112",
+      "store_cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/c95a80da12dc0.png?w=800",
+      "cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/c95a80da12dc0.png?w=800",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B5%EC%B0%A8%20%EC%9E%85%EA%B3%A0%5D%20The%20Most%20Beautiful%20Swiss%20Books%202023"
+    },
+    {
       "title": "[3차 입고] 큐레이팅의 교육적 전환",
       "store": "더북소사이어티",
       "section": "큐레이션",
@@ -1767,13 +1785,13 @@
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EB%B0%A9%EB%B2%95%EB%93%A4%2C%20Ways%2C%20%E3%81%BB%E3%81%86%E3%81%BB%E3%81%86%2C%20Wege"
     },
     {
-      "title": "책을 읽는 존재들",
+      "title": "A SEXUAL HISTORY OF THE INTERNET",
       "store": "더북소사이어티",
       "section": "큐레이션",
-      "store_link": "https://thebooksociety.org/shop_view/?idx=1310",
-      "store_cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/a7a6ad69ade9e.jpg?w=800",
-      "cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/a7a6ad69ade9e.jpg?w=800",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%B1%85%EC%9D%84%20%EC%9D%BD%EB%8A%94%20%EC%A1%B4%EC%9E%AC%EB%93%A4"
+      "store_link": "https://thebooksociety.org/shop_view/?idx=1311",
+      "store_cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/36ace04237c86.avif?w=800",
+      "cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/36ace04237c86.avif?w=800",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=A%20SEXUAL%20HISTORY%20OF%20THE%20INTERNET"
     },
     {
       "title": "옷장",
@@ -1792,24 +1810,6 @@
       "store_cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/5bb29eeb73633.png?w=800",
       "cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/5bb29eeb73633.png?w=800",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%84%B8%EB%B2%88%EC%A7%B8%20%EC%84%9C%EC%88%A0%EC%9E%90%20The%20Third%20Narrator"
-    },
-    {
-      "title": "다폰트 내 사랑",
-      "store": "더북소사이어티",
-      "section": "큐레이션",
-      "store_link": "https://thebooksociety.org/shop_view/?idx=1306",
-      "store_cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/0485031b300f0.png?w=800",
-      "cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/0485031b300f0.png?w=800",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EB%8B%A4%ED%8F%B0%ED%8A%B8%20%EB%82%B4%20%EC%82%AC%EB%9E%91"
-    },
-    {
-      "title": "KIRTI Vol.1 - Hunter P Deerfield",
-      "store": "더북소사이어티",
-      "section": "큐레이션",
-      "store_link": "https://thebooksociety.org/shop_view/?idx=1305",
-      "store_cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/26f22cd154b0c.jpg?w=800",
-      "cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/26f22cd154b0c.jpg?w=800",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=KIRTI%20Vol.1%20-%20Hunter%20P%20Deerfield"
     },
     {
       "title": "여름, 커피",
@@ -2270,10 +2270,10 @@
   "errors": [],
   "total": 236,
   "stores_attempted": [
-    "사적인서점",
-    "유어마인드",
     "고요서사",
+    "북앤스페이스",
+    "유어마인드",
     "소심한책방",
-    "북앤스페이스"
+    "사적인서점"
   ]
 }

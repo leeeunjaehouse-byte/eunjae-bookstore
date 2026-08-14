@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-14T08:02:39.311420+09:00",
-  "today": "2026-08-14",
+  "updated_at": "2026-08-15T08:02:39.932686+09:00",
+  "today": "2026-08-15",
   "books": [
+    {
+      "title": "Interview USA #567 2026",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Interview USA",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43800-Interview-USA-567-2026-1.jpg?v=1786084759",
+      "store_link": "https://www.doyoureadme.de/products/interview-usa-567-2026",
+      "published_at": "2026-08-14T11:25:46+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43800-Interview-USA-567-2026-1.jpg?v=1786084759"
+    },
     {
       "title": "Sofia Coppola - Archive",
       "store": "Do you read me?!",
@@ -210,17 +221,6 @@
       "store_link": "https://www.doyoureadme.de/products/maes-heartbreak-edition",
       "published_at": "2026-08-08T17:58:13+02:00",
       "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43712-Maes---Heartbreak-Edition-1.jpg?v=1786204418"
-    },
-    {
-      "title": "Miffy zu Besuch",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Diogenes",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43748-Miffy-zu-Besuch-1.jpg?v=1786204418",
-      "store_link": "https://www.doyoureadme.de/products/miffy-zu-besuch",
-      "published_at": "2026-08-08T17:57:50+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43748-Miffy-zu-Besuch-1.jpg?v=1786204418"
     },
     {
       "title": "Under the Radar: Underground Zines and Self-publications 1965-1975",
@@ -443,6 +443,39 @@
       "cover": "https://cdn.shopify.com/s/files/1/0221/7340/files/Screenshot2026-06-03at16.33.24.png?v=1780501154"
     },
     {
+      "title": "Pressing Matters #35",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot_2026-08-14_163916.png?v=1786721989",
+      "store_link": "https://magmabooks.com/products/pressing-matters-34-copy",
+      "published_at": "2026-08-14T16:40:08+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot_2026-08-14_163916.png?v=1786721989"
+    },
+    {
+      "title": "How to poo",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-08-14140903.png?v=1786713338",
+      "store_link": "https://magmabooks.com/products/how-to-swear-copy",
+      "published_at": "2026-08-14T14:16:53+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-08-14140903.png?v=1786713338"
+    },
+    {
+      "title": "Is This a Plum?",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-04-30124116.png?v=1777549613",
+      "store_link": "https://magmabooks.com/products/im-sticking-with-you-softback-edition-copy-1",
+      "published_at": "2026-08-14T14:07:19+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-04-30124116.png?v=1777549613"
+    },
+    {
       "title": "La Merde",
       "store": "Magma Books",
       "city": "런던",
@@ -628,39 +661,6 @@
       "store_link": "https://magmabooks.com/products/andrew-weatherall-a-disco-pogo-tribute",
       "published_at": "2026-08-09T13:49:06+01:00",
       "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Disco_Pogo_Andrew_Weatherall_Tribute_Cover_800x_21142717-4dc5-4ba9-8d94-26fafa8a0a2e.webp?v=1786280075"
-    },
-    {
-      "title": "Monocle Mediterraneo",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/monocle-mediterraneo-newspaper-summer-2026-2209007.webp?v=1786276552",
-      "store_link": "https://magmabooks.com/products/monocle-alpino-newspaper-2023-copy",
-      "published_at": "2026-08-09T12:49:12+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/monocle-mediterraneo-newspaper-summer-2026-2209007.webp?v=1786276552"
-    },
-    {
-      "title": "Calling All Horse Girls #8",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Cover_Reveal_with_bg_400x_36a66465-63c1-4b62-a1d0-c13d212d2e0c.webp?v=1764696388",
-      "store_link": "https://magmabooks.com/products/calling-all-horse-girls-8",
-      "published_at": "2026-08-09T12:48:07+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Cover_Reveal_with_bg_400x_36a66465-63c1-4b62-a1d0-c13d212d2e0c.webp?v=1764696388"
-    },
-    {
-      "title": "Madeleine de Sinéty: A Life",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-08-08163432.png?v=1786203529",
-      "store_link": "https://magmabooks.com/products/daido-moriyama-lettres-damour-a-la-photographie-copy",
-      "published_at": "2026-08-08T16:41:09+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-08-08163432.png?v=1786203529"
     },
     {
       "title": "Mast Books Tote Bag",
