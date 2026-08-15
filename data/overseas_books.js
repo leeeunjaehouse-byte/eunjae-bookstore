@@ -1,6 +1,6 @@
 window.__OVERSEAS_BOOKS_DATA__ = {
-  "updated_at": "2026-08-15T08:02:39.932686+09:00",
-  "today": "2026-08-15",
+  "updated_at": "2026-08-16T08:02:49.849729+09:00",
+  "today": "2026-08-16",
   "books": [
     {
       "title": "Interview USA #567 2026",
@@ -443,6 +443,17 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "cover": "https://cdn.shopify.com/s/files/1/0221/7340/files/Screenshot2026-06-03at16.33.24.png?v=1780501154"
     },
     {
+      "title": "Mysterious Things",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-08-15at11-15-04MysteriousThings_InvisibleThings_PizzaAndyJ.MillerSophieAmazon.co.ukBooks.png?v=1786789218",
+      "store_link": "https://magmabooks.com/products/dragons-around-the-world-copy",
+      "published_at": "2026-08-15T11:22:48+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-08-15at11-15-04MysteriousThings_InvisibleThings_PizzaAndyJ.MillerSophieAmazon.co.ukBooks.png?v=1786789218"
+    },
+    {
       "title": "Pressing Matters #35",
       "store": "Magma Books",
       "city": "런던",
@@ -650,17 +661,6 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "store_link": "https://magmabooks.com/products/moomin-glass-bottle-fruits-1l",
       "published_at": "2026-08-10T13:20:11+01:00",
       "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/6416114969616_bilder.jpg?v=1698403466"
-    },
-    {
-      "title": "Andrew Weatherall - A Disco Pogo Tribute",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Disco_Pogo_Andrew_Weatherall_Tribute_Cover_800x_21142717-4dc5-4ba9-8d94-26fafa8a0a2e.webp?v=1786280075",
-      "store_link": "https://magmabooks.com/products/andrew-weatherall-a-disco-pogo-tribute",
-      "published_at": "2026-08-09T13:49:06+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Disco_Pogo_Andrew_Weatherall_Tribute_Cover_800x_21142717-4dc5-4ba9-8d94-26fafa8a0a2e.webp?v=1786280075"
     },
     {
       "title": "Mast Books Tote Bag",
