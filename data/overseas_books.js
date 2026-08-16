@@ -1,6 +1,6 @@
 window.__OVERSEAS_BOOKS_DATA__ = {
-  "updated_at": "2026-08-16T08:02:49.849729+09:00",
-  "today": "2026-08-16",
+  "updated_at": "2026-08-17T08:02:57.140743+09:00",
+  "today": "2026-08-17",
   "books": [
     {
       "title": "Interview USA #567 2026",
@@ -1048,17 +1048,6 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/martin-parr-global-warning-en-9154-standing-front-3000.jpg?v=1771237265"
     },
     {
-      "title": "Sanlé Sory",
-      "store": "Phaidon",
-      "city": "출판사",
-      "section": "아트·디자인",
-      "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/sanle-sory-en-9254-3d-standing-front-3000.jpg?v=1780331142",
-      "store_link": "https://www.phaidon.com/products/sanle-sory",
-      "published_at": "2026-07-23T12:20:25+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/sanle-sory-en-9254-3d-standing-front-3000.jpg?v=1780331142"
-    },
-    {
       "title": "The Thought That Counts: A Guide to Gifting for Every Occasion",
       "store": "Phaidon",
       "city": "출판사",
@@ -1101,6 +1090,17 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "store_link": "https://www.phaidon.com/products/grace-now",
       "published_at": "2026-07-23T12:20:19+01:00",
       "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/grace-now-signed-edition-en-xxxx-3d-standing-front-3000_0c92cefb-6a5d-4073-8843-7153009e4a08.jpg?v=1784709619"
+    },
+    {
+      "title": "Odette: Terroir to Table, Heart to Plate [A Cookbook]",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "Phaidon Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/odette-en-9109-standing-front-3000.jpg?v=1784725444",
+      "store_link": "https://www.phaidon.com/products/odette-terroir-to-table-heart-to-plate-a-cookbook",
+      "published_at": "2026-07-23T12:20:17+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/odette-en-9109-standing-front-3000.jpg?v=1784725444"
     },
     {
       "title": "Creation",
