@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-17T08:02:57.140743+09:00",
-  "today": "2026-08-17",
+  "updated_at": "2026-08-18T08:02:56.060402+09:00",
+  "today": "2026-08-18",
   "books": [
     {
       "title": "Interview USA #567 2026",
@@ -443,6 +443,83 @@
       "cover": "https://cdn.shopify.com/s/files/1/0221/7340/files/Screenshot2026-06-03at16.33.24.png?v=1780501154"
     },
     {
+      "title": "The Supreme Craftmanship of Hans J.Wegner",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-08-17at15-17-50TheSupremeCraftsmanshipofHansJ.Wegner-9784868310341Amazon.com.auBooks.png?v=1786976292",
+      "store_link": "https://magmabooks.com/products/the-supreme-craftmanship-of-hans-j-wegner",
+      "published_at": "2026-08-17T15:20:09+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-08-17at15-17-50TheSupremeCraftsmanshipofHansJ.Wegner-9784868310341Amazon.com.auBooks.png?v=1786976292"
+    },
+    {
+      "title": "Rewriting the World: Isidore Isou and the Lettrist Book",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-08-17at15-09-38RewritingtheWorldIsidoreIsouandtheLettristBook-ISBN9781951163228-CenterforBookArts-FredericAcquavivaandBillKartalopouloseds.png?v=1786975835",
+      "store_link": "https://magmabooks.com/products/artists-making-books-copy",
+      "published_at": "2026-08-17T15:11:32+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-08-17at15-09-38RewritingtheWorldIsidoreIsouandtheLettristBook-ISBN9781951163228-CenterforBookArts-FredericAcquavivaandBillKartalopouloseds.png?v=1786975835"
+    },
+    {
+      "title": "Artists Making Books",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-08-17at15-04-33ARTISTSMAKINGBOOKS_twelvebooks.png?v=1786975602",
+      "store_link": "https://magmabooks.com/products/revue-faire-30-types-of-types-the-typographio-specimen-by-lineto-copy",
+      "published_at": "2026-08-17T15:07:34+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-08-17at15-04-33ARTISTSMAKINGBOOKS_twelvebooks.png?v=1786975602"
+    },
+    {
+      "title": "Revue Faire 30 – Types of Types: the Typographio Specimen by Lineto",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-08-17at14-49-29RevueFaire30bis_TypesoftypesthetypographicspecimenbyLinetNorthEast_db2f0902-b2d1-4d7d-a9c9-29b9d51da9f4.png?v=1786974705",
+      "store_link": "https://magmabooks.com/products/revue-faire-55-the-billboard-image-in-around-and-about-copy",
+      "published_at": "2026-08-17T14:52:57+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-08-17at14-49-29RevueFaire30bis_TypesoftypesthetypographicspecimenbyLinetNorthEast_db2f0902-b2d1-4d7d-a9c9-29b9d51da9f4.png?v=1786974705"
+    },
+    {
+      "title": "Against Coffee Table Books",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-08-17at14-39-38AgainstCoffeeTableBooks-Lespressesdureel_book.png?v=1786974030",
+      "store_link": "https://magmabooks.com/products/let-there-be-coffee-copy",
+      "published_at": "2026-08-17T14:40:51+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-08-17at14-39-38AgainstCoffeeTableBooks-Lespressesdureel_book.png?v=1786974030"
+    },
+    {
+      "title": "Forming Cityscapes #10: Shelter",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-08-17at14-33-159789819434152-GoogleSearch.png?v=1786973609",
+      "store_link": "https://magmabooks.com/products/spanish-brutalism-copy-2",
+      "published_at": "2026-08-17T14:34:14+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-08-17at14-33-159789819434152-GoogleSearch.png?v=1786973609"
+    },
+    {
+      "title": "Small Prints By Karel Marten",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/51m09j4xxyL._SX584_BO1_204_203_200.jpg?v=1689005166",
+      "store_link": "https://magmabooks.com/products/small-prints",
+      "published_at": "2026-08-17T14:27:49+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/51m09j4xxyL._SX584_BO1_204_203_200.jpg?v=1689005166"
+    },
+    {
       "title": "Mysterious Things",
       "store": "Magma Books",
       "city": "런던",
@@ -584,83 +661,6 @@
       "store_link": "https://magmabooks.com/products/miffy-and-the-artists-copy-1",
       "published_at": "2026-08-13T16:17:38+01:00",
       "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-08-13160517.png?v=1786634125"
-    },
-    {
-      "title": "Dragons Around the World",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-08-13160914.png?v=1786633953",
-      "store_link": "https://magmabooks.com/products/mr-search-and-mrs-find-copy-1",
-      "published_at": "2026-08-13T16:13:08+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-08-13160914.png?v=1786633953"
-    },
-    {
-      "title": "General Witchfinders #4",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-05-20at17-53-20GeneralWitchfindersZine_4BeltaneIssue_ColoursMayVary.png?v=1779296024",
-      "store_link": "https://magmabooks.com/products/general-witchfinders-zine-3-copy",
-      "published_at": "2026-08-13T13:48:38+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-05-20at17-53-20GeneralWitchfindersZine_4BeltaneIssue_ColoursMayVary.png?v=1779296024"
-    },
-    {
-      "title": "Coven Oven Cookbook",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/2025-11-27_14-10-23.jpg?v=1764252763",
-      "store_link": "https://magmabooks.com/products/a-witch-recipe-for-grievers-copy",
-      "published_at": "2026-08-13T13:45:37+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/2025-11-27_14-10-23.jpg?v=1764252763"
-    },
-    {
-      "title": "Smoking Hot Horses",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-13at11-17-16SmokingHotHorsesZine_HatoPress.png?v=1781345850",
-      "store_link": "https://magmabooks.com/products/this-is-not-my-cat-copy",
-      "published_at": "2026-08-11T15:50:54+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-06-13at11-17-16SmokingHotHorsesZine_HatoPress.png?v=1781345850"
-    },
-    {
-      "title": "Amphorae",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-08-10at14-35-03AnnaKiosseAmphorae-HyperHypo.png?v=1786369086",
-      "store_link": "https://magmabooks.com/products/flower-stamps-charles-deroyan-copy",
-      "published_at": "2026-08-10T14:40:58+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-08-10at14-35-03AnnaKiosseAmphorae-HyperHypo.png?v=1786369086"
-    },
-    {
-      "title": "Flower Stamps - Charles Deroyan",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot_2026-08-10_at_14-31-37_flower_stamps_book_-_Google_Search.png?v=1786368712",
-      "store_link": "https://magmabooks.com/products/flower-stamps-charles-deroyan",
-      "published_at": "2026-08-10T14:40:57+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot_2026-08-10_at_14-31-37_flower_stamps_book_-_Google_Search.png?v=1786368712"
-    },
-    {
-      "title": "Moomin Glass Bottle Fruits 1L",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/6416114969616_bilder.jpg?v=1698403466",
-      "store_link": "https://magmabooks.com/products/moomin-glass-bottle-fruits-1l",
-      "published_at": "2026-08-10T13:20:11+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/6416114969616_bilder.jpg?v=1698403466"
     },
     {
       "title": "Mast Books Tote Bag",
@@ -883,6 +883,17 @@
       "cover": "https://cdn.shopify.com/s/files/1/0290/3562/6574/files/MB_WEINER_WE_ARE_SHIPS_01.jpg?v=1744483758"
     },
     {
+      "title": "Sanlé Sory",
+      "store": "Phaidon",
+      "city": "출판사",
+      "section": "아트·디자인",
+      "author": "Phaidon Press",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/sanle-sory-en-9254-3d-standing-front-3000.jpg?v=1780331142",
+      "store_link": "https://www.phaidon.com/products/sanle-sory",
+      "published_at": "2026-08-17T09:12:43+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/sanle-sory-en-9254-3d-standing-front-3000.jpg?v=1780331142"
+    },
+    {
       "title": "Cindy Unveiled #3",
       "store": "Phaidon",
       "city": "출판사",
@@ -1090,17 +1101,6 @@
       "store_link": "https://www.phaidon.com/products/grace-now",
       "published_at": "2026-07-23T12:20:19+01:00",
       "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/grace-now-signed-edition-en-xxxx-3d-standing-front-3000_0c92cefb-6a5d-4073-8843-7153009e4a08.jpg?v=1784709619"
-    },
-    {
-      "title": "Odette: Terroir to Table, Heart to Plate [A Cookbook]",
-      "store": "Phaidon",
-      "city": "출판사",
-      "section": "아트·디자인",
-      "author": "Phaidon Press",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/odette-en-9109-standing-front-3000.jpg?v=1784725444",
-      "store_link": "https://www.phaidon.com/products/odette-terroir-to-table-heart-to-plate-a-cookbook",
-      "published_at": "2026-07-23T12:20:17+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0711/5292/6820/files/odette-en-9109-standing-front-3000.jpg?v=1784725444"
     },
     {
       "title": "Creation",
