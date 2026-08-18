@@ -1,6 +1,6 @@
 window.__OVERSEAS_BOOKS_DATA__ = {
-  "updated_at": "2026-08-18T08:02:56.060402+09:00",
-  "today": "2026-08-18",
+  "updated_at": "2026-08-19T08:02:20.823755+09:00",
+  "today": "2026-08-19",
   "books": [
     {
       "title": "Interview USA #567 2026",
@@ -443,6 +443,28 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "cover": "https://cdn.shopify.com/s/files/1/0221/7340/files/Screenshot2026-06-03at16.33.24.png?v=1780501154"
     },
     {
+      "title": "Slash with a Knife",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2024-05-16at12-39-00YoshitomoNaraSlashwithaKnifewithEnglishtranslations.png?v=1715859851",
+      "store_link": "https://magmabooks.com/products/slash-with-a-knife",
+      "published_at": "2026-08-18T16:03:22+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2024-05-16at12-39-00YoshitomoNaraSlashwithaKnifewithEnglishtranslations.png?v=1715859851"
+    },
+    {
+      "title": "Tissue UP Tale - Catsby",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-08-18at15-36-11TissueUpTaleCatsby_e913f1a3-4a95-4717-957f-cb63a6dbe39f.png?v=1787064072",
+      "store_link": "https://magmabooks.com/products/tissue-up-tale-wonder-rabbit-copy",
+      "published_at": "2026-08-18T15:41:31+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-08-18at15-36-11TissueUpTaleCatsby_e913f1a3-4a95-4717-957f-cb63a6dbe39f.png?v=1787064072"
+    },
+    {
       "title": "The Supreme Craftmanship of Hans J.Wegner",
       "store": "Magma Books",
       "city": "런던",
@@ -639,28 +661,6 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "store_link": "https://magmabooks.com/products/the-me-book-copy-1",
       "published_at": "2026-08-13T16:24:46+01:00",
       "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-08-13155827.png?v=1786634650"
-    },
-    {
-      "title": "Little People, Big Dreams: Hayao Miyazaki",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-08-13160109.png?v=1786634402",
-      "store_link": "https://magmabooks.com/products/little-people-big-dreams-mary-earps-copy",
-      "published_at": "2026-08-13T16:20:36+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-08-13160109.png?v=1786634402"
-    },
-    {
-      "title": "Miffy and the Impressionists",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-08-13160517.png?v=1786634125",
-      "store_link": "https://magmabooks.com/products/miffy-and-the-artists-copy-1",
-      "published_at": "2026-08-13T16:17:38+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-08-13160517.png?v=1786634125"
     },
     {
       "title": "Mast Books Tote Bag",
