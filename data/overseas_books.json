@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-19T08:02:20.823755+09:00",
-  "today": "2026-08-19",
+  "updated_at": "2026-08-20T08:02:14.469121+09:00",
+  "today": "2026-08-20",
   "books": [
     {
       "title": "Interview USA #567 2026",
@@ -223,6 +223,39 @@
       "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43712-Maes---Heartbreak-Edition-1.jpg?v=1786204418"
     },
     {
+      "title": "Mountain Black Heart by Irina Rozovsky",
+      "store": "Donlon Books",
+      "city": "런던",
+      "section": "아트·사진",
+      "author": "Donlon Books",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0221/7340/files/Screenshot2026-08-19at17.10.33.png?v=1787155842",
+      "store_link": "https://donlonbooks.com/products/mountain-black-heart-by-irina-rozovsky",
+      "published_at": "2026-08-19T17:09:23+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0221/7340/files/Screenshot2026-08-19at17.10.33.png?v=1787155842"
+    },
+    {
+      "title": "How About Never by Jerry Hsu",
+      "store": "Donlon Books",
+      "city": "런던",
+      "section": "아트·사진",
+      "author": "Donlon Books",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0221/7340/files/Screenshot2026-08-19at17.01.15.png?v=1787155285",
+      "store_link": "https://donlonbooks.com/products/how-about-never-by-jerry-hsu",
+      "published_at": "2026-08-19T17:01:43+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0221/7340/files/Screenshot2026-08-19at17.01.15.png?v=1787155285"
+    },
+    {
+      "title": "Vintage Reggae Poster Scrap: You Need Is Dub by Yashudi Ide",
+      "store": "Donlon Books",
+      "city": "런던",
+      "section": "아트·사진",
+      "author": "Donlon Books",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0221/7340/files/Screenshot2026-08-19at16.49.46.png?v=1787154650",
+      "store_link": "https://donlonbooks.com/products/vintage-reggae-poster-scrap-you-need-is-dub-by-yashudi-ide",
+      "published_at": "2026-08-19T16:54:05+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0221/7340/files/Screenshot2026-08-19at16.49.46.png?v=1787154650"
+    },
+    {
       "title": "Under the Radar: Underground Zines and Self-publications 1965-1975",
       "store": "Donlon Books",
       "city": "런던",
@@ -408,39 +441,6 @@
       "store_link": "https://donlonbooks.com/products/bator-zine-full-set",
       "published_at": "2026-06-14T15:08:05+01:00",
       "cover": "https://cdn.shopify.com/s/files/1/0221/7340/files/IMG_4367.heic?v=1781453915"
-    },
-    {
-      "title": "Cruising Archaeology II: Eurotrash",
-      "store": "Donlon Books",
-      "city": "런던",
-      "section": "아트·사진",
-      "author": "Donlon Books",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0221/7340/files/Cover_23e0b965-ab74-420f-aa6a-00721856d4f7.jpg?v=1781109139",
-      "store_link": "https://donlonbooks.com/products/cruising-archaeology-ii-eurotrash",
-      "published_at": "2026-06-10T17:32:55+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0221/7340/files/Cover_23e0b965-ab74-420f-aa6a-00721856d4f7.jpg?v=1781109139"
-    },
-    {
-      "title": "Elsewhere: The story of UK skateboarding 1987–2002",
-      "store": "Donlon Books",
-      "city": "런던",
-      "section": "아트·사진",
-      "author": "Donlon Books",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0221/7340/files/Screenshot2026-06-03at16.41.45.png?v=1780501552",
-      "store_link": "https://donlonbooks.com/products/elsewhere-the-story-of-uk-skateboarding-1987-2002",
-      "published_at": "2026-06-03T16:47:15+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0221/7340/files/Screenshot2026-06-03at16.41.45.png?v=1780501552"
-    },
-    {
-      "title": "Jan Kempenaers - Memorials",
-      "store": "Donlon Books",
-      "city": "런던",
-      "section": "아트·사진",
-      "author": "Donlon Books",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0221/7340/files/Screenshot2026-06-03at16.33.24.png?v=1780501154",
-      "store_link": "https://donlonbooks.com/products/jan-kempenaers-memorials",
-      "published_at": "2026-06-03T16:39:32+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0221/7340/files/Screenshot2026-06-03at16.33.24.png?v=1780501154"
     },
     {
       "title": "Slash with a Knife",
