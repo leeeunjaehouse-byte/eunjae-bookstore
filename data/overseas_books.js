@@ -1,6 +1,6 @@
 window.__OVERSEAS_BOOKS_DATA__ = {
-  "updated_at": "2026-08-23T08:02:52.145873+09:00",
-  "today": "2026-08-23",
+  "updated_at": "2026-08-24T08:02:51.628584+09:00",
+  "today": "2026-08-24",
   "books": [
     {
       "title": "A Night at Davé - Polaroids from the legendary Parisian restaurant",

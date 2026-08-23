@@ -1,6 +1,6 @@
 window.__INDIE_BOOKS_DATA__ = {
-  "updated_at": "2026-08-23T08:02:38.957377+09:00",
-  "today": "2026-08-23",
+  "updated_at": "2026-08-24T08:02:37.616881+09:00",
+  "today": "2026-08-24",
   "books": [
     {
       "title": "Wild readers · 윤예지",
@@ -100,15 +100,6 @@ window.__INDIE_BOOKS_DATA__ = {
       "store_cover": "https://www.your-mind.com/web/product/big/202608/a824054cc8eb5bdf5296f131ae53b559.png",
       "cover": "https://www.your-mind.com/web/product/big/202608/a824054cc8eb5bdf5296f131ae53b559.png",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%A7%A4%EC%AD%88%EB%A7%8C%ED%99%941%20%C2%B7%20%EC%83%88%EC%86%90"
-    },
-    {
-      "title": "[3차 입고] 여름조각집 · 파과",
-      "store": "유어마인드",
-      "section": "BOOKS",
-      "store_link": "https://www.your-mind.com/product/3차-입고-여름조각집-·-파과/6164/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202608/a524ffc1d54352f66da28e66218c85ef.png",
-      "cover": "https://www.your-mind.com/web/product/big/202608/a524ffc1d54352f66da28e66218c85ef.png",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B3%EC%B0%A8%20%EC%9E%85%EA%B3%A0%5D%20%EC%97%AC%EB%A6%84%EC%A1%B0%EA%B0%81%EC%A7%91%20%C2%B7%20%ED%8C%8C%EA%B3%BC"
     },
     {
       "title": "Patterns · 강유라",
@@ -271,6 +262,15 @@ window.__INDIE_BOOKS_DATA__ = {
       "store_cover": "https://www.your-mind.com/web/product/big/202604/8efbe4fa5d9b39bf0f6ed7342006f99f.png",
       "cover": "https://www.your-mind.com/web/product/big/202604/8efbe4fa5d9b39bf0f6ed7342006f99f.png",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20Me%20and%20Tove%20and%20a%20lot%20of%20books%20%C2%B7%20%EB%A5%98%EC%9D%80%EC%A7%80"
+    },
+    {
+      "title": "[재입고] Carnet de dessin · 류은지",
+      "store": "유어마인드",
+      "section": "BOOKS",
+      "store_link": "https://www.your-mind.com/product/재입고-carnet-de-dessin-·-류은지/5974/category/27/display/1/",
+      "store_cover": "https://www.your-mind.com/web/product/big/202604/0d2299809f787814410f7ae5f5342e3c.png",
+      "cover": "https://www.your-mind.com/web/product/big/202604/0d2299809f787814410f7ae5f5342e3c.png",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20Carnet%20de%20dessin%20%C2%B7%20%EB%A5%98%EC%9D%80%EC%A7%80"
     },
     {
       "title": "내 아들의 연인 (만춘서점 특별판)",
@@ -2072,6 +2072,19 @@ window.__INDIE_BOOKS_DATA__ = {
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%97%B0%EC%95%A0%20%EC%8B%9C%EB%8C%80%EC%9D%98%20%EC%A2%85%EB%A7%90"
     },
     {
+      "title": "담벼락 산책",
+      "store": "땡스북스",
+      "section": "땡스, 페이퍼!",
+      "publisher": "",
+      "author": "아침달 편집부",
+      "paper_no": "655",
+      "tb_page": "http://thanksbooks.com/site/thanksbooks/index.php/selection/tp-2026/",
+      "store_cover": "",
+      "cover": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791143600523.jpg",
+      "buy_link": "https://product.kyobobook.co.kr/detail/S000219976174",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EB%8B%B4%EB%B2%BC%EB%9D%BD%20%EC%82%B0%EC%B1%85"
+    },
+    {
       "title": "사고외주",
       "store": "땡스북스",
       "section": "땡스, 페이퍼!",
@@ -2252,28 +2265,15 @@ window.__INDIE_BOOKS_DATA__ = {
       "cover": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791170873754.jpg",
       "buy_link": "https://product.kyobobook.co.kr/detail/S000217368987",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%A3%BC%EB%A7%90%EC%97%94%20%EC%82%B0%EC%82%AC"
-    },
-    {
-      "title": "끝, 책",
-      "store": "땡스북스",
-      "section": "땡스, 페이퍼!",
-      "publisher": "",
-      "author": "맹현, 서윤지, 송현정, 양동혁, 임헌",
-      "paper_no": "631",
-      "tb_page": "http://thanksbooks.com/site/thanksbooks/index.php/selection/tp-2026/",
-      "store_cover": "",
-      "cover": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791198873378.jpg",
-      "buy_link": "https://product.kyobobook.co.kr/detail/S000218550901",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EB%81%9D%2C%20%EC%B1%85"
     }
   ],
   "errors": [],
   "total": 236,
   "stores_attempted": [
-    "사적인서점",
-    "소심한책방",
-    "유어마인드",
     "고요서사",
-    "북앤스페이스"
+    "사적인서점",
+    "유어마인드",
+    "북앤스페이스",
+    "소심한책방"
   ]
 };
