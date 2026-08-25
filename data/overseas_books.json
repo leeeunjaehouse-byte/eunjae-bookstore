@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-25T08:02:43.515292+09:00",
-  "today": "2026-08-25",
+  "updated_at": "2026-08-26T08:02:52.537616+09:00",
+  "today": "2026-08-26",
   "books": [
     {
       "title": "A Night at Davé - Polaroids from the legendary Parisian restaurant",
@@ -443,6 +443,17 @@
       "cover": "https://cdn.shopify.com/s/files/1/0221/7340/files/IMG_4367.heic?v=1781453915"
     },
     {
+      "title": "The Great Nut Hunt",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-08-25125302.png?v=1787659028",
+      "store_link": "https://magmabooks.com/products/guessing-things-a-what-am-i-game-copy",
+      "published_at": "2026-08-25T12:59:48+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-08-25125302.png?v=1787659028"
+    },
+    {
       "title": "Creative Review #Autumn 2026 The Leadership Issue",
       "store": "Magma Books",
       "city": "런던",
@@ -650,17 +661,6 @@
       "store_link": "https://magmabooks.com/products/signs-artifacts-5-mexico",
       "published_at": "2026-08-20T15:04:25+01:00",
       "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-08-20at15-01-34AB8213-signs-and-artifacts-05-03_ff487af5-65c0-42c4-9d35-6772f54748e5.jpg_JPEGImage1821x1368pixels_Scaled_65.png?v=1787234636"
-    },
-    {
-      "title": "Signs + Artifacts #2 Bushwick",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-08-20at14-52-49AB8653-bushwick-03_824b74f5-bf86-447d-82f9-6fcd6ca0e342.jpg_JPEGImage2048x1539pixels_Scaled_58.png?v=1787234051",
-      "store_link": "https://magmabooks.com/products/signs-artifacts-2-bushwick",
-      "published_at": "2026-08-20T14:55:28+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-08-20at14-52-49AB8653-bushwick-03_824b74f5-bf86-447d-82f9-6fcd6ca0e342.jpg_JPEGImage2048x1539pixels_Scaled_58.png?v=1787234051"
     },
     {
       "title": "Mast Books Tote Bag",
