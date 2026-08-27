@@ -1,7 +1,150 @@
 window.__OVERSEAS_BOOKS_DATA__ = {
-  "updated_at": "2026-08-27T08:02:56.348648+09:00",
-  "today": "2026-08-27",
+  "updated_at": "2026-08-28T08:02:34.087419+09:00",
+  "today": "2026-08-28",
   "books": [
+    {
+      "title": "Spaces: LIN LABFAC Finn Geipel - Architecture and Urbanism 1985–2025",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Park Books",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Spaces-LIN-LABFAC-Finn-Geipel---Architecture-and-Urbanism-1985_2025.jpg?v=1787825051",
+      "store_link": "https://www.doyoureadme.de/products/spaces-lin-labfac-finn-geipel-architecture-and-urbanism-1985-2025",
+      "published_at": "2026-08-27T12:18:45+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Spaces-LIN-LABFAC-Finn-Geipel---Architecture-and-Urbanism-1985_2025.jpg?v=1787825051"
+    },
+    {
+      "title": "The Wire #511 Sept. 2026",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "The Wire",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/The-Wire-511-Sept.-2026.jpg?v=1787825050",
+      "store_link": "https://www.doyoureadme.de/products/the-wire-511-sept-2026",
+      "published_at": "2026-08-27T12:17:19+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/The-Wire-511-Sept.-2026.jpg?v=1787825050"
+    },
+    {
+      "title": "Rouleur #145 2026",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Rouleur",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Rouleur-145-2026.jpg?v=1787825050",
+      "store_link": "https://www.doyoureadme.de/products/rouleur-145-2026",
+      "published_at": "2026-08-27T12:15:47+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Rouleur-145-2026.jpg?v=1787825050"
+    },
+    {
+      "title": "The Humanist Review of AI #1 2026 - People & Technology",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Microsoft AI",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/The-Humanist-Review-of-AI-1-2026---People-_-Technology.jpg?v=1787825050",
+      "store_link": "https://www.doyoureadme.de/products/the-humanist-review-of-ai-1-2026-people-technology",
+      "published_at": "2026-08-27T12:15:21+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/The-Humanist-Review-of-AI-1-2026---People-_-Technology.jpg?v=1787825050"
+    },
+    {
+      "title": "Amateurs #4 2026",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Amateurs Magazine",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Amateurs-4-2026.jpg?v=1787825050",
+      "store_link": "https://www.doyoureadme.de/products/amateurs-4-2026",
+      "published_at": "2026-08-27T12:14:30+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Amateurs-4-2026.jpg?v=1787825050"
+    },
+    {
+      "title": "Sight & Sound Sept. 2026",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Sight and Sound",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Sight-_-Sound-Sept.-2026.jpg?v=1787825050",
+      "store_link": "https://www.doyoureadme.de/products/sight-sound-sept-2026",
+      "published_at": "2026-08-27T12:11:09+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Sight-_-Sound-Sept.-2026.jpg?v=1787825050"
+    },
+    {
+      "title": "Racquet #29",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Racquet",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Racquet-29.jpg?v=1787825050",
+      "store_link": "https://www.doyoureadme.de/products/racquet-29",
+      "published_at": "2026-08-27T12:10:43+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Racquet-29.jpg?v=1787825050"
+    },
+    {
+      "title": "C Chair. Lifestyle. #7 - PK22",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Magazine B",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/C-Chair.-Lifestyle.-7---PK22.jpg?v=1787825049",
+      "store_link": "https://www.doyoureadme.de/products/c-chair-lifestyle-7-pk22",
+      "published_at": "2026-08-27T12:09:39+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/C-Chair.-Lifestyle.-7---PK22.jpg?v=1787825049"
+    },
+    {
+      "title": "C Chair. Lifestyle. #8 - Togo",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Magazine B",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/C-Chair.-Lifestyle.-8---Togo.jpg?v=1787825050",
+      "store_link": "https://www.doyoureadme.de/products/c-chair-lifestyle-8-togo",
+      "published_at": "2026-08-27T12:09:17+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/C-Chair.-Lifestyle.-8---Togo.jpg?v=1787825050"
+    },
+    {
+      "title": "Camouflage - Hanne Loreck",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Textem",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Camouflage---Hanne-Loreck.jpg?v=1787825049",
+      "store_link": "https://www.doyoureadme.de/products/camouflage-hanne-loreck",
+      "published_at": "2026-08-27T12:08:13+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Camouflage---Hanne-Loreck.jpg?v=1787825049"
+    },
+    {
+      "title": "Delfi #7 2026 - Sieben",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Delfi",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Delfi-7-2026---Sieben.jpg?v=1787825049",
+      "store_link": "https://www.doyoureadme.de/products/delfi-7-2026-sieben",
+      "published_at": "2026-08-27T12:07:37+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Delfi-7-2026---Sieben.jpg?v=1787825049"
+    },
+    {
+      "title": "Crowds and Power - Elias Canetti",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Fitzcarraldo Editions",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Crowds-and-Power---Elias-Canetti.jpg?v=1787825049",
+      "store_link": "https://www.doyoureadme.de/products/crowds-and-power-elias-canetti",
+      "published_at": "2026-08-27T12:06:51+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Crowds-and-Power---Elias-Canetti.jpg?v=1787825049"
+    },
+    {
+      "title": "B Brand. Balance. #100 - Magazine B",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Magazine B",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/B-Brand.-Balance.-100---Magazine-B.jpg?v=1787825049",
+      "store_link": "https://www.doyoureadme.de/products/b-brand-balance-100-magazine-b",
+      "published_at": "2026-08-27T12:06:08+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/B-Brand.-Balance.-100---Magazine-B.jpg?v=1787825049"
+    },
     {
       "title": "A Night at Davé - Polaroids from the legendary Parisian restaurant",
       "store": "Do you read me?!",
@@ -78,149 +221,6 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "store_link": "https://www.doyoureadme.de/products/so-schmeckt-hong-kong-davina-chang-ada-deschanel",
       "published_at": "2026-08-21T12:15:59+02:00",
       "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43837-So-schmeckt-Hong-Kong_Chang-Deschanel-1.jpg?v=1787306941"
-    },
-    {
-      "title": "Replica Man #16 2026",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Replica",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43836-Replica-Man-16-2026-1.jpg?v=1787306942",
-      "store_link": "https://www.doyoureadme.de/products/replica-man-16-2026",
-      "published_at": "2026-08-21T12:15:59+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43836-Replica-Man-16-2026-1.jpg?v=1787306942"
-    },
-    {
-      "title": "Puss Puss #23 S/S 2026",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Puss Puss",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43835-Puss-Puss-23-SS-2026-1.jpg?v=1787306941",
-      "store_link": "https://www.doyoureadme.de/products/puss-puss-23-s-s-2026",
-      "published_at": "2026-08-21T12:15:59+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43835-Puss-Puss-23-SS-2026-1.jpg?v=1787306941"
-    },
-    {
-      "title": "Man About Town #38 S/S 2026",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Man About Town",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43834-Man-About-Town-38-SS-2026-1.jpg?v=1787306942",
-      "store_link": "https://www.doyoureadme.de/products/man-about-town-38-s-s-2026",
-      "published_at": "2026-08-21T12:15:59+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43834-Man-About-Town-38-SS-2026-1.jpg?v=1787306942"
-    },
-    {
-      "title": "Vanishing Japan",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Thames & Hudson",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43832-Vanishing-Japan-1.jpg?v=1787306942",
-      "store_link": "https://www.doyoureadme.de/products/vanishing-japan",
-      "published_at": "2026-08-21T12:15:59+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43832-Vanishing-Japan-1.jpg?v=1787306942"
-    },
-    {
-      "title": "Worms #12 2026 - Tourmaline",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Worms Magazine",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43847-Worms-12-2026_Tourmaline-1.jpg?v=1787306942",
-      "store_link": "https://www.doyoureadme.de/products/worms-12-2026-tourmaline",
-      "published_at": "2026-08-21T12:15:58+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43847-Worms-12-2026_Tourmaline-1.jpg?v=1787306942"
-    },
-    {
-      "title": "Go Out #203 Sept. 2026",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Sanei Shobo",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43843-Go-Out-203-Sept-2026-1.jpg?v=1787306942",
-      "store_link": "https://www.doyoureadme.de/products/go-out-203-sept-2026",
-      "published_at": "2026-08-21T12:15:58+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43843-Go-Out-203-Sept-2026-1.jpg?v=1787306942"
-    },
-    {
-      "title": "RiCE Food Culture Journal #48",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Ricepress",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43842-RiCE-Food-Culture-Journal-48-1.jpg?v=1787306942",
-      "store_link": "https://www.doyoureadme.de/products/rice-food-culture-journal-48",
-      "published_at": "2026-08-21T12:15:58+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43842-RiCE-Food-Culture-Journal-48-1.jpg?v=1787306942"
-    },
-    {
-      "title": "BRUTUS #1059 2026",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Magazinehouse",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43841-BRUTUS-1059-2026-1.jpg?v=1787306942",
-      "store_link": "https://www.doyoureadme.de/products/brutus-1059-2026",
-      "published_at": "2026-08-21T12:15:58+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/43841-BRUTUS-1059-2026-1.jpg?v=1787306942"
-    },
-    {
-      "title": "Henrike Naumann: Die innere Front/The Home Front",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Bierke Verlag",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Henrike-Naumann---Die-innere-Front---The-Home-Front.jpg?v=1787228664",
-      "store_link": "https://www.doyoureadme.de/products/henrike-naumann-die-innere-front-the-home-front",
-      "published_at": "2026-08-20T14:35:24+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Henrike-Naumann---Die-innere-Front---The-Home-Front.jpg?v=1787228664"
-    },
-    {
-      "title": "CURA. #46 2026",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "CURA.BOOKS",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/CURA.-_46-2026.jpg?v=1787228664",
-      "store_link": "https://www.doyoureadme.de/products/cura-46-2026",
-      "published_at": "2026-08-20T14:35:08+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/CURA.-_46-2026.jpg?v=1787228664"
-    },
-    {
-      "title": "All About U.S - Theo Deutinger",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Lars Müller",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/All-About-U.S---Theo-Deutinger.jpg?v=1787228663",
-      "store_link": "https://www.doyoureadme.de/products/all-about-u-s-theo-deutinger",
-      "published_at": "2026-08-20T14:34:51+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/All-About-U.S---Theo-Deutinger.jpg?v=1787228663"
-    },
-    {
-      "title": "French Fries - Guillaume Blot",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Note Note Collection",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/French-Fries---Guillaume-Blot.jpg?v=1787228663",
-      "store_link": "https://www.doyoureadme.de/products/french-fries-guillaume-blot",
-      "published_at": "2026-08-20T14:33:47+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/French-Fries---Guillaume-Blot.jpg?v=1787228663"
-    },
-    {
-      "title": "DATAS - The Data and the Sovereign",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Onomatopee",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/DATAS---The-Data-and-the-Sovereign.jpg?v=1787228663",
-      "store_link": "https://www.doyoureadme.de/products/datas-the-data-and-the-sovereign",
-      "published_at": "2026-08-20T14:33:34+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/DATAS---The-Data-and-the-Sovereign.jpg?v=1787228663"
     },
     {
       "title": "Mountain Black Heart by Irina Rozovsky",
@@ -443,6 +443,50 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "cover": "https://cdn.shopify.com/s/files/1/0221/7340/files/IMG_4367.heic?v=1781453915"
     },
     {
+      "title": "Goodbye, Things: On Minimalist Living",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/71R_yo3S7SL._SL1500.jpg?v=1758105163",
+      "store_link": "https://magmabooks.com/products/goodbye-things-on-minimalist-living",
+      "published_at": "2026-08-27T17:38:58+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/71R_yo3S7SL._SL1500.jpg?v=1758105163"
+    },
+    {
+      "title": "Garde #1",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/359258-145061_1.webp?v=1787848268",
+      "store_link": "https://magmabooks.com/products/garde-1",
+      "published_at": "2026-08-27T17:37:51+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/359258-145061_1.webp?v=1787848268"
+    },
+    {
+      "title": "The Grand Tourist #2",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-08-27at17-17-43SHOPIFY_CROPS.jpg_JPEGImage823x658pixels.png?v=1787847477",
+      "store_link": "https://magmabooks.com/products/the-grand-tourist-2",
+      "published_at": "2026-08-27T17:24:03+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-08-27at17-17-43SHOPIFY_CROPS.jpg_JPEGImage823x658pixels.png?v=1787847477"
+    },
+    {
+      "title": "Enfnts Terribles #1",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/ETM_Magazine_cover-KIM-PETRAS-804x1024.jpg?v=1787846632",
+      "store_link": "https://magmabooks.com/products/enfnts-terribles-1",
+      "published_at": "2026-08-27T17:04:19+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/ETM_Magazine_cover-KIM-PETRAS-804x1024.jpg?v=1787846632"
+    },
+    {
       "title": "Unexpected Guests",
       "store": "Magma Books",
       "city": "런던",
@@ -617,50 +661,6 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "store_link": "https://magmabooks.com/products/signs-artifacts-2-bushwick-copy",
       "published_at": "2026-08-21T11:57:49+01:00",
       "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot_2026-08-21_at_11-56-26_SIGNS_ARTIFACTS_1_RIDGEWOOD_Counterprint.png?v=1787309855"
-    },
-    {
-      "title": "The Boy Is Beautiful #4",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/2025-07-30_13-55-06.jpg?v=1753880213",
-      "store_link": "https://magmabooks.com/products/the-boy-is-beautiful-3-copy",
-      "published_at": "2026-08-21T11:43:27+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/2025-07-30_13-55-06.jpg?v=1753880213"
-    },
-    {
-      "title": "Visual Stimulation #2",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-05-08173529.png?v=1778258297",
-      "store_link": "https://magmabooks.com/products/fluffer-everyday-7-copy",
-      "published_at": "2026-08-21T11:41:08+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-05-08173529.png?v=1778258297"
-    },
-    {
-      "title": "Grab a Pencil!",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/71Ewp_yuc1L._SL1500.jpg?v=1787237794",
-      "store_link": "https://magmabooks.com/products/grab-a-pencil",
-      "published_at": "2026-08-20T16:09:52+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/71Ewp_yuc1L._SL1500.jpg?v=1787237794"
-    },
-    {
-      "title": "Partners #04",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-08-20at15-08-07AB8940-partners-4-03.jpg_JPEGImage2048x1539pixels_Scaled_58.png?v=1787235010",
-      "store_link": "https://magmabooks.com/products/partners-04",
-      "published_at": "2026-08-20T15:10:54+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-08-20at15-08-07AB8940-partners-4-03.jpg_JPEGImage2048x1539pixels_Scaled_58.png?v=1787235010"
     },
     {
       "title": "Mast Books Tote Bag",
