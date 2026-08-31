@@ -1,6 +1,6 @@
 window.__OVERSEAS_BOOKS_DATA__ = {
-  "updated_at": "2026-08-28T08:02:34.087419+09:00",
-  "today": "2026-08-28",
+  "updated_at": "2026-08-31T10:46:09.518006+09:00",
+  "today": "2026-08-31",
   "books": [
     {
       "title": "Spaces: LIN LABFAC Finn Geipel - Architecture and Urbanism 1985–2025",
@@ -443,6 +443,28 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "cover": "https://cdn.shopify.com/s/files/1/0221/7340/files/IMG_4367.heic?v=1781453915"
     },
     {
+      "title": "Summer Pop Up!",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-09at13-30-59Amazon.comSummerPopsUp_9781837292073PetitAuroreLibros.png?v=1783600299",
+      "store_link": "https://magmabooks.com/products/pink-pop-with-6-playful-pop-ups-copy",
+      "published_at": "2026-08-28T11:49:08+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-09at13-30-59Amazon.comSummerPopsUp_9781837292073PetitAuroreLibros.png?v=1783600299"
+    },
+    {
+      "title": "Let's Learn Japanese",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/products/Let_s-Learn-Japanese-9781452166254-cover.jpg?v=1604666800",
+      "store_link": "https://magmabooks.com/products/lets-learn-japanese-first-words-for-everyone",
+      "published_at": "2026-08-28T11:46:47+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/products/Let_s-Learn-Japanese-9781452166254-cover.jpg?v=1604666800"
+    },
+    {
       "title": "Goodbye, Things: On Minimalist Living",
       "store": "Magma Books",
       "city": "런던",
@@ -639,28 +661,6 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "store_link": "https://magmabooks.com/products/see-you-later-copy",
       "published_at": "2026-08-21T12:11:27+01:00",
       "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-05-26160020.png?v=1779807882"
-    },
-    {
-      "title": "The Duck Who Didn't Like Water",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-04-10122943.png?v=1775820834",
-      "store_link": "https://magmabooks.com/products/the-bear-and-the-piano-copy",
-      "published_at": "2026-08-21T12:10:29+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-04-10122943.png?v=1775820834"
-    },
-    {
-      "title": "Signs + Artifacts #1 Ridgewood",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot_2026-08-21_at_11-56-26_SIGNS_ARTIFACTS_1_RIDGEWOOD_Counterprint.png?v=1787309855",
-      "store_link": "https://magmabooks.com/products/signs-artifacts-2-bushwick-copy",
-      "published_at": "2026-08-21T11:57:49+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot_2026-08-21_at_11-56-26_SIGNS_ARTIFACTS_1_RIDGEWOOD_Counterprint.png?v=1787309855"
     },
     {
       "title": "Mast Books Tote Bag",
