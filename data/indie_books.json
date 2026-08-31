@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-31T10:45:54.886920+09:00",
-  "today": "2026-08-31",
+  "updated_at": "2026-09-01T08:01:49.643800+09:00",
+  "today": "2026-09-01",
   "books": [
     {
       "title": "나비꿈 · 하호하호",
@@ -100,15 +100,6 @@
       "store_cover": "https://www.your-mind.com/web/product/big/202608/57270ee9731496f61c47489358f80733.png",
       "cover": "https://www.your-mind.com/web/product/big/202608/57270ee9731496f61c47489358f80733.png",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20%EC%A0%80%20%ED%91%B8%EB%A5%B8%20%EC%B4%88%EC%9B%90%20%EC%9C%84%EC%97%90%20%EA%B7%B8%EB%A6%BC%20%EA%B0%99%EC%9D%80%20%EC%A7%91%EC%9D%84%20%EC%A7%93%EA%B3%A0%E2%80%A8%20%C2%B7%20%EA%B9%80%EC%9C%A0%EB%B9%88%2C%20%EC%9D%B4%EC%A3%BC%EC%9D%80"
-    },
-    {
-      "title": "짤쭈만화1 · 새손",
-      "store": "유어마인드",
-      "section": "BOOKS",
-      "store_link": "https://www.your-mind.com/product/짤쭈만화1-·-새손/6166/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202608/a824054cc8eb5bdf5296f131ae53b559.png",
-      "cover": "https://www.your-mind.com/web/product/big/202608/a824054cc8eb5bdf5296f131ae53b559.png",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%A7%A4%EC%AD%88%EB%A7%8C%ED%99%941%20%C2%B7%20%EC%83%88%EC%86%90"
     },
     {
       "title": "[4차 입고] 여름조각집 · 파과",
@@ -262,6 +253,15 @@
       "store_cover": "https://www.your-mind.com/web/product/big/202605/29f33d1d6a84b588d2b94c6a0883955c.png",
       "cover": "https://www.your-mind.com/web/product/big/202605/29f33d1d6a84b588d2b94c6a0883955c.png",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20Play%20Pocket%20%C2%B7%20%EC%9D%B4%EC%A7%80%EC%98%81"
+    },
+    {
+      "title": "[재입고] 완벽하지 않아: 에이드리언 토미네 각본집 · 에이드리언 토미네",
+      "store": "유어마인드",
+      "section": "BOOKS",
+      "store_link": "https://www.your-mind.com/product/재입고-완벽하지-않아-에이드리언-토미네-각본집-·-에이드리언-토미네/5989/category/27/display/1/",
+      "store_cover": "https://www.your-mind.com/web/product/big/202605/ccacbd73bb0571dabe2253ef86e0ee84.png",
+      "cover": "https://www.your-mind.com/web/product/big/202605/ccacbd73bb0571dabe2253ef86e0ee84.png",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20%EC%99%84%EB%B2%BD%ED%95%98%EC%A7%80%20%EC%95%8A%EC%95%84%3A%20%EC%97%90%EC%9D%B4%EB%93%9C%EB%A6%AC%EC%96%B8%20%ED%86%A0%EB%AF%B8%EB%84%A4%20%EA%B0%81%EB%B3%B8%EC%A7%91%20%C2%B7%20%EC%97%90%EC%9D%B4%EB%93%9C%EB%A6%AC%EC%96%B8%20%ED%86%A0%EB%AF%B8%EB%84%A4"
     },
     {
       "title": "[4차 입고] 멜버른의 커피 · 후루룩",
@@ -1812,17 +1812,108 @@
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%84%B8%EB%B2%88%EC%A7%B8%20%EC%84%9C%EC%88%A0%EC%9E%90%20The%20Third%20Narrator"
     },
     {
+      "title": "서울 100경",
+      "store": "땡스북스",
+      "section": "금주의 책",
+      "publisher": "김병진일러스트레이션제작소",
+      "author": "김병진",
+      "week": "2026년 8월 24일 ~ 8월 30일",
+      "tb_page": "http://thanksbooks.com/site/thanksbooks/index.php/selection/weeklttb2026/",
+      "store_cover": "",
+      "cover": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791140719983.jpg",
+      "buy_link": "https://product.kyobobook.co.kr/detail/S000220988378",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%84%9C%EC%9A%B8%20100%EA%B2%BD"
+    },
+    {
       "title": "아무튼, 사주",
       "store": "땡스북스",
       "section": "금주의 책",
       "publisher": "제철소",
       "author": "정홍칼리",
-      "week": "2026년 8월 17일 ~ 8월 23일",
+      "week": "2026년 8월 24일 ~ 8월 30일",
       "tb_page": "http://thanksbooks.com/site/thanksbooks/index.php/selection/weeklttb2026/",
       "store_cover": "",
       "cover": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791188343966.jpg",
       "buy_link": "https://product.kyobobook.co.kr/detail/S000220860817",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%95%84%EB%AC%B4%ED%8A%BC%2C%20%EC%82%AC%EC%A3%BC"
+    },
+    {
+      "title": "미디엄 핫: 발열 시대의 이미지",
+      "store": "땡스북스",
+      "section": "금주의 책",
+      "publisher": "워크룸프레스",
+      "author": "히토 슈타이얼, 이계성 역",
+      "week": "2026년 8월 24일 ~ 8월 30일",
+      "tb_page": "http://thanksbooks.com/site/thanksbooks/index.php/selection/weeklttb2026/",
+      "store_cover": "",
+      "cover": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791194232384.jpg",
+      "buy_link": "https://product.kyobobook.co.kr/detail/S000220177927",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EB%AF%B8%EB%94%94%EC%97%84%20%ED%95%AB%3A%20%EB%B0%9C%EC%97%B4%20%EC%8B%9C%EB%8C%80%EC%9D%98%20%EC%9D%B4%EB%AF%B8%EC%A7%80"
+    },
+    {
+      "title": "사고외주",
+      "store": "땡스북스",
+      "section": "금주의 책",
+      "publisher": "어크로스",
+      "author": "홍진기",
+      "week": "2026년 8월 24일 ~ 8월 30일",
+      "tb_page": "http://thanksbooks.com/site/thanksbooks/index.php/selection/weeklttb2026/",
+      "store_cover": "",
+      "cover": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791167743091.jpg",
+      "buy_link": "https://product.kyobobook.co.kr/detail/S000220293112",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%82%AC%EA%B3%A0%EC%99%B8%EC%A3%BC"
+    },
+    {
+      "title": "그랬다고 적었다(동네서점 에디션)",
+      "store": "땡스북스",
+      "section": "금주의 책",
+      "publisher": "문학동네",
+      "author": "김애란",
+      "week": "2026년 8월 24일 ~ 8월 30일",
+      "tb_page": "http://thanksbooks.com/site/thanksbooks/index.php/selection/weeklttb2026/",
+      "store_cover": "",
+      "cover": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791141618575.jpg",
+      "buy_link": "https://product.kyobobook.co.kr/detail/S000220843924",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EA%B7%B8%EB%9E%AC%EB%8B%A4%EA%B3%A0%20%EC%A0%81%EC%97%88%EB%8B%A4%28%EB%8F%99%EB%84%A4%EC%84%9C%EC%A0%90%20%EC%97%90%EB%94%94%EC%85%98%29"
+    },
+    {
+      "title": "자화상",
+      "store": "땡스북스",
+      "section": "금주의 책",
+      "publisher": "은행나무",
+      "author": "에두아르 르베, 정영문 역",
+      "week": "2026년 8월 24일 ~ 8월 30일",
+      "tb_page": "http://thanksbooks.com/site/thanksbooks/index.php/selection/weeklttb2026/",
+      "store_cover": "",
+      "cover": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791167376701.jpg",
+      "buy_link": "https://product.kyobobook.co.kr/detail/S000220734627",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%9E%90%ED%99%94%EC%83%81"
+    },
+    {
+      "title": "아주 먼 산책",
+      "store": "땡스북스",
+      "section": "금주의 책",
+      "publisher": "흐름출판",
+      "author": "최수향",
+      "week": "2026년 8월 24일 ~ 8월 30일",
+      "tb_page": "http://thanksbooks.com/site/thanksbooks/index.php/selection/weeklttb2026/",
+      "store_cover": "",
+      "cover": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788965968511.jpg",
+      "buy_link": "https://product.kyobobook.co.kr/detail/S000220783484",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%95%84%EC%A3%BC%20%EB%A8%BC%20%EC%82%B0%EC%B1%85"
+    },
+    {
+      "title": "내 손으로, 치앙마이(개정증보판)",
+      "store": "땡스북스",
+      "section": "금주의 책",
+      "publisher": "반비",
+      "author": "이다",
+      "week": "2026년 8월 24일 ~ 8월 30일",
+      "tb_page": "http://thanksbooks.com/site/thanksbooks/index.php/selection/weeklttb2026/",
+      "store_cover": "",
+      "cover": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791124336861.jpg",
+      "buy_link": "https://product.kyobobook.co.kr/detail/S000220362733",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EB%82%B4%20%EC%86%90%EC%9C%BC%EB%A1%9C%2C%20%EC%B9%98%EC%95%99%EB%A7%88%EC%9D%B4%28%EA%B0%9C%EC%A0%95%EC%A6%9D%EB%B3%B4%ED%8C%90%29"
     },
     {
       "title": "울음바다",
@@ -1836,19 +1927,6 @@
       "cover": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791185695563.jpg",
       "buy_link": "https://product.kyobobook.co.kr/detail/S000220663870",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%9A%B8%EC%9D%8C%EB%B0%94%EB%8B%A4"
-    },
-    {
-      "title": "사고외주",
-      "store": "땡스북스",
-      "section": "금주의 책",
-      "publisher": "어크로스",
-      "author": "홍진기",
-      "week": "2026년 8월 17일 ~ 8월 23일",
-      "tb_page": "http://thanksbooks.com/site/thanksbooks/index.php/selection/weeklttb2026/",
-      "store_cover": "",
-      "cover": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791167743091.jpg",
-      "buy_link": "https://product.kyobobook.co.kr/detail/S000220293112",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%82%AC%EA%B3%A0%EC%99%B8%EC%A3%BC"
     },
     {
       "title": "잘 우는 사람이 되고 싶어",
@@ -1877,19 +1955,6 @@
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EA%B0%90%EC%A0%95%20%EC%B1%84%EA%B5%B4"
     },
     {
-      "title": "그랬다고 적었다(동네서점 에디션)",
-      "store": "땡스북스",
-      "section": "금주의 책",
-      "publisher": "문학동네",
-      "author": "김애란",
-      "week": "2026년 8월 17일 ~ 8월 23일",
-      "tb_page": "http://thanksbooks.com/site/thanksbooks/index.php/selection/weeklttb2026/",
-      "store_cover": "",
-      "cover": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791141618575.jpg",
-      "buy_link": "https://product.kyobobook.co.kr/detail/S000220843924",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EA%B7%B8%EB%9E%AC%EB%8B%A4%EA%B3%A0%20%EC%A0%81%EC%97%88%EB%8B%A4%28%EB%8F%99%EB%84%A4%EC%84%9C%EC%A0%90%20%EC%97%90%EB%94%94%EC%85%98%29"
-    },
-    {
       "title": "사랑과 안정",
       "store": "땡스북스",
       "section": "금주의 책",
@@ -1901,19 +1966,6 @@
       "cover": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791172134624.jpg",
       "buy_link": "https://product.kyobobook.co.kr/detail/S000220860160",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%82%AC%EB%9E%91%EA%B3%BC%20%EC%95%88%EC%A0%95"
-    },
-    {
-      "title": "내 손으로, 치앙마이(개정증보판)",
-      "store": "땡스북스",
-      "section": "금주의 책",
-      "publisher": "반비",
-      "author": "이다",
-      "week": "2026년 8월 17일 ~ 8월 23일",
-      "tb_page": "http://thanksbooks.com/site/thanksbooks/index.php/selection/weeklttb2026/",
-      "store_cover": "",
-      "cover": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791124336861.jpg",
-      "buy_link": "https://product.kyobobook.co.kr/detail/S000220362733",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EB%82%B4%20%EC%86%90%EC%9C%BC%EB%A1%9C%2C%20%EC%B9%98%EC%95%99%EB%A7%88%EC%9D%B4%28%EA%B0%9C%EC%A0%95%EC%A6%9D%EB%B3%B4%ED%8C%90%29"
     },
     {
       "title": "여름, 커피",
@@ -2018,58 +2070,6 @@
       "cover": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791190314497.jpg",
       "buy_link": "https://product.kyobobook.co.kr/detail/S000220428030",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EA%B3%A0%EC%96%91%EC%9D%B4%EC%9D%98%20%EB%85%B8%EB%9E%98"
-    },
-    {
-      "title": "우리는 사랑하기 좋은 팔을 가졌구나(한지 에디션)",
-      "store": "땡스북스",
-      "section": "금주의 책",
-      "publisher": "민음사",
-      "author": "",
-      "week": "2026년 7월 27일 ~ 8월 2일",
-      "tb_page": "http://thanksbooks.com/site/thanksbooks/index.php/selection/weeklttb2026/",
-      "store_cover": "",
-      "cover": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791191347975.jpg",
-      "buy_link": "https://product.kyobobook.co.kr/detail/S000061451366",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%9A%B0%EB%A6%AC%EB%8A%94%20%EC%82%AC%EB%9E%91%ED%95%98%EA%B8%B0%20%EC%A2%8B%EC%9D%80%20%ED%8C%94%EC%9D%84%20%EA%B0%80%EC%A1%8C%EA%B5%AC%EB%82%98%28%ED%95%9C%EC%A7%80%20%EC%97%90%EB%94%94%EC%85%98%29"
-    },
-    {
-      "title": "만화의 발명을",
-      "store": "땡스북스",
-      "section": "금주의 책",
-      "publisher": "워크룸 프레스",
-      "author": "에이키 엑스너, 오혁진 역",
-      "week": "2026년 7월 27일 ~ 8월 2일",
-      "tb_page": "http://thanksbooks.com/site/thanksbooks/index.php/selection/weeklttb2026/",
-      "store_cover": "",
-      "cover": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791194232421.jpg",
-      "buy_link": "https://product.kyobobook.co.kr/detail/S000220363603",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EB%A7%8C%ED%99%94%EC%9D%98%20%EB%B0%9C%EB%AA%85%EC%9D%84"
-    },
-    {
-      "title": "첫사랑",
-      "store": "땡스북스",
-      "section": "금주의 책",
-      "publisher": "위즈덤하우스",
-      "author": "이반 투르게네프, 박정은 역",
-      "week": "2026년 7월 27일 ~ 8월 2일",
-      "tb_page": "http://thanksbooks.com/site/thanksbooks/index.php/selection/weeklttb2026/",
-      "store_cover": "",
-      "cover": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791175910928.jpg",
-      "buy_link": "https://product.kyobobook.co.kr/detail/S000220363304",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%B2%AB%EC%82%AC%EB%9E%91"
-    },
-    {
-      "title": "읽고 읽고 말하다",
-      "store": "땡스북스",
-      "section": "금주의 책",
-      "publisher": "현암사",
-      "author": "아사쿠라 가스미, 전화윤 역",
-      "week": "2026년 7월 27일 ~ 8월 2일",
-      "tb_page": "http://thanksbooks.com/site/thanksbooks/index.php/selection/weeklttb2026/",
-      "store_cover": "",
-      "cover": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788932325002.jpg",
-      "buy_link": "https://product.kyobobook.co.kr/detail/S000220588946",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%9D%BD%EA%B3%A0%20%EC%9D%BD%EA%B3%A0%20%EB%A7%90%ED%95%98%EB%8B%A4"
     },
     {
       "title": "나만 아는 단어",
@@ -2270,10 +2270,10 @@
   "errors": [],
   "total": 236,
   "stores_attempted": [
-    "사적인서점",
-    "유어마인드",
     "북앤스페이스",
+    "고요서사",
     "소심한책방",
-    "고요서사"
+    "유어마인드",
+    "사적인서점"
   ]
 }
