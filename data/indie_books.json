@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-01T08:01:49.643800+09:00",
-  "today": "2026-09-01",
+  "updated_at": "2026-09-02T08:01:59.069286+09:00",
+  "today": "2026-09-02",
   "books": [
     {
       "title": "나비꿈 · 하호하호",
@@ -2093,8 +2093,8 @@
       "paper_no": "655",
       "tb_page": "http://thanksbooks.com/site/thanksbooks/index.php/selection/tp-2026/",
       "store_cover": "",
-      "cover": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791143600523.jpg",
-      "buy_link": "https://product.kyobobook.co.kr/detail/S000219976174",
+      "cover": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791173166877.jpg",
+      "buy_link": "https://product.kyobobook.co.kr/detail/S000218191485",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EB%8B%B4%EB%B2%BC%EB%9D%BD%20%EC%82%B0%EC%B1%85"
     },
     {
@@ -2270,10 +2270,10 @@
   "errors": [],
   "total": 236,
   "stores_attempted": [
-    "북앤스페이스",
     "고요서사",
-    "소심한책방",
+    "북앤스페이스",
     "유어마인드",
-    "사적인서점"
+    "사적인서점",
+    "소심한책방"
   ]
 }
