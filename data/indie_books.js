@@ -1,6 +1,6 @@
 window.__INDIE_BOOKS_DATA__ = {
-  "updated_at": "2026-09-02T08:01:59.069286+09:00",
-  "today": "2026-09-02",
+  "updated_at": "2026-09-03T08:02:37.411234+09:00",
+  "today": "2026-09-03",
   "books": [
     {
       "title": "나비꿈 · 하호하호",
@@ -66,15 +66,6 @@ window.__INDIE_BOOKS_DATA__ = {
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%A0%9C1%EA%B0%95%3A%20%EA%B1%B0%EC%A0%88%ED%95%98%EB%8A%94%20%EB%B0%A9%EB%B2%95%20%C2%B7%20%EA%B0%95%EC%9C%A4%EC%A7%80"
     },
     {
-      "title": "Pigeon Headshot · Bird Pit",
-      "store": "유어마인드",
-      "section": "BOOKS",
-      "store_link": "https://www.your-mind.com/product/pigeon-headshot-·-bird-pit/6175/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202608/feaa1b213f61f2384ee9e3cc572ca967.png",
-      "cover": "https://www.your-mind.com/web/product/big/202608/feaa1b213f61f2384ee9e3cc572ca967.png",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=Pigeon%20Headshot%20%C2%B7%20Bird%20Pit"
-    },
-    {
       "title": "Mocking Birds · Bird Pit",
       "store": "유어마인드",
       "section": "BOOKS",
@@ -100,15 +91,6 @@ window.__INDIE_BOOKS_DATA__ = {
       "store_cover": "https://www.your-mind.com/web/product/big/202608/57270ee9731496f61c47489358f80733.png",
       "cover": "https://www.your-mind.com/web/product/big/202608/57270ee9731496f61c47489358f80733.png",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20%EC%A0%80%20%ED%91%B8%EB%A5%B8%20%EC%B4%88%EC%9B%90%20%EC%9C%84%EC%97%90%20%EA%B7%B8%EB%A6%BC%20%EA%B0%99%EC%9D%80%20%EC%A7%91%EC%9D%84%20%EC%A7%93%EA%B3%A0%E2%80%A8%20%C2%B7%20%EA%B9%80%EC%9C%A0%EB%B9%88%2C%20%EC%9D%B4%EC%A3%BC%EC%9D%80"
-    },
-    {
-      "title": "[4차 입고] 여름조각집 · 파과",
-      "store": "유어마인드",
-      "section": "BOOKS",
-      "store_link": "https://www.your-mind.com/product/4차-입고-여름조각집-·-파과/6164/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202608/a524ffc1d54352f66da28e66218c85ef.png",
-      "cover": "https://www.your-mind.com/web/product/big/202608/a524ffc1d54352f66da28e66218c85ef.png",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B4%EC%B0%A8%20%EC%9E%85%EA%B3%A0%5D%20%EC%97%AC%EB%A6%84%EC%A1%B0%EA%B0%81%EC%A7%91%20%C2%B7%20%ED%8C%8C%EA%B3%BC"
     },
     {
       "title": "Patterns · 강유라",
@@ -246,22 +228,13 @@ window.__INDIE_BOOKS_DATA__ = {
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20CAT%20CODE%20%C2%B7%20%EB%85%B8%EB%A7%90%EC%97%90%EC%9D%B4"
     },
     {
-      "title": "[재입고] Play Pocket · 이지영",
+      "title": "[3차 입고] 완벽하지 않아: 에이드리언 토미네 각본집 · 에이드리언 토미네",
       "store": "유어마인드",
       "section": "BOOKS",
-      "store_link": "https://www.your-mind.com/product/재입고-play-pocket-·-이지영/5992/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202605/29f33d1d6a84b588d2b94c6a0883955c.png",
-      "cover": "https://www.your-mind.com/web/product/big/202605/29f33d1d6a84b588d2b94c6a0883955c.png",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20Play%20Pocket%20%C2%B7%20%EC%9D%B4%EC%A7%80%EC%98%81"
-    },
-    {
-      "title": "[재입고] 완벽하지 않아: 에이드리언 토미네 각본집 · 에이드리언 토미네",
-      "store": "유어마인드",
-      "section": "BOOKS",
-      "store_link": "https://www.your-mind.com/product/재입고-완벽하지-않아-에이드리언-토미네-각본집-·-에이드리언-토미네/5989/category/27/display/1/",
+      "store_link": "https://www.your-mind.com/product/3차-입고-완벽하지-않아-에이드리언-토미네-각본집-·-에이드리언-토미네/5989/category/27/display/1/",
       "store_cover": "https://www.your-mind.com/web/product/big/202605/ccacbd73bb0571dabe2253ef86e0ee84.png",
       "cover": "https://www.your-mind.com/web/product/big/202605/ccacbd73bb0571dabe2253ef86e0ee84.png",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20%EC%99%84%EB%B2%BD%ED%95%98%EC%A7%80%20%EC%95%8A%EC%95%84%3A%20%EC%97%90%EC%9D%B4%EB%93%9C%EB%A6%AC%EC%96%B8%20%ED%86%A0%EB%AF%B8%EB%84%A4%20%EA%B0%81%EB%B3%B8%EC%A7%91%20%C2%B7%20%EC%97%90%EC%9D%B4%EB%93%9C%EB%A6%AC%EC%96%B8%20%ED%86%A0%EB%AF%B8%EB%84%A4"
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B3%EC%B0%A8%20%EC%9E%85%EA%B3%A0%5D%20%EC%99%84%EB%B2%BD%ED%95%98%EC%A7%80%20%EC%95%8A%EC%95%84%3A%20%EC%97%90%EC%9D%B4%EB%93%9C%EB%A6%AC%EC%96%B8%20%ED%86%A0%EB%AF%B8%EB%84%A4%20%EA%B0%81%EB%B3%B8%EC%A7%91%20%C2%B7%20%EC%97%90%EC%9D%B4%EB%93%9C%EB%A6%AC%EC%96%B8%20%ED%86%A0%EB%AF%B8%EB%84%A4"
     },
     {
       "title": "[4차 입고] 멜버른의 커피 · 후루룩",
@@ -271,6 +244,33 @@ window.__INDIE_BOOKS_DATA__ = {
       "store_cover": "https://www.your-mind.com/web/product/big/202605/0ff63f021d986da5bcd721820dda3e4c.png",
       "cover": "https://www.your-mind.com/web/product/big/202605/0ff63f021d986da5bcd721820dda3e4c.png",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B4%EC%B0%A8%20%EC%9E%85%EA%B3%A0%5D%20%EB%A9%9C%EB%B2%84%EB%A5%B8%EC%9D%98%20%EC%BB%A4%ED%94%BC%20%C2%B7%20%ED%9B%84%EB%A3%A8%EB%A3%A9"
+    },
+    {
+      "title": "음악의 사생활99: 2008년 유완무(얄개들) · 유완무, 심규태",
+      "store": "유어마인드",
+      "section": "BOOKS",
+      "store_link": "https://www.your-mind.com/product/음악의-사생활99-2008년-유완무얄개들-·-유완무-심규태/5983/category/27/display/1/",
+      "store_cover": "https://www.your-mind.com/web/product/big/202604/4f5e0f2d1b2090ef1e295c93d0542a86.png",
+      "cover": "https://www.your-mind.com/web/product/big/202604/4f5e0f2d1b2090ef1e295c93d0542a86.png",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%9D%8C%EC%95%85%EC%9D%98%20%EC%82%AC%EC%83%9D%ED%99%9C99%3A%202008%EB%85%84%20%EC%9C%A0%EC%99%84%EB%AC%B4%28%EC%96%84%EA%B0%9C%EB%93%A4%29%20%C2%B7%20%EC%9C%A0%EC%99%84%EB%AC%B4%2C%20%EC%8B%AC%EA%B7%9C%ED%83%9C"
+    },
+    {
+      "title": "[재입고] Me and Tove and a lot of books · 류은지",
+      "store": "유어마인드",
+      "section": "BOOKS",
+      "store_link": "https://www.your-mind.com/product/재입고-me-and-tove-and-a-lot-of-books-·-류은지/5975/category/27/display/1/",
+      "store_cover": "https://www.your-mind.com/web/product/big/202604/8efbe4fa5d9b39bf0f6ed7342006f99f.png",
+      "cover": "https://www.your-mind.com/web/product/big/202604/8efbe4fa5d9b39bf0f6ed7342006f99f.png",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20Me%20and%20Tove%20and%20a%20lot%20of%20books%20%C2%B7%20%EB%A5%98%EC%9D%80%EC%A7%80"
+    },
+    {
+      "title": "[재입고] Carnet de dessin · 류은지",
+      "store": "유어마인드",
+      "section": "BOOKS",
+      "store_link": "https://www.your-mind.com/product/재입고-carnet-de-dessin-·-류은지/5974/category/27/display/1/",
+      "store_cover": "https://www.your-mind.com/web/product/big/202604/0d2299809f787814410f7ae5f5342e3c.png",
+      "cover": "https://www.your-mind.com/web/product/big/202604/0d2299809f787814410f7ae5f5342e3c.png",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20Carnet%20de%20dessin%20%C2%B7%20%EB%A5%98%EC%9D%80%EC%A7%80"
     },
     {
       "title": "내 아들의 연인 (만춘서점 특별판)",
@@ -1560,15 +1560,6 @@ window.__INDIE_BOOKS_DATA__ = {
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B5%EC%B0%A8%20%EC%9E%85%EA%B3%A0%5D%20The%20Most%20Beautiful%20Swiss%20Books%202023"
     },
     {
-      "title": "[3차 입고] 큐레이팅의 교육적 전환",
-      "store": "더북소사이어티",
-      "section": "큐레이션",
-      "store_link": "https://thebooksociety.org/shop_view/?idx=445",
-      "store_cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/251f65db2d9e2.jpg?w=800",
-      "cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/251f65db2d9e2.jpg?w=800",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B3%EC%B0%A8%20%EC%9E%85%EA%B3%A0%5D%20%ED%81%90%EB%A0%88%EC%9D%B4%ED%8C%85%EC%9D%98%20%EA%B5%90%EC%9C%A1%EC%A0%81%20%EC%A0%84%ED%99%98"
-    },
-    {
       "title": "Liminal Figures",
       "store": "더북소사이어티",
       "section": "큐레이션",
@@ -1810,6 +1801,15 @@ window.__INDIE_BOOKS_DATA__ = {
       "store_cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/5bb29eeb73633.png?w=800",
       "cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/5bb29eeb73633.png?w=800",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%84%B8%EB%B2%88%EC%A7%B8%20%EC%84%9C%EC%88%A0%EC%9E%90%20The%20Third%20Narrator"
+    },
+    {
+      "title": "다폰트 내 사랑",
+      "store": "더북소사이어티",
+      "section": "큐레이션",
+      "store_link": "https://thebooksociety.org/shop_view/?idx=1306",
+      "store_cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/0485031b300f0.png?w=800",
+      "cover": "https://cdn-optimized.imweb.me/upload/S2021011413c7a0132b914/0485031b300f0.png?w=800",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EB%8B%A4%ED%8F%B0%ED%8A%B8%20%EB%82%B4%20%EC%82%AC%EB%9E%91"
     },
     {
       "title": "서울 100경",
@@ -2249,8 +2249,8 @@ window.__INDIE_BOOKS_DATA__ = {
       "paper_no": "638",
       "tb_page": "http://thanksbooks.com/site/thanksbooks/index.php/selection/tp-2026/",
       "store_cover": "",
+      "cover": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791199312784.jpg",
       "buy_link": "https://product.kyobobook.co.kr/detail/S000219545349",
-      "cover": "",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%88%98%EC%83%81%ED%95%A0%20%EB%A7%8C%ED%81%BC%20%EC%99%84%EB%B2%BD%ED%95%9C%20%EA%B2%B0%ED%98%BC%EC%8B%9D"
     },
     {
@@ -2270,10 +2270,10 @@ window.__INDIE_BOOKS_DATA__ = {
   "errors": [],
   "total": 236,
   "stores_attempted": [
+    "소심한책방",
     "고요서사",
-    "북앤스페이스",
-    "유어마인드",
     "사적인서점",
-    "소심한책방"
+    "유어마인드",
+    "북앤스페이스"
   ]
 };

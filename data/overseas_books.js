@@ -1,7 +1,29 @@
 window.__OVERSEAS_BOOKS_DATA__ = {
-  "updated_at": "2026-09-02T08:02:14.809352+09:00",
-  "today": "2026-09-02",
+  "updated_at": "2026-09-03T08:02:53.597806+09:00",
+  "today": "2026-09-03",
   "books": [
+    {
+      "title": "Creative Review - Autumn 2026",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Creative Review",
+      "store_cover": "",
+      "store_link": "https://www.doyoureadme.de/products/creative-review-autumn-2026",
+      "published_at": "2026-09-02T12:19:48+02:00",
+      "cover": ""
+    },
+    {
+      "title": "Catalyst Vol. 10 1/2026",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "Catalyst Magazine",
+      "store_cover": "",
+      "store_link": "https://www.doyoureadme.de/products/catalyst-vol-10-1-2026",
+      "published_at": "2026-09-02T12:13:46+02:00",
+      "cover": ""
+    },
     {
       "title": "Speculative Ecology - Claire Colebrook",
       "store": "Do you read me?!",
@@ -199,28 +221,6 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "store_link": "https://www.doyoureadme.de/products/spaces-lin-labfac-finn-geipel-architecture-and-urbanism-1985-2025",
       "published_at": "2026-08-27T12:18:45+02:00",
       "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Spaces-LIN-LABFAC-Finn-Geipel---Architecture-and-Urbanism-1985_2025.jpg?v=1787825051"
-    },
-    {
-      "title": "The Wire #511 Sept. 2026",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "The Wire",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/The-Wire-511-Sept.-2026.jpg?v=1787825050",
-      "store_link": "https://www.doyoureadme.de/products/the-wire-511-sept-2026",
-      "published_at": "2026-08-27T12:17:19+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/The-Wire-511-Sept.-2026.jpg?v=1787825050"
-    },
-    {
-      "title": "Rouleur #145 2026",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Rouleur",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Rouleur-145-2026.jpg?v=1787825050",
-      "store_link": "https://www.doyoureadme.de/products/rouleur-145-2026",
-      "published_at": "2026-08-27T12:15:47+02:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Rouleur-145-2026.jpg?v=1787825050"
     },
     {
       "title": "Mountain Black Heart by Irina Rozovsky",
