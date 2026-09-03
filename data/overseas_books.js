@@ -1,6 +1,6 @@
 window.__OVERSEAS_BOOKS_DATA__ = {
-  "updated_at": "2026-09-03T08:02:53.597806+09:00",
-  "today": "2026-09-03",
+  "updated_at": "2026-09-04T08:02:40.978108+09:00",
+  "today": "2026-09-04",
   "books": [
     {
       "title": "Creative Review - Autumn 2026",
@@ -44,17 +44,6 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "store_cover": "",
       "store_link": "https://www.doyoureadme.de/products/you-have-a-new-memory-kate-rhodes-rory-hyde",
       "published_at": "2026-08-31T15:23:26+02:00",
-      "cover": ""
-    },
-    {
-      "title": "Consent, A Reader",
-      "store": "Do you read me?!",
-      "city": "베를린",
-      "section": "잡지·아트북",
-      "author": "Perimeter Editions",
-      "store_cover": "",
-      "store_link": "https://www.doyoureadme.de/products/consent-a-reader",
-      "published_at": "2026-08-31T14:53:33+02:00",
       "cover": ""
     },
     {
@@ -221,6 +210,17 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "store_link": "https://www.doyoureadme.de/products/spaces-lin-labfac-finn-geipel-architecture-and-urbanism-1985-2025",
       "published_at": "2026-08-27T12:18:45+02:00",
       "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/Spaces-LIN-LABFAC-Finn-Geipel---Architecture-and-Urbanism-1985_2025.jpg?v=1787825051"
+    },
+    {
+      "title": "The Wire #511 Sept. 2026",
+      "store": "Do you read me?!",
+      "city": "베를린",
+      "section": "잡지·아트북",
+      "author": "The Wire",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/The-Wire-511-Sept.-2026.jpg?v=1787825050",
+      "store_link": "https://www.doyoureadme.de/products/the-wire-511-sept-2026",
+      "published_at": "2026-08-27T12:17:19+02:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0726/7500/0664/files/The-Wire-511-Sept.-2026.jpg?v=1787825050"
     },
     {
       "title": "Mountain Black Heart by Irina Rozovsky",
@@ -443,6 +443,94 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "cover": "https://cdn.shopify.com/s/files/1/0221/7340/files/IMG_4367.heic?v=1781453915"
     },
     {
+      "title": "Replica Man #16",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-09-03174308.png?v=1788453975",
+      "store_link": "https://magmabooks.com/products/replica-man-15-copy",
+      "published_at": "2026-09-03T17:48:38+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-09-03174308.png?v=1788453975"
+    },
+    {
+      "title": "Almighty God Art Works",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-09-03172624.png?v=1788453259",
+      "store_link": "https://magmabooks.com/products/i-am-the-jug-you-are-the-glass-copy",
+      "published_at": "2026-09-03T17:35:21+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-09-03172624.png?v=1788453259"
+    },
+    {
+      "title": "ECAL – A Typographic Atlas",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-09-03171812.png?v=1788452655",
+      "store_link": "https://magmabooks.com/products/supernew-supergraphics-copy",
+      "published_at": "2026-09-03T17:25:27+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-09-03171812.png?v=1788452655"
+    },
+    {
+      "title": "SHICHITA Cat Mini Plate Set",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/71L0HPtXo-L._AC_UF894_1000_QL80.jpg?v=1763050211",
+      "store_link": "https://magmabooks.com/products/push-mini-copy",
+      "published_at": "2026-09-03T16:16:15+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/71L0HPtXo-L._AC_UF894_1000_QL80.jpg?v=1763050211"
+    },
+    {
+      "title": "A Toolkit for Gathering",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-03-19at14-29-07atoolkitforgathering-GoogleSearch.png?v=1773930562",
+      "store_link": "https://magmabooks.com/products/a-toolkit-for-gathering",
+      "published_at": "2026-09-03T16:08:13+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-03-19at14-29-07atoolkitforgathering-GoogleSearch.png?v=1773930562"
+    },
+    {
+      "title": "Blumenhaus #4",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/mockup-cover-front-issue4.jpg?v=1697464476",
+      "store_link": "https://magmabooks.com/products/blumenhaus-4",
+      "published_at": "2026-09-03T13:27:45+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/mockup-cover-front-issue4.jpg?v=1697464476"
+    },
+    {
+      "title": "Princess Diana As Mushrooms Vol I",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2024-07-11at14-42-20LuluWilliams_luluwilliams__Instagramphotosandvideos.png?v=1720705501",
+      "store_link": "https://magmabooks.com/products/princess-diana-as-mushrooms-1",
+      "published_at": "2026-09-03T13:17:14+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2024-07-11at14-42-20LuluWilliams_luluwilliams__Instagramphotosandvideos.png?v=1720705501"
+    },
+    {
+      "title": "Princess Diana As Mushrooms Vol II",
+      "store": "Magma Books",
+      "city": "런던",
+      "section": "디자인·아트",
+      "author": "Different than Magma",
+      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot_2024-07-11_at_14-26-17_Princess_Diana_as_Mushrooms_Volume_II_Presse_Books.png?v=1720705041",
+      "store_link": "https://magmabooks.com/products/princess-diana-as-mushrooms",
+      "published_at": "2026-09-03T13:16:28+01:00",
+      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot_2024-07-11_at_14-26-17_Princess_Diana_as_Mushrooms_Volume_II_Presse_Books.png?v=1720705041"
+    },
+    {
       "title": "White Rabbit Single Kiss Cut Vinyl Sticker",
       "store": "Magma Books",
       "city": "런던",
@@ -573,94 +661,6 @@ window.__OVERSEAS_BOOKS_DATA__ = {
       "store_link": "https://magmabooks.com/products/pink-pop-with-6-playful-pop-ups-copy",
       "published_at": "2026-08-28T11:49:08+01:00",
       "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-07-09at13-30-59Amazon.comSummerPopsUp_9781837292073PetitAuroreLibros.png?v=1783600299"
-    },
-    {
-      "title": "Let's Learn Japanese",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/products/Let_s-Learn-Japanese-9781452166254-cover.jpg?v=1604666800",
-      "store_link": "https://magmabooks.com/products/lets-learn-japanese-first-words-for-everyone",
-      "published_at": "2026-08-28T11:46:47+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/products/Let_s-Learn-Japanese-9781452166254-cover.jpg?v=1604666800"
-    },
-    {
-      "title": "Goodbye, Things: On Minimalist Living",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/71R_yo3S7SL._SL1500.jpg?v=1758105163",
-      "store_link": "https://magmabooks.com/products/goodbye-things-on-minimalist-living",
-      "published_at": "2026-08-27T17:38:58+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/71R_yo3S7SL._SL1500.jpg?v=1758105163"
-    },
-    {
-      "title": "Garde #1",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/359258-145061_1.webp?v=1787848268",
-      "store_link": "https://magmabooks.com/products/garde-1",
-      "published_at": "2026-08-27T17:37:51+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/359258-145061_1.webp?v=1787848268"
-    },
-    {
-      "title": "The Grand Tourist #2",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-08-27at17-17-43SHOPIFY_CROPS.jpg_JPEGImage823x658pixels.png?v=1787847477",
-      "store_link": "https://magmabooks.com/products/the-grand-tourist-2",
-      "published_at": "2026-08-27T17:24:03+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-08-27at17-17-43SHOPIFY_CROPS.jpg_JPEGImage823x658pixels.png?v=1787847477"
-    },
-    {
-      "title": "Enfnts Terribles #1",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/ETM_Magazine_cover-KIM-PETRAS-804x1024.jpg?v=1787846632",
-      "store_link": "https://magmabooks.com/products/enfnts-terribles-1",
-      "published_at": "2026-08-27T17:04:19+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/ETM_Magazine_cover-KIM-PETRAS-804x1024.jpg?v=1787846632"
-    },
-    {
-      "title": "Unexpected Guests",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-04-15153342.png?v=1776263892",
-      "store_link": "https://magmabooks.com/products/invisible-things-copy",
-      "published_at": "2026-08-26T11:24:55+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-04-15153342.png?v=1776263892"
-    },
-    {
-      "title": "The Great Nut Hunt",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-08-25125302.png?v=1787659028",
-      "store_link": "https://magmabooks.com/products/guessing-things-a-what-am-i-game-copy",
-      "published_at": "2026-08-25T12:59:48+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/Screenshot2026-08-25125302.png?v=1787659028"
-    },
-    {
-      "title": "Creative Review #Autumn 2026 The Leadership Issue",
-      "store": "Magma Books",
-      "city": "런던",
-      "section": "디자인·아트",
-      "author": "Different than Magma",
-      "store_cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/2822987.jpg?v=1787396993",
-      "store_link": "https://magmabooks.com/products/creative-review-autumn-2026-the-leadership-issue",
-      "published_at": "2026-08-22T12:10:51+01:00",
-      "cover": "https://cdn.shopify.com/s/files/1/0285/4760/files/2822987.jpg?v=1787396993"
     },
     {
       "title": "Mast Books Tote Bag",
