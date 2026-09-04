@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-04T08:02:23.094941+09:00",
-  "today": "2026-09-04",
+  "updated_at": "2026-09-05T08:02:42.803427+09:00",
+  "today": "2026-09-05",
   "books": [
     {
       "title": "나비꿈 · 하호하호",
@@ -109,6 +109,15 @@
       "store_cover": "https://www.your-mind.com/web/product/big/202608/a824054cc8eb5bdf5296f131ae53b559.png",
       "cover": "https://www.your-mind.com/web/product/big/202608/a824054cc8eb5bdf5296f131ae53b559.png",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%A7%A4%EC%AD%88%EB%A7%8C%ED%99%941%20%C2%B7%20%EC%83%88%EC%86%90"
+    },
+    {
+      "title": "[5차 입고] 여름조각집 · 파과",
+      "store": "유어마인드",
+      "section": "BOOKS",
+      "store_link": "https://www.your-mind.com/product/5차-입고-여름조각집-·-파과/6164/category/27/display/1/",
+      "store_cover": "https://www.your-mind.com/web/product/big/202608/a524ffc1d54352f66da28e66218c85ef.png",
+      "cover": "https://www.your-mind.com/web/product/big/202608/a524ffc1d54352f66da28e66218c85ef.png",
+      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B5%EC%B0%A8%20%EC%9E%85%EA%B3%A0%5D%20%EC%97%AC%EB%A6%84%EC%A1%B0%EA%B0%81%EC%A7%91%20%C2%B7%20%ED%8C%8C%EA%B3%BC"
     },
     {
       "title": "Patterns · 강유라",
@@ -235,15 +244,6 @@
       "store_cover": "https://www.your-mind.com/web/product/big/202605/2b990cd6332ffd35d6b0326f45d48f65.png",
       "cover": "https://www.your-mind.com/web/product/big/202605/2b990cd6332ffd35d6b0326f45d48f65.png",
       "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=Side%20Project-%EC%BD%B0%EC%95%BC%20%EC%84%B8%EB%9D%BC%EB%AF%B9%20%EC%9E%91%ED%92%88%EC%A7%91%20%C2%B7%20%EC%BD%B0%EC%95%BC"
-    },
-    {
-      "title": "[재입고] CAT CODE · 노말에이",
-      "store": "유어마인드",
-      "section": "BOOKS",
-      "store_link": "https://www.your-mind.com/product/재입고-cat-code-·-노말에이/5998/category/27/display/1/",
-      "store_cover": "https://www.your-mind.com/web/product/big/202605/5e7e0eb0fa0da1e51465f37b7048fb8b.png",
-      "cover": "https://www.your-mind.com/web/product/big/202605/5e7e0eb0fa0da1e51465f37b7048fb8b.png",
-      "aladin_search": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%5B%EC%9E%AC%EC%9E%85%EA%B3%A0%5D%20CAT%20CODE%20%C2%B7%20%EB%85%B8%EB%A7%90%EC%97%90%EC%9D%B4"
     },
     {
       "title": "[3차 입고] Play Pocket · 이지영",
@@ -2271,9 +2271,9 @@
   "total": 236,
   "stores_attempted": [
     "사적인서점",
+    "고요서사",
     "북앤스페이스",
     "소심한책방",
-    "유어마인드",
-    "고요서사"
+    "유어마인드"
   ]
 }
